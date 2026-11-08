@@ -1,0 +1,14 @@
+{
+  "databaseVersion": "1.5.0",
+  "versionCode": 3,
+  "releaseDate": "2026-11-08",
+  "description": "Sanitized mid-sentence newlines across questions, options, and listening transcripts. Enabled italic tag formatting.",
+  "files": [
+    "reading_passages.json",
+    "reading_answers.json",
+    "listening_conversations.json",
+    "listening_lectures.json",
+    "conv_answers.json",
+    "lec_answers.json"
+  ]
+}

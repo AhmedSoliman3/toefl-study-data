@@ -1,0 +1,4082 @@
+[
+  {
+    "id": "READ_01",
+    "code": "R01",
+    "title": "R01: Radar Set",
+    "topic": "Aviation & Technology",
+    "difficulty": "hard",
+    "passage": "A pilot cannot fly a plane by sight alone. In many conditions, such as flying at night and landing in dense fog, a pilot must use radar, an alternative way of navigating. Since human eyes are not very good at determining speeds of approaching objects, radar can show a pilot how fast nearby planes are moving. The basic principle of radar is exemplified by what happens when one shouts in a cave. The echo of the sounds against the walls helps a person determine the size of the cave. With radar, however, the waves are radio waves instead of sound waves. Radio waves travel at the speed of light, about 300,000 kilometers in one second. A radar set sends out a short burst of radiation waves. Then it receives the echoes produced when the waves bounce off objects. By determining the time it takes for the echoes to return to the radar set, a trained technician can determine the distance between the radar set and other objects. The word \"radar,\" in fact, gets its name from the term \"radio detection and ranging.\" \"Ranging\" is the term for detection of the distance between an object and the radar set. Besides being of critical importance to pilots, radar is essential for air traffic control, tracking ships at sea, and for tracking weather systems and storms.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the main topic of this passage?",
+        "options": {
+          "A": "the nature of radar",
+          "B": "types of ranging",
+          "C": "alternatives to radar",
+          "D": "history of radar"
+        }
+      },
+      {
+        "number": 2,
+        "text": "In line 2, the word <i>dense</i> could be replaced by",
+        "options": {
+          "A": "cold",
+          "B": "wet",
+          "C": "dark",
+          "D": "thick"
+        }
+      },
+      {
+        "number": 3,
+        "text": "According to the passage, what can radar detect besides location of objects?",
+        "options": {
+          "A": "size",
+          "B": "weight",
+          "C": "speed",
+          "D": "shape"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The word <i>shouts</i> in line 8 is most similar in meaning to which of the following?",
+        "options": {
+          "A": "eavesdrops",
+          "B": "yells",
+          "C": "confesses",
+          "D": "whispers"
+        }
+      },
+      {
+        "number": 5,
+        "text": "Which of the following words best describes the tone of this passage?",
+        "options": {
+          "A": "argumentative",
+          "B": "imaginative",
+          "C": "explanatory",
+          "D": "humorous"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The phrase <i>a burst</i> in line 13 is closest in meaning in which of the following?",
+        "options": {
+          "A": "an attachment",
+          "B": "a discharge",
+          "C": "a stream",
+          "D": "a ray"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word <i>it</i> in line 13 refers to which of the following?",
+        "options": {
+          "A": "a radar set",
+          "B": "a short burst",
+          "C": "a radiation wave",
+          "D": "light"
+        }
+      },
+      {
+        "number": 8,
+        "text": "the word <i>bounce</i> in line 13?",
+        "options": {
+          "A": "overturn",
+          "B": "groove",
+          "C": "extend",
+          "D": "rebound"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Which type of waves does radar use?",
+        "options": {
+          "A": "sound",
+          "B": "heat",
+          "C": "radio",
+          "D": "light"
+        }
+      },
+      {
+        "number": 10,
+        "text": "What might be inferred about radar?",
+        "options": {
+          "A": "It takes the place of a radio.",
+          "B": "It gave birth to the invention of the airplane.",
+          "C": "It developed from a study of sound waves.",
+          "D": "It has improved navigational safety."
+        }
+      },
+      {
+        "number": 11,
+        "text": "The word <i>tracking</i> in line 20 is closest in meaning to which of the following?",
+        "options": {
+          "A": "repairing",
+          "B": "searching for",
+          "C": "glancing at",
+          "D": "fighting"
+        }
+      },
+      {
+        "number": 12,
+        "text": "Which of the follo wing would most likely be the topic of the next paragraph?",
+        "options": {
+          "A": "other uses of radar",
+          "B": "uses of sonar technology",
+          "C": "other technology used by pilots",
+          "D": "a history of flying"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_02",
+    "code": "R02",
+    "title": "R02: Horses Owners",
+    "topic": "Biology & Zoology",
+    "difficulty": "medium",
+    "passage": "Horse owners who plan to breed one or more mares should have a working knowledge of heredity and know how to care for breeding animals and foals. The number of mares bred that actually conceive varies from about 40 to 85 percent, with the average running less than 50 percent. Some mares that do conceive fail to produce living foals. This means that, on average, two mares are kept a whole year to produce one foal, and even then, some foals are disappointments from the standpoint of quality. By careful selection, breeders throughout history have developed variou s kinds of horses with a wide variety of characteristics to suit many different needs. The Great Horse of the middle Ages, for example, was bred for size and strength to carry a heavily armored knight. The massive horses of such breeds are often called \"cold-blooded.\" The Arabs bred lithe desert horses that were small and swift. These animals are often referred to as \"hot blooded\". Cross -breeding of hot-blooded and cold blooded horses for certain characteristics produced breeds ranging from riding horses to draft horses. The Thoroughbred is considered by many to be the highpoint of elegance and fine selective breeding. Many persons mistakenly apply the name Thoroughbred to any purebred horse. But a Thoroughbred is a distinct breed of running horses that traces its ancestry through the male line directly back to three Eastern stallions: the Byerly Turk, the Darley Arabian, and the Godolphin Barb. For convenience the breeds of horses are often divided into three major groups: (1) Ponies, (2) Heavy, or draft horses, and (3) Light horses.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following is not an example of an Eastern stallion?",
+        "options": {
+          "A": "Byerly Turk",
+          "B": "Darley Arabian",
+          "C": "Thoroughbred",
+          "D": "Godolphin Barb"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following was NOT a characteristic of the Great Horse of the middle Ages?",
+        "options": {
+          "A": "Large size",
+          "B": "Swiftness",
+          "C": "Strength",
+          "D": "\"Cold-bloodedness\""
+        }
+      },
+      {
+        "number": 3,
+        "text": "In line 11, \"lithe\" most nearly means",
+        "options": {
+          "A": "graceful.",
+          "B": "clumsy.",
+          "C": "massive.",
+          "D": "bulky."
+        }
+      },
+      {
+        "number": 4,
+        "text": "It can be inferred from the passage that cold-blooded and hot-blooded horses were cross -bred for what reason?",
+        "options": {
+          "A": "Such cross -breeding was a safer means of reproduction.",
+          "B": "Cross-bred horses were preferred by Arabs.",
+          "C": "By cross -breeding, horses with desirable mixed characteristics could be produced.",
+          "D": "Cross-breeding produced Thoroughbred horses."
+        }
+      },
+      {
+        "number": 5,
+        "text": "A foal is a",
+        "options": {
+          "A": "male horse.",
+          "B": "female horse.",
+          "C": "old horse.",
+          "D": "baby horse."
+        }
+      },
+      {
+        "number": 6,
+        "text": "Which of the following is NOT one of the major divisions of horse breeds?",
+        "options": {
+          "A": "Draft horses",
+          "B": "Ponies",
+          "C": "Foals",
+          "D": "Light horses"
+        }
+      },
+      {
+        "number": 7,
+        "text": "According to the passage, which of the following horses is considered to be the finest purebred?",
+        "options": {
+          "A": "Darley Arabian",
+          "B": "Thoroughbred",
+          "C": "Godolphin Barb",
+          "D": "Byerly Turk"
+        }
+      },
+      {
+        "number": 8,
+        "text": "To conceive is to",
+        "options": {
+          "A": "become sick.",
+          "B": "become pregnant.",
+          "C": "die.",
+          "D": "be born"
+        }
+      },
+      {
+        "number": 9,
+        "text": "The average amount of mares bred which actually conceive is less than what percent?",
+        "options": {
+          "A": "40",
+          "B": "85",
+          "C": "50",
+          "D": "75"
+        }
+      },
+      {
+        "number": 10,
+        "text": "A mare is a",
+        "options": {
+          "A": "male horse.",
+          "B": "baby horse.",
+          "C": "female horse.",
+          "D": "old horse."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_03",
+    "code": "R03",
+    "title": "R03: Offspring",
+    "topic": "Animal Behavior",
+    "difficulty": "medium",
+    "passage": "Animals that produce large amounts of offspring depend upon the sheer size of the litter for the perpetuation of their species. The young mature very quickly and are not educated, as the parents are usually involved with obtaining their own food and with reproduction. Should some of the offspring become endangered, the parent will not interfere, because it is not expected that all the young survive, which is the reason for a large litter. One animal that produces large litters is the hamster. A female hamster is able to bear young when she is six weeks to two months old. The gestation period is about 16 days. Although an average litter size is from five to ten, hamsters commonly have as few as three or as many a s a dozen offspring at a time. Mothers will sometimes eat their own young, particularly when the number of offspring is large. Females may produce litters up to an age of about 15 months at monthly intervals. The blind, hairless young begin to grow fur in two to three days. Their eyes open after about two weeks. After ten days they begin eating solid food, though the mother will continue to nurse them for about two more weeks. In captivity, a typical hamster may live for two to three years.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The gestation period for hamsters is about",
+        "options": {
+          "A": "nine months",
+          "B": "one month.",
+          "C": "16 days.",
+          "D": "six weeks."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Female hamsters will sometimes eat their young for what reason?",
+        "options": {
+          "A": "Hunger",
+          "B": "Because of a large number of offspring",
+          "C": "Deformed babies",
+          "D": "The young mature too quickly"
+        }
+      },
+      {
+        "number": 3,
+        "text": "\"Perpetuation\" in line 2 means",
+        "options": {
+          "A": "Extinction.",
+          "B": "Annihilation.",
+          "C": "Variation.",
+          "D": "Continuation."
+        }
+      },
+      {
+        "number": 4,
+        "text": "Female hamsters may reproduce as young as",
+        "options": {
+          "A": "six weeks old.",
+          "B": "six months old.",
+          "C": "15 months old.",
+          "D": "two weeks old."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Hamsters can produce offspring until what age?",
+        "options": {
+          "A": "two years",
+          "B": "six weeks",
+          "C": "15 months",
+          "D": "16 days"
+        }
+      },
+      {
+        "number": 6,
+        "text": "Which of the following is NOT a reason for a large litter?",
+        "options": {
+          "A": "The young are not expected to live.",
+          "B": "The young are educated.",
+          "C": "The parents are too busy to protect them.",
+          "D": "The young mature quickly"
+        }
+      },
+      {
+        "number": 7,
+        "text": "What is the tone of the passage?",
+        "options": {
+          "A": "Argumentative",
+          "B": "Informative",
+          "C": "Biased",
+          "D": "Farcical"
+        }
+      },
+      {
+        "number": 8,
+        "text": "What is the BEST title for this passage?",
+        "options": {
+          "A": "\"Endangered Animal Litters\"",
+          "B": "\"Reasons for Large Litters\"",
+          "C": "\"Parents of Large Litters\"",
+          "D": "\"Educating Litters\""
+        }
+      },
+      {
+        "number": 9,
+        "text": "What is a litter?",
+        "options": {
+          "A": "The amount of parents an animal has",
+          "B": "The amount of garbage an animal has",
+          "C": "The amount of offspring an animal has",
+          "D": "The amount of siblings an animal has"
+        }
+      },
+      {
+        "number": 10,
+        "text": "Why would an animal parent not be able to care for its litter?",
+        "options": {
+          "A": "It is busy reproducing and food gathering.",
+          "B": "It is busy educating the litter.",
+          "C": "It interferes with the litter.",
+          "D": "It is busy playing."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_04",
+    "code": "R04",
+    "title": "R04: Earth's Age",
+    "topic": "Geology",
+    "difficulty": "medium",
+    "passage": "We believe the Earth is about 4.6 billion years old. At present we are forced to look to other bodies in the solar system for hints as to what the early history of the Earth was like. Studies of our moon, Mercury, Mars, and the large satellites of Jupit er and Saturn have provided ample evidence that all these large celestial bodies were bombarded by smaller objects in a wide variety of sizes shortly after the larger bodies had formed. This same bombardment must have affected Earth as well. The lunar reco rd indicates that the rate of impacts decreased to its present low level about 4 billion years ago. On Earth, subsequent erosion and crustal motions have obliterated the craters that must have formed during this epoch. Scientists estimate the Earth's age b y measuring the ratios of various radioactive elements in rocks. The oldest Earth rocks tested thus far are about 3 1/3 billion years old. But no one knows whether these are the oldest rocks on Earth. Tests on rocks from the moon and on meteorites show tha t these are about 4.6 billion years old. Scientists believe that this is the true age of the solar system and probably the true age of the Earth.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In line 8, the word <i>obliterated</i> means",
+        "options": {
+          "A": "created.",
+          "B": "destroyed.",
+          "C": "Changed",
+          "D": "eroded."
+        }
+      },
+      {
+        "number": 2,
+        "text": "According to this passage, how do scientists estimate the age of the Earth?",
+        "options": {
+          "A": "By measuring the ratios of radioactive elements in rocks",
+          "B": "By examining fossils",
+          "C": "By studying sunspots",
+          "D": "By examining volcanic activity"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Scientists estimate the age of the Earth as",
+        "options": {
+          "A": "3 1/3 billion years old.",
+          "B": "4 billion years old.",
+          "C": "4.6 billion years old.",
+          "D": "6 billion years old."
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the followi ng processes led to the obliteration of the craters formed by the bombardment of the Earth by celestial bodies?",
+        "options": {
+          "A": "Volcanic activity",
+          "B": "Solar radiation",
+          "C": "Gravity",
+          "D": "Crustal motions"
+        }
+      },
+      {
+        "number": 5,
+        "text": "According to the passage, why are scientists forced to look at other bodies in the solar system to determine the early history of the Earth?",
+        "options": {
+          "A": "Human alteration of the Earth",
+          "B": "Erosion and crustal motions",
+          "C": "Solar flares",
+          "D": "Deforestation"
+        }
+      },
+      {
+        "number": 6,
+        "text": "What is the BEST title for this passage?",
+        "options": {
+          "A": "\"Determining the Age of the Earth\"",
+          "B": "\"Determining the Age of the Solar System\"",
+          "C": "\"Erosion and Crustal Motion of Earth\"",
+          "D": "\"Radioactive Elements in Rocks\""
+        }
+      },
+      {
+        "number": 7,
+        "text": "Which of the following bodies was NOT studied to give evidence that the Earth was bombarded in its early history?",
+        "options": {
+          "A": "Mars",
+          "B": "Mercury",
+          "C": "Jupiter",
+          "D": "Earth's moon"
+        }
+      },
+      {
+        "number": 8,
+        "text": "Bombardment of th e Earth at one time by various sized bodies is",
+        "options": {
+          "A": "inferred from what happened on other planetary bodies.",
+          "B": "documented fact.",
+          "C": "proven by the lunar record.",
+          "D": "indicated by erosion."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The level of impacts of the bombardments of Earth have",
+        "options": {
+          "A": "decreased to below normal.",
+          "B": "increased to a current high.",
+          "C": "increased after a periodic low.",
+          "D": "decreased to a current low."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The word <i>bombardment</i> means",
+        "options": {
+          "A": "an avoidance",
+          "B": "an assault",
+          "C": "an effect.",
+          "D": "a cause."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_05",
+    "code": "R05",
+    "title": "R05: Martin Luther King",
+    "topic": "American History",
+    "difficulty": "hard",
+    "passage": "Martin Luther King, Jr., is well known for his work in civil rights and for his many famous speeches, among them his moving \"I Have a Dream\" speech. But fewer people know much about King's childhood. M.L., as he was called, was born in 1929, in Atlanta, Georgia, at the home of his maternal grandfather. M.L.'s grandfather, the Reverend A.D. Williams, purchased their home on Auburn Avenue in 1909, 20 years before M.L. was born The Reverend Williams, an eloquent speaker, played an important role in the community because so many people's lives centered around the church. He allowed his church and his home to be used as a meeting place for a number of organizations dedicated to the education and social advancement of blacks. M.L. grew up in this atmosphere, with his home being used as a community gathering place, and was no doubt influenced by it. M.L.'s childhood was not especially eventful. His father was a minister and his mother was a musician. He was the second of three children, and he attended all-black schools in a black neighborhood. The neighborhood was not poor, however. Auburn Avenue was the main artery through a prosperous neighborhood that had come to symbolize achievement for Atlanta's black people. It was an area of banks, insurance companies, builders, jewelers, tailors, doctors, lawyers, and other black-owned or black-operated businesses and services. Even in the face of Atlanta's segregation, the district thrived. Dr. King never forgot the community spirit he had known as a child, nor did he forget the racial prejudice that was a seemingly insurmountable barrier that kept black Atlantans from mingling with whites.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is this passage mainly about?",
+        "options": {
+          "A": "The prejudice that existed in Atlanta",
+          "B": "Martin Luther King's childhood",
+          "C": "M.L.'s grandfather",
+          "D": "The neighborhood King grew up in"
+        }
+      },
+      {
+        "number": 2,
+        "text": "The word <i>eloquent</i> means most nearly:",
+        "options": {
+          "A": "Powerful",
+          "B": "Active",
+          "C": "Romantic",
+          "D": "Fascinating"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The word <i>gathering</i> means most nearly:",
+        "options": {
+          "A": "Picking",
+          "B": "Learning",
+          "C": "Exciting",
+          "D": "Meeting"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The word <i>eventful</i> is closest to which of the following?",
+        "options": {
+          "A": "Valued",
+          "B": "Memorable",
+          "C": "Admirable",
+          "D": "Emotional"
+        }
+      },
+      {
+        "number": 5,
+        "text": "The word <i>it</i> refers to which of the following?",
+        "options": {
+          "A": "Achievement",
+          "B": "Neighborhood",
+          "C": "Segregation",
+          "D": "Services"
+        }
+      },
+      {
+        "number": 6,
+        "text": "According to the author, blacks in King's neighborhood were involved in all the following businesses EXCEPT:",
+        "options": {
+          "A": "Dentistry",
+          "B": "Medicine",
+          "C": "Law",
+          "D": "Banking"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word <i>tailors</i> describes people who are associated with which of the following trades?",
+        "options": {
+          "A": "Flower arranging",
+          "B": "Shoe making",
+          "C": "Garment making",
+          "D": "Book binding"
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to the author, King was influenced by:",
+        "options": {
+          "A": "Community spirit",
+          "B": "Black lawyers",
+          "C": "His mother",
+          "D": "His speeches"
+        }
+      },
+      {
+        "number": 9,
+        "text": "The word <i>thrived</i> refers to which of the following?",
+        "options": {
+          "A": "Achieved",
+          "B": "Surrendered",
+          "C": "Flourished",
+          "D": "Held"
+        }
+      },
+      {
+        "number": 10,
+        "text": "Which of the following is closest in meaning to the word <i>seemingly</i>?",
+        "options": {
+          "A": "Apparently",
+          "B": "Inevitably",
+          "C": "Inexplicably",
+          "D": "Hastily"
+        }
+      },
+      {
+        "number": 11,
+        "text": "The word <i>mingling</i> could best be replaced by which of the following?",
+        "options": {
+          "A": "Interfering",
+          "B": "Gargling",
+          "C": "Consuming",
+          "D": "Associating"
+        }
+      },
+      {
+        "number": 12,
+        "text": "According to the author, M.L.:",
+        "options": {
+          "A": "Had a difficult childhood",
+          "B": "Was a good musician as a child",
+          "C": "Loved to listen to his grandfather speak",
+          "D": "Grew up in a relatively rich area of Atlanta"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_06",
+    "code": "R06",
+    "title": "R06: Langston Hughes",
+    "topic": "Literature & Poetry",
+    "difficulty": "hard",
+    "passage": "Langston Hughes was one of the greatest American writers of the twentieth century. He was born in Joplin, Missouri, and moved to Cleveland at the age of 14. Several years later he spent one yea r in Mexico before attending Columbia University in New York. For a few years after that, he roamed the world as a seaman, visiting ports around the world and writing some poetry. He returned to the United States and attended Lincoln University, where he won the Witter Bynner Prize for undergraduate poetry. After graduating in 1923, he traveled to Spain and to Russia with the help of a Guggenheim fellowship. His novels include Not Without Laughter (1930) and The Big Sea (1940). He wrote an autobiography in 1956 and also published several collections of poetry. The collections include The Weary Blues (1926), The Dream Keeper (1932), Shakespeare in Harlem (1942), Fields of Wonder (1947), One Way Ticket (1947), and Selected Poems (1959). A man of many talents, Hughes was also a lyricist, librettist, and a journalist. As an older man in the 1960s, he spent much of his time collecting poems Africa and from African -Americans to popularize ي black writers. Hughes is one of the most accomplished writers in American literary history, and he is seen as one of the artistic leaders of the Harlem Renaissance, the period when a neighborhood that was predominantly black produced a flood of great literature, music, and other art forms depicting daily city life for African-Americans.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the main topic of this passage?",
+        "options": {
+          "A": "The life of Langston Hughes",
+          "B": "The Harlem Renaissance",
+          "C": "African-American writers",
+          "D": "American twentieth-century writers"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Where was Langston Hughes born?",
+        "options": {
+          "A": "Spain",
+          "B": "New York",
+          "C": "Missouri",
+          "D": "North Carolina"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The word <i>roamed</i> as used in line 4 is closest in meaning to which of the following?",
+        "options": {
+          "A": "Traveled",
+          "B": "Soared",
+          "C": "Floated",
+          "D": "Walked"
+        }
+      },
+      {
+        "number": 4,
+        "text": "As used in line 4, which of the following words could best replace the word <i>ports</i>?",
+        "options": {
+          "A": "Islands",
+          "B": "Ships",
+          "C": "Friends",
+          "D": "Harbors"
+        }
+      },
+      {
+        "number": 5,
+        "text": "What provided Hughes with assistance for his travel to Spain and Russia?",
+        "options": {
+          "A": "His job as a reporter",
+          "B": "His career as a soldier",
+          "C": "A literary fellowship",
+          "D": "A college study program"
+        }
+      },
+      {
+        "number": 6,
+        "text": "To which of the following movements might Shakespeare in Harlem refer?",
+        "options": {
+          "A": "The Civil War",
+          "B": "The Harlem Riots",
+          "C": "The Harlem Renaissance",
+          "D": "The Civil Rights Movement"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word <i> talents</i> in line 10 could be replaced by which of the following?",
+        "options": {
+          "A": "Desires",
+          "B": "Abilities",
+          "C": "Strategies",
+          "D": "Careers"
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to the author, what did Hughes do during the later years of his life?",
+        "options": {
+          "A": "Write short stories",
+          "B": "Popularize African-American writers",
+          "C": "Advocate racial equality",
+          "D": "Write about life in Harlem"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Which of the following could best replace the word <i>accomplished</i> as used in line 15?",
+        "options": {
+          "A": "Successful",
+          "B": "Prolific",
+          "C": "Brilliant",
+          "D": "Imaginative"
+        }
+      },
+      {
+        "number": 10,
+        "text": "The author uses the word <i>flood</i> in line 17 to refer to:",
+        "options": {
+          "A": "A drought",
+          "B": "An outpouring",
+          "C": "A cloudburst",
+          "D": "A streak"
+        }
+      },
+      {
+        "number": 11,
+        "text": "Which of the following can best substitute for the word <i>depicting</i> in line 18 to refer to:",
+        "options": {
+          "A": "Congratulating",
+          "B": "Blessing",
+          "C": "Screening",
+          "D": "Portraying"
+        }
+      },
+      {
+        "number": 12,
+        "text": "According to the passage, Langston Hughes was all of the following EXCEPT:",
+        "options": {
+          "A": "A novelist",
+          "B": "A poet",
+          "C": "An historian",
+          "D": "A journalist"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_07",
+    "code": "R07",
+    "title": "R07: Carbohydrates",
+    "topic": "Nutrition & Health",
+    "difficulty": "hard",
+    "passage": "Carbohydrates, which are sugars, are an essential part of a healthy diet. They provide the main source of energy for the body, and they also functio n to flavor and sweeten foods. Carbohydrates range from simple sugars like glucose to complex sugars such as amylose and amylopectin. Nutritionists estimate that carbohydrates should make up about one -fourth to one -fifth of a person's diet. This translates to about 75 -100 grams of carbohydrates per day. A diet that is deficient in carbohydrates can have an adverse effect on a person's health. When the body lacks a sufficient amount of carbohydrates, it must then use its protein supplies for energy, a process called gluconeogenesis. However, this result in a lack of necessary protein, and further health difficulties may occur. A lack of carbohydrates can also lead to ketosis, a build - up of ketones in the body that causes fatigue, lethargy, and bad breath.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the main idea of this passage?",
+        "options": {
+          "A": "Carbohydrates are needed for good health",
+          "B": "Carbohydrates prevent a build -up of proteins.",
+          "C": "Carbohydrates can lead to ketosis.",
+          "D": "Carbohydrates are an expendable part of a good diet."
+        }
+      },
+      {
+        "number": 2,
+        "text": "The word -function- refers to which of the following?",
+        "options": {
+          "A": "Neglect",
+          "B": "Serve",
+          "C": "Dissolve",
+          "D": "Profess"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The word -range- is closest in meaning to which of the following?",
+        "options": {
+          "A": "Extend",
+          "B": "Proceed",
+          "C": "Hail",
+          "D": "Probe"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The wo rd -estimate- could best be replaced by",
+        "options": {
+          "A": "Disbelieve",
+          "B": "Declare",
+          "C": "Calculate",
+          "D": "Wonder"
+        }
+      },
+      {
+        "number": 5,
+        "text": "According to the passage, what do most nutritionists suggest?",
+        "options": {
+          "A": "Sufficient carbohydrates will prevent gluconeogenesis.",
+          "B": "Carbohydrates are simple sugars called glucose.",
+          "C": "Carbohydrates should make up about a quarter of a person's daily diet.",
+          "D": "Carbohydrates should be eaten in very small quantities."
+        }
+      },
+      {
+        "number": 6,
+        "text": "Which of the following do carbohydrates NOT do?",
+        "options": {
+          "A": "Prevent ketosis",
+          "B": "Cause gluconeogenesis",
+          "C": "Provide energy for the body",
+          "D": "Flavor and sweeten food"
+        }
+      },
+      {
+        "number": 7,
+        "text": "Which of the following words could best replace -deficient-?",
+        "options": {
+          "A": "Outstanding",
+          "B": "Abundant",
+          "C": "Insufficient",
+          "D": "Unequal"
+        }
+      },
+      {
+        "number": 8,
+        "text": "What does the word -this- refer to?",
+        "options": {
+          "A": "Using protein supplies for energy",
+          "B": "Converting carbohydrates to energy",
+          "C": "Having a deficiency in carbohydrates",
+          "D": "Having an insufficient amount of protein"
+        }
+      },
+      {
+        "number": 9,
+        "text": "According to the passage, which of the following does NOT describe carbohydrates?",
+        "options": {
+          "A": "A protein supply",
+          "B": "A necessity",
+          "C": "A range of sugars",
+          "D": "An energy source"
+        }
+      },
+      {
+        "number": 10,
+        "text": "The word -lack- is most similar to which of the following?",
+        "options": {
+          "A": "Plethora",
+          "B": "Shortage",
+          "C": "Derivation",
+          "D": "Commission"
+        }
+      },
+      {
+        "number": 11,
+        "text": "Which of the following best describes the author's tone?",
+        "options": {
+          "A": "Sensitive",
+          "B": "Emotional",
+          "C": "Informative",
+          "D": "Regretful"
+        }
+      },
+      {
+        "number": 12,
+        "text": "Which of the following best describes the organization of this passage?",
+        "options": {
+          "A": "Cause and result",
+          "B": "Comparison and contrast",
+          "C": "Specific to general",
+          "D": "Definitions and example"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_08",
+    "code": "R08",
+    "title": "R08: MBA",
+    "topic": "Business & Education",
+    "difficulty": "hard",
+    "passage": "After two decades of growing student enrollments and economic prosperity, business schools in the United States have started to face harder times. Only Harvard's MBA School has shown a substantial increase in enrollment in recent years. Both Princeton and Stanford have seen decreases in their enrollments. Since 1990, the number of people receiving Masters in Business Administration (MBA) degrees, has dropped about 3 percent to 75,000, and the trend of lower enrollment rates is expected to continue. There are two factors causing the decrease in seeking an MBA degree. The first one is that many graduates of four -year colleges are finding that an MBA degree does not guarantee a plush job on Wall Street or in other financial districts of major American cities. Many of the entry-level management jobs are going to students graduating with Master of Arts degrees in English and the humanities as well as those holding MBA degrees. Students have asked the question \"Is an MBA degree really what I need to be best prepared for getting a good job?\" The second major factor has been the cutting of American payrolls and the lower number of entry -level jobs being offered. Business needs are changing, and MBA schools are struggling to meet the new demands.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the main focus of this passage?",
+        "options": {
+          "A": "Jobs on Wall Street",
+          "B": "Types of graduate degrees",
+          "C": "Changes in enrollment for MBA schools",
+          "D": "How schools are changing to reflect the economy"
+        }
+      },
+      {
+        "number": 2,
+        "text": "The phrase <i>two decades</i> in line 1 refers to a period of:",
+        "options": {
+          "A": "10 years",
+          "B": "20 years",
+          "C": "50 years",
+          "D": "100 years"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The word <i>prosperity</i> could best be replaced by which of the following?",
+        "options": {
+          "A": "Success",
+          "B": "Surplus",
+          "C": "Nurturing",
+          "D": "Education"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the following business schools has NOT shown a decrease in enrollment?",
+        "options": {
+          "A": "Princeton",
+          "B": "Harvard",
+          "C": "Stanford",
+          "D": "Yale"
+        }
+      },
+      {
+        "number": 5,
+        "text": "\"trend of\" is closest in meaning to?",
+        "options": {
+          "A": "Reluctance of",
+          "B": "Drawback to",
+          "C": "Movement toward",
+          "D": "Extraction from"
+        }
+      },
+      {
+        "number": 6,
+        "text": "As used in line 8, the word <i>seeking</i> could best be replaced by which of the following?",
+        "options": {
+          "A": "Examining",
+          "B": "Avoiding",
+          "C": "Seizing",
+          "D": "Pursuing"
+        }
+      },
+      {
+        "number": 7,
+        "text": "Which of the following descriptions most likely applies to Wall Street?",
+        "options": {
+          "A": "A center for international affairs",
+          "B": "A major financial center",
+          "C": "A shopping district",
+          "D": "A neighborhood in New York"
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word <i>plush</i> most probably means:",
+        "options": {
+          "A": "Legal",
+          "B": "Satisfactory",
+          "C": "Fancy",
+          "D": "Dependable"
+        }
+      },
+      {
+        "number": 9,
+        "text": "According to the passage, what are two causes of declining business school enrollments?",
+        "options": {
+          "A": "Lack of necessity for an MBA and an economic recession",
+          "B": "Low salary and foreign competition",
+          "C": "Fewer MBA schools and fewer entry - level jobs",
+          "D": "Declining population and economic prosperity"
+        }
+      },
+      {
+        "number": 10,
+        "text": "As used in line 12, the word <i>cutting</i> is closest in meaning to:",
+        "options": {
+          "A": "wounding",
+          "B": "reducing",
+          "C": "dividing",
+          "D": "carving"
+        }
+      },
+      {
+        "number": 11,
+        "text": "As used in line 16, the word <i>struggling</i> is closest in meaning to:",
+        "options": {
+          "A": "Evolving",
+          "B": "Plunging",
+          "C": "Starting",
+          "D": "Striving"
+        }
+      },
+      {
+        "number": 12,
+        "text": "Which of the following might be the topic of the next paragraph?",
+        "options": {
+          "A": "MBA schools' efforts to change",
+          "B": "Future economic predictions",
+          "C": "A history of the recent economic changes",
+          "D": "Descriptions of non -MBA grad uate programs"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_09",
+    "code": "R09",
+    "title": "R09: Recent oil Crisis",
+    "topic": "Economics & Energy",
+    "difficulty": "easy",
+    "passage": "As a result of the recent oil crisis, 9.9 million of California's 15 million motorists were subjected to an odd -even plan of gas rationing. The governor signed a bill forcing motorists with license plates ending in odd numbers to buy gas o nly on odd-numbered days, and those ending in even numbers on even -numbered days. Those whose plates were all letters or specially printed had to follow the odd-numbered plan. Exceptions were made only for emergencies and out-of-state drivers. Those who could not get has were forced to walk, bike, or skate to work, This plan was expected to eliminate the long lines at many service stations. Those who tried to purchase more than twenty gallons of gas or tried to fill a more than half filled tank would be fin ed and possibly imprisoned.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "All of the following are true except",
+        "options": {
+          "A": "officials hoped that this plan would alleviate long gas lines",
+          "B": "a gas limit was imposed",
+          "C": "California has 9.9 million drivers",
+          "D": "the governor signed the bill concerni ng gas rationing"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Those who violated the rationing program",
+        "options": {
+          "A": "were forced to walk, bike, or skate to work",
+          "B": "were fined and possibly imprisoned",
+          "C": "had to wait in long lines",
+          "D": "were forced to use odd-numbered days"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The gas rationing plan was not binding on",
+        "options": {
+          "A": "even-numbered license plates",
+          "B": "odd-numbered license plates",
+          "C": "all-lettered plates",
+          "D": "out-of-state plates"
+        }
+      },
+      {
+        "number": 4,
+        "text": "California was forced to adopt this plan because",
+        "options": {
+          "A": "a recent oil crisis necessitated it",
+          "B": "too many drivers were filling their tanks with more than twenty gallons and spilling",
+          "C": "people were not getting enough exercise and needed to walk, bike, or skate",
+          "D": "too many motorists had odd-numbered plates"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_10",
+    "code": "R10",
+    "title": "R10: Glands",
+    "topic": "Anatomy & Physiology",
+    "difficulty": "easy",
+    "passage": "Glands manufacture and secrete necessary substances. Exocrine glands secret their products through ducts, but endocrine glands, or ductless glands, release their products directly into the bloodstream. One important endocrine gland is the thyroid gland. It is in the neck and has two lobes, one on each side of the windpipe. The thyruid gland collects iodine from the blood and produces thyroxine, an important hormone, which it stores in an inactive form. When thyroxine is needed by the body, the thyroid gland excretes it directly into the bloodstream. Thyroxine is combined in the body cells with other chemicals and affects many functions of the body. The thyroid gland may be underactive or overactive, resulting in problems, an underactive thyroid causes hypothyroidism, while an overactive one causes hyperthyroidism. The former problem, called myxedema in adults and cretinism in children, causes the growth process to slow down. A cretin's body and mind do not grow to their full potential. Hyperthyroidism, on the other hand, results in extreme nervousness, an increase in heart action, and other problems. Either hypothyroidism or hyperthyroidism may result in goiter, or an enlarged thyroid gland. A goiter will appear when the body is not getting enough iodine. Goiter is less common today, since most people use iodized salt.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The thyroid gland is called an endocrine gland",
+        "options": {
+          "A": "because it has ducts",
+          "B": "because it has lobes",
+          "C": "because it excretes di rectly into the bloodstream",
+          "D": "because it is located in the neck"
+        }
+      },
+      {
+        "number": 2,
+        "text": "A cretin is",
+        "options": {
+          "A": "a child with hyperthyroidism",
+          "B": "an adult with an underperforming thyroid gland",
+          "C": "a young person with hypothyroidism",
+          "D": "an extremely irritable child"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which of the following is a probab le result of myxedema?",
+        "options": {
+          "A": "sluggishness",
+          "B": "hyperactivity",
+          "C": "overproduction of thyroxine",
+          "D": "perspiration"
+        }
+      },
+      {
+        "number": 4,
+        "text": "A goiter is",
+        "options": {
+          "A": "a person with myxedema",
+          "B": "a swollen thyroid gland",
+          "C": "an underactive thyroid gland",
+          "D": "a chemical"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_11",
+    "code": "R11",
+    "title": "R11: Vibrio parahaemolyticus",
+    "topic": "Microbiology & Health",
+    "difficulty": "medium",
+    "passage": "Vibrio parahaemolyticus is a bacteria that has been isolated from sea water, shell fish, finfish, plankton and salt springs. It has been a major cause of food poisoning in Japan and the Japanese have done several studies on it. They have confirmed the presence of V. parahaemolyticus in the north and central Pacific with the highest abundance in inshore waters, particularly i n or near large harbors. A man named Nishil studied the relationship between the chloride content of sea water and the seasonal distribution of V. parahaemolyticus and concluded that while the isolation of V. parahaemolyticus was independent of the sodium chloride content, the distribution of V. parahaevolyticus in sea water was dependent on the water temperature. In fact it has been isolated in high frequencies during summer, from June to September, but was not isolated with the same frequency in winter. W ithin four of five days after eating contaminated foods, a person will begin to experience diarrhea, the most common symptom: this will very often be accompanied by stomach cramps, nausea, and vomiting. Headache and fever, with or without chills, may also be experienced.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following loca tions would be most likely to have a high concentration of Vibrio parahaemolyticus?",
+        "options": {
+          "A": "a bay",
+          "B": "a sea",
+          "C": "the middle of the ocean",
+          "D": "sediment"
+        }
+      },
+      {
+        "number": 2,
+        "text": "the most common symptom of V. parahaemolyticus is",
+        "options": {
+          "A": "nausea",
+          "B": "diarrhea",
+          "C": "vomiting",
+          "D": "headache and fever"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The incubation period for this illness is",
+        "options": {
+          "A": "2 to 3 days",
+          "B": "3 to 4 hours",
+          "C": "4 to 5 days",
+          "D": "several months"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Nishil's study showed that the presence of V. parahaemolyticus was",
+        "options": {
+          "A": "dependent on neither the salt content nor the water temperature",
+          "B": "dependent on only the salt content",
+          "C": "independent of both he water temperature and the salt content",
+          "D": "dependent on the water temperature"
+        }
+      },
+      {
+        "number": 5,
+        "text": "The word cramp in the reading means most nearly",
+        "options": {
+          "A": "noises",
+          "B": "toxicity",
+          "C": "Severe pain",
+          "D": "high Temp."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The safest time for eating seafood is probably",
+        "options": {
+          "A": "August",
+          "B": "November",
+          "C": "July",
+          "D": "September"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_12",
+    "code": "R12",
+    "title": "R12: Juan Ponce de Leon",
+    "topic": "History & Exploration",
+    "difficulty": "medium",
+    "passage": "Juan Ponce de Leon was the first Spaniard to touch the shores of the present United States. As Columbus had not remotely realized the extent of his momentous discovery, so de Leon never dreamed that his \"island\" of Florida was a peninsular extension of the vast North American continent. After coming to the New World with Columbus in 1493, he had led the occupation of Puerto Rico in 1508 and governed it from 1509 to 1512. In 1509, de Leon started a colony at Caparra, later abandoned in favor of San Juan. He was one of the first adelantados -men who \"advanced\" the Spanish Empire by conquest, subjugation of the Indians, and establishment of a semi - military government. In Puerto Rico he heard a legend about an island c alled Bimini, where there was said to be a spring that restored youth to all who bathed in it. It is said he was seeking this spring when he discovered Florida. He sailed from Puerto Rico in March 1513. On Easter Sunday he sighted the coast. A few days lat er he landed on Florida's east coast, near what is now St. Augustine. He named the place La Florida after the Spanish term for Easter Sunday -Pascua Florida, or \"flowery feast.\" He then sailed around the peninsula and up the west coast. He returned to Florida in 1521.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In what year did de Leon discover Florida?",
+        "options": {
+          "A": "1508",
+          "B": "1513",
+          "C": "1521",
+          "D": "1492"
+        }
+      },
+      {
+        "number": 2,
+        "text": "What was the title of the first colony started by Ponce de Leon in Puerto Rico?",
+        "options": {
+          "A": "San Juan",
+          "B": "La Florida",
+          "C": "Caparra",
+          "D": "St. Augustine"
+        }
+      },
+      {
+        "number": 3,
+        "text": "What was the name of the legendary i sland where the fabled Fountain of Youth was said to be?",
+        "options": {
+          "A": "Cuba",
+          "B": "Bimini",
+          "C": "Atlantis",
+          "D": "Bermuda"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the following is implied by the passage?",
+        "options": {
+          "A": "Ponce de Leon was the true discoverer of the North American continent.",
+          "B": "Ponce de Leon rejected the philosophy of the adelantados.",
+          "C": "Ponce de Leon may have discovered Florida \"by accident.\"",
+          "D": "Ponce de Leon's greatest contribution was his discovery of the Fountain of Youth."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Pascua Florida is the Spanish term for which holiday?",
+        "options": {
+          "A": "Easter Sunday",
+          "B": "Christmas",
+          "C": "Thanksgiving",
+          "D": "Palm Sunday"
+        }
+      },
+      {
+        "number": 6,
+        "text": "According to the passage, which of the following was NOT a means of advancement of the Spanish Empire in the New World?",
+        "options": {
+          "A": "Conquest",
+          "B": "Subjugation of Indians",
+          "C": "Establishment of semi-military governments",
+          "D": "Treaties and negotiation"
+        }
+      },
+      {
+        "number": 7,
+        "text": "From the passage, it can be assumed that a \"peninsula\" is",
+        "options": {
+          "A": "a volcanic island.",
+          "B": "an island completely surrounded by water.",
+          "C": "an extension of land surrounded almost completely by water.",
+          "D": "an island inhabited by Indians."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The tone of the word <i>advanced</i> in line 7 suggests that",
+        "options": {
+          "A": "adelantados favor progress.",
+          "B": "progress could not have occurred without subjugation.",
+          "C": "progress is related to conquest and subjugation.",
+          "D": "conquest, subjugation, and semi -military government are not progress."
+        }
+      },
+      {
+        "number": 9,
+        "text": "According to the passage. Ponce de Leon believed the land he discovered was",
+        "options": {
+          "A": "part of the.Bahamas.",
+          "B": "the new \"island\" of Florida.",
+          "C": "the mainland of the United States.",
+          "D": "Puerto Rico."
+        }
+      },
+      {
+        "number": 10,
+        "text": "Ponce de Leon was classified as an adelantado because he",
+        "options": {
+          "A": "was a great explorer.",
+          "B": "was the first Spaniard to see the shores of the United States.",
+          "C": "conquered and ruled by military force.",
+          "D": "claimed Florida for the King of Spain."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_13",
+    "code": "R13",
+    "title": "R13: Elizabeth Blackwell",
+    "topic": "Medicine & Women's History",
+    "difficulty": "medium",
+    "passage": "Elizabeth Blackwell was born in England in 1821, and emigrated to New York City when she was ten years old. One day she decided that she wanted to become a doctor. That was nearly impossible for a woman in the middle of the nineteenth century. After writing many letters seeking admission to medical schools, she was finally accepted by a doctor in Philadelphia. So determined was she, that she taught school and gave music lessons to earn money for her tuition. In 1849, after graduation from medical school, she decided to further her education in Paris. She wanted to be a surgeon, but a serious eye infection forced her to abandon the idea. Upon returning to the United States, she found it difficult to start her own practi ce because she was a woman. By 1857 Elizabeth and her sister, also a doctor, along with another female doctor, managed to open a new hospital, the first for women and children. Besides being the first female physician and founding her own hospital, she als o established the first medical school for women.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Why couldn't Elizabeth Blackwell realize her dream of becoming a surgeon?",
+        "options": {
+          "A": "She couldn't get admitted to medical school.",
+          "B": "She decided to further her education in Paris.",
+          "C": "A serious eye infection halted her quest.",
+          "D": "It was difficult for her to start a practice in the United States."
+        }
+      },
+      {
+        "number": 2,
+        "text": "What main obstacle almost destroyed Elizabeth's chances for becoming a doctor?",
+        "options": {
+          "A": "She was a woman.",
+          "B": "She wrote too many letters.",
+          "C": "She couldn't graduate from medical school.",
+          "D": "She couldn't establish her hospital."
+        }
+      },
+      {
+        "number": 3,
+        "text": "How many years elapsed between her graduation from medical school and the opening of her hospital?",
+        "options": {
+          "A": "8",
+          "B": "10",
+          "C": "19",
+          "D": "36"
+        }
+      },
+      {
+        "number": 4,
+        "text": "All of the following are \"firsts \" in the life of Elizabeth Blackwell, except",
+        "options": {
+          "A": "she became the first female physician",
+          "B": "she was the first woman surgeon",
+          "C": "she and several other women founded the first hospital for women and children",
+          "D": "she established the first medical school for women"
+        }
+      },
+      {
+        "number": 5,
+        "text": "How many was Elizabeth Blackwell when she graduated from medical school?",
+        "options": {
+          "A": "10",
+          "B": "21",
+          "C": "28",
+          "D": "36"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The word <i>-abandon-</i> in line 8 is closest in meaning to?",
+        "options": {
+          "A": "Undertaker",
+          "B": "Give up",
+          "C": "Continue",
+          "D": "Look into"
+        }
+      },
+      {
+        "number": 7,
+        "text": "What is the main idea of this passage?",
+        "options": {
+          "A": "Elizabeth Blackwell overcome serious obstacles to become the first woman doctor in the United States.",
+          "B": "Elizabeth Blackwell had to abandon her plans to become a doctor because of an eye infection.",
+          "C": "Elizabeth Blackwell even taught music to pay for her medical studies.",
+          "D": "Elizabeth Blackwell founded the first medical school for woman."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word <i>-founding-</i> in line 12 means most nearly the same as?",
+        "options": {
+          "A": "Location",
+          "B": "Looking for",
+          "C": "Establishing",
+          "D": "Buying"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Why was it nearly impossible for Elizabeth Blackwell to get into medical school?",
+        "options": {
+          "A": "She had a serious eye infection.",
+          "B": "She had little or no money pay tuition.",
+          "C": "She wanted to be part of a profession that no woman had ever enterd before.",
+          "D": "Her family didn't want her to be a doctor."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The reason Elizabeth Blackwell couldn't become a surgeon is explained in lines?",
+        "options": {
+          "A": "1 - 5",
+          "B": "7 - 8",
+          "C": "9 - 10",
+          "D": "11 - 13"
+        }
+      },
+      {
+        "number": 11,
+        "text": "Where did Elizabeth Blackwell want to inhance her education?",
+        "options": {
+          "A": "New York",
+          "B": "Canada",
+          "C": "France",
+          "D": "England"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_14",
+    "code": "R14",
+    "title": "R14: Food chain",
+    "topic": "Ecology & Marine Life",
+    "difficulty": "medium",
+    "passage": "Most animals use more than one species as food. Therefore, the term food web is a better description of food relationship than the term food chain. A food web is a complex feeding systems that contains several food chains. For example, mice, rabbits and deer eat plants. Owls eat meat and rabbits. Mountain lion eats rabbits and deer. These five species are parts of food chains that together form a food web. The first link in a food chain is always a green plant. Only organisms with chlorophyll, such as green plants, can make food. For example, the first link in the aquatic chains is algae. Most algae are microscopic green plants that produce food by photosynthesis. In photosynthesis, energy from sunlight converts carbon dioxide and water to sugar. Tiny fish in lakes, streams and oceans eat algae. In turn, these tiny fishes are eaten by larger fish. These larger fish are eaten by still larger fish. The food supply for fish is made by algae. This food is then passed through the food chains as one animal eats another. Organisms may be divided into three groups based on how they obtain food. These groups are producer, decomposer and consumer. Organisms containing chlorophyll are producers. Thus, g reen plants are producers. Animals that eat other animals and plants are consumers. Microbes, one-celled organisms that cause the decay of the dead animals and plants are decomposers. Since, decomposers cannot make their own food, they are also consumers.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The main purpose of this passage is to",
+        "options": {
+          "A": "determine which food chain is the most efficient",
+          "B": "describe the food network among plants and animals",
+          "C": "explain the process of photosynthesis in green plants",
+          "D": "appeal to conservationists to protect endangered plant species"
+        }
+      },
+      {
+        "number": 2,
+        "text": "According to the author, what is the food web?",
+        "options": {
+          "A": "A complicated system of several food chains",
+          "B": "A society that distributes food",
+          "C": "The relationship of one green plant to another",
+          "D": "The spiders use to catch food"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which of the following would most likely be the first link in a food chain?",
+        "options": {
+          "A": "Termites",
+          "B": "Fish",
+          "C": "Lions",
+          "D": "Grass"
+        }
+      },
+      {
+        "number": 4,
+        "text": "As used in last sentence of the second paragraph, the word passed could best be replaced by which of the following?",
+        "options": {
+          "A": "Moved",
+          "B": "approved",
+          "C": "attempted",
+          "D": "relinquished"
+        }
+      },
+      {
+        "number": 5,
+        "text": "The author divides the organisms according to",
+        "options": {
+          "A": "how they use energy",
+          "B": "how they obtain food",
+          "C": "how much energy they require i n order to move",
+          "D": "whether they live on the land or in the sea"
+        }
+      },
+      {
+        "number": 6,
+        "text": "Which of the following organisms could not be a consumer as described in the passage?",
+        "options": {
+          "A": "A microbe",
+          "B": "A rabbit",
+          "C": "A tree",
+          "D": "A fish"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_15",
+    "code": "R15",
+    "title": "R15: United States",
+    "topic": "Urban History",
+    "difficulty": "medium",
+    "passage": "In 1900 the United States had only three cities with more than a million residents - New York, Chicago, and Philadelphia. By 1930, it had ten giant metropolises. The newer ones experienced remarkable growth, which reflected basic c hanges in the economy. The population of Los Angeles (114,000 in 1900) rose spectacularly in the early decades of the twentieth century, increasing a dramatic 1,400 percent from 1900 to 1930. A number of circumstances contributed to the meteoric rise of Lo s Angeles. The agricultural potential of the area was enormous if water for irrigation could be found, and the city founders had the vision and dating to obtain it by constructing a 225-mile aqueduct, completed in 1913, to tap the water of the Owens River. The city had a superb natural harbor, as well as excellent rail connections. The climate made it possible to shoot motion pictures year -round; hence Hollywood. Hollywood not only supplied jobs; it disseminated an image of the good life in Southern Califor nia on screens all across the nation. The most important single industry powering the growth of Los Angeles, however, was directly linked to the automobile. The demand for petroleum to fuel gasoline engines led to the opening of the Southern California oil fields, and made Los Angeles North America's greatest refining center. Los Angeles was a product of the auto age in another sense as well: its distinctive spatial organization depended on widespread private ownership of automobiles. Los Angeles was a decentralized metropolis, sprawling across the desert landscape over an area of 400 square miles. It was a city without a real center. The downtown business district did not grow apace with the city as a whole, and the rapid transit system designed to link the center with outlying areas withered away from disuse. Approximately 800,000 cars were registered in Los Angeles County in 1930, one per 2.7 residents. Some visitors from the east coast were dismayed at the endless urban sprawl and dismissed Los Angeles as a mere collection of suburbs in search of a city. But the freedom and mobility of a city built on wheels attracted floods of migrants to the city.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What is the passage mainly about?",
+        "options": {
+          "A": "The growth o f cities in the United States in the early 1900's",
+          "B": "The development of the Southern California oil fields",
+          "C": "Factors contributing to the growth of Los Angeles",
+          "D": "Industry and city planning in Los Angeles"
+        }
+      },
+      {
+        "number": 2,
+        "text": "The author characterizes the growth of new large cities in the United States after 1900 as resulting primarily from",
+        "options": {
+          "A": "new economic conditions",
+          "B": "images of cities shown in movies",
+          "C": "new agricultural techniques",
+          "D": "a large migrant population"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The word <i>meteoric</i> in line 6 is closest in meaning to",
+        "options": {
+          "A": "rapid",
+          "B": "famous",
+          "C": "controversial",
+          "D": "methodical"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The word <i>it</i> in line 8 refers to",
+        "options": {
+          "A": "Aqueduct",
+          "B": "Vision",
+          "C": "Water",
+          "D": "agricultural potential"
+        }
+      },
+      {
+        "number": 5,
+        "text": "According to the passage, the most important factor in the development of agriculture around Los Angeles was the",
+        "options": {
+          "A": "influx of \"new residents to agricultural ar eas near the city",
+          "B": "construction of an aqueduct",
+          "C": "expansion of transportation facilities",
+          "D": "development of new connections to the city's natural harbor"
+        }
+      },
+      {
+        "number": 6,
+        "text": "According to the passage, the initial success of Hollywood's motion picture industry was due largely to the",
+        "options": {
+          "A": "availability of many skilled workers",
+          "B": "beauty of the countryside",
+          "C": "region's reputation for luxurious lifestyles",
+          "D": "region's climate and good weather"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The visitors from the east coast mentioned in the passage thought that Los Angeles",
+        "options": {
+          "A": "was not accurately portrayed by Hollywood images",
+          "B": "lacked good suburban areas in which to live",
+          "C": "had an excessively large population",
+          "D": "was not really a single city"
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to the passage, the Southern California oil fields were initially exploited due to",
+        "options": {
+          "A": "the fuel requirements of Los Angeles' rail system",
+          "B": "an increase in the use of gasoline engines in North America",
+          "C": "a desire to put unproductive desert land to good use",
+          "D": "innovative planning on the part of the city founders"
+        }
+      },
+      {
+        "number": 9,
+        "text": "The phrase <i>apace with</i> is closest in meaning to",
+        "options": {
+          "A": "A new with",
+          "B": "A part from",
+          "C": "as fast as",
+          "D": "at the middle of"
+        }
+      },
+      {
+        "number": 10,
+        "text": "It can be inferred from the passage that the spatial organization of Los Angeles contributed to the relative decline there of",
+        "options": {
+          "A": "public transportation",
+          "B": "industrial areas",
+          "C": "suburban neighborhoods",
+          "D": "oil fields"
+        }
+      },
+      {
+        "number": 11,
+        "text": "It can be inferred from the passage that in 1930 the greatest number of people in the Los Angeles area were employed in",
+        "options": {
+          "A": "Farming",
+          "B": "oil refining",
+          "C": "automobile manufacturing",
+          "D": "the motion picture industry"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_16",
+    "code": "R16",
+    "title": "R16: Surrealism",
+    "topic": "Art History",
+    "difficulty": "hard",
+    "passage": "Surrealism was a movement in graphic art and literature that was founded in Paris, in 1924, by André Breton. Inspired by another movement in art called Dadaism, the Surrealist movement has been one of the most influential art movements in the 20 th century. It eventually had a worldwide audience, flourishing notably in the United States during World War II. Surrealism focused on the role of the unconscious in the creative process. In a nihilistic protest, it rejected all aspects of Western culture. Surrealist writers, such as Aragon and Soupalt, believed in directly transcribing onto paper anything their unconscious mind wished them to. They never altered or revised what they wrote because that would have interfered with the purity of their creation. Surrealist painters, a group that included such famous names as Miro, Dali, and Ernst, displayed a wide variety of style and content. Though Breton was the founder of this movement, his strong leadership style brought about dissent, which resulted in several of the painters officially breaking away from the movement.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "With what topic is this passage primarily concerned?",
+        "options": {
+          "A": "influential painters such as Miro, Dali, and Ernst",
+          "B": "the Surrealist movement in graphic art and literature",
+          "C": "nihilism as an aspect of the Surrealist movement",
+          "D": "Andr Breton's leadership style"
+        }
+      },
+      {
+        "number": 2,
+        "text": "The phrase -a movement- is closest in meaning to?",
+        "options": {
+          "A": "a trend",
+          "B": "an action",
+          "C": "an exercise",
+          "D": "a gesture"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which of the following is closest in meaning to the word <i>-inspired-</i> in line 2?",
+        "options": {
+          "A": "excited",
+          "B": "influenced",
+          "C": "stifled",
+          "D": "created"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Why does the author mention Dadaism?",
+        "options": {
+          "A": "to demonstrate the importance of Surrealism",
+          "B": "to give background information about Surrealism",
+          "C": "to show the lack of influence of Dadaism",
+          "D": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "What does -it- refer to?",
+        "options": {
+          "A": "a protest",
+          "B": "the unconscious",
+          "C": "Surrealism",
+          "D": "the creative process"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The word -altered- means",
+        "options": {
+          "A": "changed",
+          "B": "forgot",
+          "C": "believed",
+          "D": "allowed"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word -purity- means",
+        "options": {
+          "A": "integrity",
+          "B": "fragility",
+          "C": "dignity",
+          "D": "simplicity"
+        }
+      },
+      {
+        "number": 8,
+        "text": "The phrase -breaking away- means",
+        "options": {
+          "A": "escaping",
+          "B": "separating",
+          "C": "defecting",
+          "D": "passing"
+        }
+      },
+      {
+        "number": 9,
+        "text": "According to the passage, all of the following are true of Surrealism EXCEPT?",
+        "options": {
+          "A": "Surrealism was influenced by Dadaism",
+          "B": "Surrealists believed that the unconscious played an important role in the creative process",
+          "C": "Some surrealists painters quit the official movement because of Ander Breton",
+          "D": "Surrealism embraced Western culture"
+        }
+      },
+      {
+        "number": 10,
+        "text": "The word -displa yed- is closest in meaning to?",
+        "options": {
+          "A": "Neglected",
+          "B": "replaced",
+          "C": "exhibited",
+          "D": "condemned"
+        }
+      },
+      {
+        "number": 11,
+        "text": "The word -dissent- is closest in meaning to which of the following?",
+        "options": {
+          "A": "disagreement",
+          "B": "distress",
+          "C": "distraction",
+          "D": "discouragement"
+        }
+      },
+      {
+        "number": 12,
+        "text": "Which of the following statements is best supported by this passage?",
+        "options": {
+          "A": "Andre Breton founded art and literature in Paris",
+          "B": "Andre Breton rejected Dadaism because of Nihilism",
+          "C": "Andre Breton supported Miro in his painting",
+          "D": "Andre Breton was a vital part of the Surrealism movement"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_17",
+    "code": "R17",
+    "title": "R17: Speleothems",
+    "topic": "Speleology & Caves",
+    "difficulty": "medium",
+    "passage": "The most familiar speleothems (from the Greek word spelaion for cave and thema for deposit), the decorative dripstone features found in caves, are stalactites and stalagmites. Stalactites hang downward from the ceiling of the cave and are formed as drop after drop of wate r slowly trickles through cracks in the cave roof. Stalagmites grow upward from the floor of the cave, generally as a result of water dripping from an overhead stalactite. A column forms when a stalactite and a stalagmite grow until they join. A \"curtain \" or \"drapery \" begins to form on an inclined ceiling when drops of water trickle along a slope. Natural openings on the surface that lead to caves are called sinkholes, or swallow holes. Streams sometimes disappear down these holes and through the cavern. Rivers may flow from one mountain to another through a series of caves. Some caverns have sinkholes in their floors. Water often builds up a rim of dripstone around the edge of the hole. Dripping water often contains dissolved minerals as well as acid. The se minerals too will be deposited; and they may give rich coloring to the deposits. If minerals in the water change, layers of different colors may be formed.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Stalagmites are formed by",
+        "options": {
+          "A": "Drops of water which enter through cracks in the ceiling.",
+          "B": "Underground rivers which flow through the cave.",
+          "C": "Water dripping from an overhead stalactite.",
+          "D": "Water which trickles down a slope."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Sinkholes are",
+        "options": {
+          "A": "the decorative dripstone features found in caves.",
+          "B": "Natural openings on the surface that lead to caves.",
+          "C": "Colorful layers of mineral deposits.",
+          "D": "None of the above"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which speleothem grows upward from the floor?",
+        "options": {
+          "A": "Stalagmites",
+          "B": "Stalactites",
+          "C": "Sinkholes",
+          "D": "Curtains"
+        }
+      },
+      {
+        "number": 4,
+        "text": "An \"inclined ceiling\" is one which",
+        "options": {
+          "A": "is straight.",
+          "B": "is crooked.",
+          "C": "is slanted.",
+          "D": "is wet."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Which of the following are NOT caused by dripping water?",
+        "options": {
+          "A": "Stalagmites",
+          "B": "Stalactites",
+          "C": "Slopes",
+          "D": "Curtains"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The information in the passage is most relevant to which field of study?",
+        "options": {
+          "A": "Geography",
+          "B": "Archaeology",
+          "C": "Physics",
+          "D": "Geology"
+        }
+      },
+      {
+        "number": 7,
+        "text": "\"Curtains\" can also be called",
+        "options": {
+          "A": "columns.",
+          "B": "draperies.",
+          "C": "stalagmites.",
+          "D": "rims."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word speeleothem comes from which language?",
+        "options": {
+          "A": "Latin",
+          "B": "French",
+          "C": "Greek",
+          "D": "English"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Stalagmites are formed by",
+        "options": {
+          "A": "drops of water which enter the cave through cracks in the ceiling.",
+          "B": "underground rivers which flow through the cave.",
+          "C": "water which seeps through the cave floor.",
+          "D": "water which trickles down a slope."
+        }
+      },
+      {
+        "number": 10,
+        "text": "Which speleothem hangs from the ceiling of a cave?",
+        "options": {
+          "A": "Stalagmites",
+          "B": "Stalactites",
+          "C": "Columns",
+          "D": "Rimstones"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_18",
+    "code": "R18",
+    "title": "R18: Children Wolves",
+    "topic": "Anthropology",
+    "difficulty": "easy",
+    "passage": "As far back as 700 B.C, man has talked about children being cared for by wolves. Romulus and Remus, the legendary twin founders of Rome, were purported to have been cared for by wolves. It is believed that when a she -wolf loses her litter, she seeks a human child to take its place. This seemingly preposterous idea did not become credible until the late nineteenth century when a French doctor actually found a naked ten year old boy wandering in the woods. He did not walk erect, could not speak intelligibly, nor could he relate to people. He only growled and stared at them. Finally the doctor won the boy's confidence and began to work with him. After many long years of devoted and patient instruction, the doctor was able to get the boy to clothe and feed himself, recognize and utter a number of words, as well as write letters and form words.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The French doctor found the boy",
+        "options": {
+          "A": "wandering in the woods",
+          "B": "growling at him",
+          "C": "at his doorstep",
+          "D": "speaking intelligibly"
+        }
+      },
+      {
+        "number": 2,
+        "text": "In this passage, the word -litter- most nearly means",
+        "options": {
+          "A": "garbage",
+          "B": "master",
+          "C": "offspring",
+          "D": "hair"
+        }
+      },
+      {
+        "number": 3,
+        "text": "The doctor was able to work with the boy because",
+        "options": {
+          "A": "The boy was highly intelligent.",
+          "B": "The boy trusted him.",
+          "C": "The boy liked to dress up.",
+          "D": "The boy was dedicated and patient."
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the following statements is not true?",
+        "options": {
+          "A": "She-wolves have been said to substitute human children for their lost litters.",
+          "B": "Examples of wolves caring for human children can be found only in the nineteenth century.",
+          "C": "The French doctor succeeded in domesticating the boy somewhat.",
+          "D": "The young boy never was able to speak perfectly."
+        }
+      },
+      {
+        "number": 5,
+        "text": "In this passage, the word -preposterous-most nearly means",
+        "options": {
+          "A": "dedicated",
+          "B": "wonderful",
+          "C": "scientific",
+          "D": "absurd"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_19",
+    "code": "R19",
+    "title": "R19: Max Planck",
+    "topic": "Physics & Quantum Theory",
+    "difficulty": "medium",
+    "passage": "Awarded the Nobel Prize for physics in 1918, German physicist Max Planck is best remembered as the originator of the quantum theory. His work helped usher in a new era in theoretical physics and revolutioniz ed the scientific community's understanding of atomic and subatomic processes. Planck introduced an idea that led to the quantum theory, which became the foundation of twentieth century physics. In December 1900, Planck worked out an equation that describe d the distribution of radiation accurately over the range of low to high frequencies. He had developed a theory which depended on a model of matter that seemed very strange at the time. The model required the emission of electromagnetic radiation in small chunks or particles. These particles were later called quantums. The energy associated with each quantum is measured by multiplying the frequency of the radiation, v, by a universal constant, h. Thus energy or E equals hv. The constant, h, is known as Plan ck's constant. It is now recognized as one of the fundamental constants of the world. Planck announced his findings in 1900, but it was years before the full consequences of his revolutionary quantum theory were recognized. Throughout his life, Planck made significant contributions to optics, thermodynamics and statistical mechanics, physical chemistry, and other fields. In 1930 he was elected president of the Kaiser Wilhelm Society, which was renamed the Max Planck Society after World War II. Though deeply opposed to the fascist regime of Adolf Hitler, Planck remained in Germany throughout the war. He died in Gottingen on October 4, 1947.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In which of the following fields did Max Planck NOT make a significant contribution?",
+        "options": {
+          "A": "Optics",
+          "B": "Thermodynamics",
+          "C": "Statistical mechanics",
+          "D": "Biology"
+        }
+      },
+      {
+        "number": 2,
+        "text": "The word <i>revolutionary,</i> as used in line 15, means",
+        "options": {
+          "A": "dangerous.",
+          "B": "extremist.",
+          "C": "momentous.",
+          "D": "militarist."
+        }
+      },
+      {
+        "number": 3,
+        "text": "It can be inferred from the passage that Planck's work led to the development of which of the following?",
+        "options": {
+          "A": "The rocket",
+          "B": "The atomic bomb",
+          "C": "The internal combustion engine",
+          "D": "The computer"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The particles of elec tromagnetic radiation given off by matter are known as",
+        "options": {
+          "A": "quantums.",
+          "B": "atoms.",
+          "C": "electrons.",
+          "D": "Valences"
+        }
+      },
+      {
+        "number": 5,
+        "text": "The word <i>universal,</i> as used in line 12 most nearly means",
+        "options": {
+          "A": "planetary.",
+          "B": "cosmic.",
+          "C": "worldwide.",
+          "D": "always present."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The implication in this passage is that",
+        "options": {
+          "A": "only a German physicist could discover such a theory.",
+          "B": "Quantum theory, which led to the development of twentieth century physics, is basically a mathematical formula.",
+          "C": "Planck's constant was not discernible before 1900.",
+          "D": "radiation was hard to study."
+        }
+      },
+      {
+        "number": 7,
+        "text": "\"An idea\" as used in line 5, refers to",
+        "options": {
+          "A": "a model of matter.",
+          "B": "emission of electromagnetic radiation.",
+          "C": "quantums.",
+          "D": "the equation that described the distribution of radiation accurately over the range of low to high frequencies."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word <i>emission</i> as used in line 9 means",
+        "options": {
+          "A": "giving off.",
+          "B": "holding on to.",
+          "C": "throwing away.",
+          "D": "taking back."
+        }
+      },
+      {
+        "number": 9,
+        "text": "Planck's constant, expressed in a mathematical formula, is",
+        "options": {
+          "A": "e = v/h",
+          "B": "E = h/v",
+          "C": "e=h-v",
+          "D": "E = hv"
+        }
+      },
+      {
+        "number": 10,
+        "text": "What is known as Planck's constant?",
+        "options": {
+          "A": "V",
+          "B": "H",
+          "C": "E",
+          "D": "e"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_20",
+    "code": "R20",
+    "title": "R20: Pablo Picasso",
+    "topic": "Art & Painting",
+    "difficulty": "easy",
+    "passage": "Pablo Picasso was a painter and a sculptor. He lived from 1881 to 1973. Picasso became famous for p ainting in a new style called cubism. He painted people by using geometric shapes such as cones, spheres, and cubes. Today, Picasso's artwork is very valuable. A man named Steve Wynn owns a painting by Picasso. He decided he wanted to sell it. A friend of his agreed to buy it. The price was $139 million dollars. It would be the highest price ever paid for a piece of art. Just before the money and art changed hands, Wynn invited some friends to his office to look at the painting. While Wynn was talking, he b acked up and accidentally punched a hole in the painting with his elbow. He could no longer sell the Picasso. One person who was there called it the \"forty-million-dollar elbow,\" because that was how much value the painting probably lost.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What art style was Pablo Picasso famous for developing?",
+        "options": {
+          "A": "Impressionism",
+          "B": "Cubism",
+          "C": "Surrealism",
+          "D": "Realism"
+        }
+      },
+      {
+        "number": 2,
+        "text": "According to the passage, Picasso painted people using:",
+        "options": {
+          "A": "Bright fluorescent watercolors",
+          "B": "Geometric shapes such as cones, spheres, and cubes",
+          "C": "Dark classical oil textures",
+          "D": "Photographic realism techniques"
+        }
+      },
+      {
+        "number": 3,
+        "text": "What agreed price was Steve Wynn set to sell the painting for?",
+        "options": {
+          "A": "$40 million",
+          "B": "$100 million",
+          "C": "$139 million",
+          "D": "$200 million"
+        }
+      },
+      {
+        "number": 4,
+        "text": "What accidental event occurred right before the sale?",
+        "options": {
+          "A": "A fire broke out in the private gallery",
+          "B": "The painting was stolen from the office",
+          "C": "Wynn backed up and punched a hole in it with his elbow",
+          "D": "Water leaked from the ceiling onto the canvas"
+        }
+      },
+      {
+        "number": 5,
+        "text": "Why was the incident nicknamed the 'forty-million-dollar elbow'?",
+        "options": {
+          "A": "Because that was the cost to repair the artwork",
+          "B": "Because Wynn was sued for forty million dollars",
+          "C": "Because the painting lost an estimated forty million in value",
+          "D": "Because the buyer offered forty million instead"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_21",
+    "code": "R21",
+    "title": "R21: Family Folklore Project",
+    "topic": "Sociology & Folklore",
+    "difficulty": "medium",
+    "passage": "During the past three years, the staff members of the Smithsonian Institution's Family Folklore Project have interviewed hundreds of persons about their family folklore. To prepare for these interviews we drew upon our academic backgrounds in folklore and American studies, and upon our personal backgrounds as members of families. In addition, we reviewed the major instruction guides in genealogy, oral history, family history, and folklore fieldwork. Although these publications were all helpful in some way, no single book was completely adequate since family folklore combines -aspects of all the above disciplines. Over time we have developed guidelines and questions that have proven successful for us; we hope that the following suggestions will b e helpful to anyone who wishes to collect the folklore of his or her own family.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In line 6, \"publications\" means",
+        "options": {
+          "A": "members.",
+          "B": "backgrounds.",
+          "C": "schools.",
+          "D": "journals."
+        }
+      },
+      {
+        "number": 2,
+        "text": "In line 7, \"adequate\" most means",
+        "options": {
+          "A": "sufficient.",
+          "B": "unhelpful.",
+          "C": "boring.",
+          "D": "genealogical."
+        }
+      },
+      {
+        "number": 3,
+        "text": "What would be the topic of the paragraph that would follow this one?",
+        "options": {
+          "A": "How to gather family folklore",
+          "B": "History of the Smithsonian Institution",
+          "C": "A description of genealogy",
+          "D": "Useful books on family folklore"
+        }
+      },
+      {
+        "number": 4,
+        "text": "What can be inferred about the researchers who conducted the interviews?",
+        "options": {
+          "A": "They were mathematicians and physicists.",
+          "B": "They were historians and sociologists.",
+          "C": "They had children.",
+          "D": "They wrote books."
+        }
+      },
+      {
+        "number": 5,
+        "text": "The purpose of passage is to",
+        "options": {
+          "A": "motivate.",
+          "B": "berate.",
+          "C": "instruct.",
+          "D": "cajole."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The assumption of this passage is that",
+        "options": {
+          "A": "Anyone can successfully interview people about their family folklore with out prior training.",
+          "B": "American history is inherent in the family folklore of Americans.",
+          "C": "American history and folklore of Americans have no connections.",
+          "D": "No guidelines are needed in the interviews."
+        }
+      },
+      {
+        "number": 7,
+        "text": "According to the passage, which kind of instructional guid e was NOT consulted as a source?",
+        "options": {
+          "A": "Clinical sociology",
+          "B": "Genealogy guides",
+          "C": "Oral history",
+          "D": "Folklore fieldwork"
+        }
+      },
+      {
+        "number": 8,
+        "text": "\"Academic background\" refers to",
+        "options": {
+          "A": "life experience.",
+          "B": "college/university study.",
+          "C": "fieldwork.",
+          "D": "travel."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The final decision of the Smithsonian Institution's Family Folklore Project was to",
+        "options": {
+          "A": "use only a fieldwork guide to proceed with their work.",
+          "B": "trust only already published guides on how to proceed.",
+          "C": "use only historical accounts on how to collect family folklore.",
+          "D": "write their own guidelines on how to collect family folklore."
+        }
+      },
+      {
+        "number": 10,
+        "text": "One definition of family folklore represents it as",
+        "options": {
+          "A": "not historical in nature.",
+          "B": "not traditional in nature.",
+          "C": "not academic in nature.",
+          "D": "Inter disciplinary in nature."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_22",
+    "code": "R22",
+    "title": "R22: Popular Organic Gem",
+    "topic": "Gemology & Marine Life",
+    "difficulty": "medium",
+    "passage": "The most popular organic gem is the pearl. A pearl is the response of a marine mollusk to the presence of an irritating impurity accidentally introduced into its body; a cultured pearl is the result of the intentional insertion of a mother -of-pearl bead into a live mollusk. Whether introduced accidentally or intentionally, the pearl -making process is the same: the mollusk coats the irritant with a sub stance called nacre. Nacre is composed chiefly of calcium carbonate. Because very few natural pearls are now on the market, most pearls used in fine jewelry are cultured. These include \"Biwa\" pearls and most other freshwater pearls. Cultured pearls are not easily distinguished from natural pearls except by an expert.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following people could tell the difference between a cultured pearl and an organic pearl?",
+        "options": {
+          "A": "Scuba diver",
+          "B": "Fisherman",
+          "C": "Jeweler",
+          "D": "Clerk"
+        }
+      },
+      {
+        "number": 2,
+        "text": "In line 2, \"impurity\" most nearly means",
+        "options": {
+          "A": "mollusk.",
+          "B": "contaminant.",
+          "C": "pearl.",
+          "D": "diver."
+        }
+      },
+      {
+        "number": 3,
+        "text": "In line 5, \"irritant\" means",
+        "options": {
+          "A": "annoyance.",
+          "B": "aid.",
+          "C": "relief.",
+          "D": "jewelry."
+        }
+      },
+      {
+        "number": 4,
+        "text": "What is the chief component of nacre?",
+        "options": {
+          "A": "Sand",
+          "B": "Bead",
+          "C": "Calcium carbonate",
+          "D": "Biwa"
+        }
+      },
+      {
+        "number": 5,
+        "text": "In line 3, \"intentional\" means",
+        "options": {
+          "A": "deliberate.",
+          "B": "accidental.",
+          "C": "unconscious.",
+          "D": "forceful."
+        }
+      },
+      {
+        "number": 6,
+        "text": "A pearl is",
+        "options": {
+          "A": "a rock.",
+          "B": "a gemstone.",
+          "C": "a mineral.",
+          "D": "an organic gem."
+        }
+      },
+      {
+        "number": 7,
+        "text": "The difference between a pearl and a cultured pearl is the nature of the",
+        "options": {
+          "A": "color.",
+          "B": "introduction of the irritating impurity.",
+          "C": "coating material.",
+          "D": "irritating impurity"
+        }
+      },
+      {
+        "number": 8,
+        "text": "A mollusk, while not defined in this passage, must be",
+        "options": {
+          "A": "any animal.",
+          "B": "a land animal.",
+          "C": "the water organism which produces the pearl",
+          "D": "all the above"
+        }
+      },
+      {
+        "number": 9,
+        "text": "The main idea in this passage is that",
+        "options": {
+          "A": "most marketable pearls are cultured because nature does not produce enough of its own to satisfy the market.",
+          "B": "cultured pearls are of a higher quality than natural pearls.",
+          "C": "there are two major methods of pearl - making.",
+          "D": "a natural \"drought\" of pearl production is taking place."
+        }
+      },
+      {
+        "number": 10,
+        "text": "Nacre is a substance that is",
+        "options": {
+          "A": "mechanically manufactured.",
+          "B": "the result of laboratory testing.",
+          "C": "organically secreted by the mollusk.",
+          "D": "present in the chemical composition of freshwater pounds."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_23",
+    "code": "R23",
+    "title": "R23: Gaze of Humanity",
+    "topic": "Astronomy & History",
+    "difficulty": "medium",
+    "passage": "From the dawn of civilization, the gaze of humanity has been drawn to the stars. The stars have been relied upon to direct travelers, to make agricultural predictions, to win wars, and to awaken love in the hearts of men and women. Ancient stargazers pondering the nighttime sky saw definite star patterns emerge. The names for many of these star patterns retain the names given to them by the Greeks which were most often de rived from mythology. The Greeks only knew 48 star pattersn. Today's astronomers have charted 88 of these patterns, or constellations, which may be viewed from different parts of the world at different times of the year.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Stars have been relied upon for all of the following EXCEPT",
+        "options": {
+          "A": "as directional aids.",
+          "B": "for crop predictions.",
+          "C": "as medical cures.",
+          "D": "as war omens."
+        }
+      },
+      {
+        "number": 2,
+        "text": "In line 5, \"retain\" means",
+        "options": {
+          "A": "keep.",
+          "B": "eliminate.",
+          "C": "know.",
+          "D": "view."
+        }
+      },
+      {
+        "number": 3,
+        "text": "Approximately how many new patterns have been discovered since the time of the ancient Greeks?",
+        "options": {
+          "A": "40",
+          "B": "48",
+          "C": "88",
+          "D": "136"
+        }
+      },
+      {
+        "number": 4,
+        "text": "In line 6, \"derived\" means",
+        "options": {
+          "A": "written.",
+          "B": "gazed.",
+          "C": "drawn.",
+          "D": "learned."
+        }
+      },
+      {
+        "number": 5,
+        "text": "\"Predictions\" means",
+        "options": {
+          "A": "crop fertility.",
+          "B": "war success.",
+          "C": "Cupid's progress.",
+          "D": "travel directions."
+        }
+      },
+      {
+        "number": 6,
+        "text": "W hich of the following might share a name with a constellation?",
+        "options": {
+          "A": "A U.S. president",
+          "B": "A country in the Middle East",
+          "C": "An ancient Greek hero",
+          "D": "A farmer"
+        }
+      },
+      {
+        "number": 7,
+        "text": "The author states that",
+        "options": {
+          "A": "only adults are intrigued with the stars and constellations",
+          "B": "stars have scientific significance only.",
+          "C": "only children are intrigued with the stars and constellations.",
+          "D": "people have been intrigued with the stars and constellations since ancient times."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word <i>charted</i> in this passage means",
+        "options": {
+          "A": "admired.",
+          "B": "identified according to composition and location.",
+          "C": "illustrated.",
+          "D": "named"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Which two words are used synonymously in the passage?",
+        "options": {
+          "A": "Humanity-astronomers",
+          "B": "Different parts-different times",
+          "C": "Stargazers-travelers",
+          "D": "Patterns-constellations"
+        }
+      },
+      {
+        "number": 10,
+        "text": "The passage states that",
+        "options": {
+          "A": "man never depends on the stars.",
+          "B": "stars are only for beautifying our skies.",
+          "C": "man has depended on stars at times.",
+          "D": "moons are the same as stars."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_24",
+    "code": "R24",
+    "title": "R24: Visitor Center",
+    "topic": "Tourism & Conservation",
+    "difficulty": "medium",
+    "passage": "Try to make th e Visitor Center your first stop at any park. There you will find information on attractions, facilities, and activities such as scenic drives, nature trails, and historic tours. Descriptive films, literature, and exhibits will acquaint you with the geology, history, and plant and animal life of the area. The park staff will answer questions about accommodations, services, and the attractions. Most of the parks described in this book do not offer meals and lodging. Many parks can provide assistance for thos e who have visual, auditory, or other physical limitations. Most have parking lots, restrooms, and other features that are accessible to disabled persons. If accessibility is important to you, however, inquire in advance.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "What do most parks NOT offer?",
+        "options": {
+          "A": "Lodging",
+          "B": "Restrooms",
+          "C": "Nature trails",
+          "D": "Exhibits"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the fo llowing park areas might have special facilities for a handicapped person?",
+        "options": {
+          "A": "Nature trail",
+          "B": "Historic tour",
+          "C": "Restroom",
+          "D": "Restaurant"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Why should the Visitor Center be your first stop?",
+        "options": {
+          "A": "It will offer detailed information on the park and its activities.",
+          "B": "The Visitor Center always has free food.",
+          "C": "It is the only place with a bathroom.",
+          "D": "The Visitor Center is the only place to buy park passes."
+        }
+      },
+      {
+        "number": 4,
+        "text": "In this passage \"accessibility\" means",
+        "options": {
+          "A": "availability of admission tickets to certain areas.",
+          "B": "availability of park staff to assist people.",
+          "C": "the ease with which a physically disabled person can get to and through a park.",
+          "D": "in what direction one drives to get to a particular attraction."
+        }
+      },
+      {
+        "number": 5,
+        "text": "The implication for handicapped people is that",
+        "options": {
+          "A": "they are welcome but not provided for in most parks.",
+          "B": "they are welcome and provided for in most parks.",
+          "C": "they are not really welcome in most parks.",
+          "D": "there are no facilities for them in most parks."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The background material described includes all the following EXCEPT",
+        "options": {
+          "A": "interviews with inhabitants.",
+          "B": "exhibits.",
+          "C": "literature.",
+          "D": "films."
+        }
+      },
+      {
+        "number": 7,
+        "text": "\"accommodations\" means",
+        "options": {
+          "A": "Scenic drives-nature trails",
+          "B": "Geology-history",
+          "C": "Meals-lodging",
+          "D": "Plant life-animal life"
+        }
+      },
+      {
+        "number": 8,
+        "text": "What limitations does the author NOT consider with respect to requiring special assistance?",
+        "options": {
+          "A": "Visual limitations",
+          "B": "Auditory limitations",
+          "C": "Physical limitations",
+          "D": "Mental limitations"
+        }
+      },
+      {
+        "number": 9,
+        "text": "\"descriptive\" means",
+        "options": {
+          "A": "natural.",
+          "B": "comely.",
+          "C": "beautiful.",
+          "D": "representative."
+        }
+      },
+      {
+        "number": 10,
+        "text": "In line 9, \"inquire\" most nearly means",
+        "options": {
+          "A": "demand.",
+          "B": "ask.",
+          "C": "ignore.",
+          "D": "pay."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_25",
+    "code": "R25",
+    "title": "R25: Asbestos Millboard",
+    "topic": "Building Materials",
+    "difficulty": "medium",
+    "passage": "The use of asbestos millboard in wall and floor protection is a controversial because of the health hazard of asbestos fibers in the manufacturing, preparation, and handling of the millboard. The National Fire Protection Association is currently initiating the process of removing asbestos as a standard protection for reduced clearances. Since the process is a lengthy one, this new standard will probably not be in effect until early 1981. We strongly encourage the use of an alternative protection whenever one is available. However, if you must use the asbestos millboard, use it cautiously. We recommend painting the asbestos to keep the fibers from coming loose. If the board must be cut, do not inhale the dust; do the work outdoors, using a breathing mask.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Where should the millboard be cut?",
+        "options": {
+          "A": "In a closed room",
+          "B": "Outdoors",
+          "C": "Under a tarp",
+          "D": "Under a clearance"
+        }
+      },
+      {
+        "number": 2,
+        "text": "What precaution should be taken when cutting millbord?",
+        "options": {
+          "A": "Wear gloves",
+          "B": "Paint the board first",
+          "C": "Wear a breathing mask",
+          "D": "Wear overalls"
+        }
+      },
+      {
+        "number": 3,
+        "text": "In line 2, \"hazard\" most nearly means",
+        "options": {
+          "A": "danger.",
+          "B": "benefit.",
+          "C": "aid.",
+          "D": "Enhancer"
+        }
+      },
+      {
+        "number": 4,
+        "text": "This passage serves as a(n)",
+        "options": {
+          "A": "Instruction",
+          "B": "benefit.",
+          "C": "Aid",
+          "D": "warning."
+        }
+      },
+      {
+        "number": 5,
+        "text": "\"standard\" most nearly means",
+        "options": {
+          "A": "asbestos.",
+          "B": "flag.",
+          "C": "Criterion",
+          "D": "Millboard"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The overall implication of the passage is",
+        "options": {
+          "A": "asbestos is as safe as other building materials.",
+          "B": "only touching the asbestos fibers with your hands is harmful.",
+          "C": "asbestos can be harmful to one's health.",
+          "D": "using asbestos in building materials is all right."
+        }
+      },
+      {
+        "number": 7,
+        "text": "What can be used as a deterrent to the hazard of asbestos?",
+        "options": {
+          "A": "Water",
+          "B": "Boards",
+          "C": "Air",
+          "D": "Paint"
+        }
+      },
+      {
+        "number": 8,
+        "text": "The National fire Protection Association is",
+        "options": {
+          "A": "promoting asbestos as a safe building material.",
+          "B": "becoming active in the removal of asbestos as a standard building material.",
+          "C": "taking a \"wait -and-see\" position on asbestos as a building material.",
+          "D": "staying out of the asbestos cont roversy completely."
+        }
+      },
+      {
+        "number": 9,
+        "text": "\"Controversial\" as used in this passage means",
+        "options": {
+          "A": "without pro and con sides in the question of its use.",
+          "B": "an issue about which there are strong opinions on both the pro and con sides.",
+          "C": "an issue about which there is agreement.",
+          "D": "something no one really cares about."
+        }
+      },
+      {
+        "number": 10,
+        "text": "\"Inhale\" in this passage means",
+        "options": {
+          "A": "breathe into either nose or mouth.",
+          "B": "take in air through eyes.",
+          "C": "get fibers under fingernails.",
+          "D": "get fibers in open cuts and sores."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_26",
+    "code": "R26",
+    "title": "R26: Verbal Dyspraxia",
+    "topic": "Medicine & Speech Pathology",
+    "difficulty": "medium",
+    "passage": "The term verbal dyspraxia is used by some scientists and clinicians to describe the inability to produce the sequential, rapid, and precise movements required for speech. Nothing is wrong with the child's vocal apparatus, but the child's brai n cannot give correct instructions for the motor movements involved in speech. This disorder is characterized by many sound omissions. Some verbally dyspraxic children, for instance, speak only in vowels, making their speech nearly unintelligible. One litt le boy trying to say \"My name is Billy\" can only manage \"eye a eh ee -ee\". These children also have very slow, halting speech with many false starts before the right sounds are produced. Their speech errors may be similar to those children with phonological impairment.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In line 3, \"apparatus\" most nearly means",
+        "options": {
+          "A": "device.",
+          "B": "child.",
+          "C": "brain.",
+          "D": "speech."
+        }
+      },
+      {
+        "number": 2,
+        "text": "In line 4, \"characterized\" most nearly means",
+        "options": {
+          "A": "appeared.",
+          "B": "described.",
+          "C": "emoted.",
+          "D": "spoken."
+        }
+      },
+      {
+        "number": 3,
+        "text": "What is a characteristic of speech in children with verbal dyspraxia?",
+        "options": {
+          "A": "Rapid",
+          "B": "Clear",
+          "C": "Concise",
+          "D": "Halting"
+        }
+      },
+      {
+        "number": 4,
+        "text": "In line 6, \"unintelligible\" most nearly means",
+        "options": {
+          "A": "clear.",
+          "B": "unstoppable.",
+          "C": "unrecognizable.",
+          "D": "slow."
+        }
+      },
+      {
+        "number": 5,
+        "text": "In line 9, \"impairment\" most nearly means",
+        "options": {
+          "A": "repair.",
+          "B": "problem.",
+          "C": "speech.",
+          "D": "instructions."
+        }
+      },
+      {
+        "number": 6,
+        "text": "A person suffering from verbal dyspraxia cannot produce",
+        "options": {
+          "A": "precise speech sounds.",
+          "B": "vowel sounds.",
+          "C": "more than one sound in a series.",
+          "D": "any human sounds"
+        }
+      },
+      {
+        "number": 7,
+        "text": "Sound omissions in verbally dyspraxic children are",
+        "options": {
+          "A": "only occasional.",
+          "B": "very rare.",
+          "C": "nonexistent.",
+          "D": "common."
+        }
+      },
+      {
+        "number": 8,
+        "text": "Similarity of speech errors exists between",
+        "options": {
+          "A": "stroke victims and verbal dyspraxics.",
+          "B": "heart attack victims and verbal dyspraxics.",
+          "C": "verbal dyspraxics and children with phonological impairment.",
+          "D": "mutes and verbal dyspraxics."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The implication about consonants in this passage is that",
+        "options": {
+          "A": "they are not necessary for intelligent human speech.",
+          "B": "without them human speech is unintelligible.",
+          "C": "lack of them causes stuttering.",
+          "D": "lack of them slows down human speech."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The real source in the disability of verbal dyspraxia is",
+        "options": {
+          "A": "vocal apparatus.",
+          "B": "the brain's inability to give instructions for motor movements involved in speech.",
+          "C": "the child's personality.",
+          "D": "a physical disability."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_27",
+    "code": "R27",
+    "title": "R27: Baseball Origin",
+    "topic": "Sports History",
+    "difficulty": "medium",
+    "passage": "There has been much speculation about the origin of baseball. In 1907 a special commission decided that the modern game was invented by Abner Doubleday, a West Point cadet, at Cooperstown, N.Y., in 1839. One hundred year s later the National Baseball Museum was opened at Cooperstown to honor Doubleday. Historians, however, disagree about the origin of baseball. Some say that baseball comes from bat-and-ball games of ancient times. It is a matter of record that in the 1700s English boys played a game they called baseball. Americans have played a kind of baseball since about 1800. At first the American game had different rules and different names in various parts of the country - town ball, rounders, or one old cat. Youngsters today still play some of these simplified forms of the game. Baseball did not receive a standard set of rules until 1845, when Alexander Cartwright organized the Knickerbocker Baseball Club of New York City. The rules, Cartwright set up for his nine-player team, were widely adopted by other clubs and formed the basis of modern baseball. The game was played on a \"diamond\" infield with the bases 90 feet apart. The first team to score 21 runs was declared the winner. By 1858 the National Association of Base B all Players was formed with 25 amateur teams. The Cincinnati Red Stockings began to pay players in 1869.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following is true about the origins of baseball?",
+        "options": {
+          "A": "Historians agree that baseball was invented by Abner Doubleday.",
+          "B": "Baseball, as played in the early nineteenth century, differed very little from today's game.",
+          "C": "As early as the 1700s, English boys played a game called \"baseball.\"",
+          "D": "The first standard set of baseball rules was established at the turn of the century."
+        }
+      },
+      {
+        "number": 2,
+        "text": "What was the first professional baseball team?",
+        "options": {
+          "A": "New York Knickerbockers",
+          "B": "Milwaukee Braves",
+          "C": "Cincinnati Red Stockings",
+          "D": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "Who first gave baseball a standard set of rules?",
+        "options": {
+          "A": "Abner Doubleday",
+          "B": "Alexander Cartwright",
+          "C": "Albert Spalding",
+          "D": "Babe Ruth"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the following was not a predecessor of baseball?",
+        "options": {
+          "A": "Rounders",
+          "B": "Town ball",
+          "C": "Cricket",
+          "D": "One old cat"
+        }
+      },
+      {
+        "number": 5,
+        "text": "In what year was the National Baseball Museum opened?",
+        "options": {
+          "A": "1939",
+          "B": "1907",
+          "C": "1839",
+          "D": "1845"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The word <i>adopted</i> means",
+        "options": {
+          "A": "established.",
+          "B": "accepted.",
+          "C": "rejected.",
+          "D": "abolished."
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word <i>standard</i> means",
+        "options": {
+          "A": "normal.",
+          "B": "disputed.",
+          "C": "conclusive.",
+          "D": "official."
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to the passage, where is the National Baseball Museum located?",
+        "options": {
+          "A": "Cooperstown",
+          "B": "New York City",
+          "C": "Cincinnati",
+          "D": "West Point"
+        }
+      },
+      {
+        "number": 9,
+        "text": "The tone of the passage is",
+        "options": {
+          "A": "persuasive.",
+          "B": "informative.",
+          "C": "biased.",
+          "D": "argumentative."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The passage imp lies that until 1869, baseball was played for all of the following reasons EXCEPT:",
+        "options": {
+          "A": "exercise.",
+          "B": "leisure.",
+          "C": "profit.",
+          "D": "Socializing"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_28",
+    "code": "R28",
+    "title": "R28: The Blue of Sea",
+    "topic": "Oceanography",
+    "difficulty": "medium",
+    "passage": "The blue of the sea is caused by the scattering of sunlight by tiny particles in the water. Blue light, being of short waveleng th, is scattered more efficiently than light of longer wavelengths. Although waters of the open ocean are commonly some shade of blue, especially in or subtropical regions, green water is commonly seen near coasts. This is caused by yellow pigments being m ixed with blue water. Phytoplankton are one source of the yellow pigment. Other microscopic plants may color the water brown or brownish-red. Near the shore silt or sediment in suspension can give waters a brownish hue; outflow of large rivers can often be observed many miles offshore by the coloration of suspended soil particles. Marine phytoplankton (Greek for \"plant wanderers\") are microscopic single -celled plants that include diatoms, dinoflagellates, coccolithophorids, green algae, and blue -green algae, among others. The growth of these organisms, which photosynthesize light, depends on a delicate balance between nutrient enrichment by vertical mixing, often limited by the availability of nitrogen and light. Diatoms are one -celled plants with patterned glass coverings. Each glass, or silicon dioxide box, is ornamented with species-specific designs, pits, and perforations making them popular with microscopists and, more recently, scanning electron microscopists. Some of the thousands of kinds of phytoplan kton swim feebly by lashing a whiplike thread appendage called a flagellum. The dinoflagellates are known for their bioluminescence, or phosphorescence, a \"cold light\" similar to that of fireflies.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The growth of phytoplankton is often limited by the availability of",
+        "options": {
+          "A": "oxygen.",
+          "B": "hydrogen.",
+          "C": "nitrogen.",
+          "D": "carbon dioxide."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following is not a type of phytoplankton?",
+        "options": {
+          "A": "Green algae",
+          "B": "Diatoms",
+          "C": "Blue-green algae",
+          "D": "Amoeba"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Many phytoplankton use an appendage called a flagellum for",
+        "options": {
+          "A": "reproduction.",
+          "B": "propulsion.",
+          "C": "digestion.",
+          "D": "respiration."
+        }
+      },
+      {
+        "number": 4,
+        "text": "What color pigment is phytoplankton a source of?",
+        "options": {
+          "A": "Red",
+          "B": "Green",
+          "C": "Yellow",
+          "D": "Blue"
+        }
+      },
+      {
+        "number": 5,
+        "text": "What can give waters a brownish hue near the shore?",
+        "options": {
+          "A": "Sediment",
+          "B": "Phytoplankton",
+          "C": "Blue pigment",
+          "D": "Diatoms"
+        }
+      },
+      {
+        "number": 6,
+        "text": "All ocean water is the same shade of blue",
+        "options": {
+          "A": "in all places.",
+          "B": "at all times.",
+          "C": "hardly ever.",
+          "D": "because all light waves are the same length."
+        }
+      },
+      {
+        "number": 7,
+        "text": "Blue light is",
+        "options": {
+          "A": "a short wavelength.",
+          "B": "a long wavelength.",
+          "C": "about equal to all other wavelengths.",
+          "D": "not scatterable."
+        }
+      },
+      {
+        "number": 8,
+        "text": "Green water near coastlines is almost always caused by",
+        "options": {
+          "A": "sand color.",
+          "B": "red pigments in coastal waters.",
+          "C": "blue pigment.",
+          "D": "reflected light and yellow pigment from plant life."
+        }
+      },
+      {
+        "number": 9,
+        "text": "Phytoplankton are",
+        "options": {
+          "A": "short light rays.",
+          "B": "suspended soil particles.",
+          "C": "microscopic floating plants.",
+          "D": "long light rays."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The main idea of passage is",
+        "options": {
+          "A": "light causes sea color.",
+          "B": "sea co loration is varied because of a combination of length of light waves and microscopic plant life and silt.",
+          "C": "microscopic plant life causes sea color.",
+          "D": "water composition causes sea color."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_29",
+    "code": "R29",
+    "title": "R29: Biomass",
+    "topic": "Renewable Energy",
+    "difficulty": "medium",
+    "passage": "Biomass is organic material such as trees, crops, manure, seaweed, and algae. Biomass captures and stores energy though a process called photosynthesis. Carbon dioxide from the air enters the leaf through the stomata. Water travels to the leaf cells from the soil through the xylem in the roots and stems. The captured light energy is then used to break down the water into oxygen molecules and hydrogen atoms and to join these hydrogen atoms to the carbon dioxide molecules to make sugar molecules. Six molecules of oxygen are produced as a waste product and are released into the air through the stomata. This energy can be released from any form of biomass through conversion processes to produce a variety of useful energy forms -gas, steam, hydrogen, charcoal, methane, and synthetic oils with by -products for food, fertilizers, and chemicals as a bonus. These energy forms in turn can be used to produce electricity, heat, and transportation fuels, reducing the use of conventional nonrenewable energy sources.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Which of the following is NOT an energy form produced by the conversion of biomass?",
+        "options": {
+          "A": "Methane",
+          "B": "Steam",
+          "C": "Oxygen",
+          "D": "Synthetic oils"
+        }
+      },
+      {
+        "number": 2,
+        "text": "What is the name of the specialized structures in green plants that carries out photosynthesis?",
+        "options": {
+          "A": "Enzymes",
+          "B": "Chlorophyll",
+          "C": "Stomata",
+          "D": "Chloroplasts"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which of the following is NOT an essential \"ingredient\" for photosynthesis to occur?",
+        "options": {
+          "A": "Sunlight",
+          "B": "Carbon dioxide",
+          "C": "Oxygen",
+          "D": "Water"
+        }
+      },
+      {
+        "number": 4,
+        "text": "In line 11, \"synthetic\" most nearly means",
+        "options": {
+          "A": "artificial.",
+          "B": "natural.",
+          "C": "useful.",
+          "D": "organic."
+        }
+      },
+      {
+        "number": 5,
+        "text": "How many molecules of oxygen are produced by photosynthesis\"",
+        "options": {
+          "A": "Four",
+          "B": "Eight",
+          "C": "Six",
+          "D": "Tow"
+        }
+      },
+      {
+        "number": 6,
+        "text": "The main idea of this passage is that biomass",
+        "options": {
+          "A": "is inorganic material.",
+          "B": "uses energy",
+          "C": "is the beginning of many natural energy forms that conserve use of conventional energy sources.",
+          "D": "uses photosynthesis to transport fuels"
+        }
+      },
+      {
+        "number": 7,
+        "text": "Which of the following is not mentioned in the passage as organic material?",
+        "options": {
+          "A": "Metal",
+          "B": "Crops",
+          "C": "Manure",
+          "D": "Algae"
+        }
+      },
+      {
+        "number": 8,
+        "text": "\"photosynthesis\" is the",
+        "options": {
+          "A": "process needed to create algae.",
+          "B": "reason nonrenewable energy sources can be saved.",
+          "C": "method of producing electricity",
+          "D": "process biomass uses to capture and store energy."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The conversion process is considered what part of the biomass continuum?",
+        "options": {
+          "A": "Beginning point",
+          "B": "Release valve",
+          "C": "End point",
+          "D": "Shut-off valve"
+        }
+      },
+      {
+        "number": 10,
+        "text": "\"Bonus\" in passage refers to",
+        "options": {
+          "A": "byproducts.",
+          "B": "biomass.",
+          "C": "photosynthesis.",
+          "D": "conversion."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_30",
+    "code": "R30",
+    "title": "R30: Appropriate Nutrient Intakes",
+    "topic": "Health & Dietary Science",
+    "difficulty": "medium",
+    "passage": "The United Sta tes government publishes guidelines for appropriate nutrient intakes. These are known as the Recommended Dietary Allowances (RDA s) and are updated regularly based on new research in the science of nutrition. RDA s are suggested amounts of calories, protein, and some minerals and vitamins for an adequate diet. For other dietary substances, specific goals must await further research. However, for the U.S. population as a whole, increasing starch and fiber in our diets and reducing calories (primarily from fats, sugar, and alcohol) is sensible. These suggestions are especially appropriate for people who have other factors for chronic diseases such as family history of obesity, premature heart disease, diabetes, high blood pressure, and high blood cholesterol, or for those who use tobacco. Snacks can furnish about one - fourth of the calorie requirements among teenagers. Those snacks should also furnish much of the day's allowances for protein, minerals, and vitamins. Sandwiches, fruit, and milk make good snacks for active teenagers. Food from the food pyramid may be part of any meal. A grilled cheese sandwich or a bowl of whole -grain cereal is just as nutritious in the morning as it is at noon. In addition, a good breakfast consists of any foods that supply about one-fourth of the necessary nutrients for the day.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The passage directly states that most of the U.S. population should increase their intake of",
+        "options": {
+          "A": "protein.",
+          "B": "fats.",
+          "C": "starch and fiber.",
+          "D": "sandwiches."
+        }
+      },
+      {
+        "number": 2,
+        "text": "A good breakfast should supply about what percentage of the necessary nutrients for the day?",
+        "options": {
+          "A": "One-half",
+          "B": "One-third",
+          "C": "One-fourth",
+          "D": "Less than one-fourth"
+        }
+      },
+      {
+        "number": 3,
+        "text": "\"adequate\" most nearly means",
+        "options": {
+          "A": "superior.",
+          "B": "sufficient.",
+          "C": "long-lasting.",
+          "D": "Adult"
+        }
+      },
+      {
+        "number": 4,
+        "text": "The passage implies which of the following?",
+        "options": {
+          "A": "The time of day when food is consu med affects its nutritive value.",
+          "B": "Different foods can be combined to increase total nutrition value.",
+          "C": "It can be detrimental to your health to eat breakfast foods later in the day.",
+          "D": "When food is eaten has no bearing on its nutritive effects."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Why are RDAs regularly updated?",
+        "options": {
+          "A": "New discoveries in the science of nutrition are constantly being made.",
+          "B": "American's diets are constantly changing.",
+          "C": "As people age, their nutritional needs change.",
+          "D": "Very little is currently known about nutrition."
+        }
+      },
+      {
+        "number": 6,
+        "text": "In this passage RDAs refers to",
+        "options": {
+          "A": "types of vitamins.",
+          "B": "types of protein.",
+          "C": "types of minerals.",
+          "D": "amounts of energy, protein, vitamins, and minerals"
+        }
+      },
+      {
+        "number": 7,
+        "text": "One implication in this passage is that",
+        "options": {
+          "A": "all RDAs have been established.",
+          "B": "not all RDAs have been established yet.",
+          "C": "it's not important to know RDAs.",
+          "D": "RDAs are necessary only for sick people"
+        }
+      },
+      {
+        "number": 8,
+        "text": "Most of the U.S. population would do well to include in their diets more",
+        "options": {
+          "A": "alcohol.",
+          "B": "sugars.",
+          "C": "fats.",
+          "D": "starch and fiber."
+        }
+      },
+      {
+        "number": 9,
+        "text": "\"Chronic\" as used in line 8 means",
+        "options": {
+          "A": "continuing.",
+          "B": "intermittent.",
+          "C": "acute.",
+          "D": "curable."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The re duction of calories in the diet is particularly good for people who suffer from",
+        "options": {
+          "A": "obesity.",
+          "B": "premature heart disease and diabetes.",
+          "C": "high blood pressure and cholesterol levels",
+          "D": "All of the above"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_31",
+    "code": "R31",
+    "title": "R31: Flourishing in Grassy",
+    "topic": "Ornithology & Wildlife",
+    "difficulty": "medium",
+    "passage": "Once flourishing in grassy marshlands and bogs, the whooping crime almost disappeared as people's croplands and cities altered its natural habitat In the late 1940s, only one flock of fewer than 20 whooping cranes was left in the world. No one knew where the whooper went to lay its eggs but after a long search, scientists found the whooping crane's nesting grounds in Canada's remote Wood Buffalo Park in 1954. It was a crucial disc overy, enabling biologists to begin a comprehensive program to save the great white birds. Strenuous efforts are made by Canada and the United States to protect this magnificent bird. The education of the hunter along with its flyway is important. The cra nes are impressive in flight -great white birds with a seven-foot (2-meter) spread between their black wing tips. There are other large white birds with black wing tips, however -the white pelican, wood ibis, and snow goose. And the young birds, mottled with rusty brown, could be mistaken for the more common sand hill cranes. The federal authorities, therefore, are urging hunters to adopt the slogan. \"Don't Shoot Any Large White Bird.\"",
+    "questions": [
+      {
+        "number": 1,
+        "text": "The whooping crane almost disappeared because of",
+        "options": {
+          "A": "disease.",
+          "B": "alteration of its habitat.",
+          "C": "overeating.",
+          "D": "change in climate."
+        }
+      },
+      {
+        "number": 2,
+        "text": "The whooping crane nests in",
+        "options": {
+          "A": "Yosemite National Park.",
+          "B": "the Gulf coast of Florida.",
+          "C": "Wood Buffalo Park.",
+          "D": "Mexico."
+        }
+      },
+      {
+        "number": 3,
+        "text": "The whooping crane is similar in appearance to",
+        "options": {
+          "A": "the while pelican.",
+          "B": "the wood ibis.",
+          "C": "the snow goose.",
+          "D": "All of the above."
+        }
+      },
+      {
+        "number": 4,
+        "text": "The young whooping crane could be mistaken for",
+        "options": {
+          "A": "a sand hill crane.",
+          "B": "a bald eagle.",
+          "C": "a seagull.",
+          "D": "a vulture."
+        }
+      },
+      {
+        "number": 5,
+        "text": "It can be inferred from the author's tone that he/she feels which of the following.?",
+        "options": {
+          "A": "Whooping cranes should be allowed to become extinct.",
+          "B": "Whooping cranes are overabundant.",
+          "C": "Whooping cranes should be protected.",
+          "D": "Whooping cranes should be hunted."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The implication here was that at one time the whooping crane was almost",
+        "options": {
+          "A": "extinct.",
+          "B": "nesting.",
+          "C": "overabundant.",
+          "D": "wiped out by disease."
+        }
+      },
+      {
+        "number": 7,
+        "text": "The main idea in this passage is that whooping cranes",
+        "options": {
+          "A": "are extinct.",
+          "B": "nest in Canada.",
+          "C": "would not have been saved if their nesting grounds had not been found.",
+          "D": "are egg laying."
+        }
+      },
+      {
+        "number": 8,
+        "text": "The word <i>altered</i> refers to",
+        "options": {
+          "A": "left unchanged.",
+          "B": "changed by encroaching civilizations.",
+          "C": "fixed.",
+          "D": "moved."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The word <i>crucial</i> in line 6 means",
+        "options": {
+          "A": "of little consequence.",
+          "B": "mildly important.",
+          "C": "least important.",
+          "D": "most important."
+        }
+      },
+      {
+        "number": 10,
+        "text": "\"Remote\" in line 5 means",
+        "options": {
+          "A": "on the edge of the wilderness.",
+          "B": "close to civilization.",
+          "C": "easily accessible.",
+          "D": "far away from civilization."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_32",
+    "code": "R32",
+    "title": "R32: Albert Einstein",
+    "topic": "Physics & Biography",
+    "difficulty": "medium",
+    "passage": "Any list of the greatest thinkers in history contai ns the name of the brilliant physicist Albert Einstein. His theories of relativity led to entirely new ways of thinking about time, space, matter, energy, and gravity. Einstein's work led to such scientific advances as the control of atomic energy, even te levision as a practical application of Einstein's work. In 1902 Einstein became an examiner in the Swiss patent office at Bern. In 1905, at age 26, he published the first of five major research papers. The first one provided a theory explaining Brownian mo vement, the zig -zag motion of microscopic particles in suspension. The second paper laid the foundation for the photon, or quantum, theory of light. In it he proposed that light is composed of separate packets of energy, called quanta or photons that have some of the properties of particles and some of the properties of waves. A third paper contained the \"special theory of relativity\" which showed that time and motion are relative to the observer, if the speed of light is constant and the natural laws are t he same everywhere in the universe. The fourth paper was a mathematical addition to the special theory of relativity. Here Einstein presented his famous formula, E = m(cc), known as the energy mass equivalence. In 1916, Einstein published his general theor y of relativity. In it he proposed that gravity is not a force, but a curve in the space -time continuum, created by the presence of mass. Einstein spoke out frequently against nationalism, the exalting of one nation above all others. He opposed war and vio lence and supported Zionism, the movement to establish a Jewish homeland in Palestine. When the Nazis came to power in 1933, they denounced his ideas. He then moved to the United States. In 1939 Einstein learned that two German chemists had split the uran ium atom. Einstein wrote to President Franklin D. Roosevelt warning him that this scientific knowledge could lead to Germany developing an atomic bomb. He suggested the United States begin its own atomic bomb research.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Einstein's primary work was in the area of",
+        "options": {
+          "A": "chemistry.",
+          "B": "biology.",
+          "C": "physics.",
+          "D": "engineering."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following inventions is mentioned in the passage as a practical application of Einstein's discoveries?",
+        "options": {
+          "A": "Radio",
+          "B": "Automobiles",
+          "C": "Computers",
+          "D": "Television"
+        }
+      },
+      {
+        "number": 3,
+        "text": "According to the passage, Einstein supported all of the following except",
+        "options": {
+          "A": "the establishment of a Jewish homeland in Palestine.",
+          "B": "nationalism.",
+          "C": "atomic bomb research in the United States.",
+          "D": "the defeat of the Nazis."
+        }
+      },
+      {
+        "number": 4,
+        "text": "In which country was Einstein born?",
+        "options": {
+          "A": "Switzerland",
+          "B": "United States",
+          "C": "Germany",
+          "D": "Israel"
+        }
+      },
+      {
+        "number": 5,
+        "text": "What is \"Brownian movement\"?",
+        "options": {
+          "A": "The zig-zag motion of micros -copic particles in suspension",
+          "B": "The emiss ion of electrons from solids when struck by light",
+          "C": "The motion of photons in light",
+          "D": "The basis of the theory of relativity"
+        }
+      },
+      {
+        "number": 6,
+        "text": "Einstein was a citizen of all of the following countries EXCEPT",
+        "options": {
+          "A": "Belgium.",
+          "B": "Germany.",
+          "C": "United States.",
+          "D": "Switzerland."
+        }
+      },
+      {
+        "number": 7,
+        "text": "It is clear from th e tone of the passage that the author feels",
+        "options": {
+          "A": "Einstein's work in physics was somewhat tarnished by his conservative political views.",
+          "B": "Albert Einstein was one of the most brilliant thinkers in history.",
+          "C": "Einstein's work in physics, though theoretically impressive, led to few practical applications.",
+          "D": "Einstein's theories have been consistently proven incorrect."
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to Einstein's special theory of relativity,",
+        "options": {
+          "A": "all properties of matter and energy can be explained in a single mathematical formula.",
+          "B": "light is co mposed of separate packets of energy.",
+          "C": "time and motion are relative to the observer.",
+          "D": "some solids emit electrons when struck by light"
+        }
+      },
+      {
+        "number": 9,
+        "text": "In line 18, the word <i>exalting</i> most nearly means",
+        "options": {
+          "A": "elevation.",
+          "B": "criticism.",
+          "C": "support.",
+          "D": "elimination."
+        }
+      },
+      {
+        "number": 10,
+        "text": "According to Einstein, light is composed of separate packets of energy called",
+        "options": {
+          "A": "electrons.",
+          "B": "photoelectrons.",
+          "C": "quanta.",
+          "D": "gamma rays"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_33",
+    "code": "R33",
+    "title": "R33: Earth's Characteristics",
+    "topic": "Geophysics & Astronomy",
+    "difficulty": "medium",
+    "passage": "As vie wed from space. Earth's distinguishing characteristics are its blue waters and white clouds. Enveloped by an ocean of air consisting of 78%nitrogen and 21% oxygen, the planet is the only one in our solar system known to harbor life. Circling the Sun at an average distance of 149 million km (93 million miles). Earth is the third planet from the Sun and the fifth largest planet in the solar system. Its rapid spin and molten nickel-iron core give rise to an extensive magnetic field which, coupled with the atmosphere, shields us from nearly all of the harmful radiation coming from the Sun and other stars. Most meteors burn up in the Earth's atmosphere before they can strike the surface. The planet's active geological processes have left no evidence of the ancient pelting it almost certainly received soon after it was formed. The Earth has a single natural satellite- the Moon.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Approximately how much of the Earth's atmosphere is nitrogen?",
+        "options": {
+          "A": "One-fourth",
+          "B": "One-half",
+          "C": "Three-fourths",
+          "D": "All of it"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following helps to create Earth's magnetic fields?",
+        "options": {
+          "A": "Its blue waters",
+          "B": "Its nitrogen atmosphere",
+          "C": "Its molten metal core",
+          "D": "The Moon"
+        }
+      },
+      {
+        "number": 3,
+        "text": "What two factors help protect the Earth from radiation?",
+        "options": {
+          "A": "Magnetic field and atmosphere",
+          "B": "Rapid spin and molten iron-nickel core",
+          "C": "The Sun and the Moon",
+          "D": "Blue waters and white clouds"
+        }
+      },
+      {
+        "number": 4,
+        "text": "In line 2, \"consisting\" most nearly means",
+        "options": {
+          "A": "hardening.",
+          "B": "containing.",
+          "C": "withholding.",
+          "D": "Shortening"
+        }
+      },
+      {
+        "number": 5,
+        "text": "Why does the Earth show almost no signs of having been hit by numerous meteors in the past?",
+        "options": {
+          "A": "Humans have built over most of the craters.",
+          "B": "Most meteors fell into the ocean and not on land.",
+          "C": "Earth's magnetic field repeled most meteors.",
+          "D": "Earth's natural geologic activity has eliminated most traces."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The main idea of this passage is that ther e are life-supporting",
+        "options": {
+          "A": "Characteristics on Earth.",
+          "B": "Earth is predominantly water.",
+          "C": "Earth has no common characteristics with other planets.",
+          "D": "Earth is the only planet with a moon."
+        }
+      },
+      {
+        "number": 7,
+        "text": "The word <i>distinguishing</i> as it is used in this selection means",
+        "options": {
+          "A": "elevating in nature.",
+          "B": "devastating in nature.",
+          "C": "characteristics like all other planets.",
+          "D": "characteristics that set it apart from other planets."
+        }
+      },
+      {
+        "number": 8,
+        "text": "It's probable that the next paragraph would discuss",
+        "options": {
+          "A": "people on planets.",
+          "B": "the solar system as a whole.",
+          "C": "the Earth's natural satellite- the Moon.",
+          "D": "rings around Saturn."
+        }
+      },
+      {
+        "number": 9,
+        "text": "As used in this selection, the word <i>harbor</i> issynonymous with",
+        "options": {
+          "A": "Support",
+          "B": "Surround",
+          "C": "Water",
+          "D": "Include"
+        }
+      },
+      {
+        "number": 10,
+        "text": "This selection leads one to believe that",
+        "options": {
+          "A": "Earth never gets hit by meteors.",
+          "B": "Earth always gets hit by meteors.",
+          "C": "Earth was h it by meteors in some past time period.",
+          "D": "Earth may be bombarded by meteors in the near future."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_34",
+    "code": "R34",
+    "title": "R34: Endangered Species",
+    "topic": "Wildlife Conservation",
+    "difficulty": "medium",
+    "passage": "Since life began eons ago, thousands of creatures have come and gone. Some, such as the dinosaurs, became extinc t due to naturally changing ecologic conditions. More recent threats to life forms are humans and their activities. Man has drained marshes, burned prairies, damned and diverted rivers. Some of the more recent casualties of man's expansion have been the do do, great auk, passenger pigeon, Irish elk, and Steller's sea cow. Sadly, we can no longer attribute the decline in our wild animals and plant species to \"natural\" processes. Many species are dying out because of exploitation, habitat alteration or destruc tion, pollution, or the introduction of new species of plants and animals to an area. As mandated by Congress, protecting endangered species, and restoring them to the point where their existence is no longer jeopardized, is the primary objective of the U. S. Fish and Wildlife Service's Endangered Species Program.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In line 1, \"eons\" most nearly means",
+        "options": {
+          "A": "ages.",
+          "B": "particles.",
+          "C": "animals.",
+          "D": "conditions."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following h ave become extinct due to man's destruction?",
+        "options": {
+          "A": "African elephants",
+          "B": "Irish elk",
+          "C": "Giant panda",
+          "D": "White Bengal"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Which of the following is a form of man's habitat alteration?",
+        "options": {
+          "A": "Glacial encroachment",
+          "B": "Hurricanes",
+          "C": "Damned rivers",
+          "D": "Snowstorms"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Which of the following would be a likely theme for the next paragraph?",
+        "options": {
+          "A": "Naturally changing ecological conditions",
+          "B": "Animals that have become extinct",
+          "C": "Achievements of the government Endangered Species program",
+          "D": "Programs that have destroyed natural habitats"
+        }
+      },
+      {
+        "number": 5,
+        "text": "In line 6, \"attribute\" most nearly means",
+        "options": {
+          "A": "assign.",
+          "B": "characteristic.",
+          "C": "introduce.",
+          "D": "change."
+        }
+      },
+      {
+        "number": 6,
+        "text": "The tone of this passage is",
+        "options": {
+          "A": "Nationalistic",
+          "B": "pro-wildlife",
+          "C": "anti-wildlife",
+          "D": "feminist"
+        }
+      },
+      {
+        "number": 7,
+        "text": "\"Habitat alteration\" as used in this paragraph means",
+        "options": {
+          "A": "changing clothes.",
+          "B": "changing animals' environments.",
+          "C": "changing humans' environments.",
+          "D": "climate change."
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to this passage,",
+        "options": {
+          "A": "man is the cause of some animal extinction.",
+          "B": "animals often bring about their own extinction.",
+          "C": "Congress can absolutely end extinction of animals.",
+          "D": "a law is more important than human responsibility."
+        }
+      },
+      {
+        "number": 9,
+        "text": "Which of the following is NOT a cause of increasing decline of wild animal population?",
+        "options": {
+          "A": "Exploitation",
+          "B": "Pollution",
+          "C": "Habitat alteration",
+          "D": "Congressional law"
+        }
+      },
+      {
+        "number": 10,
+        "text": "The primary objective of the U.S. Fish and Wildlife Service's Endangered Species Program can be stated as",
+        "options": {
+          "A": "custodial care of endangered species.",
+          "B": "enforcement of Congressional law.",
+          "C": "education of the public.",
+          "D": "stopping pollution."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_35",
+    "code": "R35",
+    "title": "R35: Psychotic Symptoms",
+    "topic": "Psychology & Psychiatry",
+    "difficulty": "medium",
+    "passage": "With the sudden onset of severe psychotic symptoms, the individual is said to be experiencing acute schizophrenia. \"Psychotic\" means out of touch with reality, or unable to separate real from unreal experiences. Some people have only one such psychotic episode; others have many episodes during a lifetime but lead relatively normal lives during interim periods. The individual with chronic (continuous or recurring) schizophrenia often does not fully recover normal functioning and typically requires long -term treatment, generally including medication, to control the symptoms. These symptoms may include hallucinations, incoherence, delusions, lack of judgment, deterioration of t he abilities to reason and feel emotion, and a lack of interaction between the patient and his environment. The hallucinations may be of a visual, auditory, or tactile variety. Some chronic schizophrenic patients may never be able to function without assistance of one sort or another.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "In line 3, \"episode\" most nearly means",
+        "options": {
+          "A": "program.",
+          "B": "experience.",
+          "C": "treatment.",
+          "D": "assistance."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following is NOT a symptom of schizophrenia?",
+        "options": {
+          "A": "Hallucinations",
+          "B": "Delusions",
+          "C": "Incoherence",
+          "D": "Vertigo"
+        }
+      },
+      {
+        "number": 3,
+        "text": "According to the passage, how many different types of hallucinations are there?",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        }
+      },
+      {
+        "number": 4,
+        "text": "In line 4, \"interim\" most nearly means",
+        "options": {
+          "A": "temporary.",
+          "B": "continuous.",
+          "C": "constant.",
+          "D": "unreal."
+        }
+      },
+      {
+        "number": 5,
+        "text": "In line 10, \"tactile\" most nearly means",
+        "options": {
+          "A": "touch.",
+          "B": "smell.",
+          "C": "sight.",
+          "D": "taste."
+        }
+      },
+      {
+        "number": 6,
+        "text": "\"Acute\" as used to describe schizophrenia in the passage means",
+        "options": {
+          "A": "chronic.",
+          "B": "recurring.",
+          "C": "severe.",
+          "D": "mild."
+        }
+      },
+      {
+        "number": 7,
+        "text": "It can be inferred from the passa ge that a person experiencing acute schizophreniamost likely",
+        "options": {
+          "A": "cannot live without medication.",
+          "B": "cannot go on living.",
+          "C": "can hold a full-time job.",
+          "D": "cannot distinguish real from unreal."
+        }
+      },
+      {
+        "number": 8,
+        "text": "According to this passage, thinking that one can fly might be an example of",
+        "options": {
+          "A": "medicine overdose.",
+          "B": "being out of touch with reality.",
+          "C": "recovering normal functioning.",
+          "D": "symptom control."
+        }
+      },
+      {
+        "number": 9,
+        "text": "The passage suggests that the beginning of severe psychoticsymptoms of acute schizophrenia may be any of the following EXCEPT",
+        "options": {
+          "A": "debilitating.",
+          "B": "sudden.",
+          "C": "occurring after a long period of normalcy.",
+          "D": "drug-induced."
+        }
+      },
+      {
+        "number": 10,
+        "text": "The passage implies that normal life may be possible for the chronic schizophrenic with the help of",
+        "options": {
+          "A": "medicines.",
+          "B": "neurotic episodes.",
+          "C": "psychotic episodes.",
+          "D": "time."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_36",
+    "code": "R36",
+    "title": "R36: Stress",
+    "topic": "Health & Psychology",
+    "difficulty": "medium",
+    "passage": "Stress is with us all the time. It comes from mental or emotional activity as well as physical activity. It is unique and personal to each of us. So personal, in fact, that what may be relaxing to one person may be stressful to another. For example, if you're a busy executive who likes to keep occupied all of the time, \"taking it easy\" at the beach on a beautiful day may feel extremely frustrating, nonproductive, and upsetting. You may be emotionally distressed fr om \"doing nothing\". Too much emotional stress can cause physical illnesses such as high blood pressure, ulcers, or even heart disease. Physical stress from work or exercise is not likely to cause such ailments. The truth is that physical exercise can help you to relax and to better handle your mental or emotional stress.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "\"unique\" most nearly means",
+        "options": {
+          "A": "stressful.",
+          "B": "distinctive.",
+          "C": "brisk.",
+          "D": "relaxing."
+        }
+      },
+      {
+        "number": 2,
+        "text": "Which of the following people would find \"taking it easy\" stressful?",
+        "options": {
+          "A": "Construction worker",
+          "B": "Business executive",
+          "C": "Farm worker",
+          "D": "Truck driver"
+        }
+      },
+      {
+        "number": 3,
+        "text": "\"distressed\" most nearly means",
+        "options": {
+          "A": "upset.",
+          "B": "distinctive.",
+          "C": "relaxed.",
+          "D": "active."
+        }
+      },
+      {
+        "number": 4,
+        "text": "\"ailments\" most nearly means",
+        "options": {
+          "A": "traits.",
+          "B": "episodes.",
+          "C": "characteristics.",
+          "D": "illnesses."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Which of the following would be a determinant as to what people find stressful?",
+        "options": {
+          "A": "Personality",
+          "B": "Education",
+          "C": "Marital status",
+          "D": "Shoe size"
+        }
+      },
+      {
+        "number": 6,
+        "text": "Stress is",
+        "options": {
+          "A": "optional.",
+          "B": "relaxing.",
+          "C": "manageable.",
+          "D": "the same for all people."
+        }
+      },
+      {
+        "number": 7,
+        "text": "This article, published by the Department of Health and Human Services, probably came from the",
+        "options": {
+          "A": "Federal Bureau of Investigation.",
+          "B": "Alcohol, Drug Abuse, and Mental Health Administration.",
+          "C": "Education Administration.",
+          "D": "Communicable Diseases Administration"
+        }
+      },
+      {
+        "number": 8,
+        "text": "A source of stress NOT specifically mentioned in this passage is",
+        "options": {
+          "A": "educational activity.",
+          "B": "physical activity.",
+          "C": "mental activity",
+          "D": "emotional activity"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Physical problems caused by emotional stress can appear as all of the following except",
+        "options": {
+          "A": "ulcers.",
+          "B": "pregnancy.",
+          "C": "heart disease.",
+          "D": "high blood pressure."
+        }
+      },
+      {
+        "number": 10,
+        "text": "One method mentioned to help handle stress is",
+        "options": {
+          "A": "physical exercise.",
+          "B": "tranquilizers.",
+          "C": "Drugs",
+          "D": "taking it easy"
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_37",
+    "code": "R37",
+    "title": "R37: Karat",
+    "topic": "Metallurgy & Jewelry",
+    "difficulty": "medium",
+    "passage": "The \"Karat \" marking on jewelry tells you what proportion of gold is mixed with other metals. If 14 parts of gold are mixed with 10 parts of base metal, the combination is called 14 Karat (14K) gold. The higher the Karat rating, the higher the proportion of gold in the object is. The lowest Karat gold that can be marketed in the United States is 10 Karat. Jewelry does not have to be marked with its Karat quality, but most of it is. If there is a Karat quality mark, next to it must be the U.S. registered trademark of the person or company that will stand behind the mark, as required by the National Gold and Silver Stamping Act.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "\"proportion\" most nearly means",
+        "options": {
+          "A": "ratio.",
+          "B": "mix.",
+          "C": "registered.",
+          "D": "quality."
+        }
+      },
+      {
+        "number": 2,
+        "text": "If a ring is stamped 24K, it has",
+        "options": {
+          "A": "204 parts gold.",
+          "B": "24 parts gold.",
+          "C": "two and four-tenths parts gold.",
+          "D": "10 parts gold."
+        }
+      },
+      {
+        "number": 3,
+        "text": "\"registered\" most nearly means",
+        "options": {
+          "A": "documented.",
+          "B": "marketed.",
+          "C": "mixed.",
+          "D": "stamped."
+        }
+      },
+      {
+        "number": 4,
+        "text": "Accord ing to the passage, the phrase <i>stand behind</i> most nearly means",
+        "options": {
+          "A": "not in front.",
+          "B": "to the side.",
+          "C": "back up.",
+          "D": "give up."
+        }
+      },
+      {
+        "number": 5,
+        "text": "\"marketed\" most nearly means",
+        "options": {
+          "A": "engraved.",
+          "B": "registered.",
+          "C": "mixed.",
+          "D": "sold."
+        }
+      },
+      {
+        "number": 6,
+        "text": "\"Karat,\" as it used in the jewelry industry, refers to the",
+        "options": {
+          "A": "jeweler's appraisal.",
+          "B": "U.S. registered trademark.",
+          "C": "amount of gold mixed with other metals.",
+          "D": "money value."
+        }
+      },
+      {
+        "number": 7,
+        "text": "Gold which is 10 Karat in proportion",
+        "options": {
+          "A": "represents the highest grade of gold in the U.S.",
+          "B": "cannot be sold in the U.S.",
+          "C": "never carries a Karat quality mark.",
+          "D": "represents the low est-grade gold marketable in the U.S."
+        }
+      },
+      {
+        "number": 8,
+        "text": "If gold is marked with a Karat quality mark, it must also",
+        "options": {
+          "A": "bear a national gold and silver stamp.",
+          "B": "bear the registered trademark of the entity standing behind the mark.",
+          "C": "bear a \"made in the USA\" mark.",
+          "D": "bear a percentage mark."
+        }
+      },
+      {
+        "number": 9,
+        "text": "If the jewelry is marked, 14 parts of gold mixed with 10parts of base metal will always bear",
+        "options": {
+          "A": "a 14K mark.",
+          "B": "a 10K mark.",
+          "C": "an 18K mark.",
+          "D": "a platinum mark."
+        }
+      },
+      {
+        "number": 10,
+        "text": "This paragraph serves the consumer as",
+        "options": {
+          "A": "important buying information.",
+          "B": "a challenge to buy more gold.",
+          "C": "a debate over gold prices.",
+          "D": "advice about buying silver."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_38",
+    "code": "R38",
+    "title": "R38: Nervousness",
+    "topic": "Physiology & Psychology",
+    "difficulty": "medium",
+    "passage": "Mr. Faugel was convinced that stud ent nervousness had affected their scores, to reduce the anxiety of these students who had already been tested; he gave 22 of them a beta blocker before re -administration of the test. Their scores improved significantly. The other 8 students (who did not r eceive the beta blockers) improved only slightly. Second-time test- takers nationwide had average improvements which were similar to those in Faugel's non - beta blocker group. Beta blockers are prescription drugs which have been around for 25 years. These medications, which interfere with the effects of adrenalin, have been used for heart conditions and for minor stress such as stage fright. Now they are used for test anxiety. These drugs seem to help test -takers who have low scores because of test fright, but not those who do not know the material. Since there can be side effects from these beta blockers, physicians are not ready to prescribe them routinely for all test-takers.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "\"reduce\" most nearly means",
+        "options": {
+          "A": "increase.",
+          "B": "maximize.",
+          "C": "lessen.",
+          "D": "build up"
+        }
+      },
+      {
+        "number": 2,
+        "text": "Beta blockers have been around since approximately what year?",
+        "options": {
+          "A": "1790",
+          "B": "1970",
+          "C": "1950",
+          "D": "1907"
+        }
+      },
+      {
+        "number": 3,
+        "text": "Where is the only place a person can obtain beta blockers?",
+        "options": {
+          "A": "Supermarket",
+          "B": "Convenience store",
+          "C": "Stationary store",
+          "D": "Doctor's office"
+        }
+      },
+      {
+        "number": 4,
+        "text": "\"interfere\" most nearly means",
+        "options": {
+          "A": "hinder.",
+          "B": "aid.",
+          "C": "help.",
+          "D": "prescribe."
+        }
+      },
+      {
+        "number": 5,
+        "text": "Why are beta blockers not prescribed regularly?",
+        "options": {
+          "A": "Students are expected to do poorly.",
+          "B": "There are side effects.",
+          "C": "The drugs are only 25 years old.",
+          "D": "They cause test anxiety."
+        }
+      },
+      {
+        "number": 6,
+        "text": "According to the passage",
+        "options": {
+          "A": "all people can take beta blockers.",
+          "B": "beta blockers are widely prescribed.",
+          "C": "beta blockers work only on test anxiety.",
+          "D": "beta blockers work only to improve test scores if she test -taker truly knows the material."
+        }
+      },
+      {
+        "number": 7,
+        "text": "\"Re-administration\" refers to",
+        "options": {
+          "A": "giving the test again to people without administering beta blockers.",
+          "B": "giving the test again to both groups after beta blockers have been administered to one group.",
+          "C": "giving the test to both groups of test -takers and then giving them beta blockers.",
+          "D": "giving the beta blockers without retesting."
+        }
+      },
+      {
+        "number": 8,
+        "text": "What possible use for beta blockers was NOT discussed in this passage?",
+        "options": {
+          "A": "Test anxiety",
+          "B": "Pain relief",
+          "C": "Minor stress",
+          "D": "Heart conditions"
+        }
+      },
+      {
+        "number": 9,
+        "text": "Beta blockers work on some physical and emotional symptoms because they",
+        "options": {
+          "A": "fool a person into a healthier stance.",
+          "B": "interfere with the side effects of adrenalin.",
+          "C": "produce side effects worse than the symptoms",
+          "D": "primarily change human thought processes."
+        }
+      },
+      {
+        "number": 10,
+        "text": "Faugel's research showed that beta blockers given to his sample",
+        "options": {
+          "A": "increased scores less than the national average.",
+          "B": "increased scores the same as the national average.",
+          "C": "decreased scores.",
+          "D": "increased scores much more than the national average."
+        }
+      }
+    ]
+  },
+  {
+    "id": "READ_39",
+    "code": "R39",
+    "title": "R39: Cambodia- Angkor Wat",
+    "topic": "World History & Archaeology",
+    "difficulty": "easy",
+    "passage": "Becky was preparing for a school trip to Cambodia. She had never been to Cambodia before so she surfed the Internet to find out more about the country. Cambodia has a population of 14.8 million people. It ranks sixty -eight in the world in terms of its population. About ninety -five percent of its people are Buddhists. The country's capital is Phnom Penh. As Becky continued to read about the country's history, she was appalled by its violent past. She read about the Khmer Rouge and their vile crimes against humanity. She read about their methods of torture a nd how many innocent people suffered. It was heartbreaking. She could not believe that such cruelty could possibly take place. When Becky first arrived in Cambodia, she was engulfed in a wave of heat. Thankfully, the tour coach that they were on had air -conditioning. The pupils first checked into their hotel to settle down and had a short rest. The first places they visited were several cultural sites where they learnt about the people's culture and how they were trying to rebuild their lives. It was fascin ating. That night, Becky had her first taste of Cambodian food. She was not very accustomed to the spices in their cuisine. The highlight of the next day's activities was a visit to the world famous temple site, Angkor Wat. It was the largest Khmer temple complex in the world. The grounds were extensive and impressive. The old and ruined structures of the once majestic temples were now well - weathered by time and nature. The walls were crumbling but the architecture of whatever was left standing was enough to captivat anyone. This amazing structure was now a symbol of Cambodia. It was on the country's national flag and was the prime attraction for tourists. Becky took many photographs so that she could show them to her family when she returned home. The rest of the trip was really an eye-opener for Becky. She was shocked at the state of living conditions and how poor the people were. It was not easy for the people to try to rebuild their lives after decades of being ravaged by wars. After Becky returned to the United States, she learnt not to take her life for granted. She now realized how much she had compared to the other children Cambodia. She was very thankful for her comfortable and peaceful life.",
+    "questions": [
+      {
+        "number": 1,
+        "text": "Why did Becky carry out a research on Cambodia?",
+        "options": {
+          "A": "She wanted to use the Internet.",
+          "B": "She had never been overseas before.",
+          "C": "She was interested in knowing about Buddhism.",
+          "D": "She wanted to know more about the country that she was visiting."
+        }
+      },
+      {
+        "number": 2,
+        "text": "What does 'it' in paragraph two refer to?",
+        "options": {
+          "A": "Becky's heart",
+          "B": "Cambodia's population",
+          "C": "The existence of innocent people",
+          "D": "The injustice which the Cambodian people suffered"
+        }
+      },
+      {
+        "number": 3,
+        "text": "According to paragraph three, which of the following is not true?",
+        "options": {
+          "A": "The weather in Cambodia was cool.",
+          "B": "Becky had not tasted Cambodian food prior to the trip",
+          "C": "The pupils learnt about Cambodian culture during their trip",
+          "D": "The pupils went to the hotel directly after reaching Cambodia"
+        }
+      },
+      {
+        "number": 4,
+        "text": "Why did Bec ky take many photographs of Angkor Wat?",
+        "options": {
+          "A": "It was a temple site.",
+          "B": "It was on Cambodia's national flag",
+          "C": "She wanted to show them to her family",
+          "D": "It was well-weathered by time and nature"
+        }
+      },
+      {
+        "number": 5,
+        "text": "According to the last paragraph, what did Becky learn on her trip?",
+        "options": {
+          "A": "She learnt how to open her eyes",
+          "B": "She learnt about the origin of war",
+          "C": "She realized how fortunate she was",
+          "D": "She realized she was thankful to the Cambodian children"
+        }
+      }
+    ]
+  }
+]

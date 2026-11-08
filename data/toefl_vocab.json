@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "v001",
+    "word": "Abandon",
+    "phonetic": "/əˈbændən/",
+    "partOfSpeech": "verb",
+    "translation": "يتخلى عن / يترك / يهجر",
+    "definition": "To cease to support or look after; desert; give up completely.",
+    "example": "Due to severe climate deterioration, ancient settlers were forced to abandon the river valley.",
+    "category": "Academic"
+  },
+  {
+    "id": "v002",
+    "word": "Accelerate",
+    "phonetic": "/əkˈsɛləreɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتسارع / يعجل",
+    "definition": "To increase in rate, amount, or speed.",
+    "example": "Rising atmospheric temperatures accelerate the melting of polar ice sheets.",
+    "category": "Science"
+  },
+  {
+    "id": "v003",
+    "word": "Accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتراكم / يجمع",
+    "definition": "To gather together or acquire an increasing number or quantity of.",
+    "example": "Toxic mineral deposits accumulate in deep sediment over centuries of runoff.",
+    "category": "Science"
+  },
+  {
+    "id": "v004",
+    "word": "Accurate",
+    "phonetic": "/ˈækjərɪt/",
+    "partOfSpeech": "adjective",
+    "translation": "دقيق / مضبوط",
+    "definition": "Correct in all details; exact.",
+    "example": "Radiocarbon dating offers an accurate estimate of prehistoric organic artifacts.",
+    "category": "Academic"
+  },
+  {
+    "id": "v005",
+    "word": "Adaptation",
+    "phonetic": "/ˌædæpˈteɪʃn/",
+    "partOfSpeech": "noun",
+    "translation": "تكيف / تأقلم",
+    "definition": "The process of change by which an organism or species becomes better suited to its environment.",
+    "example": "Camouflage is a crucial evolutionary adaptation against nocturnal predators.",
+    "category": "Biology"
+  },
+  {
+    "id": "v006",
+    "word": "Adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "partOfSpeech": "adjective",
+    "translation": "كافٍ / ملائم",
+    "definition": "Satisfactory or acceptable in quality or quantity.",
+    "example": "Early agricultural communities required an adequate supply of fresh water to sustain crops.",
+    "category": "Academic"
+  },
+  {
+    "id": "v007",
+    "word": "Adjacent",
+    "phonetic": "/əˈdʒeɪsnt/",
+    "partOfSpeech": "adjective",
+    "translation": "مجاور / ملاصق",
+    "definition": "Next to or adjoining something else.",
+    "example": "The volcanic eruption devastated farmlands adjacent to the base of the mountain.",
+    "category": "Geology"
+  },
+  {
+    "id": "v008",
+    "word": "Advocate",
+    "phonetic": "/ˈædvəkeɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يؤيد / يدافع عن",
+    "definition": "To publicly recommend or support a particular cause or policy.",
+    "example": "Environmental scientists advocate for renewable energy subsidies to curb emissions.",
+    "category": "Society"
+  },
+  {
+    "id": "v009",
+    "word": "Albeit",
+    "phonetic": "/ɔːlˈbiːɪt/",
+    "partOfSpeech": "conjunction",
+    "translation": "وإن كان / على الرغم من",
+    "definition": "Although; even though.",
+    "example": "The experimental drug showed promising results, albeit with minor side effects.",
+    "category": "Academic"
+  },
+  {
+    "id": "v010",
+    "word": "Ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partOfSpeech": "adjective",
+    "translation": "غامض / يحتمل معنيين",
+    "definition": "Open to more than one interpretation; having a double meaning; unclear.",
+    "example": "The fossil record remains ambiguous regarding the exact timeline of avian evolution.",
+    "category": "Academic"
+  },
+  {
+    "id": "v011",
+    "word": "Ample",
+    "phonetic": "/ˈæmpl/",
+    "partOfSpeech": "adjective",
+    "translation": "وفير / متسع / وافر",
+    "definition": "Enough or more than enough; plentiful.",
+    "example": "Tropical rainforests provide ample foliage and nutrients for diverse arboreal species.",
+    "category": "Biology"
+  },
+  {
+    "id": "v012",
+    "word": "Analogy",
+    "phonetic": "/əˈnælədʒi/",
+    "partOfSpeech": "noun",
+    "translation": "مقارنة / قياس / تشبيه",
+    "definition": "A comparison between two things, typically on the basis of their structure and for the purpose of explanation.",
+    "example": "The professor drew an analogy between the human brain and a high-performance computer.",
+    "category": "Academic"
+  },
+  {
+    "id": "v013",
+    "word": "Anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتوقع / يستبق",
+    "definition": "To regard as probable; expect or predict.",
+    "example": "Economists anticipate a steady recovery as international shipping constraints subside.",
+    "category": "Society"
+  },
+  {
+    "id": "v014",
+    "word": "Apparent",
+    "phonetic": "/əˈpærənt/",
+    "partOfSpeech": "adjective",
+    "translation": "ظاهر / واضح / جلي",
+    "definition": "Clearly visible or understood; obvious.",
+    "example": "The behavioral changes in migratory birds became apparent as winter approached.",
+    "category": "Biology"
+  },
+  {
+    "id": "v015",
+    "word": "Arbitrary",
+    "phonetic": "/ˈɑːrbɪtreri/",
+    "partOfSpeech": "adjective",
+    "translation": "عشوائي / اعتباطي / تحكمي",
+    "definition": "Based on random choice or personal whim, rather than any reason or system.",
+    "example": "Setting the boundary along that river appeared to be an arbitrary administrative decision.",
+    "category": "Society"
+  },
+  {
+    "id": "v016",
+    "word": "Articulate",
+    "phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يعبر بوضوح / يفصح عن",
+    "definition": "To express an idea or feeling fluently and coherently.",
+    "example": "The lecturer was able to articulate intricate quantum mechanics concepts with remarkable clarity.",
+    "category": "Academic"
+  },
+  {
+    "id": "v017",
+    "word": "Artifact",
+    "phonetic": "/ˈɑːrtɪfækt/",
+    "partOfSpeech": "noun",
+    "translation": "قطعة أثرية / مصنَّع يدوي",
+    "definition": "An object made by a human being, typically an item of cultural or historical interest.",
+    "example": "The clay pottery unearthed at the site was a ceremonial artifact of the Bronze Age.",
+    "category": "History"
+  },
+  {
+    "id": "v018",
+    "word": "Assert",
+    "phonetic": "/əˈsɜːrt/",
+    "partOfSpeech": "verb",
+    "translation": "يؤكد / يجزم / يصر على",
+    "definition": "To state a fact or belief confidently and forcefully.",
+    "example": "Some historians assert that trade routes were more influential than military conquests.",
+    "category": "Academic"
+  },
+  {
+    "id": "v019",
+    "word": "Attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "partOfSpeech": "verb",
+    "translation": "يعزو إلى / ينسب إلى",
+    "definition": "To regard something as being caused by someone or something.",
+    "example": "Climatologists attribute the persistent drought to prolonged atmospheric high pressure.",
+    "category": "Science"
+  },
+  {
+    "id": "v020",
+    "word": "Autonomous",
+    "phonetic": "/ɔːˈtɑːnəməs/",
+    "partOfSpeech": "adjective",
+    "translation": "مستقل / ذاتي الإدارة",
+    "definition": "Acting independently or having the freedom to do so.",
+    "example": "Deep-sea exploration often relies on autonomous underwater vehicles capable of real-time mapping.",
+    "category": "Science"
+  },
+  {
+    "id": "v021",
+    "word": "Beneficial",
+    "phonetic": "/ˌbɛnɪˈfɪʃl/",
+    "partOfSpeech": "adjective",
+    "translation": "نافع / مفيد",
+    "definition": "Favorable or advantageous; resulting in good.",
+    "example": "Symbiotic gut bacteria play a beneficial role in nutrient absorption and immunity.",
+    "category": "Biology"
+  },
+  {
+    "id": "v022",
+    "word": "Biased",
+    "phonetic": "/ˈbaɪəst/",
+    "partOfSpeech": "adjective",
+    "translation": "منحاز / متحيّز",
+    "definition": "Unfairly prejudiced for or against someone or something.",
+    "example": "Scientists must design double-blind studies to prevent biased experimental outcomes.",
+    "category": "Academic"
+  },
+  {
+    "id": "v023",
+    "word": "Burgeon",
+    "phonetic": "/ˈbɜːrdʒən/",
+    "partOfSpeech": "verb",
+    "translation": "ينمو بسرعة / يزدهر / يبرعم",
+    "definition": "To begin to grow or increase rapidly; flourish.",
+    "example": "Urban centers began to burgeon following the introduction of steam-powered locomotives.",
+    "category": "History"
+  },
+  {
+    "id": "v024",
+    "word": "Catastrophe",
+    "phonetic": "/kəˈtæstrəfi/",
+    "partOfSpeech": "noun",
+    "translation": "كارثة / فاجعة",
+    "definition": "An event causing great and often sudden damage or suffering; a disaster.",
+    "example": "The meteorite impact triggered an ecological catastrophe that extinguished the dinosaurs.",
+    "category": "Geology"
+  },
+  {
+    "id": "v025",
+    "word": "Chronological",
+    "phonetic": "/ˌkrɑːnəˈlɑːdʒɪkl/",
+    "partOfSpeech": "adjective",
+    "translation": "زمني / مرتب حسب تسلسل الأحداث",
+    "definition": "Starting with the earliest and following the order in which they occurred.",
+    "example": "The museum exhibits are arranged in strict chronological order from the Paleolithic to modern times.",
+    "category": "History"
+  },
+  {
+    "id": "v026",
+    "word": "Coherent",
+    "phonetic": "/koʊˈhɪrənt/",
+    "partOfSpeech": "adjective",
+    "translation": "متماسك / متناسق / منطقي",
+    "definition": "Logical and consistent; forming a unified whole.",
+    "example": "The author failed to present a coherent thesis throughout the introductory chapter.",
+    "category": "Academic"
+  },
+  {
+    "id": "v027",
+    "word": "Coincide",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "partOfSpeech": "verb",
+    "translation": "يتزامن / يتطابق",
+    "definition": "To occur at or during the same time.",
+    "example": "The solar eclipse coincided with the annual migration of monarch butterflies.",
+    "category": "Science"
+  },
+  {
+    "id": "v028",
+    "word": "Commence",
+    "phonetic": "/kəˈmɛns/",
+    "partOfSpeech": "verb",
+    "translation": "يبدأ / يشرع",
+    "definition": "To begin; start.",
+    "example": "Excavation of the pyramid complex will commence early next spring.",
+    "category": "Academic"
+  },
+  {
+    "id": "v029",
+    "word": "Commodity",
+    "phonetic": "/kəˈmɑːdətɪ/",
+    "partOfSpeech": "noun",
+    "translation": "سلعة / بضاعة تجارية",
+    "definition": "A raw material or primary agricultural product that can be bought and sold.",
+    "example": "Salt was once a precious commodity exchanged along trans-Saharan trade caravans.",
+    "category": "History"
+  },
+  {
+    "id": "v030",
+    "word": "Compelling",
+    "phonetic": "/kəmˈpɛlɪŋ/",
+    "partOfSpeech": "adjective",
+    "translation": "مقنع / جذاب / لا يقاوم",
+    "definition": "Evoking interest, attention, or admiration in a powerfully irresistible way; convincing.",
+    "example": "Genetic evidence provides a compelling argument for common evolutionary ancestry.",
+    "category": "Academic"
+  },
+  {
+    "id": "v031",
+    "word": "Compensate",
+    "phonetic": "/ˈkɑːmpənseɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يعوّض / يكافئ",
+    "definition": "To give something, typically money, in recognition of loss, suffering, or injury; counterbalance.",
+    "example": "Desert rodents compensate for extreme heat by staying dormant in cool subterranean burrows.",
+    "category": "Biology"
+  },
+  {
+    "id": "v032",
+    "word": "Comprehensive",
+    "phonetic": "/ˌkɑːmprɪˈhɛnsɪv/",
+    "partOfSpeech": "adjective",
+    "translation": "شامل / وافٍ",
+    "definition": "Complete; including all or nearly all elements or aspects of something.",
+    "example": "The university conducted a comprehensive survey on undergraduate mental health and sleep habits.",
+    "category": "Academic"
+  },
+  {
+    "id": "v033",
+    "word": "Concur",
+    "phonetic": "/kənˈkɜːr/",
+    "partOfSpeech": "verb",
+    "translation": "يتفق مع / يوافق",
+    "definition": "To be of the same opinion; agree.",
+    "example": "Most peer reviewers concurred with the primary findings of the astrophysics paper.",
+    "category": "Academic"
+  },
+  {
+    "id": "v034",
+    "word": "Confine",
+    "phonetic": "/kənˈfaɪn/",
+    "partOfSpeech": "verb",
+    "translation": "يحصر / يقيد",
+    "definition": "To keep or restrict someone or something within certain limits of space, scope, or time.",
+    "example": "Ancient wall builders aimed to confine city development within fortified perimeter zones.",
+    "category": "History"
+  },
+  {
+    "id": "v035",
+    "word": "Consequence",
+    "phonetic": "/ˈkɑːnsɪkwɛns/",
+    "partOfSpeech": "noun",
+    "translation": "عاقبة / نتيجة",
+    "definition": "A result or effect of an action or condition.",
+    "example": "Severe soil erosion was an unintended consequence of widespread deforestation.",
+    "category": "Science"
+  },
+  {
+    "id": "v036",
+    "word": "Consolidate",
+    "phonetic": "/kənˈsɑːlɪdeɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يدعم / يوطد / يدمج",
+    "definition": "To combine a number of things into a single more effective or coherent whole; make firm.",
+    "example": "The emperor sought to consolidate his authority over splintered feudal territories.",
+    "category": "History"
+  },
+  {
+    "id": "v037",
+    "word": "Conspicuous",
+    "phonetic": "/kənˈspɪkjuəs/",
+    "partOfSpeech": "adjective",
+    "translation": "واضح / لافت للنظر / بارز",
+    "definition": "Standing out so as to be clearly visible; attracting notice or attention.",
+    "example": "The male peacock displays conspicuous tail plumage to attract potential mates.",
+    "category": "Biology"
+  },
+  {
+    "id": "v038",
+    "word": "Constrain",
+    "phonetic": "/kənˈstreɪn/",
+    "partOfSpeech": "verb",
+    "translation": "يقيد / يحد من / يرغم",
+    "definition": "To severely restrict the scope, extent, or activity of.",
+    "example": "Arid climatic conditions severely constrain the diversity of flora in desert biomes.",
+    "category": "Science"
+  },
+  {
+    "id": "v039",
+    "word": "Contemporary",
+    "phonetic": "/kənˈtɛmpəreri/",
+    "partOfSpeech": "adjective",
+    "translation": "معاصر / حديث",
+    "definition": "Living or occurring at the same time; belonging to or occurring in the present.",
+    "example": "Contemporary architecture frequently prioritizes passive solar heating and ecological materials.",
+    "category": "Arts"
+  },
+  {
+    "id": "v040",
+    "word": "Contradict",
+    "phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "partOfSpeech": "verb",
+    "translation": "يناقض / يتعارض مع",
+    "definition": "To deny the truth of a statement by asserting the opposite.",
+    "example": "The newly discovered fossil appeared to contradict the established evolutionary lineage.",
+    "category": "Academic"
+  },
+  {
+    "id": "v041",
+    "word": "Crucial",
+    "phonetic": "/ˈkruːʃl/",
+    "partOfSpeech": "adjective",
+    "translation": "حاسم / مصيري / جوهري",
+    "definition": "Decisive or critical, especially in the success or failure of something.",
+    "example": "Photosynthesis is crucial for maintaining atmospheric oxygen and sustaining terrestrial life.",
+    "category": "Biology"
+  },
+  {
+    "id": "v042",
+    "word": "Decipher",
+    "phonetic": "/dɪˈsaɪfər/",
+    "partOfSpeech": "verb",
+    "translation": "يفك شفرة / يحل رموز",
+    "definition": "To convert a text written in code or a coded signal into normal language; succeed in understanding.",
+    "example": "Scholars spent decades trying to decipher the Mayan glyphs carved upon stone stelae.",
+    "category": "History"
+  },
+  {
+    "id": "v043",
+    "word": "Deficit",
+    "phonetic": "/ˈdɛfɪsɪt/",
+    "partOfSpeech": "noun",
+    "translation": "عجز / نقص",
+    "definition": "The amount by which something, especially a sum of money, is too small.",
+    "example": "Prolonged water deficits during the growing season drastically reduced cereal crop yields.",
+    "category": "Science"
+  },
+  {
+    "id": "v044",
+    "word": "Delineate",
+    "phonetic": "/dɪˈlɪnieɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يخطط / يوضح بدقة / يرسم الحدود",
+    "definition": "To describe or portray something precisely; indicate the exact position of a border.",
+    "example": "The research document clearly delineates the scope and ethical boundaries of genetic testing.",
+    "category": "Academic"
+  },
+  {
+    "id": "v045",
+    "word": "Deplete",
+    "phonetic": "/dɪˈpliːt/",
+    "partOfSpeech": "verb",
+    "translation": "يستنزف / ينفد",
+    "definition": "To use up the supply or resources of.",
+    "example": "Overfishing threatens to deplete marine predator populations within coastal sanctuaries.",
+    "category": "Science"
+  },
+  {
+    "id": "v046",
+    "word": "Deteriorate",
+    "phonetic": "/dɪˈtɪriəreɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتدهور / يتردى",
+    "definition": "To become progressively worse.",
+    "example": "Air quality can deteriorate rapidly during temperature inversions in mountainous valleys.",
+    "category": "Science"
+  },
+  {
+    "id": "v047",
+    "word": "Deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "partOfSpeech": "verb",
+    "translation": "ينحرف / يخرج عن المسار",
+    "definition": "To depart from an established course, rule, or standard.",
+    "example": "Planetary orbits deviate slightly from perfect circles because of gravitational perturbation.",
+    "category": "Science"
+  },
+  {
+    "id": "v048",
+    "word": "Diffuse",
+    "phonetic": "/dɪˈfjuːs/",
+    "partOfSpeech": "verb",
+    "translation": "ينتشر / يتبدد / يتخلل",
+    "definition": "To spread out over a large area; not concentrated.",
+    "example": "Gaseous pollutants diffuse across national boundaries via prevailing jet stream winds.",
+    "category": "Science"
+  },
+  {
+    "id": "v049",
+    "word": "Diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "partOfSpeech": "verb",
+    "translation": "يقلل / يتضاءل",
+    "definition": "To make or become less.",
+    "example": "Light intensity diminishes exponentially with increasing ocean water depth.",
+    "category": "Science"
+  },
+  {
+    "id": "v050",
+    "word": "Discrepancy",
+    "phonetic": "/dɪˈskrɛpənsi/",
+    "partOfSpeech": "noun",
+    "translation": "تناقض / تباين / اختلاف",
+    "definition": "A lack of compatibility or similarity between two or more facts.",
+    "example": "Auditors noticed a significant discrepancy between reported laboratory output and inventory records.",
+    "category": "Academic"
+  },
+  {
+    "id": "v051",
+    "word": "Discrete",
+    "phonetic": "/dɪˈskriːt/",
+    "partOfSpeech": "adjective",
+    "translation": "منفصل / متمايز",
+    "definition": "Individually separate and distinct.",
+    "example": "Memory processing involves discrete neural networks located in different brain hemispheres.",
+    "category": "Psychology"
+  },
+  {
+    "id": "v052",
+    "word": "Disperse",
+    "phonetic": "/dɪˈspɜːrs/",
+    "partOfSpeech": "verb",
+    "translation": "يشتت / يبعثر / يتفرق",
+    "definition": "To distribute or spread over a wide area.",
+    "example": "Dandelion seeds disperse efficiently when caught by high-altitude thermal gusts.",
+    "category": "Biology"
+  },
+  {
+    "id": "v053",
+    "word": "Diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "partOfSpeech": "adjective",
+    "translation": "متنوع / متعدد الأشكال",
+    "definition": "Showing a great deal of variety; very different.",
+    "example": "Coral reefs shelter one of the most diverse biological communities on the planet.",
+    "category": "Biology"
+  },
+  {
+    "id": "v054",
+    "word": "Eloquent",
+    "phonetic": "/ˈɛləkwənt/",
+    "partOfSpeech": "adjective",
+    "translation": "فصيح / بليغ / معبر",
+    "definition": "Fluent or persuasive in speaking or writing.",
+    "example": "Frederick Douglass was celebrated for his eloquent speeches advocating for civil rights.",
+    "category": "History"
+  },
+  {
+    "id": "v055",
+    "word": "Elucidate",
+    "phonetic": "/ɪˈluːsɪdeɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يوضح / يشرح / يلقي الضوء على",
+    "definition": "To make something clear; explain.",
+    "example": "Recent genetic sequencing helped elucidate the complex evolutionary paths of hominids.",
+    "category": "Academic"
+  },
+  {
+    "id": "v056",
+    "word": "Emerge",
+    "phonetic": "/ɪˈmɜːrdʒ/",
+    "partOfSpeech": "verb",
+    "translation": "يظهر / ينبثق",
+    "definition": "To move out of or away from something and become visible; come into prominence.",
+    "example": "Mammals began to emerge and diversify into vacated ecological niches following dinosaur extinction.",
+    "category": "Biology"
+  },
+  {
+    "id": "v057",
+    "word": "Emit",
+    "phonetic": "/ɪˈmɪt/",
+    "partOfSpeech": "verb",
+    "translation": "ينبعث منه / يصدر",
+    "definition": "To produce and discharge something, especially gas, radiation, or sound.",
+    "example": "Bioluminescent organisms emit cold blue light via enzyme-mediated oxidation reactions.",
+    "category": "Biology"
+  },
+  {
+    "id": "v058",
+    "word": "Empirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "partOfSpeech": "adjective",
+    "translation": "تجريبي / مبني على الملاحظة",
+    "definition": "Based on, concerned with, or verifiable by observation or experience rather than theory.",
+    "example": "Modern science insists on empirical verification before accepting theoretical claims.",
+    "category": "Academic"
+  },
+  {
+    "id": "v059",
+    "word": "Endeavor",
+    "phonetic": "/ɪnˈdɛvər/",
+    "partOfSpeech": "noun",
+    "translation": "مسعى / جهد حثيث",
+    "definition": "An attempt to achieve a goal.",
+    "example": "Manned spaceflight to Mars represents an ambitious international scientific endeavor.",
+    "category": "Science"
+  },
+  {
+    "id": "v060",
+    "word": "Ephemeral",
+    "phonetic": "/ɪˈfɛmərəl/",
+    "partOfSpeech": "adjective",
+    "translation": "عابر / سريع الزوال / مؤقت",
+    "definition": "Lasting for a very short time.",
+    "example": "Desert blooms are ephemeral, flourishing for merely a few days after rare flash floods.",
+    "category": "Biology"
+  },
+  {
+    "id": "v061",
+    "word": "Epitome",
+    "phonetic": "/ɪˈpɪtəmi/",
+    "partOfSpeech": "noun",
+    "translation": "نموذج مثالي / تجسيد",
+    "definition": "A person or thing that is a perfect example of a particular quality or type.",
+    "example": "The Parthenon is regarded by historians as the epitome of classical Doric architecture.",
+    "category": "Arts"
+  },
+  {
+    "id": "v062",
+    "word": "Equilibrium",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "partOfSpeech": "noun",
+    "translation": "توازن / استقرار",
+    "definition": "A state in which opposing forces or influences are balanced.",
+    "example": "Predator and prey populations often fluctuate around a dynamic ecological equilibrium.",
+    "category": "Biology"
+  },
+  {
+    "id": "v063",
+    "word": "Erode",
+    "phonetic": "/ɪˈroʊd/",
+    "partOfSpeech": "verb",
+    "translation": "يتآكل / ينحت",
+    "definition": "To gradually wear away soil, rock, or land through the action of water, wind, or glacial ice.",
+    "example": "Glacial flows slowly erode solid granite bedrock, forming deep U-shaped valleys.",
+    "category": "Geology"
+  },
+  {
+    "id": "v064",
+    "word": "Erratic",
+    "phonetic": "/ɪˈrætɪk/",
+    "partOfSpeech": "adjective",
+    "translation": "متقلب / غير منتظم / شاذ",
+    "definition": "Not even or regular in pattern or movement; unpredictable.",
+    "example": "The patient displayed erratic sleeping cycles after suffering trauma to the hypothalamus.",
+    "category": "Psychology"
+  },
+  {
+    "id": "v065",
+    "word": "Evoke",
+    "phonetic": "/ɪˈvoʊk/",
+    "partOfSpeech": "verb",
+    "translation": "يستحضر / يثير (ذكرى أو مشاعر)",
+    "definition": "To bring or recall to the conscious mind.",
+    "example": "Impressionist paintings evoke sensations of dappled sunlight and fleeting atmosphere.",
+    "category": "Arts"
+  },
+  {
+    "id": "v066",
+    "word": "Exemplary",
+    "phonetic": "/ɪɡˈzɛmpləri/",
+    "partOfSpeech": "adjective",
+    "translation": "نموذجي / مثالي يُحتذى به",
+    "definition": "Serving as a desirable model; representing the best of its kind.",
+    "example": "The student demonstrated exemplary dedication to peer tutoring and academic research.",
+    "category": "Academic"
+  },
+  {
+    "id": "v067",
+    "word": "Exhaustive",
+    "phonetic": "/ɪɡˈzɔːstɪv/",
+    "partOfSpeech": "adjective",
+    "translation": "شامل ومستفيض / مرهق للبحث",
+    "definition": "Examining, including, or considering all elements or aspects; fully comprehensive.",
+    "example": "The botanist published an exhaustive catalog documenting every orchid in the cloud forest.",
+    "category": "Biology"
+  },
+  {
+    "id": "v068",
+    "word": "Explicit",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "partOfSpeech": "adjective",
+    "translation": "صريح / واضح لا لبس فيه",
+    "definition": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+    "example": "The syllabus contained explicit guidelines detailing academic integrity and citation rules.",
+    "category": "Academic"
+  },
+  {
+    "id": "v069",
+    "word": "Facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يسهل / ييسر",
+    "definition": "To make an action or process easy or easier.",
+    "example": "Canals were excavated to facilitate the transport of raw iron ore to industrial ports.",
+    "category": "History"
+  },
+  {
+    "id": "v070",
+    "word": "Feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "قابل للتنفيذ / مجدٍ / ممكن",
+    "definition": "Possible to do easily or conveniently; practical.",
+    "example": "Solar desalination has become an economically feasible alternative for coastal cities.",
+    "category": "Science"
+  },
+  {
+    "id": "v071",
+    "word": "Fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتذبذب / يتقلب",
+    "definition": "To rise and fall irregularly in number or amount.",
+    "example": "Oceanic surface temperatures fluctuate markedly during El Niño Southern Oscillation phases.",
+    "category": "Science"
+  },
+  {
+    "id": "v072",
+    "word": "Foster",
+    "phonetic": "/ˈfɔːstər/",
+    "partOfSpeech": "verb",
+    "translation": "يشجع / يرعى / ينمي",
+    "definition": "To encourage or promote the development of something.",
+    "example": "Interdisciplinary seminars foster creative collaborations between biologists and computer scientists.",
+    "category": "Academic"
+  },
+  {
+    "id": "v073",
+    "word": "Hierarchy",
+    "phonetic": "/ˈhaɪərɑːrki/",
+    "partOfSpeech": "noun",
+    "translation": "تسلسل هرمي / تدرج طبقي",
+    "definition": "A system in which members of an organization or society are ranked according to status.",
+    "example": "Wolf packs maintain a strict social hierarchy governed by dominant alpha pairs.",
+    "category": "Biology"
+  },
+  {
+    "id": "v074",
+    "word": "Hypothesis",
+    "phonetic": "/haɪˈpɑːθəsɪs/",
+    "partOfSpeech": "noun",
+    "translation": "فرضية / افتراض علمي",
+    "definition": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+    "example": "Researchers formulated a working hypothesis to explain strange anomalies in seismic data.",
+    "category": "Academic"
+  },
+  {
+    "id": "v075",
+    "word": "Immense",
+    "phonetic": "/ɪˈmɛns/",
+    "partOfSpeech": "adjective",
+    "translation": "هائل / ضخم للغاية",
+    "definition": "Extremely large or great, especially in scale or degree.",
+    "example": "Tectonic plate collisions generate immense compressive pressure along mountain belts.",
+    "category": "Geology"
+  },
+  {
+    "id": "v076",
+    "word": "Impair",
+    "phonetic": "/ɪmˈpɛr/",
+    "partOfSpeech": "verb",
+    "translation": "يضعف / يضر / يعيق",
+    "definition": "To weaken or damage something, especially a faculty or function.",
+    "example": "Chronic sleep deprivation can severely impair memory consolidation and cognitive recall.",
+    "category": "Psychology"
+  },
+  {
+    "id": "v077",
+    "word": "Implicit",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "partOfSpeech": "adjective",
+    "translation": "ضمني / مفهوم دون تصريح",
+    "definition": "Implied though not plainly expressed.",
+    "example": "There was an implicit agreement among expedition members to share scarce water rations.",
+    "category": "Academic"
+  },
+  {
+    "id": "v078",
+    "word": "Incentive",
+    "phonetic": "/ɪnˈsɛntɪv/",
+    "partOfSpeech": "noun",
+    "translation": "حافز / دافع",
+    "definition": "A thing that motivates or encourages someone to do something.",
+    "example": "Tax rebates provided a strong economic incentive for households to install solar panels.",
+    "category": "Society"
+  },
+  {
+    "id": "v079",
+    "word": "Incompatible",
+    "phonetic": "/ˌɪnkəmˈpætəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "غير متوافق / متنافر",
+    "definition": "So opposed in character as to be incapable of existing together.",
+    "example": "Certain pesticide treatments proved completely incompatible with organic soil conservation.",
+    "category": "Science"
+  },
+  {
+    "id": "v080",
+    "word": "Induce",
+    "phonetic": "/ɪnˈduːs/",
+    "partOfSpeech": "verb",
+    "translation": "يحث / يحفز / يستحث",
+    "definition": "To succeed in persuading or leading someone to do something; bring about or give rise to.",
+    "example": "Decreasing daylight hours induce hormonal shifts that trigger autumn bird migration.",
+    "category": "Biology"
+  },
+  {
+    "id": "v081",
+    "word": "Inevitable",
+    "phonetic": "/ɪnˈɛvɪtəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "حتمي / لا مفر منه",
+    "definition": "Certain to happen; unavoidable.",
+    "example": "Without structural reinforcements, the collapse of the eroding bridge was inevitable.",
+    "category": "Academic"
+  },
+  {
+    "id": "v082",
+    "word": "Inherent",
+    "phonetic": "/ɪnˈhɪrənt/",
+    "partOfSpeech": "adjective",
+    "translation": "متأصل / جوهري / فطري",
+    "definition": "Existing in something as a permanent, essential, or characteristic attribute.",
+    "example": "High thermal expansion is an inherent property of certain non-ferrous alloy metals.",
+    "category": "Science"
+  },
+  {
+    "id": "v083",
+    "word": "Innovate",
+    "phonetic": "/ˈɪnəveɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يبتكر / يجدد",
+    "definition": "To make changes in something established, especially by introducing new methods, ideas, or products.",
+    "example": "To survive industrial competition, early manufacturers had to continually innovate.",
+    "category": "History"
+  },
+  {
+    "id": "v084",
+    "word": "Insight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "partOfSpeech": "noun",
+    "translation": "بصيرة / فهم عميق / إدراك",
+    "definition": "The capacity to gain an accurate and deep intuitive understanding of a person or thing.",
+    "example": "Psychological surveys provide fascinating insight into human decision-making under stress.",
+    "category": "Psychology"
+  },
+  {
+    "id": "v085",
+    "word": "Integrate",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يدمج / يدمج في كل متكامل",
+    "definition": "To combine one thing with another so that they become a whole.",
+    "example": "Modern city planners aim to integrate green public parks into dense commercial corridors.",
+    "category": "Society"
+  },
+  {
+    "id": "v086",
+    "word": "Lucid",
+    "phonetic": "/ˈluːsɪd/",
+    "partOfSpeech": "adjective",
+    "translation": "واضح / جلي / نير العقل",
+    "definition": "Expressed clearly; easy to understand; showing ability to think clearly.",
+    "example": "The professor's lucid explanation made the convoluted thermodynamic formula easy to comprehend.",
+    "category": "Academic"
+  },
+  {
+    "id": "v087",
+    "word": "Mitigate",
+    "phonetic": "/ˈmɪtɪɡeɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يخفف من / يلطف / يهدئ",
+    "definition": "To make less severe, serious, or painful.",
+    "example": "Constructing retention seawalls helped mitigate storm surges along vulnerable coastlines.",
+    "category": "Science"
+  },
+  {
+    "id": "v088",
+    "word": "Monotonous",
+    "phonetic": "/məˈnɑːtənəs/",
+    "partOfSpeech": "adjective",
+    "translation": "رتيب / ممل على وتيرة واحدة",
+    "definition": "Dull, tedious, and repetitious; lacking in variety and interest.",
+    "example": "Assembly line workers frequently suffered fatigue from performing monotonous repetitive tasks.",
+    "category": "Society"
+  },
+  {
+    "id": "v089",
+    "word": "Negligible",
+    "phonetic": "/ˈnɛɡlɪdʒəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "ضئيل جداً / يمكن إهماله",
+    "definition": "So small or unimportant as to be not worth considering; insignificant.",
+    "example": "Friction between the magnetic levitation train and the guideway is virtually negligible.",
+    "category": "Science"
+  },
+  {
+    "id": "v090",
+    "word": "Noteworthy",
+    "phonetic": "/ˈnoʊtwɜːrði/",
+    "partOfSpeech": "adjective",
+    "translation": "جدير بالذكر / لافت / بارز",
+    "definition": "Interesting, significant, or unusual.",
+    "example": "The excavation yielded a noteworthy collection of undamaged Roman glass vessels.",
+    "category": "History"
+  },
+  {
+    "id": "v091",
+    "word": "Novel",
+    "phonetic": "/ˈnɑːvl/",
+    "partOfSpeech": "adjective",
+    "translation": "مستحدث / جديد ومبتكر",
+    "definition": "New and not like anything seen before; interesting and unusual.",
+    "example": "Researchers engineered a novel polymer capable of self-healing following mechanical puncture.",
+    "category": "Science"
+  },
+  {
+    "id": "v092",
+    "word": "Obscure",
+    "phonetic": "/əbˈskjʊr/",
+    "partOfSpeech": "adjective",
+    "translation": "غامض / مجهول / مبهم",
+    "definition": "Not discovered or known about; uncertain.",
+    "example": "The origins of the Etruscan civilization remain obscure due to sparse epigraphic records.",
+    "category": "History"
+  },
+  {
+    "id": "v093",
+    "word": "Paradox",
+    "phonetic": "/ˈpærədɑːks/",
+    "partOfSpeech": "noun",
+    "translation": "مفارقة / تناقض ظاهري",
+    "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated may prove to be well founded or true.",
+    "example": "The Fermi paradox questions why we have not detected extraterrestrial civilizations despite the vastness of the universe.",
+    "category": "Academic"
+  },
+  {
+    "id": "v094",
+    "word": "Perceive",
+    "phonetic": "/pərˈsiːv/",
+    "partOfSpeech": "verb",
+    "translation": "يدرك / يلاحظ بالحواس",
+    "definition": "To become aware or conscious of something; come to realize or understand.",
+    "example": "Bats perceive their physical surroundings in total darkness using ultrasonic echolocation.",
+    "category": "Biology"
+  },
+  {
+    "id": "v095",
+    "word": "Perpetuate",
+    "phonetic": "/pərˈpɛtʃueɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يديم / يخلّد / يُبقي على",
+    "definition": "To make something, typically an undesirable situation or an unfounded belief, continue indefinitely.",
+    "example": "Oral storytelling traditions helped perpetuate ancient myths through centuries without written scripts.",
+    "category": "History"
+  },
+  {
+    "id": "v096",
+    "word": "Pervasive",
+    "phonetic": "/pərˈveɪsɪv/",
+    "partOfSpeech": "adjective",
+    "translation": "شائع / متغلغل / واسع الانتشار",
+    "definition": "Spreading widely throughout an area or a group of people, especially of an unwelcome influence or physical effect.",
+    "example": "Microplastics have become a pervasive contaminant in both freshwater rivers and remote polar snow.",
+    "category": "Science"
+  },
+  {
+    "id": "v097",
+    "word": "Plausible",
+    "phonetic": "/ˈplɔːzəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "معقول / محتمل التصديق",
+    "definition": "Seeming reasonable or probable.",
+    "example": "Geologists presented a plausible scenario explaining the rapid caldera collapse of the volcano.",
+    "category": "Geology"
+  },
+  {
+    "id": "v098",
+    "word": "Predecessor",
+    "phonetic": "/ˈprɛdəsɛsər/",
+    "partOfSpeech": "noun",
+    "translation": "سلف / الشيء أو الشخص السابق",
+    "definition": "A person who held a job or office before the current holder; a thing that has been followed or replaced by another.",
+    "example": "The modern telescope is far more sensitive than its seventeenth-century optical predecessor.",
+    "category": "Science"
+  },
+  {
+    "id": "v099",
+    "word": "Prevailing",
+    "phonetic": "/prɪˈveɪlɪŋ/",
+    "partOfSpeech": "adjective",
+    "translation": "سائد / غالب",
+    "definition": "Existing at a particular time; current.",
+    "example": "Sailors relied on prevailing trade winds to navigate merchant galleons across the Atlantic.",
+    "category": "History"
+  },
+  {
+    "id": "v100",
+    "word": "Pristine",
+    "phonetic": "/ˈprɪstiːn/",
+    "partOfSpeech": "adjective",
+    "translation": "بكر / نقي لم يمسه سوء",
+    "definition": "In its original condition; unspoiled; clean and fresh as if new.",
+    "example": "Scientists traveled to Antarctic subglacial lakes to sample pristine water untouched for millennia.",
+    "category": "Science"
+  },
+  {
+    "id": "v101",
+    "word": "Profound",
+    "phonetic": "/prəˈfaʊnd/",
+    "partOfSpeech": "adjective",
+    "translation": "عميق / بالغ الأثر",
+    "definition": "Very great or intense; having or showing great knowledge or insight.",
+    "example": "The invention of moveable type printing had a profound impact on literacy across Renaissance Europe.",
+    "category": "History"
+  },
+  {
+    "id": "v102",
+    "word": "Proliferate",
+    "phonetic": "/prəˈlɪfəreɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يتكاثر / ينتشر بسرعة",
+    "definition": "To increase rapidly in numbers; multiply.",
+    "example": "Algal blooms proliferate in warm estuaries receiving excess agricultural nitrate runoff.",
+    "category": "Biology"
+  },
+  {
+    "id": "v103",
+    "word": "Prominent",
+    "phonetic": "/ˈprɑːmɪnənt/",
+    "partOfSpeech": "adjective",
+    "translation": "بارز / مشهور / شاخص",
+    "definition": "Important; famous; sticking out so as to be easily seen.",
+    "example": "The astronomer played a prominent role in advocating for orbital space observatories.",
+    "category": "Academic"
+  },
+  {
+    "id": "v104",
+    "word": "Reconcile",
+    "phonetic": "/ˈrɛkənsaɪl/",
+    "partOfSpeech": "verb",
+    "translation": "يوفق بين / يسوي الخلاف",
+    "definition": "To restore friendly relations between; cause to coexist in harmony; make compatible.",
+    "example": "Physicists have long struggled to reconcile general relativity with quantum mechanics.",
+    "category": "Academic"
+  },
+  {
+    "id": "v105",
+    "word": "Refine",
+    "phonetic": "/rɪˈfaɪn/",
+    "partOfSpeech": "verb",
+    "translation": "يهذب / يصقل / ينقي",
+    "definition": "To remove impurities or unwanted elements from; improve something by making small changes.",
+    "example": "Engineers continually refine aerodynamic wing profiles to reduce commercial aircraft fuel drag.",
+    "category": "Science"
+  },
+  {
+    "id": "v106",
+    "word": "Reinforce",
+    "phonetic": "/ˌriːɪnˈfɔːrs/",
+    "partOfSpeech": "verb",
+    "translation": "يعزز / يقوي / يدعم",
+    "definition": "To strengthen or support, especially with additional personnel or material.",
+    "example": "Experimental observations reinforce the theory that birds evolved directly from theropod dinosaurs.",
+    "category": "Biology"
+  },
+  {
+    "id": "v107",
+    "word": "Robust",
+    "phonetic": "/roʊˈbʌst/",
+    "partOfSpeech": "adjective",
+    "translation": "قوي / متين / صامد",
+    "definition": "Strong and healthy; vigorous; able to withstand or overcome adverse conditions.",
+    "example": "The cacti developed robust cuticle waxes that minimize water loss in harsh arid climates.",
+    "category": "Biology"
+  },
+  {
+    "id": "v108",
+    "word": "Scrutinize",
+    "phonetic": "/ˈskruːtənaɪz/",
+    "partOfSpeech": "verb",
+    "translation": "يدقق في / يفحص بعناية",
+    "definition": "To examine or inspect closely and thoroughly.",
+    "example": "Archaeologists scrutinize ancient manuscripts under infrared light to reveal faded ink inscriptions.",
+    "category": "Academic"
+  },
+  {
+    "id": "v109",
+    "word": "Subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "partOfSpeech": "adjective",
+    "translation": "لاحق / تالٍ",
+    "definition": "Coming after something in time; following.",
+    "example": "The initial earthquake was followed by subsequent aftershocks measuring over 5.0 magnitude.",
+    "category": "Geology"
+  },
+  {
+    "id": "v110",
+    "word": "Substantiate",
+    "phonetic": "/səbˈstænʃieɪt/",
+    "partOfSpeech": "verb",
+    "translation": "يثبت / يدعم بالدليل والبرهان",
+    "definition": "To provide evidence to support or prove the truth of.",
+    "example": "The paleontologist was unable to substantiate his hypothesis without further fossil specimens.",
+    "category": "Academic"
+  },
+  {
+    "id": "v111",
+    "word": "Subtle",
+    "phonetic": "/ˈsʌtl/",
+    "partOfSpeech": "adjective",
+    "translation": "دقيق / خفي / بارع",
+    "definition": "So delicate or precise as to be difficult to analyze or describe; not obvious.",
+    "example": "There are subtle acoustic differences between dialects spoken in adjacent alpine valleys.",
+    "category": "Academic"
+  },
+  {
+    "id": "v112",
+    "word": "Surpass",
+    "phonetic": "/sərˈpæs/",
+    "partOfSpeech": "verb",
+    "translation": "يتفوق على / يتجاوز",
+    "definition": "To exceed; be greater than.",
+    "example": "Wind energy production in the region began to surpass coal-fired generation by 2022.",
+    "category": "Science"
+  },
+  {
+    "id": "v113",
+    "word": "Susceptible",
+    "phonetic": "/səˈsɛptəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "عرضة لـ / سريع التأثر بـ",
+    "definition": "Likely or liable to be influenced or harmed by a particular thing.",
+    "example": "Monoculture crops are particularly susceptible to widespread fungal infestations.",
+    "category": "Biology"
+  },
+  {
+    "id": "v114",
+    "word": "Sustain",
+    "phonetic": "/səˈsteɪn/",
+    "partOfSpeech": "verb",
+    "translation": "يتحمل / يدعم / يحافظ على استمرارية",
+    "definition": "To strengthen or support physically or mentally; maintain over a prolonged period.",
+    "example": "Wetlands sustain an extraordinary concentration of migratory waterfowl and aquatic organisms.",
+    "category": "Biology"
+  },
+  {
+    "id": "v115",
+    "word": "Tangible",
+    "phonetic": "/ˈtændʒəbl/",
+    "partOfSpeech": "adjective",
+    "translation": "ملموس / مادي / محسوس",
+    "definition": "Perceptible by touch; clear and definite; real.",
+    "example": "Archaeologists uncovered tangible evidence of copper metallurgy dating back five thousand years.",
+    "category": "History"
+  },
+  {
+    "id": "v116",
+    "word": "Tentative",
+    "phonetic": "/ˈtɛntətɪv/",
+    "partOfSpeech": "adjective",
+    "translation": "مبدئي / تجريبي / غير نهائي",
+    "definition": "Not certain or fixed; provisional; done without confidence.",
+    "example": "Geologists offered a tentative timeline for the formation of the rift valley lake system.",
+    "category": "Academic"
+  },
+  {
+    "id": "v117",
+    "word": "Thrive",
+    "phonetic": "/θraɪv/",
+    "partOfSpeech": "verb",
+    "translation": "يزدهر / ينمو بقوة",
+    "definition": "To grow or develop well or vigorously; flourish.",
+    "example": "Extremophile bacteria thrive in scalding hydrothermal vents deep beneath the ocean floor.",
+    "category": "Biology"
+  },
+  {
+    "id": "v118",
+    "word": "Trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "partOfSpeech": "verb",
+    "translation": "يطلق / يشعل / يسبب",
+    "definition": "To cause an event or situation to happen or exist.",
+    "example": "Submarine landslides can trigger massive tsunami waves traveling across ocean basins.",
+    "category": "Geology"
+  },
+  {
+    "id": "v119",
+    "word": "Undermine",
+    "phonetic": "/ˌʌndərˈmaɪn/",
+    "partOfSpeech": "verb",
+    "translation": "يقوض / يضعف تدريجياً",
+    "definition": "To damage or weaken someone or something, especially gradually or insidiously.",
+    "example": "Excessive groundwater extraction can undermine surface structural foundations.",
+    "category": "Geology"
+  },
+  {
+    "id": "v120",
+    "word": "Ubiquitous",
+    "phonetic": "/juːˈbɪkwɪtəs/",
+    "partOfSpeech": "adjective",
+    "translation": "واسع الانتشار / موجود في كل مكان",
+    "definition": "Present, appearing, or found everywhere.",
+    "example": "Smartphones have become ubiquitous tools for personal communication and navigation worldwide.",
+    "category": "Society"
+  }
+]
