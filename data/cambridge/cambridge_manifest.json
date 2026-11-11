@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "title": "Cambridge TOEFL CBT Practice Tests (Tests 1-7)",
+  "tests": [
+    {
+      "testNumber": 1,
+      "title": "Cambridge Practice Test 1",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_1.json"
+    },
+    {
+      "testNumber": 2,
+      "title": "Cambridge Practice Test 2",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_2.json"
+    },
+    {
+      "testNumber": 3,
+      "title": "Cambridge Practice Test 3",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_3.json"
+    },
+    {
+      "testNumber": 4,
+      "title": "Cambridge Practice Test 4",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_4.json"
+    },
+    {
+      "testNumber": 5,
+      "title": "Cambridge Practice Test 5",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_5.json"
+    },
+    {
+      "testNumber": 6,
+      "title": "Cambridge Practice Test 6",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_6.json"
+    },
+    {
+      "testNumber": 7,
+      "title": "Cambridge Practice Test 7",
+      "structureCount": 20,
+      "readingCount": 50,
+      "listeningCount": 50,
+      "hasWriting": true,
+      "dataFile": "assets/data/cambridge/cambridge_test_7.json"
+    }
+  ]
+}

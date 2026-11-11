@@ -1,0 +1,2452 @@
+{
+  "testNumber": 6,
+  "title": "Cambridge Practice Test 6",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 6 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T6S01",
+      "number": 1,
+      "type": "SIdentify",
+      "text": "<U1>An</U1> exchange rate is the <U2>price</U2> of one <U3>currency</U3> in terms of <U4>other</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S1-S5",
+      "correctedSentence": "An exchange rate is the price of one currency in terms of another.",
+      "feedback": "An exchange rate is the price of one currency in terms of another."
+    },
+    {
+      "id": "T6S02",
+      "number": 2,
+      "type": "SComplete",
+      "text": "<_> censored in his native Ireland and elsewhere, influenced a generation of writers.",
+      "options": [
+        "James Joyce's <I>Ulysses</I>,",
+        "James Joyce's <I>Ulysses</I>, was",
+        "James Joyce wrote <I>Ulysses</I>,",
+        "That James Joyce's writing of <I>Ulysses</I>,"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "James Joyce's <I>Ulysses</I>, censored in his native Ireland and elsewhere, influenced a generation of writers.",
+      "feedback": "James Joyce's <I>Ulysses</I>, was"
+    },
+    {
+      "id": "T6S03",
+      "number": 3,
+      "type": "SIdentify",
+      "text": "<U1>With</U1> the discovery of Pluto's moon, Charon, astronomers <U2>now</U2> think Pluto <U3>is smallest</U3> planet in <U4>our</U4> solar system.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S6-S10",
+      "correctedSentence": "With the discovery of Pluto's moon, Charon, astronomers now think Pluto is the smallest planet in our solar system.",
+      "feedback": "With the discovery of Pluto's moon, Charon, astronomers now think Pluto is the smallest planet in our solar system."
+    },
+    {
+      "id": "T6S04",
+      "number": 4,
+      "type": "SComplete",
+      "text": "The pottery and seals uncovered in <_> revealed the diversity of Dilmun's trading links.",
+      "options": [
+        "the area have",
+        "this area has",
+        "area have",
+        "these areas has"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S1-S5 and S25-S31",
+      "correctedSentence": "The pottery and seals uncovered in the area have revealed the diversity of Dilmun's trading links.",
+      "feedback": "The present-perfect verb form, \"have revealed,\" should agree with the plural subject \"pottery and seals.\" In this sentence, the noun used as the object of the preposition \"in\" should be preceded by \"the.\""
+    },
+    {
+      "id": "T6S05",
+      "number": 5,
+      "type": "SIdentify",
+      "text": "<U1>In</U1> 1927, Charles Lindbergh completed <U2>a</U2> solo <U3>crossing</U3> of the Atlantic Ocean in <U4>its</U4> aircraft, the <I>Spirit of St. Louis</I>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S11-S15",
+      "correctedSentence": "In 1927, Charles Lindbergh completed a solo crossing of the Atlantic Ocean in his aircraft, the <I>Spirit of St. Louis</I>.",
+      "feedback": "In 1927, Charles Lindbergh completed a solo crossing of the Atlantic Ocean in his aircraft, the <I>Spirit of St. Louis</I>."
+    },
+    {
+      "id": "T6S06",
+      "number": 6,
+      "type": "SComplete",
+      "text": "<_> by meteorites whose impact formed craters of all sizes.",
+      "options": [
+        "Thýe surface of the moon was shaped",
+        "The surface of the shaped moon",
+        "The moon whose surface shaped",
+        "The surface was forming the shape of the moon"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "Thýe surface of the moon was shaped by meteorites whose impact formed craters of all sizes.",
+      "feedback": "A subject and verb are needed to complete the independent clause."
+    },
+    {
+      "id": "T6S07",
+      "number": 7,
+      "type": "SIdentify",
+      "text": "<U1>Measles</U1> has not <U2>yet</U2> been eradicated <U3>because of</U3> <U4>controversial</U4> concerning immunization.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S37-S42",
+      "correctedSentence": "Measles has not yet been eradicated because of controversy concerning immunization.",
+      "feedback": "Measles has not yet been eradicated because of controversy concerning immunization."
+    },
+    {
+      "id": "T6S08",
+      "number": 8,
+      "type": "SComplete",
+      "text": "Baby teeth require just <_> later permanent teeth.",
+      "options": [
+        "as much care as",
+        "as careful as",
+        "more care than",
+        "the most care"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S82-S87",
+      "correctedSentence": "Baby teeth require just as much care as later permanent teeth.",
+      "feedback": "A phrase that compares \"baby teeth\" and \"permanent teeth\" is needed. The word \"just\" indicates that the phrase should show equality. The verb \"require\" indibcates that a noun should be used in the phrase indicating equality, \"as much care as.\""
+    },
+    {
+      "id": "T6S09",
+      "number": 9,
+      "type": "SIdentify",
+      "text": "Some paper dolls, <U1>which</U1> were once <U2>relatively</U2> cheap, are <U3>previously</U3> considered valuable collectors' <U4>items</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S43-S50",
+      "correctedSentence": "Some paper dolls, which were once relatively cheap, are now considered valuable collectors' items.",
+      "feedback": "Some paper dolls, which were once relatively cheap, are now considered valuable collectors' items."
+    },
+    {
+      "id": "T6S10",
+      "number": 10,
+      "type": "SComplete",
+      "text": "When a tiger hears the splashing of prey in water, it rolls into ambush position and crouches down in the grass <_>.",
+      "options": [
+        "to ready itself for the attack",
+        "readies itself to attack",
+        "makes itself ready for the attack",
+        "to ready itself and attacks"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31 and S88-S90",
+      "correctedSentence": "When a tiger hears the splashing of prey in water, it rolls into ambush position and crouches down in the grass to ready itself for the attack.",
+      "feedback": "makes itself ready for the attack"
+    },
+    {
+      "id": "T6S11",
+      "number": 11,
+      "type": "SIdentify",
+      "text": "<U1>Symptoms</U1> of multiple sclerosis <U2>may be eased</U2> by injecting <U3>a</U3> solution <U4>consisted</U4> of snake venom.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S67-S70",
+      "correctedSentence": "Symptoms of multiple sclerosis may be eased by injecting a solution consisting of snake venom.",
+      "feedback": "Symptoms of multiple sclerosis may be eased by injecting a solution consisting of snake venom."
+    },
+    {
+      "id": "T6S12",
+      "number": 12,
+      "type": "SComplete",
+      "text": "On Ellis Island <_>, a symbol of freedom since its inauguration in 1886.",
+      "options": [
+        "stands the Statue of Liberty",
+        "where the Statue of Liberty",
+        "the Statue of Liberty stands there",
+        "where is the Statue of Liberty"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "On Ellis Island stands the Statue of Liberty, a symbol of freedom since its inauguration in 1886.",
+      "feedback": "the Statue of Liberty stands there"
+    },
+    {
+      "id": "T6S13",
+      "number": 13,
+      "type": "SIdentify",
+      "text": "<U1>Although</U1> its height, Mount Whitney, <U2>one</U2> of North America's <U3>highest</U3> mountains, is <U4>popular with</U4> hikers.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S91-S94",
+      "correctedSentence": "Despite its height, Mount Whitney, one of North America's highest mountains, is popular with hikers.",
+      "feedback": "Despite its height, Mount Whitney, one of North America's highest mountains, is popular with hikers."
+    },
+    {
+      "id": "T6S14",
+      "number": 14,
+      "type": "SComplete",
+      "text": "When John Speke discovered Lake Victoria in 1858, <_> it was the source of the Nile.",
+      "options": [
+        "he believed that",
+        "he believed what",
+        "when he believed",
+        "then he believed"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53 and S54-S59",
+      "correctedSentence": "When John Speke discovered Lake Victoria in 1858, he believed that it was the source of the Nile.",
+      "feedback": "A subject, verb, and the noun clause marker \"that\" are needed to complete the sentence."
+    },
+    {
+      "id": "T6S15",
+      "number": 15,
+      "type": "SIdentify",
+      "text": "<U1>Adult</U1> education has become <U2>increasingly</U2> popular in <U3>the</U3> United States in recent <U4>years ago</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S25-S31",
+      "correctedSentence": "Adult education has become increasingly popular in the United States in recent years.",
+      "feedback": "Adult education has become increasingly popular in the United States in recent years."
+    },
+    {
+      "id": "T6S16",
+      "number": 16,
+      "type": "SComplete",
+      "text": "<_> during the New Deal, they remained well below levels reached before the Wall Street Crash of 1929.",
+      "options": [
+        "Although both production and consumption rose",
+        "It was both production and consumption rose",
+        "Not only both production and consumption were rising",
+        "That both production and consumption were rising"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S72-S76",
+      "correctedSentence": "Although both production and consumption rose during the New Deal, they remained well below levels reached before the Wall Street Crash of 1929.",
+      "feedback": "It was both production and consumption rose"
+    },
+    {
+      "id": "T6S17",
+      "number": 17,
+      "type": "SIdentify",
+      "text": "For <U1>more than</U1> 450 years, Mexico City has been the economic, <U2>culture</U2>, and political center <U3>of the</U3> Mexican <U4>people</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42 and S88-S90",
+      "correctedSentence": "For more than 450 years, Mexico City has been the economic, cultural, and political center of the Mexican people.",
+      "feedback": "For more than 450 years, Mexico City has been the economic, cultural, and political center of the Mexican people."
+    },
+    {
+      "id": "T6S18",
+      "number": 18,
+      "type": "SComplete",
+      "text": "While <_>, Gustave Eiffel began work on the huge steel gates for the Panama Canal.",
+      "options": [
+        "designing and building his famous tower",
+        "his famous tower was designed and built",
+        "designed and built his famous tower",
+        "his famous tower was designing and building"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S77-S80",
+      "correctedSentence": "While designing and building his famous tower, Gustave Eiffel began work on the huge steel gates for the Panama Canal.",
+      "feedback": "his famous tower was designed and built"
+    },
+    {
+      "id": "T6S19",
+      "number": 19,
+      "type": "SIdentify",
+      "text": "The Aswan High Dam <U1>has protected</U1> Egypt <U2>from</U2> the <U3>famines</U3> suffered by <U4>their</U4> neighboring countries.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S11-S15",
+      "correctedSentence": "The Aswan High Dam has protected Egypt from the famines suffered by its neighboring countries.",
+      "feedback": "The pronoun \"its,\" and not \"their,\" should be used to refer to Egypt."
+    },
+    {
+      "id": "T6S20",
+      "number": 20,
+      "type": "SComplete",
+      "text": "that have energy stored within them",
+      "options": [
+        "S61-S66",
+        "<BR1>",
+        "<BR1>",
+        "<BR1>"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "that within them have energy stored",
+      "correctedSentence": "that have energy stored within them",
+      "feedback": "within them that have energy stored"
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T6R01-14Plain",
+        "startQuestion": 1,
+        "endQuestion": 14,
+        "text": "In parts of the world, the collection of available fuel such as firewood, dung cake, and agricultural waste for home use can take 200-300 person-days per year.  As well as being time-consuming, the typical patterns of collection lead to deforestation, soil erosion, and ecological imbalances.  In the future, experts predict that even if food supplies are adequate for rural populations, fuel supplies for domestic consumption may not be.\n\nIn light of such considerations, aid organizations in parts of Asia and Africa have developed solar ovens for use in rural societies. Such ovens are cheaply constructed, easily operated, and extremely energy efficient. The device usually consists of an inner and outer metal or cardboard box, a top cover, and two panes of plain glass. The inner box is painted black to absorb maximum solar radiation. The space between the two boxes is filled with an insulating material such as rice husks, which are easily available and which, because of their high silicon content, neither attract insects nor rot easily. Other easily available materials for insulation are ground nutshells, coconut shells, or newspaper. An adjustable mirror mounted on one side of the oven box reflects the sunlight into the interior, boosting the temperatures by 15 to 30 degrees Celsius. This boost is most useful during the winter, when the sun is lower. Inside the oven, a temperature between 80 degrees and 120 degrees Celsius above the ambient temperature can be maintained. Such a temperature is sufficient to cook food gradually but completely. Trials have shown that all typical food dishes can be prepared in this solar device without loss of taste or nutrition.\n\nApart from being cheap and efficient, preparing food in solar ovens offers several welcome advantages over traditional cooking methods. Traditional indoor wood fires produce choking smoke that causes respiratory and eye diseases. They are also a fire hazard, especially for small children. Finally, the combustion of wood and other biofuels produces carbon dioxide, methane, and other greenhouse gases that contribute to global warming. % For all these reasons, solar cooking is beginning to make a significant improvement in the lives of millions of families in rural societies."
+      },
+      {
+        "groupId": "T6R15-25Plain",
+        "startQuestion": 15,
+        "endQuestion": 25,
+        "text": "Until recently, some abnormal growth conditions in humans were treated with the growth hormone, which is produced in the pituitary gland in the brain. This substance was used to treat children whose own pituitary glands did not produce enough growth hormone because of, for example, a tumor in the gland, or perhaps because of trauma. The resulting condition, pituitary dwarfism, meant that the individual would attain a small overall stature by adulthood. The natural cadaver-derived growth hormone was taken off the market after it was linked to a brain disease that attacked some of the children undergoing treatment.\n\nA replacement for the abandoned treatment is a new synthetic growth hormone that, it is claimed, has fewer severe side effects and can be produced in unlimited quantities. This drug, Somatrem, is produced by genetic engineering and has been demonstrated to be equivalent to natural human growth hormone. Among the drug's effects are the stimulation of skeletal growth and the ability to increase the number and size of muscle cells.\n\nFor children who are deficient in their own growth hormone, the development of Somatrem has been an important medical advance.  The problem is that the drug may be abused by people who produce an adequate output of the substance and are, therefore, not medically in need of its benefits. For example, athletes may take the drug in the belief that it will improve their physique and physical performance because of its suggested anabolic properties. Recently, other medical preparations incorporating the drug have been touted as an anti-aging formula.\n\nIt has been found, however, that the unsupervised use of this drug may create medical problems including severe headaches, the creation of a diabetic condition in the body, and abnormal growth of bones and body organs. For such reasons, some experts have recommended that registers be kept of legitimate Somatrem recipients. The implications of the use of Somatrem must be thoroughly understood before widespread distribution of the drug is undertaken."
+      },
+      {
+        "groupId": "T6R26-37Plain",
+        "startQuestion": 26,
+        "endQuestion": 37,
+        "text": "Many researchers believe that apes can communicate with human beings. Investigations made at laboratories in the United States and elsewhere indicate that chimpanzees and gorillas are capable of understanding language and using linguistic responses at the level of a four-year-old child. Washoe, an adult chimpanzee who was raised as if she were a deaf child, can translate words she hears into American Sign Language. Koko, a 400-pound lowland gorilla, is claimed to have understood a poem written about her. Tests of Koko's auditory co between many sounds.\n\nThe investigators at the forefront of this research admit that their work has been severely criticized. For behavior to be called \"language,\" it must be communicative; in other words, the signer mumust be able to use language creatively. He or she should be able to take turns in conversation, sign spontaneously rather than as a response to drilling or coercion, and comment on interesting phenomena. Based on these stringent criteria, according to the critics, the apes do not appear to be really communicating.\n\nThe proponents of ape language counter that those who deny the validity of this research have never worked with these animals. Researchers who have a close working familiarity with the apes in question are convinced of the sophistication of the animals' communicative abilities. They claim evidence of gorillas using signs to show humor, to make insults, to threaten, to produce metaphorical language, and to engage in fantasy play. Finally, they point out that new fields of investigation always create controversy. They add that subhuman primates have not been taught to speak, however, because the outer layer of their brain hemispheres is not sufficiently refined."
+      },
+      {
+        "groupId": "T6R38-50Plain",
+        "startQuestion": 38,
+        "endQuestion": 50,
+        "text": "One of the major hazards for deep-sea divers is decompression sickness (DCS), more commonly known as the \"bends.\" This sometimes fatal condition is caused by gas bubbles forming in the bloodstream if a diver ascends too rapidly. These bubbles travel in the blood and may become lodged anyplace in the body. Most commonly, they get trapped in joints, particularly in the joints of the spine. The resulting pain causes the diver to bend over, hence the name of the condition.\n\nThe reason gas bubbles form has to do with the saturation and desaturation of body tissues with various gases. At increasingly great depths, the diver breathes air at higher pressures. This results in an increased quantity of air being dissolved in the bloodstream. Different body tissues are saturated with different gases from the air at different rates. When the diver rises to the surface, oxygen is used by the body tissues, carbon dioxide is released quickly, and nitrogen remains. The remaining nitrogen needs to be released gradually from the bloodstream and body tissues. |If the nitrogen is subjected to a too rapid pressure reduction, it forms bubbles. Not only do these bubbles collect in joints, but they also become trapped in capillaries. This entrapment prevents blood and oxygen from supplying necessary nutrients to body tissues, which consequently begin to die.\n\nSaturation and desaturation are affected by various factors such as the depth of the water and the length of time and amount of exertion used while underwater. Other factors must also be taken into account when determining a safe ascent rate. These include the diver's sex and body build, the number of dives undertaken within the previous twelve hours, the time spent at the dive location before the dive, and the composition of the respiration gas.\n\nDiving tables set guidelines based on statistical probabilities of getting the bends. However, someone who stays within the suggested limits can still get DCS. Since even a mild case can leave a diver permanently crippled, it is imperative that divers recognize the symptoms. Unfortunately, such symptoms can be similar to those of the flu or a strained muscle, something that occurs frequently when divers are handling heavy equipment, using improperly fitted gear, or engaging in unaccustomed activity. Because even professionals can have difficulty diagnosing DCS, the most reliable test is to recompress the patient and see whether the symptoms abate."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T6R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "This passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "design and use of solar ovens",
+          "deforestation in rural societies",
+          "use of rice husks as an insulation material",
+          "maintenance of temperature in a solar oven"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "All of the following are mentioned as traditional fuels in parts of rural agricultural societies EXCEPT"
+      },
+      {
+        "id": "T6R02",
+        "number": 2,
+        "type": "RMCSimple",
+        "text": "All of the following are mentioned as traditional fuels in parts of rural agricultural societies EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "solar power",
+          "firewood",
+          "dung cake",
+          "agricultural waste"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Something that is for \"domestic\" use is for use in a \"ho for \"domestic\" use is for use in a \"ho"
+      },
+      {
+        "id": "T6R03",
+        "number": 3,
+        "type": "RClickWordSynonymWord",
+        "text": "#Te",
+        "paragraphNumber": 1,
+        "options": [
+          "parts",
+          "world",
+          "collection",
+          "available"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Something that is for \"domestic\" use is for use in a \"ho for \"domestic\" use is for use in a \"ho"
+      },
+      {
+        "id": "T6R04",
+        "number": 4,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "their",
+          "space",
+          "between",
+          "boxes"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Rice husks\" are easily available and have a high silicon content."
+      },
+      {
+        "id": "T6R05",
+        "number": 5,
+        "type": "RMCSimple",
+        "text": "Which of the following is NOT mentioned as a reason for using rice husks as insulating material?",
+        "paragraphNumber": 1,
+        "options": [
+          "They do not reflect sunlight.",
+          "They are readily obtainable.",
+          "They do not tempt pests.",
+          "They do not decay readily."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, the use of an adjustable mirror increases the oven temperature by"
+      },
+      {
+        "id": "T6R06",
+        "number": 6,
+        "type": "RMCSimple",
+        "text": "According to the passage, the use of an adjustable mirror increases the oven temperature by",
+        "paragraphNumber": 1,
+        "options": [
+          "up to 30 degrees Celsius",
+          "80 to 120 degrees Celsius",
+          "at least 80 degrees Celsius",
+          "up to 15 degrees Celsius"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage states that the temperature is boosted from 15 to 30 degrees Celsius. Since 30 degrees is the maximum, the temperature increases \"up to\"in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>shafts</B>.\"]"
+      },
+      {
+        "id": "T6R07",
+        "number": 7,
+        "type": "RMCSimple",
+        "text": "According to the passage, the adjustable mirror is most useful",
+        "paragraphNumber": 1,
+        "options": [
+          "during the winter",
+          "at midday",
+          "when firewood is lacking",
+          "to improve taste and nutrition"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains a way in which the solar oven is heated."
+      },
+      {
+        "id": "T6R08",
+        "number": 8,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 2 that explains a way in which the solar oven is heated.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "parts",
+          "world",
+          "collection",
+          "available"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains a way in which the solar oven is heated."
+      },
+      {
+        "id": "T6R09",
+        "number": 9,
+        "type": "RMCSynonymWord",
+        "text": "The word \"ambient\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "surrounding",
+          "solar",
+          "desired",
+          "environmental"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Click on the picture below that most closely resembles the oven described in the passage."
+      },
+      {
+        "id": "T6R10",
+        "number": 10,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that most closely resembles the oven described in the passage.",
+        "paragraphNumber": 1,
+        "options": [
+          "Solar box cooker with dark interior box, glass lid, and reflective booster mirror",
+          "Open campfire with spit",
+          "Cast iron wood stove with chimney",
+          "Modern microwave oven"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T6R10Q1.png",
+          "assets/images/cambridge/T6R10Q2.png",
+          "assets/images/cambridge/T6R10Q3.png",
+          "assets/images/cambridge/T6R10Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "The correct illustration shows two boxes with the inner box painted black and an adjustable mirror mounted on one side of the oven."
+      },
+      {
+        "id": "T6R11",
+        "number": 11,
+        "type": "RMCOther",
+        "text": "Why does the author mention diseases and fire hazard in paragraph 3?",
+        "paragraphNumber": 3,
+        "options": [
+          "To show other reasons for using the solar oven",
+          "To indicate why traditional meals may be harmful",
+          "To give reasons why the solar oven is energy efficient",
+          "To emphasize how biofuels harm small children"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Diseases from inhaling smoke from traditional wood fires and the fire hazards caused by wood fires are two reasons that would support the use of the solar oven."
+      },
+      {
+        "id": "T6R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "In which of the following places would the author probably consider the oven most usefu",
+        "paragraphNumber": 1,
+        "options": [
+          "In a rural community",
+          "On a camping trip",
+          "In a busy restaurant",
+          "In a cold wintery climate"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Depletion of fuel sources can also lead to further problems such as flooding."
+      },
+      {
+        "id": "T6R13",
+        "number": 13,
+        "type": "RAddSentenceToPassage",
+        "text": "The following sentence can be added to the passage.<P><B>Depletion of fuel sources can also lead to further problems such as flooding.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "Depletion of fuel sources can also lead to further problems such as flooding."
+      },
+      {
+        "id": "T6R14",
+        "number": 14,
+        "type": "RMCSimple",
+        "text": "Which one of the following sentences should NOT be included in a summary of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The problem of global warming could be combated by worldwide use of solar ovens.",
+          "Fuel supplies are time-consuming to collectribed as one of",
+          "admiration",
+          "skepticism"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author describes the bridge as \"one of the great engineering triumphs of the nineteenth century\" and claims that it is \"a testament to the determination, skill, and daring of those who envisioned and built it.\""
+      },
+      {
+        "id": "T6R15",
+        "number": 15,
+        "type": "RMCSimple",
+        "text": "What is this passage mainly about?",
+        "paragraphNumber": 1,
+        "options": [
+          "A medical breakthrough in growth hormones",
+          "The side effects of growth drugs",
+          "The abuse of growth hormones",
+          "The problems of growth hormone-deficient children"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The people who could benefit from this drug are of small stature because of"
+      },
+      {
+        "id": "T6R16",
+        "number": 16,
+        "type": "RMCSimple",
+        "text": "The people who could benefit from this drug are of small stature because of",
+        "paragraphNumber": 1,
+        "options": [
+          "a lack of a hormone",
+          "hereditary diseases",
+          "severe accidents",
+          "birth defects"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When there is a relationship between two things in which one causes the other to exist, it is said that they are \"linked to\" or \"associated with\" each other."
+      },
+      {
+        "id": "T6R17",
+        "number": 17,
+        "type": "RMCSimple",
+        "text": "Look at the word <B>linked to</B> in the passage.",
+        "paragraphNumber": 1,
+        "options": [
+          "associated with",
+          "caused by",
+          "subjected to",
+          "inhibited by"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated in the passage that the natural growth hormone was linked to a brain disease."
+      },
+      {
+        "id": "T6R18",
+        "number": 18,
+        "type": "RMCSimple",
+        "text": "According to the passage, natural growth hormone is not marketed now because",
+        "paragraphNumber": 1,
+        "options": [
+          "it may have caused a brain disease",
+          "people were killed by it",
+          "it failed to make people grow",
+          "not enough pituitary glands were available"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author claim that Somatrem is an advance on natural growth hormone?"
+      },
+      {
+        "id": "T6R19",
+        "number": 19,
+        "type": "RMCSimple",
+        "text": "Why does the author claim that Somatrem is an advance on natural growth hormone?",
+        "paragraphNumber": 1,
+        "options": [
+          "Used properly, it is less dangerous than natura",
+          "It can be used by athletes.",
+          "It is no longer necessary to use pituitary glands from cadavers.",
+          "It cannot be abused by people."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The direct benefits of Somatrem will be gained by"
+      },
+      {
+        "id": "T6R20",
+        "number": 20,
+        "type": "RMCSimple",
+        "text": "The direct benefits of Somatrem will be gained by",
+        "paragraphNumber": 1,
+        "options": [
+          "undersized children",
+          "professional athletes",
+          "medical experts",
+          "concerned parents"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "children deficient in growth hormones"
+      },
+      {
+        "id": "T6R21",
+        "number": 21,
+        "type": "RClickWordAntonym",
+        "text": "Look at the word <B>deficient</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is the opposite of <B>deficient</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "deficient",
+          "children",
+          "their",
+          "growth"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"deficient\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T6R22",
+        "number": 22,
+        "type": "RMCRefer",
+        "text": "Look at the word <B>people</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>people</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "possible drug abusers",
+          "children deficient in growth hormones",
+          "experts in the medical field",
+          "cad \"adequate\" amount of it."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "One might expect that Somatrem will be"
+      },
+      {
+        "id": "T6R23",
+        "number": 23,
+        "type": "RMCSimple",
+        "text": "One might expect that Somatrem will be",
+        "paragraphNumber": 1,
+        "options": [
+          "in demand",
+          "taken off the market",
+          "in short supply",
+          "forgotten soon"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Also, parents may want to obtain the drug for their children who are only marginally under average height."
+      },
+      {
+        "id": "T6R24",
+        "number": 24,
+        "type": "RAddSentenceToParagraph",
+        "text": "Also, parents may want to obtain the drug for their children who are only marginally under average height.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "Also, parents may want to obtain the drug for their children who are only marginally under average height."
+      },
+      {
+        "id": "T6R25",
+        "number": 25,
+        "type": "RMCSynonymWord",
+        "text": "The word \"recipients\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "consumers",
+          "collectors",
+          "salespersons",
+          "test subjects"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is the main topic of the passage?"
+      },
+      {
+        "id": "T6R26",
+        "number": 26,
+        "type": "RMCSimple",
+        "text": "Which of the following is the main topic of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The possibility that apes can communicate with humans",
+          "Research into apes' imitative behavior",
+          "Studies done in apes' abilities to communicate with each other",
+          "Uses of American Sign Language in research"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, many ape language researchers say that apes can"
+      },
+      {
+        "id": "T6R27",
+        "number": 27,
+        "type": "RMCSimple",
+        "text": "According to the passage, many ape language researchers say that apes can",
+        "paragraphNumber": 1,
+        "options": [
+          "understand spoken language",
+          "speak about their needs",
+          "think for themselves",
+          "write poetry"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated that Washoe is an adult chimpanzee that us"
+      },
+      {
+        "id": "T6R28",
+        "number": 28,
+        "type": "RMCSimple",
+        "text": "Washoe is",
+        "paragraphNumber": 1,
+        "options": [
+          "a chimpanzee that uses signs",
+          "a four-year-old child",
+          "a deaf gorilla",
+          "a research scientist"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"distinguish\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T6R29",
+        "number": 29,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"distinguish\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "distinguish",
+          "researchers",
+          "believe",
+          "communicate"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"distinguish\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T6R30",
+        "number": 30,
+        "type": "RMCSimple",
+        "text": "According to the passage, apes' use of human forms of communication is",
+        "paragraphNumber": 1,
+        "options": [
+          "treated skeptically by many researchers who question if it qualifies as true language",
+          "widely accepted as identical to human speech",
+          "demonstrated to include spoken syntax and grammar",
+          "found only in infants under two years of age"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In the passage, skeptics claim that apes' language behavior is merely imitative rather than true communicative language."
+      },
+      {
+        "id": "T6R31",
+        "number": 31,
+        "type": "RClickParagraph",
+        "text": "that contains a definition of language.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that contains a definition of language."
+      },
+      {
+        "id": "T6R32",
+        "number": 32,
+        "type": "RMCSynonymWord",
+        "text": "The word \"stringent\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "rigorous",
+          "durable",
+          "strident",
+          "insipid"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In fact, skeptics claim that apes' language behavior is merely imitative."
+      },
+      {
+        "id": "T6R33",
+        "number": 33,
+        "type": "RAddSentenceToParagraph",
+        "text": "The following sentence can be added to paragraph 2.<P><B>In fact, skeptics claim that apes' language behavior is merely imitative.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "In fact, skeptics claim that apes' language behavior is merely imitative."
+      },
+      {
+        "id": "T6R34",
+        "number": 34,
+        "type": "RMCSynonymWord",
+        "text": "The word \"proponents\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "people who believe that apes communicate",
+          "skeptics who have criticized the research",
+          "tests that indicate auditory discrimination",
+          "apes that have learned to communicate"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": ""
+      },
+      {
+        "id": "T6R35",
+        "number": 35,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>they</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>they</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "They",
+          "claim",
+          "evidence",
+          "gorillas"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Researchers\" claim evidence of gorillas using signs."
+      },
+      {
+        "id": "T6R36",
+        "number": 36,
+        "type": "RMCSimple",
+        "text": "It may be inferred from the passage that",
+        "paragraphNumber": 1,
+        "options": [
+          "humans and apes are primates",
+          "only gorillas and chimpanzees are primates",
+          "only human beings are primates",
+          "all animals except apes are primates"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage supports which of the following conclusions?"
+      },
+      {
+        "id": "T6R37",
+        "number": 37,
+        "type": "RMCSimple",
+        "text": "The passage supports which of the following conclusions?",
+        "paragraphNumber": 1,
+        "options": [
+          "Ape communication is likely to remain a controversial topic.",
+          "Eventually gorillas and chimpanzees will be able to speak.",
+          "Chimpanzees' use of sign language is merely imitative behavior.",
+          "DCS is known as the \"bends\" because the \"pain causes the diver to bend over.\""
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A gorilla ts - <I>tableros</I> - producing a steplike appearance. Originally all such structures would have been covered with a layer of stucco and then painted, often with pictures of animals and mythological creatures."
+      },
+      {
+        "id": "T6R38",
+        "number": 38,
+        "type": "RMCSimple",
+        "text": "This passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "factors involved in getting the bends",
+          "how to calculate a safe depth when diving",
+          "how to determine saturation and desaturation rates",
+          "instructions for diving safely"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When something gets \"lodged\" or \"trapped,\" it has become sbecause the \"pain causes the diver to bend over.\""
+      },
+      {
+        "id": "T6R39",
+        "number": 39,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>lodged</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>lodged</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "trapped",
+          "released",
+          "dissolved",
+          "bends"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When something gets 'lodged' or 'trapped,' it has become stuck in one place."
+      },
+      {
+        "id": "T6R40",
+        "number": 40,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"lodged\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "lodged",
+          "These",
+          "bubbles",
+          "travel"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When something gets \"lodged\" or \"trapped,\" it has become s"
+      },
+      {
+        "id": "T6R41",
+        "number": 41,
+        "type": "RClickSentence",
+        "text": "that explains what happens to nitrogen when it is released quickly.",
+        "paragraphNumber": 1,
+        "options": [
+          "major",
+          "hazards",
+          "divers",
+          "sickness"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains what happens to nitrogen when it is released quickly."
+      },
+      {
+        "id": "T6R42",
+        "number": 42,
+        "type": "RMCSimple",
+        "text": "Which of the following symptoms of decompression sickness is NOT mentioned in the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "Permanent loss of hearing",
+          "Excruciating joint pain (the bends)",
+          "Mild tingling sensations on the skin",
+          "Paralysis and respiratory distress"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author mentions excruciating pain, tingling, and paralysis, but permanent hearing loss is not mentioned as a symptom of DCS in the passage."
+      },
+      {
+        "id": "T6R43",
+        "number": 43,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>they</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>they</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "they",
+          "Most",
+          "commonly",
+          "trapped"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"These bubbles\" also become trapped in capillaries."
+      },
+      {
+        "id": "T6R44",
+        "number": 44,
+        "type": "RMCSimple",
+        "text": "With which of the following conclusions regarding diving ascents would the author most likely agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "Men and women may need to ascend at different rates due to physiological differences in body fat.",
+          "All divers regardless of gender should always use the exact same decompression timetable.",
+          "Ascending quickly is harmless if the diver drinks water immediately.",
+          "Breathing pure oxygen before diving prevents all decompression symptoms."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author concludes that because nitrogen dissolves differently in fatty tissue, men and women may require different decompression timetables."
+      },
+      {
+        "id": "T6R45",
+        "number": 45,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>These</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>These</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "These",
+          "bubbles",
+          "travel",
+          "blood"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Other factors\" include the diver's sex and body build, etc."
+      },
+      {
+        "id": "T6R46",
+        "number": 46,
+        "type": "RMCSimple",
+        "text": "Which of the following does NOT affect the desaturation of body tissues?",
+        "paragraphNumber": 1,
+        "options": [
+          "The location of the dive",
+          "The number of previous dives",
+          "The composition of the gas being used",
+          "The amount of activity underwater"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is not the location of the dive that affects desaturation but the time spent at the location before the  ground nutshells, coconut shells, or newspaper. An adjustable mirror mounted on one side of the oven box reflects the sunlight into the interior, boosting the temperatures by"
+      },
+      {
+        "id": "T6R47",
+        "number": 47,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"gear\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "gear",
+          "Unfortunately",
+          "such",
+          "symptoms"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The \"equipment\" used for a parti"
+      },
+      {
+        "id": "T6R48",
+        "number": 48,
+        "type": "RAddSentenceToParagraph",
+        "text": "These can range from a mild annoyance to excruciating pain.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "These can range from a mild annoyance to excruciating pain."
+      },
+      {
+        "id": "T6R49",
+        "number": 49,
+        "type": "RMCSimple",
+        "text": "According to the passage, the bends",
+        "paragraphNumber": 1,
+        "options": [
+          "is one of the main diving hazards",
+          "reduces pressure in the bloodstream",
+          "is a condition caused by diving too quickly",
+          "is a direct result of dying body tissues"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "[QText]<P>[AnswerSet]<P>Paragraph [ParaNumber] is marked with an arrow (~)."
+      },
+      {
+        "id": "T6R50",
+        "number": 50,
+        "type": "RClickParagraph",
+        "text": "that discusses the factors related to DCS.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that discusses the factors related to DCS."
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T6L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What is the man's difficulty?",
+        "options": [
+          "He has a conflict in his schedule.",
+          "He won't difficulty?",
+          "L13-L18",
+          "L13-L18"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L01C.WAV",
+        "questionAudio": "T6L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L01C.png",
+        "transcript": "WOMAN: The workshop on ceramics that was supposed to be held this Wednesday has been rescheduled for next Wednesday.\nMAN: Oh, no! That's the week we're going on the state tour with the band.",
+        "feedback": ""
+      },
+      {
+        "id": "T6L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She would prefer to know earlier if the man is coming.",
+          "She thinks that the man might get held up by the meeting.",
+          "She believes that the man will get to her house by five o'clock.",
+          "She plans on coming to the meeting even though it's late."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L02C.WAV",
+        "questionAudio": "T6L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L02C.png",
+        "transcript": "MAN: I might get held up in that student council meeting, but I'll let you know by five o'clock if I'm coming to your get-together.\nWOMAN: That's a bit late, but I guess it's better than not knowing.",
+        "feedback": "The man can't tell the woman until five o'clock if he is coming. She indicates that she'd prefer to know earlier by saying that it is better to know this information late than to not know it at all."
+      },
+      {
+        "id": "T6L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "The problem he is working on is harder than the one on page three.",
+          "dThe three problems will be difficult for her to solve.",
+          "One of the two problems has no solution.",
+          "The most difficult problem is on page three."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L03C.WAV",
+        "questionAudio": "T6L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L03C.png",
+        "transcript": "WOMAN: I just can't solve the calculus problem on page three of the handout.\nMAN: If you think that one's hard, just look at the one I'm doing.",
+        "feedback": "The statement \"If you think that one's hard, just look at the one I'm doing\" implies a comparison between two problems in which the latter (\"the one I'm doing\") is more difficult."
+      },
+      {
+        "id": "T6L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "He doesn't want to go to Tony's Pizza.",
+          "Tony's Pizza is far too noisy.",
+          "The best meal is served at the Student Union.",
+          "Tony's Pizza is too far to go for a meal."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L04C.WAV",
+        "questionAudio": "T6L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L04C.png",
+        "transcript": "WOMAN: I know that Tony's Pizza is off campus, but it serves far better food.\nMAN: Maybe so, but I'd still prefer to hear the live music at the Student Union.",
+        "feedback": "The man's preference for the music at the Student Union suggests that he doesn't want to go to Tony's Pizza."
+      },
+      {
+        "id": "T6L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "They always took the bus in the past.",
+          "They usually were on time for the bus.",
+          "It took them too much time to go by bus.",
+          "They spent all their time waiting for the bus."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L05C.WAV",
+        "questionAudio": "T6L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L05C.png",
+        "transcript": "MAN: When I see those people waiting for the bus, I can't imagine^ being without my bike.\nWOMAN: I know, but we used to take the bus all the time.",
+        "feedback": "The woman agrees with the man but then points out that they always took the bus before they got their bicycles."
+      },
+      {
+        "id": "T6L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does the man agree to do for the woman?",
+        "options": [
+          "Give her the classified ads",
+          "Place an ad in the newspaper",
+          "Buy the newspaper for her",
+          "Give her the international-news section"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L06C.WAV",
+        "questionAudio": "T6L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L06C.png",
+        "transcript": "WOMAN: If you get the newspaper, could I have the classified ads?\nMAN: Sure, I'm mainly interested in the campus news.",
+        "feedback": "The man agrees to the woman's request to have the classified-ads section."
+      },
+      {
+        "id": "T6L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Snow has been forecast.",
+          "The ski club has reported that snow is needed.",
+          "Will's report was on cross-country skiing.",
+          "The report on skiing was correct."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L07C.WAV",
+        "questionAudio": "T6L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L07C.png",
+        "transcript": "WOMAN: I'd sure like to get off campus and do something besides studying for a change.\nMAN: Well, if the weather report is correct, we'll have enough snow for cross-country skiing.",
+        "feedback": "The weather report predicts snow, which is necessary for skiing."
+      },
+      {
+        "id": "T6L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What will the man probably do?",
+        "options": [
+          "Buy some paper",
+          "Get a newspaper",
+          "Finish the letter",
+          "Go to the station"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L08C.WAV",
+        "questionAudio": "T6L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L08C.png",
+        "transcript": "WOMAN: I can't finish this letter. I've run out of paper.\nMAN: I'll go down to the stationery store and get some for you.",
+        "feedback": "The man has offered to go to the store and buy some paper f"
+      },
+      {
+        "id": "T6L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Simon doesn't want to stay home.",
+          "Simon is walking down the lane to his house.",
+          "The drains at Simon's house aren't working.",
+          "Simon works at home when it rains."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L09C.WAV",
+        "questionAudio": "T6L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L09C.png",
+        "transcript": "WOMAN: I can't believe Simon would go out on a day like this.\nMAN: I guess he prefers getting wet to staying home.",
+        "feedback": "According to the man, Simon prefers going out in the rain to staying at home. Therefore, Simon probably doesn't want to stay home."
+      },
+      {
+        "id": "T6L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Max has frequently told Pete to lock the door.",
+          "Max told Pete to lock the door on time.",
+          "Max waited for Pete to lock the door.",
+          "Pete always locks the door for Max."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L10C.WAV",
+        "questionAudio": "T6L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L10C.png",
+        "transcript": "WOMAN: Pete's stereo has been stolen from his dorm room.\nMAN: Well, Max has told Pete time after time to keep the door locked.",
+        "feedback": "The expression \"time after time\" means \"frequently.\""
+      },
+      {
+        "id": "T6L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "He wants to stay home.",
+          "He prefers to see a film.",
+          "He'd like to attend a football game.",
+          "He's already been to the library."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L11C.WAV",
+        "questionAudio": "T6L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L11C.png",
+        "transcript": "WOMAN: Would you prefer to go to the library or to attend that lecture about filmmaking?\nMAN: There's a football game on TV.",
+        "feedback": "The m"
+      },
+      {
+        "id": "T6L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He studies literature.",
+          "He used to study economics.",
+          "He wants to be contrary.",
+          "He studies with his older brother."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L12C.WAV",
+        "questionAudio": "T6L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L12C.png",
+        "transcript": "WOMAN: I thought you sturtifacts that provide us with the evidence on which to base our interpretation of this fascinating culture. In particular, the Anasazi are famous for their remarkable building techniques and their construction of masonry structures on the sides of cliffs.\nOne type of structure that I would like to discuss is called a kiva. The kiva is considered to have had a mainly religious and ceremonial purpose. In this diagram, which shows the kind of kiva typical of the Mesa Verde area, you can see that the structure is circular in shape. Mesa Verde kivas usually have six stone pillars built into the wall. These pillars are called pilasters and were used to support the roof beams. The fire pit can be found in the center of the room. This short, low wall behind the fire pit served as a deflector for the air intake coming from behind it. Notice the small round hole in the floor. This is called a sipapu. The Anasazi people probably regarded it as a symbolic entrance to the underworld.",
+        "feedback": "The woman thinks he studies economics and his brother studies literature, but he tells her that the truth is the opposite of this: He studies literature and his brother studies economics."
+      },
+      {
+        "id": "T6L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "After the play, she's going to go to the party.",
+          "She can't attend the play because of the party.",
+          "She doesn't know whether to attend the play or the party.",
+          "She can't go with the man because someone has invited her out."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L13C.WAV",
+        "questionAudio": "T6L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L13C.png",
+        "transcript": "MAN: This is the last night of the Drama Department's play. You are going to it, aren't you?\nWOMAN: Yes, and I've also been invited to the cast party afterward.",
+        "feedback": "The woman answers \"yes\" when asked about going to the play. She will probably accept the invitation to go to the party after the play."
+      },
+      {
+        "id": "T6L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "The woman shoul=d turn in the essay as soon as possible.",
+          "The woman should have turned in the essay before yesterday.",
+          "It is too late for the woman to turn in the essay.",
+          "The essay is longer than it should be."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L14C.WAV",
+        "questionAudio": "T6L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L14C.png",
+        "transcript": "WOMAN: I was supposed to have turned in that essay yesterday.\nMAN: Well, don't put it off any longer.",
+        "feedback": "The man is advising the woman not to postpone turning in her essay any longer."
+      },
+      {
+        "id": "T6L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He has taken more than a couple of Spanish classes.",
+          "He has taken seven Spanish classes.",
+          "He has never taken a Spanish class.",
+          "He has taken two Spanish classes."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L15C.WAV",
+        "questionAudio": "T6L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L15C.png",
+        "transcript": "WOMAN: Have you taken any Spanish classes?\nMAN: Yes, in fact, I've taken several.",
+        "feedback": "\"Several\""
+      },
+      {
+        "id": "T6L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Many students go to the snack bar for lunch.",
+          "The woman should expect lunch to be served.",
+          "The snack bar always opens at noon.",
+          "The woman should avoid crowds in the snack bar."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L16C.WAV",
+        "questionAudio": "T6L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L16C.png",
+        "transcript": "WOMAN: I don't enjoy coming to the Student Snack Bar. It's always so crowded.\nMAN: Well, what do you expect? You always come by at noon.",
+        "feedback": "The man means that the woman always sees so many people at the snack bar because she comes by at noon, a time when many students are having lunch."
+      },
+      {
+        "id": "T6L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What is the woman going to do?",
+        "options": [
+          "Act in the theater",
+          "Play with her daughter",
+          "Eat a roll",
+          "Play a game"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L17C.WAV",
+        "questionAudio": "T6L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L17C.png",
+        "transcript": "MAN: Why did you run off so quickly after lunch?\nWOMAN: The Drama Department was holding auditions for their next play and I didn't want to be late.\nMAN: Well, did you get a part?\nWOMAN: Yes, I did. It's a great role. Would you believe I'm going to play one of the daughters?",
+        "feedback": "\"To get a role\" in a drama is \"to be given a part.\" The woman is going to act in the theater."
+      },
+      {
+        "id": "T6L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The campus police should investigate the matter.",
+          "The campus police are risking students' lives.",
+          "The campus police shouldn't have started the fire.",
+          "The campus police are wasting their time with a practical joke."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T6L18C.WAV",
+        "questionAudio": "T6L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T6L18C.png",
+        "transcript": "MAN: I heard th",
+        "feedback": "The woman thinks that the campus police are doing the right thing by investigating the fire because a lot of students could have been in danger."
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T6L19-20",
+        "startQuestion": 19,
+        "endQuestion": 20,
+        "fullAudio": "T6L19-20.WAV",
+        "audioClips": [
+          "T6L19-20.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L19-20C.png",
+        "transcript": "MAN: The tickets for the best seats in the concert hall cost sixty dollars.\nWOMAN: Oh, that's much more than I wanted to pay. Don't we get a student discount for these kinds of functions?\nMAN: Not for a concert like this. Look, the least expensive ones are fifteen dollars.\nWOMAN: Where are the fifteen-dollar seats located?\nMAN: In the top balcony.\nWOMAN: That's too far away. We won't be able to see anything.\nMAN: The middle balcony costs twenty-five dollars, and the first balcony costs forty-five dollars.<P>WOMAN: Well, the forty-five-dollar seats are still expensive, but if we really want to enjoy the concert, I guess we'd better get them.",
+        "questions": [
+          {
+            "id": "T6L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "What are the people discussing?",
+            "questionAudio": "T6L19Q.WAV",
+            "options": [
+              "Which seats to get for a concert",
+              "Where the least expensive seats are located",
+              "How far away the date of the concert is",
+              "Where the balconies are situated in the hall"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The people are discussing the prices of concert tickets and where the seats are in order to decide which tickets they want to buy."
+          },
+          {
+            "id": "T6L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "How much are the tickets the woman decides to buy?",
+            "questionAudio": "T6L20Q.WAV",
+            "options": [
+              "$45",
+              "$15",
+              "$60",
+              "$25"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman states that they had better get the forty-five-dollar tickets even though those seats are expensive."
+          }
+        ]
+      },
+      {
+        "groupId": "T6L21-23",
+        "startQuestion": 21,
+        "endQuestion": 23,
+        "fullAudio": "T6L21-23.WAV",
+        "audioClips": [
+          "T6L21-23.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L21-23C.png",
+        "transcript": "WOMAN: Do you have your Tests and Measurements book with you?\nMAN: Yeah. It's in my backpack.\nWOMAN: Could I borrow it this afternoon?\nMAN: Don't you have a copy?\nWOMAN: I didn't bring mine because I have several other classes this afternoon, but I just discovered that my Educational Foundations class has been canceled. I thought I could make use of my time by reading the chapter about testing in elementary school. That is our assignment for next week, isn't it?\nMAN: Yes, it is. Well, I was planning on studying that chapter myself this afternoon, but I could work on my Psychology in Education report instead.\nWOMAN: Can I meet you at the library between two and three o'clock? That's when I'm free today. I have Music Theory at three, so I can return the book before heading off to that class.\nMAN: All right. Here's my book. I usually sit at the tables near the reference section. Shall we meet there?\nWOMAN: Sure. See you a little bit before three.",
+        "questions": [
+          {
+            "id": "T6L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "What is the woman's difficulty?",
+            "questionAudio": "T6L21Q.WAV",
+            "options": [
+              "She left the book she wants to study at home.",
+              "She can't get to the library until three o'clock.",
+              "She has lost her Tests and Measurements book.",
+              "Her Educational Foundations class has been canceled."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman tells the man that she didn't bring her book with her because she didn't think she would have time to study the assignment."
+          },
+          {
+            "id": "T6L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What course of study are the speakers probably ma¦joring in?",
+            "questionAudio": "T6L22Q.WAV",
+            "options": [
+              "Education",
+              "Psychology",
+              "Mathematics",
+              "Music"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man and the woman are in the same course of Tests and Measurements and need to read the assignment about testing in elementary school. The woman's class in Educational Foundations has been canceled and the man is doing a report in Psychology in Education. These courses indicate that the people are majoring in education."
+          },
+          {
+            "id": "T6L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "What does the woman agree to do?",
+            "questionAudio": "T6L23Q.WAV",
+            "options": [
+              "Return the man's book in the afternoon",
+              "Help the man with his psychology assignment",
+              "Meet the man after his Music Theory class",
+              "Save a place for the man in the library"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman agrees to return the book to the man in the library reference section before she goes to her three-o'clock class."
+          }
+        ]
+      },
+      {
+        "groupId": "T6L24-28",
+        "startQuestion": 24,
+        "endQuestion": 28,
+        "fullAudio": "T6L24-28.WAV",
+        "audioClips": [
+          "T6L24-28.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L24-28C.png",
+        "transcript": "Although we learn to count from an early age, learning to count is quite complicated. First, children need to learn the names of the numbers in their particular language. They learn the numbers, but often get-+z\"'ShowText$#uid#-26C{:'`modification-dateWed Jul 31 22:54:47 2002empts to mimic nature.\nResearchers have investigated several interesting areas. For example, they have studied how the molecular structure of antler bone contributes to its amazing toughness, how the skin structure of a worm contributes to its ability to crawl, how the sea cucumber softens its skeleton and changes shape so that it can squeeze throughe order wrong. Eventually, with much parental correction, children learn the numbers up to twenty, but this does not indicate an ability to count.\nThe next step is learning that each number can represent or correspond to a real object. This notion takes time to perfect. If you watch young children trying to count a row of toys, you will notice that they begin well but after counting the first few toys, they say the number names without matching the number to a toy. Perfecting the ability to match a number to an object occurs later in the child's development.\nThe final stage in learning to count is achieved when the child learns that the number of the last object in the row describes the total number of objects in that row. In other words, if there is a row of twelve objects, the number twelve represents not the final object but the whole collection of objects, or group of twelve. This distinction is a significant step in the child's understanding of basic mathematics.",
+        "questions": [
+          {
+            "id": "T6L24",
+            "number": 24,
+            "type": "LMC",
+            "text": "What is the talk mainly about?",
+            "questionAudio": "T6L24Q.WAV",
+            "options": [
+              "Learning to count",
+              "Imitation of parents",
+              "Language development",
+              "Child behav"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": ""
+          },
+          {
+            "id": "T6L25",
+            "number": 25,
+            "type": "LMC",
+            "text": "How does the speaker describe the process of learning to count?",
+            "questionAudio": "T6L25Q.WAV",
+            "options": [
+              "Complicated",
+              "Frustrating",
+              "Imitative",
+              "Distinctive"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that learning to count is a complicated process."
+          },
+          {
+            "id": "T6L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "When does a child learn that there is a difference between counting an object and counting a group of objects?",
+            "questionAudio": "T6L26Q.WAV",
+            "options": [
+              "After learning that numbers can represent objects",
+              "When he or she learns their names",
+              "When he or she can speak",
+              "After imitating adults"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The final stage is when the child realizes that the last number of a group of counted objects represents the total number of objects."
+          },
+          {
+            "id": "T6L27",
+            "number": 27,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T6L27Q.WAV",
+            "options": [
+              "The child learns the names of numbers.",
+              "The child learns the order of the numbers.",
+              "The child learns to match a number to an object.",
+              "The child learns that the number name of the last object represents the total."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The child learns the names first and then the order of the numbers. The child then goes on to match a number to an object and finally understands that the number of the last object represents the total number in the group."
+          },
+          {
+            "id": "T6L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "To what group of people would this talk most likely be given?",
+            "questionAudio": "T6L28Q.WAV",
+            "options": [
+              "To child-development majors",
+              "To mathematics majors",
+              "To secondary-school teachers",
+              "To toy manufacturers"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since learning to count is part of a child's development, this talk would probably be aimed at a group of people studying child development."
+          }
+        ]
+      },
+      {
+        "groupId": "T6L29-33",
+        "startQuestion": 29,
+        "endQuestion": 33,
+        "fullAudio": "T6L29-33.WAV",
+        "audioClips": [
+          "T6L29-33.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L29-33C.png",
+        "transcript": "MAN: Dr. Blake, have you had a chance to look at my linguistics research proposal yet?\nWOMAN: Yes, I have. It's reasonably well presented, but if you want to get that grant, I think you should explain how you're going to set up the statistical analysis better.\nMAN: I hadn't really given that point much thought. Frankly, I'm not sure of the best way to go about it.\nWOMAN: Well, you really need to clear that up. Why don't you go to the Computer Center? The person at the information desk can direct you to a statistician who can tell you how to put your data in a meaningful form. Then the procedure could be explained in your proposal.\nMAN: I'd better do that right away. The deadline for proposals is before the office closes next Monday.\nWOMAN: Would you have time to bring your proposal iT6L21-23WOMAN: Do you have your Tests and Measurements book with you?\nMAN: Yeah. It's in my backpack.\nWOMAN: Could I borrow it this afternoon?\nMAN: Don't you have a copy?\nWOMAN: I didn't bring mine because I have several other classes this afternoon, but I just discovered that my Educational Foundations class has been canceled. I thought I could make use of my time by reading the chapter about testing in elementary school. That is our assignment for next week, isn't it?\nMAN: Yes, it is. Well, I was planning on studying that chapter myself this afternoon, but I could work on my Psychology in Education report instead.\nWOMAN: Can I meet you at the library between two and three o'clock? That's when I'm free today. I have Music Theory at three, so I can return the book before heading off to that class.\nMAN: All right. Here's my book. I usually sit at the tables near the reference section. Shall we meet there?\nWOMAN: Sure. See you a little bit before three.",
+        "questions": [
+          {
+            "id": "T6L29",
+            "number": 29,
+            "type": "LMC",
+            "text": "What are the people discussing?",
+            "questionAudio": "T6L29Q.WAV",
+            "options": [
+              "A student's research proposal",
+              "A student's Monday deadline",
+              "A meaningful linguistics experiment",
+              "A co"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man asks the professor about the status of his research proposal. They continue by discussing what needs to be done to get the proposal ready for submission."
+          },
+          {
+            "id": "T6L30",
+            "number": 30,
+            "type": "LMC",
+            "text": "Why does the professor suggest that the student go to the Computer Center?",
+            "questionAudio": "T6L30Q.WAV",
+            "options": [
+              "The student needs the advice of a statistician.",
+              "The student needs to learn how to program a computer.",
+              "The student must set up his experiment in the Computer Center.",
+              "The student should turn his statistical analysis in for computation."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The student states that he is unsure of how to set up the statistical analysis. The professor suggests he get help from a statistician in the Computer Center."
+          },
+          {
+            "id": "T6L31",
+            "number": 31,
+            "type": "LMC",
+            "text": "Why does the professor want the student to come by her office on Monday?",
+            "questionAudio": "T6L31Q.WAV",
+            "options": [
+              "Because she wants to look over his proposal and discuss final details with him before he turns it in",
+              "Because ;she doesn't want the student to bother her at home",
+              "Because she wants to discuss the statistical problems of the research",
+              "Because the department office will be closed by 3:30 in the afternoon"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor wants to go over the final draft so that changes can be made if necessary."
+          },
+          {
+            "id": "T6L32",
+            "number": 32,
+            "type": "LMC",
+            "text": "Why can't the student meet the professor immediately?",
+            "questionAudio": "T6L32Q.WAV",
+            "options": [
+              "He has to be in class soon.",
+              "He has to meet the department secretary.",
+              "He has an appointment at 3:30.",
+              "He has to leave campus early."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The student states that he has a class at that time."
+          },
+          {
+            "id": "T6L33",
+            "number": 33,
+            "type": "LMC",
+            "text": "What does the professor suggest the student do?",
+            "questionAudio": "T6L33Q.WAV",
+            "options": [
+              "He should look over the comments and call her about any questions.",
+              "He should pick up the proposal from the professor's house.",
+              "He should consider his proposal as a special case.",
+              "He should drop the proposal off with the department secretary."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since the student cannot come to the office because of his class, the professor tells him that he can pick up the proposal from the department secretary, look at her comments, and call her at home to discuss anything he doesn't understand."
+          }
+        ]
+      },
+      {
+        "groupId": "T6L34-38",
+        "startQuestion": 34,
+        "endQuestion": 38,
+        "fullAudio": "T6L34-38.WAV",
+        "audioClips": [
+          "T6L34-38.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L34-38C.png",
+        "transcript": "Today, I want to show you a new educational tool that we've just acquired. It's an interactive computer system that allows you to make critica'8s\t/&>ëT6L39-44WOMAN 1: Today I want to cohealth-care decisions without endangering patients' lives. The system uses a computer with a touch screen and a videodisc, and it takes you step-by-step through simulated emergency situations. For instance, on the computer screen, you might see an elderly man being wheeled into the emergency room, complaining that he can't breathe. You listen to an account of his symptoms and then decide what to do. If you make the right decision, the computer answers, \"Correct.\"\nYou can take this pulmonary patient through the entire care process, from emergency admission, initial stabilization and crisis management, to final discharge. One particularly helpful aspect of this computer program is that it can simulate body parts onscreen. For example, it can simulate a chest, and you can touch different parts of the chest on the screen or even listen to the lungs as if you're listening through a stethoscope. At the end of the program, you receive a grade based on the decisions you've made.",
+        "questions": [
+          {
+            "id": "T6L34",
+            "number": 34,
+            "type": "LMC",
+            "text": "What is the talk about?",
+            "questionAudio": "T6L34Q.WAV",
+            "options": [
+              "A new way of training nursing students",
+              "Diagnosis of chronic pulmonary disease",
+              "Emergency-room procedures",
+              "A computer system that makes critical decisions"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The interactive computer system is a way of training nursing students to make critical decisions without endangering the lives of patients."
+          },
+          {
+            "id": "T6L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "In what way is the interactive computer system important?",
+            "questionAudio": "T6L35Q.WAV",
+            "options": [
+              "Students can practice making critical decisions in a safe environment.",
+              "Students can get passing grades automatically.",
+              "Students can practice on critically ill elderly patients.",
+              "Students can learn how to use a stethos"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Students can practice making critical decisions without endangering patients."
+          },
+          {
+            "id": "T6L36",
+            "number": 36,
+            "type": "LMC",
+            "text": "What aspect of the program is mentioned as being particularly helpful?",
+            "questionAudio": "T6L36Q.WAV",
+            "options": [
+              "Its ability to simulate body parts onscreen",
+              "Its ability to take students through real emergency situations",
+              "Its ability to show elderly people",
+              "Its ability to grade students"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that one particularly helpful aspect of the program is that it can simulate body parts. This enables students to touch the body and even listen to the lungs."
+          },
+          {
+            "id": "T6L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "What happens when the program is completed?",
+            "questionAudio": "T6L37Q.WAV",
+            "options": [
+              "The student's work is evaluated.",
+              "The students deal with a real emergency.",
+              "The program produces another case.",
+              "The computer shuts down automatically."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor says that at the end of the program, the students will receive a grade for their work."
+          },
+          {
+            "id": "T6L38",
+            "number": 38,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T6L38Q.WAV",
+            "options": [
+              "On the computer screen, a patient is admitted into the clinic.",
+              "Students listen to a patient's complaints and touch different body parts onscreen.",
+              "Treatment decisions have to be made according to computer feedback.",
+              "Students can discharge the patients and get a computer score."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "On the computer, the patient is admitted into the clinic and the student listens to the patient's complaints. Students make decisions on treatment according to the computer feedback and then discharge the patient. The computer gives the students a score on how well they dealt with the situation."
+          }
+        ]
+      },
+      {
+        "groupId": "T6L39-44",
+        "startQuestion": 39,
+        "endQuestion": 44,
+        "fullAudio": "T6L39-44.WAV",
+        "audioClips": [
+          "T6L39-44.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L39-44C.png",
+        "transcript": "WOMAN 1: Today I want to cohealth-care decisions without endangering patients' lives. The system uses a computer with a touch screen and a videodisc, and it takes you step-by-step through simulated emergency situations. For instance, on the computer screen, you might see an elderly man being wheeled into the emergency room, complaining that he can't breathe. You listen to an account of his symptoms and then decide what to do. If you make the right decision, the computer answers, \"Correct.\"\nYou can take this pulmonary patient through the entire care process, from emergency admission, initial stabilization and crisis management, to final discharge. One particularly helpful aspect of this computer program is that it can simulate body parts onscreen. For example, it can simulate a chest, and you can touch different parts of the chest on the screen or even listen to the lungs as if you're listening through a stethoscope. At the end of the program, you receive a grade based on the decisions you've made.",
+        "questions": [
+          {
+            "id": "T6L39",
+            "number": 39,
+            "type": "LMC",
+            "text": "Why does the professor ask the students if they had noticed the clouds around Mount Lincoln?",
+            "questionAudio": "T6L39Q.WAV",
+            "options": [
+              "Because the students have been studying cloud formations in their class",
+              "Because the clouds around the mountdain have recently gone away",
+              "Because the professor wants to see if the students notice Mount Lincoln",
+              "Because the clouds that form around Mount Lincoln are unique"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The class has been studying cloud formations and the particular clouds around Mount Lincoln are the ones that the professor is going to discuss in the lecture."
+          },
+          {
+            "id": "T6L40",
+            "number": 40,
+            "type": "LPictureClock",
+            "text": "Select the picture below that shows a lenticular cloud formation.",
+            "questionAudio": "T6L40Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T6L40Q1.png",
+              "assets/images/cambridge/T6L40Q2.png",
+              "assets/images/cambridge/T6L40Q3.png",
+              "assets/images/cambridge/T6L40Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor describes the lenticular cloud as having a lens shape and looking somewhat like a flying saucer. Lenticular clouds can sometimes be \"stacked,\" one on top of the other."
+          },
+          {
+            "id": "T6L41",
+            "number": 41,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T6L41Q.WAV",
+            "options": [
+              "The wind current comes toward the mountain.",
+              "The air is pushed upward and over the mountain.",
+              "The air expands and cools.",
+              "The clouds form at the top of the mountain."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The wind current coming toward the mountain is forced upward and over the peak. The rising air expands and cools, forming a cloud above the peak or on the other side of the mountain."
+          },
+          {
+            "id": "T6L42",
+            "number": 42,
+            "type": "LTwo",
+            "text": "What is true about lenticular clouds?",
+            "questionAudio": "T6L42Q.WAV",
+            "options": [
+              "They appear stationary.",
+              "They are sometimes stacked like plates.",
+              "They occur where there is no air turbulence.",
+              "They are formed on the windy side of the mountain."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the clouds remain motionless, or stationary, in relation to the ground. The fact that lenticular clouds sometimes look like a pile of plates is discussed in the class."
+          },
+          {
+            "id": "T6L43",
+            "number": 43,
+            "type": "LMC",
+            "text": "Why are lenticular clouds sometimes stacked one above the other?",
+            "questionAudio": "T6L43Q.WAV",
+            "options": [
+              "Because layers of wet and dry air alternate",
+              "Because of the shape of the mountain",
+              "Because of the vertical movement of the wet air",
+              "Because the air is mainly dry"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor agrees with the man's statement that if there are several wet layers of air sandwiched between dry layers, a lenticular cloud may develop in each wet layer."
+          },
+          {
+            "id": "T6L44",
+            "number": 44,
+            "type": "LMC",
+            "text": "Why have some people mistaken lenticular clouds for UFOs?",
+            "questionAudio": "T6L44Q.WAV",
+            "options": [
+              "Their appearance is like a flying saucer.",
+              "Their size is that of a typical UFO.",
+              "They move with rapid and unconventional movements.",
+              "They frequently appear over mountains."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor describes the cloud as looking like a \"flying saucer.\""
+          }
+        ]
+      },
+      {
+        "groupId": "T6L45-50",
+        "startQuestion": 45,
+        "endQuestion": 50,
+        "fullAudio": "T6L45-50.WAV",
+        "audioClips": [
+          "T6L45-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T6L45-50C.png",
+        "transcript": "I am sure that you have heard of the Anasazi people of the southwestern United States. They left the remains of tens of thousands of dwellings made of rock and mud scattered across the landscape. Among these dwellings have been discovered pottery shards, tool fragments, and other+¡u&1ET6L10WOMAN: Pete's stereo has been stolen from his dorm room.\nMAN: Well, Max has told Pete time after time to keep the door locked.",
+        "questions": [
+          {
+            "id": "T6L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "What does the professor mainly talk about?",
+            "questionAudio": "T6L45Q.WAV",
+            "options": [
+              "The details of the Anasazi structure called the kiva",
+              "The remains of tens of thousands of Anasazi dwellings",
+              "The Anasazi people of the southwestern United States",
+              "The religious and ceremonial traditions of the Anasazi"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor introduces the Anasazi people and goes on to di"
+          },
+          {
+            "id": "T6L46",
+            "number": 46,
+            "type": "LTwo",
+            "text": "What are the Anasazi most famous for?",
+            "questionAudio": "T6L46Q.WAV",
+            "options": [
+              "Their building techniques",
+              "Their structures on cliffsides",
+              "Their pottery and tools",
+              "Their religious ceremonies"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the Anasazi are celebrated (famous) for their remarkable building techniques and their construction of masonry structures on the sides of cliffs."
+          },
+          {
+            "id": "T6L47",
+            "number": 47,
+            "type": "LMatchingPictureWord",
+            "text": "Based on the professor's description, identify the following kiva structures.",
+            "questionAudio": "T6L47Q.WAV",
+            "options": [
+              "Pilasters",
+              "Sipapu",
+              "Deflector"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T6L47Q1.png",
+              "assets/images/cambridge/T6L47Q2.png",
+              "assets/images/cambridge/T6L47Q3.png",
+              "assets/images/cambridge/T6L47Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The pilasters are pillars built into the wall. The sipapu is a small round hole in the floor. The short, low wall behind the fire pit is the deflector."
+          },
+          {
+            "id": "T6L48",
+            "number": 48,
+            "type": "LTwo",
+            "text": "According to the professor, what was the purpose of the kiva?",
+            "questionAudio": "T6L48Q.WAV",
+            "options": [
+              "It was used for religious purposes.",
+              "It was used fo",
+              "It was used as an entrance into the underworld.",
+              "It was used for the storage of pottery and tools."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that kivas are considered to have had a mainly religious and ceremonial purpose."
+          },
+          {
+            "id": "T6L49",
+            "number": 49,
+            "type": "LMC",
+            "text": "What can be understood from the professor's talk?",
+            "questionAudio": "T6L49Q.WAV",
+            "options": [
+              "Some Anasazi lived in the Mesa Verde area.",
+              "The Anasazi lived in kivas.",
+              "Little remains of Anasazi buildings.",
+              "Kivas only exist in the Mesa Verde area."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor's introducing the diagram as one that shows the kind of kiva typical of the Mesa Verde area indicates that there were Anasazi people living in that area."
+          },
+          {
+            "id": "T6L50",
+            "number": 50,
+            "type": "LPictureClock",
+            "text": "Select the picture below that shows a typical Mesa Verde kiva.",
+            "questionAudio": "T6L50Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T6L50Q1.png",
+              "assets/images/cambridge/T6L50Q2.png",
+              "assets/images/cambridge/T6L50Q3.png",
+              "assets/images/cambridge/T6L50Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor's description and the diagram indicate that the typical kiva is round, has six pilasters, a fire pit with a deflec"
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "Do you agree or disagree with the following statement?<P><I>Families with fewer children should be rewarded for helping to prevent overpopulation.</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "Do you agree or disagree with the following statement?<P><I>Families with fewer children should be rewarded for helping to prevent overpopulation.</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

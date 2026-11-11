@@ -1,0 +1,2444 @@
+{
+  "testNumber": 4,
+  "title": "Cambridge Practice Test 4",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 4 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T4S01",
+      "number": 1,
+      "type": "SComplete",
+      "text": "<_> infinitely large number of undiscovered galaxies.",
+      "options": [
+        "There are an",
+        "An",
+        "From an",
+        "Since there are"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23 and S25-S31",
+      "correctedSentence": "There are an infinitely large number of undiscovered galaxies.",
+      "feedback": "A subject and a verb are needed to complete the sentence. Because the word \"number\" is singular, an article, in thisentence. Because the word \"number\" is singular, an article, in thisumber\" is singular, an article, in this' case \"an,\" is also needed."
+    },
+    {
+      "id": "T4S02",
+      "number": 2,
+      "type": "SIdentify",
+      "text": "<U1>For</U1> animals <U2>both</U2> humans, <U3>chewing</U3> helps <U4>relieve</U4> tension.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S43-S50",
+      "correctedSentence": "For animals as well as humans, chewing helps relieve tension.",
+      "feedback": "For animals as well as humans, chewing helps relieve tension."
+    },
+    {
+      "id": "T4S03",
+      "number": 3,
+      "type": "SComplete",
+      "text": "Square-rigged ships, <_> high speeds only when traveling with the trade winds, are not used commercially nowadays.",
+      "options": [
+        "which can attain",
+        "can attain",
+        "when attaining",
+        "they can attain"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66",
+      "correctedSentence": "Square-rigged ships, which can attain high speeds only when traveling with the trade winds, are not used commercially nowadays.",
+      "feedback": "The adjective clause giving more information about \"ships\" needs to be completed. \"Which can attain\" begins the adjective clause."
+    },
+    {
+      "id": "T4S04",
+      "number": 4,
+      "type": "SIdentify",
+      "text": "An itch <U1>resulting</U1> when a nerve <U2>that</U2> can carry pain is <U3>only</U3> <U4>slightly</U4> stimulated.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "An itch results when a nerve that can carry pain is only slightÌly stimulated.",
+      "feedback": "An itch results when a nerve that can carry pain is only slightÌly stimulated."
+    },
+    {
+      "id": "T4S05",
+      "number": 5,
+      "type": "SComplete",
+      "text": "By far, <_> of Saudi Arabia is oil.",
+      "options": [
+        "the most important export",
+        "it is the most important export",
+        "the most important export is",
+        "that is the most important export"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S1-S5 and S17-S23",
+      "correctedSentence": "By far, the most important export of Saudi Arabia is oil.",
+      "feedback": "it is the most important export"
+    },
+    {
+      "id": "T4S06",
+      "number": 6,
+      "type": "SIdentify",
+      "text": "The whale's <U1>inexplicable</U1> predilection for beaching <U2>themselves</U2> is the second <U3>greatest</U3> threat to its <U4>survival</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S11-S15",
+      "correctedSentence": "The whale's inexplicable predilection for beaching itself is the second greatest threat to its survival.",
+      "feedback": "The pronoun \"itself\" should be used in place of \"themselves\" to refer to the singular noun \"whale.\""
+    },
+    {
+      "id": "T4S07",
+      "number": 7,
+      "type": "SComplete",
+      "text": "well-maintained campgrounds",
+      "options": [
+        "S88-S90",
+        "S52-S53",
+        "<BR2>",
+        "<BR1>"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "campgrounds are well maintained",
+      "correctedSentence": "well-maintained campgrounds",
+      "feedback": "campgrounds are maintained well"
+    },
+    {
+      "id": "T4S08",
+      "number": 8,
+      "type": "SIdentify",
+      "text": "America's first <U1>satellites</U1> exploded <U2>before</U2> it had <U3>risen</U3> three and a <U4>half</U4> feet off the ground.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S1-S5",
+      "correctedSentence": "America's first satellite exploded before it had risen three and a half feet off the ground.",
+      "feedback": "America's first satellite exploded before it had risen three and a half feet off the ground."
+    },
+    {
+      "id": "T4S09",
+      "number": 9,
+      "type": "SComplete",
+      "text": "<_> the Dartmoor ewe aênd the Dumpy hen, the Tamworth pig is a rare breed of farm animal.",
+      "options": [
+        "Like",
+        "How",
+        "The",
+        "Even"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S91-S94",
+      "correctedSentence": "Like the Dartmoor ewe aênd the Dumpy hen, the Tamworth pig is a rare breed of farm animal.",
+      "feedback": "A comparison is needed for the sentence to be logical. The word \"like\" indicates a comparison."
+    },
+    {
+      "id": "T4S10",
+      "number": 10,
+      "type": "SIdentify",
+      "text": "<U1>Most</U1> babies will grow <U2>up</U2> to be as <U3>cleverer</U3> as their <U4>parents</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S82-S87",
+      "correctedSentence": "Most babies will grow up to be as clever as their parents.",
+      "feedback": "Most babies will grow up to be as clever as their parents."
+    },
+    {
+      "id": "T4S11",
+      "number": 11,
+      "type": "SComplete",
+      "text": "<_> often serve as places of public entertainment and festivals, they can also be places where people can find peace and solitude.",
+      "options": [
+        "Even though city parks",
+        "City parks",
+        "City parks that",
+        "There are city parks which"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S72-S76",
+      "correctedSentence": "Even though city parks often serve as places of public entertainment and festivals, they can also be places where people can find peace and solitude.",
+      "feedback": "A clause marker, \"even though,\" and a subject, \"cAity parks,\" are needed to complete the adverb clause."
+    },
+    {
+      "id": "T4S12",
+      "number": 12,
+      "type": "SIdentify",
+      "text": "<U1>Drying</U1> food <U2>by means</U2> of solar energy <U3>is ancient</U3> process <U4>applied</U4> wherever food and climatic conditions make it possible.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S6-S10",
+      "correctedSentence": "Drying food by means of solar energy is an ancient process applied wherever food and climatic conditions make it possible.",
+      "feedback": "Drying food by means of solar energy is an ancient process applied wherever food and climatic conditions make it possible."
+    },
+    {
+      "id": "T4S13",
+      "number": 13,
+      "type": "SComplete",
+      "text": "<_> about genetic diseases has increased is welcome news.",
+      "options": [
+        "That scientific knowledge",
+        "It was scientific knowledge",
+        "Though scientific knowledge",
+        "Scientific knowledge"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S59",
+      "correctedSentence": "That scientific knowledge about genetic diseases has increased is welcome news.",
+      "feedback": "A clause marker, \"that,\" and a subject, \"knowledge,\" for the verb \"has increased\" are needed to complete the noun clause that is used as a subject of the sentence."
+    },
+    {
+      "id": "T4S14",
+      "number": 14,
+      "type": "SIdentify",
+      "text": "Diane Arbus's <U1>unusual</U1> and controversial <U2>work</U2> includes <U3>photograph</U3> of celebrities of the <U4>sixties</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S1-S10",
+      "correctedSentence": "Diane Arbus's unusual and controversial work includes photographs of celebrities of the sixties.",
+      "feedback": "Diane Arbus's unusual and controversial work includes photographs of celebrities of the sixties."
+    },
+    {
+      "id": "T4S15",
+      "number": 15,
+      "type": "SComplete",
+      "text": "A fine tomb, <_>, marks the grave of the poet Chaucer.",
+      "options": [
+        "erected in the fifteenth century",
+        "which in the fifteenth century was erecting",
+        "erecting in the fifteenth century",
+        "being erected in the fifteenth century"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "A fine tomb, erected in the fifteenth century, marks the grave of the poet Chaucer.",
+      "feedback": "which in the fifteenth century was erecting"
+    },
+    {
+      "id": "T4S16",
+      "number": 16,
+      "type": "SIdentify",
+      "text": "It should not be <U1>assume</U1> that the <U2>lower the</U2> price, <U3>the happier</U3> the <U4>buyer</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "It should not be assumed that the lower the price, the happier the buyer.",
+      "feedback": "It should not be assumed that the lower the price, the happier the buyer."
+    },
+    {
+      "id": "T4S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "Not until about a century after Julius Caesar landed in Britain <_> actually conquer the island.",
+      "options": [
+        "did the Romans",
+        "the Romans did",
+        "the Romans",
+        "Romans that"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "Not until about a century after Julius Caesar landed in Britain did the Romans actually conquer the island.",
+      "feedback": "A subject is needed to complete the independent clause. The use of the phrase \"not until\" at the beginning of the sentence indicates that the subject and an aux-word will be inverted. \"Did the Romans\" completes the sentence."
+    },
+    {
+      "id": "T4S18",
+      "number": 18,
+      "type": "SIdentify",
+      "text": "The Victorian constructions of Haight-Ashbury are <U1>among</U1> the w<U2>fewer</U2> architectural <U3>survivors</U3> of the San Francisco earthquake <U4>of 1906</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42 and S82-S87",
+      "correctedSentence": "The Victorian constructions of Haight-Ashbury are among the few architectural survivors of the San Francisco earthquake of 1906.",
+      "feedback": "Because the Victorian constructions are not being compared, the adjective form \"few\" should be used."
+    },
+    {
+      "id": "T4S19",
+      "number": 19,
+      "type": "SComplete",
+      "text": "<_> perhaps the most awe inspiring among the great structures of the world.",
+      "options": [
+        "The Great Wall of China is",
+        "The Great Wall of China",
+        "The Great Wall of China which is",
+        "That the Great Wall of China is"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "The Great Wall of China is perhaps the most awe inspiring among the great structures of the world.",
+      "feedback": "A subject, \"The Great Wall of China,\" and a verb, \"is,\" are needed to complete the sentence."
+    },
+    {
+      "id": "T4S20",
+      "number": 20,
+      "type": "SIdentify",
+      "text": "The <U1>firing</U1> of bricks and tiles <U2>for use</U2> in the <U3>build</U3> industry requires large <U4>amounts</U4> of fuel.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S37-S42",
+      "correctedSentence": "The firing of bricks and tiles for use in the building industry requires large amounts of fuel.",
+      "feedback": "The adjective form \"building\" should be used to describe the kind of industry."
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T4R01-11Plain",
+        "startQuestion": 1,
+        "endQuestion": 11,
+        "text": "Teotihuacan is the largest and most impressive urban archaeological site of ancient America, covering an area of roughly twenty square kilometers. The city was at one time thought to be the religious center of the Toltecs but is now believed to be a creation of an earlier civilization about whose origins little is known. The earliest artifacts from Teotihuacan date from over two thousand years ago, but the period of greatest expansion dates from A.D. 200 to A.D. 500. At its peak the city is estimated to have had a population of up to two hundred thousand inhabitants, with residential areas extending throughout the built-up area. Judging by regionally dispersed finds of the image of the rain god Tlaloc, of \"thin orange wear\" pottery, and of the characteristic architectural forms, the influence of Teotihuacan was widespread. |It is not clear what caused the city's decline and eventual abandonment, but the evidence points to overpopulation, a depletion of resources, and the possible sacking by adversaries.\n\nThe primary axis of the city was the Avenue of the Dead, which extends for 2.5 kilometers through the center of the urban area, starting in the north at the Moon Plaza and continuing beyond the Great Compound complexes to the south. The avenue divided Teotihuacan into two sections with apartment compounds arranged on either side, often symmetrically, suggesting a highly planned layout from the earliest phases of construction.\n\nThe vast Pyramid of the Sun, located in the middle of the central zone, is the tallest and most dominant structure of Teotihuacan, with a height of 65 meters and a base covering approximately ten acres. At one time the edifice was surmounted by a temple. A cave located underneath the pyramid and possibly used for ritual activities hints at its religious importance. The Pyramids of the Moon and Feathered Serpent are other notable ceremonial sites nearby.\n\nA particular feature of the architecture of many of the pyramidal platforms at this site is the series of sloping apron walls, known as taluds, interspersed with vertical panels - tableros - producing a steplike appearance. Originally all such structures would have been covered with a layer of stucco and then painted, often with pictures of animals and mythological creatures."
+      },
+      {
+        "groupId": "T4R12-25Plain",
+        "startQuestion": 12,
+        "endQuestion": 25,
+        "text": "Generations of American school children have been taught the story of how the Great Fire of Chicago of October 1871 was started by Daisy, a cow belonging to one Mrs. O'Leary. |The cow, stabled in a barn behind Mrs. O'Leary's house, apparently kicked over a kerosene lamp, which set fire to hay and other combustible materials stored there. The blaze quickly spread, and fanned by a strong southwest wind and aided by intensely dry conditions, the conflagration engulfed and entirely destroyed more than three square miles of built-up area. Almost one hundred thousand people were left homeless, and about three hundred lost their lives. Property damage was estimated at two hundred million dollars, an immense sum in those days.\n\nSoon after the fire, the O'Leary-cow story became an almost unchallenged truth and, over the years, took on the status of a modern-day myth - a staple ingredient in the fabric of American folklore. However, there are good reasons to believe that neither Mrs. O'Leary nor Daisy was culpable. First, a police reporter later claimed to have invented the whole story. Of course, this is not a conclusive refutation, but his reasoning was valid and his alternative suggestions credible. Furthermore, the testimony of one of the main witnesses, a neighbor called \"Peg Leg\" Sullivan, is now thought to be questionable. Some claim he invented the story to avoid censure, since he himself was not above suspicion and there were inconsistencies in his account. Other accusers have focused the blame on a variety of targets - some local boys smoking in the barn, a different neighbor, an unnamed terrorist organization, spontaneous combustion, and, most recently, an asteroid. This last theory gains credence from the fact that on the same night as the Chicago fire, neighboring states suffered more than a dozen major fires. One fire destroyed the entire town of Peshtigo, Wisconsin, with the loss of more than twelve hundred lives.\n\nWhatever the real origin of the fire, the truth is that it was inevitable, given the near-drought conditions of the time and the fact that much of the city consisted of densely packed wooden shacks served by an undermanned fire department. It seems that Mrs. O'Leary and her cow were perhaps no more than convenient and vulnerable scapegoats on which a devastated populace could center its frustrations."
+      },
+      {
+        "groupId": "T4R26-38Plain",
+        "startQuestion": 26,
+        "endQuestion": 38,
+        "text": "On December 4, 1872, the brigantine Mary Celeste, carrying 1,700 barrels of crude alcohol en route from New York to Genoa, was found abandoned and drifting in the Atlantic Ocean between the Azores and Portugal. The crew of the Dei Gratia, the cargo ship that found the Mary Celeste, inspected her carefully and then sailed her to Gibraltar to collect the large salvage reward. Their report, given at the inquiry, suggests that the captain, his wife, his young daughter, and the seven-man crew had deserted the ship in a great hurry. The captain's bed was unmade, something unheard of in a well-run ship, which the Mary Celeste was known to be. The oilskin boots and pipes belonging to the crew had also been left, although the chronometer, sextant, and lifeboat were missing. The arrangement of the sails also suggested sudden abandonment. The cargo was intact, although some barrels had leaked and two of the hatches were not in place.\n\nSeveral theories have been propounded to explain why those aboard left a perfectly seaworthy vessel to risk their lives in an open boat. It has been suggested that they were the victims of alien abduction or sea-monster attacks. Such outlandish notions are hardly credible. The idea that the ship was a victim of piracy can also be discounted, since the cargo and other valuables were untouched. Likewise, mutiny does not seem plausible, since the captain and first officer were known to be fair and experienced, the voyage was relatively short, and mutineers would probably have taken over the ship, not forsaken it.\n\nA possible explanation is that some event made the captain fear for the safety of the ship.  In fact, recently studied seismic records indicate that a violent earthquake, whose epicenter was on the seafloor in the region where the Mary Celeste was sailing, occurred some days before the ship's discovery. If the ship had been subjected to intense shocks caused by the quake, all aboard may have hastily abandoned ship to avoid what they imagined might be its imminent destruction from an explosion of the combustible cargo. A severed rope found dangling from the side of the Mary Celeste suggests that the evacuees trailed behind in the lifeboat, attached to the ship, waiting for the crisis to pass. Great waves may then have snapped the rope and capsized the smaller boat, whose occupants would have disappeared without a trace."
+      },
+      {
+        "groupId": "T4R39-50Plain",
+        "startQuestion": 39,
+        "endQuestion": 50,
+        "text": "Every year about two million people visit Mount Rushmore, where the faces of four U.S. presidents were carved in granite by the sculptor Gutzon Borglum and his son. The creation of the Mount Rushmore monument took fourteen years - from 1927 to 1941 - and nearly a million dollars. These were times when money was difficult to come by and many people were jobless. To help him with this sculpture, Borglum hired laid-off workers from the closed-down mines in the Black Hills area. He taught these men to dynamite, drill, carve, and finish the granite as they were hanging in midair in his specially devised chairs, which had many safety features.\n\nBorglum used dynamite to remove 90 percent of the 450,000 tons of rock from the mountain quickly and relatively inexpensively. His workmen became so skilled that they could blast to within four inches of the finished surface and grade the contours of the facial features. Borglum was proud of the fact that no workers were killed or severely injured during the years of blasting and carving the granite. |Considering the workers regularly used dynamite and heavy equipment, this was a remarkable feat.\n\nDuring the carving, many changes in the original design had to be made to keep the carved heads free of large fissures that were uncovered. However, not all the cracks could be avoided, so Borglum concocted a mixture of granite dust, white lead, and linseed oil to fill them.\n\nEvery winter, water from melting snow gets into the fissures and expands as it freezes, making the fissures bigger. Consequently, every autumn maintenance work is done to refill the cracks. To preserve this national monument for future generations, the repairers swing out in space over a 500-foot drop and fix the monument with the same mixture that Borglum used."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T4R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "What is the passage mainly about?",
+        "paragraphNumber": 1,
+        "options": [
+          "A large and ancient American city",
+          "The inhabitants of Teotihuacan",
+          "Pyramid constructions of Teotihuacan",
+          "Life in an ancient American city"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the founders of Teotihuacan are referred to."
+      },
+      {
+        "id": "T4R02",
+        "number": 2,
+        "type": "RClickSentence",
+        "text": "in which the founders of Teotihuacan are referred to.",
+        "paragraphNumber": 1,
+        "options": [
+          "Teotihuacan",
+          "largest",
+          "impressive",
+          "urban"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the founders of Teotihuacan are referred to."
+      },
+      {
+        "id": "T4R03",
+        "number": 3,
+        "type": "RMCSynonymWord",
+        "text": "The word \"dispersed\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "scattered",
+          "displaced",
+          "produced",
+          "assembled"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, which of the following statements about the decline of Teotihuacan is known to be true?"
+      },
+      {
+        "id": "T4R04",
+        "number": 4,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following statements about the decline of Teotihuacan is known to be true?",
+        "paragraphNumber": 1,
+        "options": [
+          "The cause of its decline is uncertain.",
+          "The people migrated to another city.",
+          "The population of the city starved.",
+          "It was invaded by neighbors."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "All of the following are mentioned as having been found in the Teotihuacan area EXCEPT"
+      },
+      {
+        "id": "T4R05",
+        "number": 5,
+        "type": "RMCSynonymWord",
+        "text": "The word \"adversaries\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "rivals",
+          "allies",
+          "civilians",
+          "atta"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "All of the following are mentioned as having been found in the Teotihuacan area EXCEPT"
+      },
+      {
+        "id": "T4R06",
+        "number": 6,
+        "type": "RMCSimple",
+        "text": "All of the following are mentioned as having been found in the Teotihuacan area EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "market streets",
+          "religious artifacts",
+          "ceremonial structures",
+          "residential districts"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"urban area\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R07",
+        "number": 7,
+        "type": "RMCSynonymWord",
+        "text": "The word \"edifice\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "building",
+          "ceremony",
+          "ruin",
+          "monument"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An 'edifice' is a large, imposing 'building' or structure."
+      },
+      {
+        "id": "T4R08",
+        "number": 8,
+        "type": "RMCSimple",
+        "text": "Look at the word <B>edifice</B> in the passage.",
+        "paragraphNumber": 1,
+        "options": [
+          "An \"edifice\" is a",
+          "RMCSimple",
+          "It can be inferred",
+          "It can be inferred01-11Plain"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be inferred usually large and impressive."
+      },
+      {
+        "id": "T4R09",
+        "number": 9,
+        "type": "RMCSimple",
+        "text": "It can be inferred",
+        "paragraphNumber": 1,
+        "options": [
+          "RMCSimple",
+          "It can be inferred usually large and impressive.",
+          "RMCSimple",
+          "It can be inferred01-11Plain"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The fact that the Pyramid of the Sun was at one time surmounted by a temple and had a cave underneath possibly used for ritual activities indicates that it probably had a ceremonial function."
+      },
+      {
+        "id": "T4R10",
+        "number": 10,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that shows the typical pyramid found at Teotihuacan.",
+        "paragraphNumber": 1,
+        "options": [
+          "Stepped pyramid with alternating sloping aprons and vertical panels (talud-tablero)",
+          "Smooth-sided triangular pyramid",
+          "Stepped ziggurat with external spiral ramp",
+          "Low flat mound with no vertical panels"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T4R10Q1.png",
+          "assets/images/cambridge/T4R10Q2.png",
+          "assets/images/cambridge/T4R10Q3.png",
+          "assets/images/cambridge/T4R10Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "The pyramids in Teotihuacan are described as having a series of sloping apron walls interspersed with vertical panels producing a steplike appearance (talud-tablero)."
+      },
+      {
+        "id": "T4R11",
+        "number": 11,
+        "type": "RMCSimple",
+        "text": "In the passage, which of the following is NOT implied about the people who built Teotihuacan?",
+        "paragraphNumber": 1,
+        "options": [
+          "They were militarily aggressive.",
+          "Their inflitarily aggressive.",
+          "Their inflre militarily aggressive.",
+          "Their infl"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "There is nothing in the passage to indicate whether or not the people of Teotihuacan were militarily aggressive."
+      },
+      {
+        "id": "T4R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "What would be a good title for the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The Legend of Mrs. O'Leary's Cow",
+          "The Great Fire of Chicago",
+          "Daisy and Other Scapegoats",
+          "\"Peg Leg\" Sullivan's Testimony"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The first paragraph presents the story of how the Great Fire of Chicago was started by a cow, and although the author gives data about the fire, the events surrounding the legend are the main focus of the passage."
+      },
+      {
+        "id": "T4R13",
+        "number": 13,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>there</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>there</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "there",
+          "Leary",
+          "house",
+          "apparently"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The other combustible materials were stored in the barn."
+      },
+      {
+        "id": "T4R14",
+        "number": 14,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>blaze</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>blaze</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "fire",
+          "inferno",
+          "devastation",
+          "conflagration"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"blaze\" is an intensely burning \"fire.\""
+      },
+      {
+        "id": "T4R15",
+        "number": 15,
+        "type": "RMCSynonymWord",
+        "text": "The word \"fanned\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "intensified",
+          "irritated",
+          "cooled",
+          "funneled"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The fire was finally extinguished near midnight on the second day of devastation."
+      },
+      {
+        "id": "T4R16",
+        "number": 16,
+        "type": "RAddSentenceToParagraph",
+        "text": "The following sentence can be added to paragraph 1.<P><B>The fire was finally extinguished near midnight on the second day of devastation.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 1 is marked with an arrow (~).",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "The fire was finally extinguished near midnight on the second day of devastation."
+      },
+      {
+        "id": "T4R17",
+        "number": 17,
+        "type": "RMCOther",
+        "text": "Why does the author mention myth and folklore in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "To show the importance of the O'Leary-cow story in American culture",
+          "To prove that cows do not start ot start ure",
+          "To prove that cows do not start",
+          "What did \"Peg Leg\" Sullivan do?"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 3,
+        "feedback": "Made some believable alternative suggestions"
+      },
+      {
+        "id": "T4R18",
+        "number": 18,
+        "type": "RMCSimple",
+        "text": "What did \"Peg Leg\" Sullivan do?",
+        "paragraphNumber": 1,
+        "options": [
+          "Gave a suspicious account",
+          "Set the barn on fire",
+          "Accused some local boys",
+          "Made some believable alternative suggestions"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"censure\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R19",
+        "number": 19,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"censure\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "censure",
+          "Some",
+          "claim",
+          "invented"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"censure\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R20",
+        "number": 20,
+        "type": "RMCSimple",
+        "text": "Which of the following people does the author suggest may have fabricated the story about Mrs. O'Leary's cow?",
+        "paragraphNumber": 1,
+        "options": [
+          "A police reporter seeking a sensational story",
+          "Mrs. O'Leary's neighbors",
+          "The fire commissioner",
+          "A local politician"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author mentions the police reporter as a person who may have started the story, not as a person who may have started the fire."
+      },
+      {
+        "id": "T4R21",
+        "number": 21,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 2 that gives support to a credible cause of the fire.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "Generations",
+          "American",
+          "school",
+          "children"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that gives support to a credible cause of the fire."
+      },
+      {
+        "id": "T4R22",
+        "number": 22,
+        "type": "RMCOther",
+        "text": "Why does the author mention myth and folklore in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "To give an example of another fire that occuive an example of another fire that occuTo give an example of another fire that occu",
+          "To show the importance of the O'Leary-cow story in American culture",
+          "To prove that cows do not start fires in barns",
+          "To convince the reader that the fire had never taken place"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"shack\" is a wooden \"hut\" used for living or storage purposes."
+      },
+      {
+        "id": "T4R23",
+        "number": 23,
+        "type": "RMCSynonymWord",
+        "text": "The word \"shacks\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "huts",
+          "boxes",
+          "platforms",
+          "crates"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is NOT mentioned as a reason that the fire was so devastating?"
+      },
+      {
+        "id": "T4R24",
+        "number": 24,
+        "type": "RMCSimple",
+        "text": "Which of the following is the main topic of paragraph 1?",
+        "paragraphNumber": 1,
+        "options": [
+          "A riotous populace",
+          "The finding of the <I>Mary Celeste</I>",
+          "The salvaging of the <I>Mary Celeste</I>",
+          "The abandonment of the <I>Mary Celeste</I>"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The populace was described as devastated, not as riotous."
+      },
+      {
+        "id": "T4R25",
+        "number": 25,
+        "type": "RMCSimple",
+        "text": "Why is the fire known as the Great Fire of Chicago?",
+        "paragraphNumber": 1,
+        "options": [
+          "Because it was such a destructive fire",
+          "Because the O'Leary-cow story is a great story",
+          "Because the fire has become a staple ingredient of American folklore",
+          "Because American children are taught about it"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is the main topic of paragraph 1?"
+      },
+      {
+        "id": "T4R26",
+        "number": 26,
+        "type": "RMCOther",
+        "text": "Which of the following is the main topic of paragraph 1?",
+        "paragraphNumber": 1,
+        "options": [
+          "The finding of the <I>Mary Celeste</I>",
+          "The salvaging of the <I>Mary Celeste</I>",
+          "The abandonment of the <I>Mary Celeste</I>",
+          "The fate of the <I>Mary Celeste</I>"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The first paragraph discusses the finding of the <I>Mary Celeste</I> and details about her condition when found."
+      },
+      {
+        "id": "T4R27",
+        "number": 27,
+        "type": "RClickSentence",
+        "text": "that indicates tParaNumber] is closest in meaning to<P>[AnswerSet]<P>Paragraph [ParaNumber] is marked with an arrow (~).",
+        "paragraphNumber": 1,
+        "options": [
+          "December",
+          "brigantine",
+          "Celeste",
+          "carrying"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that indicates tParaNumber] is closest in meaning to<P>[AnswerSet]<P>Paragraph [ParaNumber] is marked with an arrow (~)."
+      },
+      {
+        "id": "T4R28",
+        "number": 28,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>Their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>Their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "Their",
+          "report",
+          "given",
+          "inquiry"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"The crew\" of the <I>Dei Gratia</I> gave the report at the inquiry."
+      },
+      {
+        "id": "T4R29",
+        "number": 29,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"deserted\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "deserted",
+          "Their",
+          "report",
+          "given"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"deserted\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R30",
+        "number": 30,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"propounded\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "propounded",
+          "Several",
+          "theories",
+          "have"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"propounded\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R31",
+        "number": 31,
+        "type": "RMCOther",
+        "text": "In paragraph 2, what does the author mean by outlandish notions?",
+        "paragraphNumber": 2,
+        "options": [
+          "Alien abductions and sea-monster attacks are unlikely explanations.",
+          "It is odd that the mutineers would also abandon ship.",
+          "It is strange for a pirate not to take the cargo of a ship.",
+          "Mutinies do not occur when captains are fair and experienced."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Some were validated by the facts presented in the inquiry."
+      },
+      {
+        "id": "T4R32",
+        "number": 32,
+        "type": "RMCOther",
+        "text": "What can be understood about the theories the author of the passage presents in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "None explain the mystery satisfactorily.",
+          "Some were validated by the facts presented in the inquiry.",
+          "None take into account the <I>Dei Gratia</I>'s part in the mystery.",
+          "Some are convincing, considering the outcome."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Some are convinciart in the mystery."
+      },
+      {
+        "id": "T4R33",
+        "number": 33,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"plausible\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "plausible",
+          "Likewise",
+          "mutiny",
+          "does"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"plausible\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R34",
+        "number": 34,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>they</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>they</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "they",
+          "been",
+          "suggested",
+          "that"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Something that is \"impending\" or \"imminent\" is something that will happen soon."
+      },
+      {
+        "id": "T4R35",
+        "number": 35,
+        "type": "RMCSynonymWord",
+        "text": "The word \"imminent\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "impending",
+          "atrocious",
+          "inevitable",
+          "prospective"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to paragraph 3, what might the captain have been afraid of happening?"
+      },
+      {
+        "id": "T4R36",
+        "number": 36,
+        "type": "RMCSynonymWord",
+        "text": "The word \"capsized\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "overturned",
+          "detached",
+          "splintered",
+          "submerged"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to paragraph 3, what might the captain have been afraid of happening?"
+      },
+      {
+        "id": "T4R37",
+        "number": 37,
+        "type": "RMCOther",
+        "text": "According to paragraph 3, what might the captain have been afraid of happening?",
+        "paragraphNumber": 3,
+        "options": [
+          "The ship's catching fire because of the alcohol",
+          "The ship's being torn apart by the intense shocks",
+          "The ship's being swallowed in the earthquake",
+          "The ship's keeling over because of the large waves"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The need to circulate air to prevent such a blast could explain why the crew left two hatches open."
+      },
+      {
+        "id": "T4R38",
+        "number": 38,
+        "type": "RAddSentenceToParagraph",
+        "text": "The following sentence can be added to paragraph 3.<P><B>The need to circulate air to prevent such a blast could explain why the crew left two hatches open.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 3 is marked with an arrow (~).",
+        "paragraphNumber": 3,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 3,
+        "feedback": "The need to circulate air to prevent such a blast could explain why the crew left two hatches open."
+      },
+      {
+        "id": "T4R39",
+        "number": 39,
+        "type": "RMCSimple",
+        "text": "This passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "the creation of the Mount Rushmore monument",
+          "the visitors to the Mount Rushmore monument",
+          "the faces at the Mount Rushmore monument",
+          "the sculptor of the Mount Rushmore monument"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In paragraph 1, the author indicates that the men Borglum hired were"
+      },
+      {
+        "id": "T4R40",
+        "number": 40,
+        "type": "RMCOther",
+        "text": "In paragraph 1, the author indicates that the men Borglum hired were",
+        "paragraphNumber": 1,
+        "options": [
+          "unemployed miners",
+          "trained sculptors",
+          "laid-off stone carvers",
+          "Black Hills volunteers"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains how the artist protected his workmen."
+      },
+      {
+        "id": "T4R41",
+        "number": 41,
+        "type": "RClickSentence",
+        "text": "that explains how the artist protected his workmen.",
+        "paragraphNumber": 1,
+        "options": [
+          "Every",
+          "about",
+          "million",
+          "people"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains how the artist protected his workmen."
+      },
+      {
+        "id": "T4R42",
+        "number": 42,
+        "type": "RMCSynonymWord",
+        "text": "The word \"devised\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "designed",
+          "described",
+          "scaffolded",
+          "elevated"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"fissures\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R43",
+        "number": 43,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>fissures</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>fissures</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "fissures",
+          "During",
+          "carving",
+          "many"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"fissures\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T4R44",
+        "number": 44,
+        "type": "RMCOther",
+        "text": "In paragraph 3, what does the author mean by Borglum concocted a mixture of granite dust, white lead, and linseed oil to fill them?",
+        "paragraphNumber": 3,
+        "options": [
+          "The mixture was invented by the sculptor himself.",
+          "Borglum's mixture for filling cracks was very expensive.",
+          "Borglum bought the mixture at the Black Hills mines.",
+          "The mixture was discovered by the sculptor during carving."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Borglum bought the mixture at the Black Hills minance of the O'Leary-cow story in American culture"
+      },
+      {
+        "id": "T4R45",
+        "number": 45,
+        "type": "RMCSynonymWord",
+        "text": "The word \"expands\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "enlarges",
+          "dilutes",
+          "sprouts",
+          "shrivels"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The \"water\" expands as it freezes."
+      },
+      {
+        "id": "T4R46",
+        "number": 46,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>it</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>it</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "it",
+          "Every",
+          "year",
+          "about"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The \"water\" expands as it freezes."
+      },
+      {
+        "id": "T4R47",
+        "number": 47,
+        "type": "RMCSimple",
+        "text": "Today, Mount Rushmore needs to be",
+        "paragraphNumber": 1,
+        "options": [
+          "repaired periodically",
+          "protected from air pollution",
+          "polished for tourists",
+          "restored"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 3,
+        "feedback": ""
+      },
+      {
+        "id": "T4R48",
+        "number": 48,
+        "type": "RAddSentenceToPassage",
+        "text": "In the summer, the heat also adversely affects the fissures.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "In the summer, the heat also adversely affects the fissures."
+      },
+      {
+        "id": "T4R49",
+        "number": 49,
+        "type": "RMCSimple",
+        "text": "With which of the following statements would the author most probably agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "The heads are not as originally planned.",
+          "The workers made mistakes when blasting.",
+          "The cracks caused serious injuries.",
+          "The designs had large fissures in them."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage states that changes in the original design had to be made because of the cracks that were uncovered. Therefore, it can be inferred that the heads are not as originally planned."
+      },
+      {
+        "id": "T4R50",
+        "number": 50,
+        "type": "RMCSimple",
+        "text": "The passage discusses the following aspects of the creation of the Mount Rushmore carvings EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "why Borglum carved the heads of four U.S. presidents",
+          "where the The passage discusses the following aspects of the creation of the Mount Rushmore carvings EXCEPT",
+          "where the four U.S. presidents",
+          "where the ds of four U.S. presidents"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "how Borglum dealt with fissures that could not be avoided"
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T4L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What does the speaker mean?",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L01C.WAV",
+        "questionAudio": "T4L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L01C.png",
+        "transcript": "WOMAN: Did the drama students make all the props for the show?\nMAN: No, they posted an announcement asking for donations.",
+        "feedback": ""
+      },
+      {
+        "id": "T4L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He couldn't get a ticket.",
+          "He bought a ticket weeks ago.",
+          "He reserved a ticket for tomorrow.",
+          "The concert has been canceled."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L02C.WAV",
+        "questionAudio": "T4L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L02C.png",
+        "transcript": "WOMAN: Did you get a ticket for the concert tomorrow?\nMAN: They were soldhe concert tomorrow?\nMAN: They were sold",
+        "feedback": "\"To be sold out\" means \"there are no tickets left because they were all sold.\" Consequently, he could not get a ticket."
+      },
+      {
+        "id": "T4L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She thinks Nancy won't be able to read his notes.",
+          "Nancy will want to write her own notes.",
+          "She can't imagine Nancy writing notes.",
+          "She doesn't want to lend her notes to Nancy."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L03C.WAV",
+        "questionAudio": "T4L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L03C.png",
+        "transcript": "MAN: I don't imagine Nancy will want to borrow my notes, will she?\nWOMAN: Not the way you write.",
+        "feedback": "The woman is criticizing the way the man writes. She doesn't think that N"
+      },
+      {
+        "id": "T4L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Jennifer must accept not being able to graduate.",
+          "Jennifer must learn those facts in order to graduate.",
+          "Jennifer has faced many problems this spring.",
+          "Jennifer has to look for a spring."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L04C.WAV",
+        "questionAudio": "T4L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L04C.png",
+        "transcript": "WOMAN: Jennifer is very close to finishing, but she won't graduate this spring.\nMAN: She has to face facts.",
+        "feedback": "The expression \"face facts\" means \"accept facts.\""
+      },
+      {
+        "id": "T4L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She bought the light-blue writing paper.",
+          "She set the flowers in the pail.",
+          "She had to water the flowers.",
+          "She got the blue flowers behind the station."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L05C.WAV",
+        "questionAudio": "T4L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L05C.png",
+        "transcript": "MAN: Did you find the flowered stationery you wanted?\nWOMAN: No, I had to settle for the pale blue.",
+        "feedback": "\"Pale blue\" means \"light blue\" and \"stationery\" means \"writing paper.\" The expression \"to settle for\" means \"to reconcile oneself to something.\" The woman bought the writing paper even though it wasn't exactly what she wanted."
+      },
+      {
+        "id": "T4L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He doesn't like his chemistry cla",
+          "He is indifferent about the chemistry class.",
+          "He doesn't mind the chemistry class.",
+          "He isn't careful in chemistry class."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L06C.WAV",
+        "questionAudio": "T4L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L06C.png",
+        "transcript": "WOMAN: You don't care for your chemistry class, do you?\nMAN: I'll say I don't.",
+        "feedback": "\"To not care for something\" means \"to not like something.\""
+      },
+      {
+        "id": "T4L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Susie returned the money about two weeks ago.",
+          "Susie paid her the last week before Christmas.",
+          "Susie gave her the Christmas bonus.",
+          "Susie was going to pay her last week."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L07C.WAV",
+        "questionAudio": "T4L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L07C.png",
+        "transcript": "MAN: When did Susie pay you back?\nWOMAN: The week before last, when she got her Christmas bonus.",
+        "feedback": "Last week was one week ago, and the week before that was two weeks ago."
+      },
+      {
+        "id": "T4L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What did the man do?",
+        "options": [
+          "He remembered the box.",
+          "He called for the string.",
+          "He cut his finger.",
+          "He fingered the tie."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L08C.WAV",
+        "questionAudio": "T4L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L08C.png",
+        "transcript": "WOMAN: Would you have remembered the box if I hadn't called?\nMAN: Yes, because I tied a string around my finger.",
+        "feedback": "It can be inferred that the man remembered the box because he answered \"yes\" when the woman asked him if he would have remembered it without her calling to remind him."
+      },
+      {
+        "id": "T4L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The stadium is so close that the spectators can be heard.",
+          "People are cheerful when they return from the stadium.",
+          "The noise from the stadium is too loud.",
+          "The stadium has clouds over it on most days."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L09C.WAV",
+        "questionAudio": "T4L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L09C.png",
+        "transcript": "MAN: You're within walking distance of the new stadium, aren't you?\nWOMAN: That's right. From our house, you can hear the crowds cheering in the stands.",
+        "feedback": "The woman's being able to hear the people at the stadium indicates that the stadium is near the house."
+      },
+      {
+        "id": "T4L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the woman say about Jane?",
+        "options": [
+          "Jane certainly is determined to be successful.",
+          "There's nothing certain about Jane's success.",
+          "Jane's determination has nothing to do with her success.",
+          "Jane's success has never been determined for certain."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L10C.WAV",
+        "questionAudio": "T4L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L10C.png",
+        "transcript": "MAN: There's just no stopping Jane.\nWOMAN: That's true. Nothing is more certain than her determination to succeed.",
+        "feedback": "\"Certainly\" means the same as \"nothing is more certain,\" and \"determined to be successful\" refers to \"determination to succeed.\""
+      },
+      {
+        "id": "T4L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the woman say about Mary?",
+        "options": [
+          "Mary was the only one to pass the test.",
+          "Mary only passed this test because she scored higher than the others.",
+          "Mary's score was barely enough to pass.",
+          "Only on this test was Mary's score high enough."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L11C.WAV",
+        "questionAudio": "T4L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L11C.png",
+        "transcript": "MAN: I heard the physics test was difficult.\nWOMAN: No kidding. Only Mary scored high enough to pass it.",
+        "feedback": "\"Only Mary\" means that \"she was the only one.\""
+      },
+      {
+        "id": "T4L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the woman ask the man to do?",
+        "options": [
+          "Find out whether or not her paper has arrived",
+          "See if the paper that has come is hers",
+          "Check out the newspaper in the lobby",
+          "Use a check to buy her a newspaper"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L12C.WAV",
+        "questionAudio": "T4L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L12C.png",
+        "transcript": "MAN: I'm going down to the lobby.\nWOMAN: Would you check if my newspaper has come yet?",
+        "feedback": "The woman has asked the man to check (find out) if her paper has come (has arrived)."
+      },
+      {
+        "id": "T4L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the man suggest the woman do?",
+        "options": [
+          "Ask for more time",
+          "Extend her working hours",
+          "Meet with Dr. Joyce",
+          "Get in line"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L13C.WAV",
+        "questionAudio": "T4L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L13C.png",
+        "transcript": "WOMAN: I can't possibly meet Dr. Joyce's deadline.\nMAN: Why don't you ask for an extension?",
+        "feedback": "\"To ask for an extension\" means \"to ask for more time.\""
+      },
+      {
+        "id": "T4L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What had the woman assumed about the flyers?",
+        "options": [
+          "They hadn't yet been printed.",
+          "They weren't supposed to be handed out.",
+          "They had been given out already.",
+          "They"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L14C.WAV",
+        "questionAudio": "T4L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L14C.png",
+        "transcript": "MAN: We're supposed to pass out the flyers this afternoon.\nWOMAN: Oh, so they have been printed, huh?",
+        "feedback": "The woman's question indicates she is surprised that the flyers have been printed."
+      },
+      {
+        "id": "T4L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "Diane wouldn't do a good job.",
+          "Diane has already typed the essay.",
+          "Diane needs to do her work.",
+          "Diane doesn't really want to type the essay."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L15C.WAV",
+        "questionAudio": "T4L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L15C.png",
+        "transcript": "MAN: Since Diane wants to type your essay, why don't you let her?\nWOMAN: Have you ever seen the work she does?",
+        "feedback": "The woman's asking the man if he has seen Diane's work as a response to his question indicates that she doesn't think Diane does good work."
+      },
+      {
+        "id": "T4L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What does the woman imply about Rhoda?",
+        "options": [
+          "She might not want a bracelet.",
+          "She might look nice in turquoise.",
+          "She probably never wears necklaces.",
+          "She probably doesn't like jewelry."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L16C.WAV",
+        "questionAudio": "T4L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L16C.png",
+        "transcript": "MAN: Since Rhoda's exams kept her from coming with us to this conference, I think I'll bring her back a souvenir. I saw a very nice turquoise] bracelet in the gift shop.\nWOMAN: Are you sure she wouldn't prefer a necklace?",
+        "feedback": "The woman's asking if the man is certain about Rhoda's preference suggests that she thinks Rhoda may not want a bracelet."
+      },
+      {
+        "id": "T4L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "According to the woman, who does the best acting?",
+        "options": [
+          "Terry",
+          "Carson",
+          "Angela",
+          "Nancy"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L17C.WAV",
+        "questionAudio": "T4L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L17C.png",
+        "transcript": "WOMAN: Do you know who Dr. Carson picked for the lead part in this year's musical?\nMAN: Angela, I think.\nWOMAN: Angela? I thought that Terry did a much better job of acting.\nMAN: Perhaps, but she doesn't sing as well and when it comes to dancing, a bear could do better.",
+        "feedback": "The woman states her opinion that Terry did a better job of acting.",
+        "correctAnswerIndices": [
+          0
+        ]
+      },
+      {
+        "id": "T4L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "What is the man's concern?",
+        "options": [
+          "He has contaminated his professor's computer.",
+          "His friend has a very serious illness.",
+          "His friend's illness is contagious.",
+          "He forgot to check if his paper was on the diskette."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T4L18C.WAV",
+        "questionAudio": "T4L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T4L18C.png",
+        "transcript": "WOMAN: The way David went on about that terrible virus, I thought that Mary was deathly ill.\nMAN: What was the matter with her?\nWOMAN: It wasn't her at all. He was talking about her computer.\nMAN: Oh, no. She let me use her computer to write my history research paper. That means I turned it in on a diskette that might be infected.\nWOMAN: Let's hope your professor has an anti-virus program.",
+        "feedback": "The man explains that he turned in his paper on a diskette that might be contaminated with a virus. The diskette could infect his professor's computer."
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T4L19-20",
+        "startQuestion": 19,
+        "endQuestion": 20,
+        "fullAudio": "T4L19-20.WAV",
+        "audioClips": [
+          "T4L19-20.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L19-20C.png",
+        "transcript": "WOMAN: I just can't get excited about this coming semester.\nMAN: Once classes start, you'll feel differently.\nWOMAN: I hope soÅ. But what if I don't?\nMAN: Maybe you should drop one of your required courses and add one to take just for fun.\nWOMAN: That's a good idea. I'm feeling better about classes already.",
+        "questions": [
+          {
+            "id": "T4L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "What is the woman's problem?",
+            "questionAudio": "T4L19Q.WAV",
+            "options": [
+              "She has lost her enthusiasm.",
+              "She feels differently about her course of study.",
+              "She has to drop some courses.",
+              "She hasn't done anything exciting for a semester."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman's saying that she can't get excited about classes indicates that she has lost her enthusiasm."
+          },
+          {
+            "id": "T4L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "What will the womanQ probably do?",
+            "questionAudio": "T4L20Q.WAV",
+            "options": [
+              "Change her class schedule",
+              "Drop out of the university",
+              "Add another required course",
+              "Have fun instead of studying"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman feels better after the man suggests dropping one class and adding a different one, so she will probably follow his suggestion and change her class schedule."
+          }
+        ]
+      },
+      {
+        "groupId": "T4L21-23",
+        "startQuestion": 21,
+        "endQuestion": 23,
+        "fullAudio": "T4L21-23.WAV",
+        "audioClips": [
+          "T4L21-23.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L21-23C.png",
+        "transcript": "MAN: Hey, Jane, how was your first day of classes?\nWOMAN: Great. I signed up for an American history course that concentrates on the period surrounding the Revolutionary War.\nMAN: Sounds boring to me. I never did like history.\nWOMAN: That's because you've never had a teacher as exciting as Professor Lewis. He describes the events so vividly that it seems as though you are actually involved. It's like getting caught up in a movie.\nMAN: That sounds interesting.\nWOMAN: Why don't you take it? It's not too late to add courses.\nMAN: Well, I don't need it for my major, and there are other courses I'd rather take as electives.",
+        "questions": [
+          {
+            "id": "T4L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "What are the people discussing?",
+            "questionAudio": "T4L21Q.WAV",
+            "options": [
+              "Professor Lewis's American history class",
+              "How boring the first day of classes is",
+              "The period surrounding the Revolutionary War",
+              "How to add and drop courses"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man asks about the woman's first day of classes and she responds by telling him about her American history course. They continue discussing this class."
+          },
+          {
+            "id": "T4L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What does the man say about history classes?",
+            "questionAudio": "T4L22Q.WAV",
+            "options": [
+              "He dislikes them.",
+              "He has never taken one of Professor Lewis's classes.",
+              "He finds them rather absorbing.",
+              "He gets too involv"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": ""
+          },
+          {
+            "id": "T4L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "What does the woman encourage the man to do?",
+            "questionAudio": "T4L23Q.WAV",
+            "options": [
+              "Take Professor Lewis's course",
+              "Drop other electives",
+              "Go to the movies",
+              "Change his major"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman thinks that the man would like history if he took a course with Professor Lewis."
+          }
+        ]
+      },
+      {
+        "groupId": "T4L24-28",
+        "startQuestion": 24,
+        "endQuestion": 28,
+        "fullAudio": "T4L24-28.WAV",
+        "audioClips": [
+          "T4L24-28.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L24-28C.png",
+        "transcript": "Treasured since ancient times, the spice saffron is obtained from the autum%vá&PÒflowering <I>Crocus sativus</I>. The dried flower stamens - the three slender threads in the center of each flower - are the source of saffron. In New York, this \"king of spices\" can fetch up to sixty dollars a gram, making it one of the world's most prized and expensive foodstuffs. The finest variety is grown in La Mancha in the central plateau of Spain. The cultivation of saffron in Spain goes back to the Moorish invasion of the eighth century, when the crocuses were first introduced from the Middle East. Spain is by far the biggest producer of saffron. It contributes 70 percent of the world's output, with India and Iran the only other producers of note. Not only is Spain the largest producer of saffron, but it is also the largest consumer. Up to one-third of Spanish saffron is bought domestically, while the remainder is exported. The biggest importer is Saudi Arabia. Other countries that import a large amount of saffron are Bahrain, the United States, Italy, and France.",
+        "questions": [
+          {
+            "id": "T4L24",
+            "number": 24,
+            "type": "LMC",
+            "text": "What is the lecture about?",
+            "questionAudio": "T4L24Q.WAV",
+            "options": [
+              "Facts about saffron",
+              "The cost of saffron",
+              "How saffron is produced",
+              "How important saffron is"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The talk is about saffron in general. Therefore, it includes many facts about saffron."
+          },
+          {
+            "id": "T4L25",
+            "number": 25,
+            "type": "LPicture1",
+            "text": "Which part of this plant is used to produce saffron?",
+            "questionAudio": "T4L25Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T4L25Q1.png",
+              "assets/images/cambridge/T4L25Q2.png",
+              "assets/images/cambridge/T4L25Q3.png",
+              "assets/images/cambridge/T4L25Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The stamen of the plant is described as three slender threads in the center of each flower, which are dried and used to produce saffron."
+          },
+          {
+            "id": "T4L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "What reason is given for saffron being known as the \"king of spices\"?",
+            "questionAudio": "T4L26Q.WAV",
+            "options": [
+              "It is one of the world's most prized foodstuffs.",
+              "The finest variety comes from La Mancha.",
+              "It is produced in Spain.",
+              "It is obtained from the <I>Crocus sativus</I>."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Saffron is referred to as the \"king of spices\" because it is one of the world's most prized and expensive foodstuffs."
+          },
+          {
+            "id": "T4L27",
+            "number": 27,
+            "type": "LMC",
+            "text": "Besides Spain, which countries produce a significant amount of saffron?",
+            "questionAudio": "T4L27Q.WAV",
+            "options": [
+              "India and Iran",
+              "Middle Eastern countries and France",
+              "The United States and Italy",
+              "Saudi Arabia and Bahrain"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "In the lecture, it is stated that \"India and Iran [are] the only other producers of note [of importance].\""
+          },
+          {
+            "id": "T4L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "Which country is the biggest consumer of saffron?",
+            "questionAudio": "T4L28Q.WAV",
+            "options": [
+              "Spain",
+              "India",
+              "Bahrain",
+              "Saudi Arabia"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It is stated in the lecture that \"not only is Spain the largest producer of saffron, but it is also the largest consumer.\""
+          }
+        ]
+      },
+      {
+        "groupId": "T4L29-33",
+        "startQuestion": 29,
+        "endQuestion": 33,
+        "fullAudio": "T4L29-33.WAV",
+        "audioClips": [
+          "T4L29-33.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L29-33C.png",
+        "transcript": "WOMAN: By the way, Bill, could you tell me where the University Shuttle Bus stop is?\nMAN: Well, it depends on the bus. Both the Family Housing Bus and the Recreation Center Bus stop in front of the bookstore, but the bus to the Music Complex stops around the corner.\nWOMAN: Oh. How can I tell which one is the Recreation Center Bus?\nMAN: It has the letters \"RC\" above the windshield. All the buses have the initials of their final destination posted there.\nWOMAN: Do you know the schedules?\nMAN: For the RC bus, about every twenty minutes during the day, but after 5:00, it runs every hour until midnight.\nWOMAN: Is it usually on time?\nMAN: Yes, except during rush hour.\nWOMAN: So I should go now if I'm going to catch it?\nMAN: Not quite so soon. Look, I have to catch the Family Housing Bus. The Recreation Center Bus should come before mine. We can go together and I'll let you know which one to get on.\nWOMAN: Oh, thank you.\nMAN: Not at all.",
+        "questions": [
+          {
+            "id": "T4L29",
+            "number": 29,
+            "type": "LMC",
+            "text": "What is the relationship between the man and the woman?",
+            "questionAudio": "T4L29Q.WAV",
+            "options": [
+              "They are acquaintances.",
+              "They are strangers.",
+              "They are in the same university class.",
+              "They are members of a family."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman uses the man's name. This indicates that they probably know each other."
+          },
+          {
+            "id": "T4L30",
+            "number": 30,
+            "type": "LMC",
+            "text": "What does the woman want to know?",
+            "questionAudio": "T4L30Q.WAV",
+            "options": [
+              "Where the Recreation Center Bus stops",
+              "Which bus goes to the Music Complex",
+              "Where the Family Housing Bus goes",
+              "What bus the man is taking"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It can be inferred that the woman wants to know where the Recreation Center Bus stop is because when the man tells her where the university buses stop, she asks how the Recreation Center Bus can be identified."
+          },
+          {
+            "id": "T4L31",
+            "number": 31,
+            "type": "LMC",
+            "text": "What can be inferred from the conversation?",
+            "questionAudio": "T4L31Q.WAV",
+            "options": [
+              "The woman is going toward the Recreation Center.",
+              "The man is married.",
+              "The woman enjoys sports.",
+              "The man is going to the Music Complex."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "While it cannot be inferred that the woman is going directly to the Recreation Center, she is going in the vicinity of the center. Otherwise she wouldn't be taking that particular bus."
+          },
+          {
+            "id": "T4L32",
+            "number": 32,
+            "type": "LMC",
+            "text": "How can the woman recognize the bus she wants?",
+            "questionAudio": "T4L32Q.WAV",
+            "options": [
+              "It will have the letters \"RC\" above the windshield.",
+              "The Family Housing Bus comes before her bus.",
+              "It stops around the corner from the bookstore.",
+              "It will be at the stop in twenty minutes."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man states that university buses have identifying letters. The Recreation Center Bus will have the letters \"RC\" above the windshield."
+          },
+          {
+            "id": "T4L33",
+            "number": 33,
+            "type": "LMC",
+            "text": "What can be said about the woman?",
+            "questionAudio": "T4L33Q.WAV",
+            "options": [
+              "She's not used to Qtaking the University Shuttle Bus.",
+              "She has an expensive car.",
+              "She usually walks to the Recreation Center.",
+              "She doesn't drive during rush hour."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It can be inferred from the woman's ignorance of bus schedules, bus names, and bus stop locations that she is unaccustomed to taking university buses."
+          }
+        ]
+      },
+      {
+        "groupId": "T4L34-38",
+        "startQuestion": 34,
+        "endQuestion": 38,
+        "fullAudio": "T4L34-38.WAV",
+        "audioClips": [
+          "T4L34-38.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L34-38C.png",
+        "transcript": "For a fossil to be found, a complicated series of steps must occur in sequence. The first is that the animal (or plant) must be buried quickly. Animals that die on the plains or in the mountains are soon found by scavengers, such as hyenas, and rapidly reduced to bone chips. Most animals that are fossilized are caught in a flash flood, die in or near a river and are buried in a sand bar, or are caught in a sandstorm. If the current in the river is fairly strong, even those few animals that die in the water are soon torn apart and their bones scattered over acres of river bottom.\nThe second condition necessary for an animal to be fossilized is that it must be buried in a depositional area; that is, layers and layers of mud or gravel must be laid'Ñx\nâ&÷ãT4L39-44WOMAN 1: Today I want to discuss with you the problem of theft of cultural antiquities and art. Illicit trafficking in cultural property has become a massive criminal activity, whipriate for dealing with this situation? Yes, Tom?\nMAN: Well, electronic surveillance of exhibitions and historical monuments might help.\nWOMAN 1: Well, yes, no doubt that would act as a deterrent. But that's not always an affordable or practical option, especially since many cultural objects are located in remote places.\nWOMAN 2: Isn't there a movement afoot to get owners to make thorough catalogs of their cultural possessions?\nWOMAN 1: Yes, indeed, Mary. Remember that one of the chief problems in policing this kind of crime is that very often the original owners - whether governments, museums, or private collectors - cannot furnish an accurate description of their stolen property and, therefore, cannot prove their ownership. Several organizations concerned with combating this illegal trade are now stressing the importance of owners making accurate inventories. These inventories should include relevant data about the object such as date of fabrication, kind of material, sha, size, the presence of identifying markings, etc. Of course, they should also include detailed photographic illustrations.\nMAN: Would inventories in themselves prevent this trade? Information like this can only be really useful if it's made widely available.\nWOMAN 1: You're absolutely right, Tom. In fact, the development of electronic networks allows the International Police Organization to use inventories to identify objects and disseminate information about them to all of its offices worldwide. This information can also be used by customs agencies, the insurance industry, and cultural-heritage organizations. Can you think of any other measures that might help stem this illegal trade?\nWOMAN 2: Well, it seems that many people unwittingly purchase artifacts without being aware of their historical or cultural value or of the possibility that the object may have been looted. Perhaps travelers should be alerted to this danger. This might go some way to reduce the trade.",
+        "questions": [
+          {
+            "id": "T4L34",
+            "number": 34,
+            "type": "LMC",
+            "text": "What is the lecture mainly about?",
+            "questionAudio": "T4L34Q.WAV",
+            "options": [
+              "What makes finding fossils relatively rare",
+              "What kinds of fossils can be recovered",
+              "What prohibits fossilization",
+              "How fossils are scattered"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor begins the talk by stating that fossilization is a complicated process and continues by explaining the four conditions that must occur in order for fossils to be created and later found. It is not common that all four conditions are met; therefore, finding fossils is rare."
+          },
+          {
+            "id": "T4L35",
+            "number": 35,
+            "type": "LTwo",
+            "text": "What circumstances causing death will most likely ensure fossilization of Kan animal?",
+            "questionAudio": "T4L35Q.WAV",
+            "options": [
+              "Quick burial in a sandstorm",
+              "Drowning",
+              "Being eaten by other animals",
+              "Death by starvation"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that an animal has to be buried quickly and mentions several situations in which this could happen, such as drowning and being buried in a sand bar, and being buried in a sandstorm."
+          },
+          {
+            "id": "T4L36",
+            "number": 36,
+            "type": "LMC",
+            "text": "Why does the professor mention hyenas?",
+            "questionAudio": "T4L36Q.WAV",
+            "options": [
+              "To give an example of an animal that eats animal remains",
+              "To name a type of animal that has been found fossilized",
+              "To illustrate how animal bones reach the river bottom",
+              "To give an example of the type of animal found in the mountains"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor gives these animals as an example of scavengers that reduce dead animals to bone chips."
+          },
+          {
+            "id": "T4L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "What is the professor's attitude toward finding animal fossils?",
+            "questionAudio": "T4L37Q.WAV",
+            "options": [
+              "Realistic about the number of fossilized animals that can be found",
+              "Confident about the possibVility of finding fossils before they are exposed",
+              "Concerned about the number of fossils that are washed away",
+              "Optimistic about finding the fossils needed to complete the fossil record"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor gives several reasons why fossilization is rare. This indicates her realistic attitude toward finding fossils."
+          },
+          {
+            "id": "T4L38",
+            "number": 38,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T4L38Q.WAV",
+            "options": [
+              "The animal's death must occur in a situation where it will be buried quickly.",
+              "Layers of soil must be deposited over the carcass for a long period of time.",
+              "Erosion must eventually occur.",
+              "A knowledgeable person must recognize the fossil."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First, the animal must die and be buried quickly. The carcass must be buried for a long period of time. Before the fossil can be found, it must be exposed through erosion of the layers covering it. Then someone who would recognize it must find it before it"
+          }
+        ]
+      },
+      {
+        "groupId": "T4L39-44",
+        "startQuestion": 39,
+        "endQuestion": 44,
+        "fullAudio": "T4L39-44.WAV",
+        "audioClips": [
+          "T4L39-44.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L39-44C.png",
+        "transcript": "WOMAN 1: Today I want to discuss with you the problem of theft of cultural antiquities and art. Illicit trafficking in cultural property has become a massive criminal activity, whipriate for dealing with this situation? Yes, Tom?\nMAN: Well, electronic surveillance of exhibitions and historical monuments might help.\nWOMAN 1: Well, yes, no doubt that would act as a deterrent. But that's not always an affordable or practical option, especially since many cultural objects are located in remote places.\nWOMAN 2: Isn't there a movement afoot to get owners to make thorough catalogs of their cultural possessions?\nWOMAN 1: Yes, indeed, Mary. Remember that one of the chief problems in policing this kind of crime is that very often the original owners - whether governments, museums, or private collectors - cannot furnish an accurate description of their stolen property and, therefore, cannot prove their ownership. Several organizations concerned with combating this illegal trade are now stressing the importance of owners making accurate inventories. These inventories should include relevant data about the object such as date of fabrication, kind of material, sha, size, the presence of identifying markings, etc. Of course, they should also include detailed photographic illustrations.\nMAN: Would inventories in themselves prevent this trade? Information like this can only be really useful if it's made widely available.\nWOMAN 1: You're absolutely right, Tom. In fact, the development of electronic networks allows the International Police Organization to use inventories to identify objects and disseminate information about them to all of its offices worldwide. This information can also be used by customs agencies, the insurance industry, and cultural-heritage organizations. Can you think of any other measures that might help stem this illegal trade?\nWOMAN 2: Well, it seems that many people unwittingly purchase artifacts without being aware of their historical or cultural value or of the possibility that the object may have been looted. Perhaps travelers should be alerted to this danger. This might go some way to reduce the trade.",
+        "questions": [
+          {
+            "id": "T4L39",
+            "number": 39,
+            "type": "LMC",
+            "text": "What are the people discussing?",
+            "questionAudio": "T4L39Q.WAV",
+            "options": [
+              "Measures to control illicit trafficking of art treasures",
+              "Illegal trading in weapons and drugs",
+              "The destruction of a country's national heritage",
+              "The development of electronic networks"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor introduces the problem of the theft of cultural antiquities and art. She goes on to discuss what measures can be taken against it."
+          },
+          {
+            "id": "T4L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "Why does the professor mention the trade in weapons and drugs?",
+            "questionAudio": "T4L40Q.WAV",
+            "options": [
+              "To illustrate how big the problem of illegal art trade is",
+              "To lecture against the use of drugs",
+              "To criticize the effectiveness of the International Police Organization",
+              "To explain how the black-market trade works"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor compares the illegal art trade to that of the illegal trade in weapons and drugs to show how great the problem has become."
+          },
+          {
+            "id": "T4L41",
+            "number": 41,
+            "type": "LMC",
+            "text": "What does the professor say about electronic surveillance?",
+            "questionAudio": "T4L41Q.WAV",
+            "options": [
+              "Some owners can't afford surveillance.",
+              "Many governments don't care about the depletion of their treasures.",
+              "Some treasures aren't worth the expense.",
+              "Many thieves are clever enough to steal objects under surveillance."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that surveillance is not always affordable."
+          },
+          {
+            "id": "T4L42",
+            "number": 42,
+            "type": "LMC",
+            "text": "For which of the following pieces would the use of electronic surveillance be impractical?",
+            "questionAudio": "T4L42Q.WAV",
+            "options": [
+              "A statue along a remote road",
+              "A fountain in the middle of a busy city center",
+              "A painting in the storage room of a museum",
+              "A carving attached to the roof eaves of an old palace"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that surveillance is not a practical option in remote places. It would be difficult to put a surveillance device on a statue along a remote road."
+          },
+          {
+            "id": "T4L43",
+            "number": 43,
+            "type": "LMC",
+            "text": "Which problem in policing theê trade in national treasures was discussed?",
+            "questionAudio": "T4L43Q.WAV",
+            "options": [
+              "The original owner cannot describe the property accurately.",
+              "The criminals change the work of art so it is unrecognizable.",
+              "The buyers are wealthy enough to pay officials to be quiet.",
+              "People are afraid to turn in information about the criminals."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that original owners cannot always furnish an accurate description of their stolen property and, consequently, cannot prove ownership."
+          },
+          {
+            "id": "T4L44",
+            "number": 44,
+            "type": "LTwo",
+            "text": "What does the professor say about inventories of cultural properties?",
+            "questionAudio": "T4L44Q.WAV",
+            "options": [
+              "They are only useful if the information is widely available.",
+              "They would be useful for police as well as customs agencies and insurance companies.",
+              "They would help tourists from innocently getting involved in the black market.",
+              "They could be used by criminals to find valuable treasures."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor agrees with the man's point that inventories would only be useful if they were widely available for concerned organizations. The professor then gives examples of several organizations, such as the police, customs agencies, and insurance companies, that would find this information useful for stopping the illegal art trade."
+          }
+        ]
+      },
+      {
+        "groupId": "T4L45-50",
+        "startQuestion": 45,
+        "endQuestion": 50,
+        "fullAudio": "T4L45-50.WAV",
+        "audioClips": [
+          "T4L45-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T4L45-50C.png",
+        "transcript": "The importance of background music in a film cannot be overstated. Background music is instrumental in creating the mood the moviemaker wants to evoke. During the infancy of cinema, the importance of music was understood, but the relationship between music and the action on the screen was not fully appreciated. Thus, early musical material consisted of whatever ,ats available and often bore little relationship to the movie. Since the technology for movies to include sound had not yet been developed, music was provided by live musicians who played whatever they wanted. A pianist good at improvisation was highly regarded.\nAs the commercial potential of the cinema became apparent, producers realized the advantage of each film having its own music. In 1908, Camille Saint-Saens was commissioned to compose music specifically for a French film. However, this idea was ahead of its time and was not embraced by the movie industry. Perhaps cinema musicians weren't ready to learn new pieces for each movie that came along, or perhaps the costs were too high.\nBy 1913, special catalogs of music for specific dramatic purposes were available. Thus, musicians had at their disposal music that could be used for any scene from any movie. Much of this music consisted of works by famous composers and predated the advent of motion pictures. For example, Mendelshn's \"Wedding March\" was a typical catalog piece for wedding scenes and had been written before the appearance of motion pictures.\nIn 1922, a system that made possible the synchronization of recorded sound and image was developed. The era of talking pictures began, thus making music an integral part of filmmaking. At first, background music was used only if there was an orchestra or performer on screen because it was believed that people would be bewildered about the origin of the sound.\nA 1930s Western called <I>Cimarron</I> was the first film to experiment with background music without a visible means of production. The composer for this sound track was Max Steiner, a pioneer of film scoring. Steiner also composed the film score for <I>Symphony of Six Million</I> in 1932, the first film to have music underscoring dialogue. The simple, somewhat naive music of early film scores quickly developed into the sophisticated musical experience that moviegoers encounter today.",
+        "questions": [
+          {
+            "id": "T4L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "What is the lecture mainly about?",
+            "questionAudio": "T4L45Q.WAV",
+            "options": [
+              "The development of film music",
+              "The beginning of filmmaking",
+              "The importance of background music",
+              "The relationship between music and screen action"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker introduces the topic of background music in film and talks about its development from its infancy to the experience it provides moviegoers today."
+          },
+          {
+            "id": "T4L46",
+            "number": 46,
+            "type": "LMatchingTextName",
+            "text": "The professor mentions three different composers. How does the music discussed in the lecture relate to the composers mentioned?",
+            "questionAudio": "T4L46Q.WAV",
+            "options": [
+              "Composed music, but not for film//Mendelssohn",
+              "Composed music for a French film//Camille Saint-Saens",
+              "Composed music for soundtracks//Max Steiner"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Mendelssohn composed music before the advent of movies, Camille Saint-Saens was the first person to compose music for a particular film, and Max Steiner was a pioneer in film scoring for soundtracks."
+          },
+          {
+            "id": "T4L47",
+            "number": 47,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T4L47Q.WAV",
+            "options": [
+              "Music is performed by musicians in the movie theater.",
+              "Music is performed by musicians within the movie itself.",
+              "Music is heard, but without a visible means of production.",
+              "Music is underscoring the dialogue."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Movie music was first performed by musicians who were playing along with the movie in the theater. When a system for synchronization was developed, music was performed by musicians within the movie itself. Music then could be heard without the viewer seeing where the music was coming from. Finally, music was added to underscore the dialogue."
+          },
+          {
+            "id": "T4L48",
+            "number": 48,
+            "type": "LMC",
+            "text": "Why does the professor mention Mendelssohn's \"Wedding March\"?",
+            "questionAudio": "T4L48Q.WAV",
+            "options": [
+              "To illustrate what kind of music was available in catalogs",
+              "To show how people might be confused if they could not see where the music was coming from",
+              "To highlight the kind of music that a player could improvise",
+              "To give an example of music written specifically for a particular film"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor uses a composition of Mendelssohn's as an example of the type of music by famous composers that the catalogs offered musicians."
+          },
+          {
+            "id": "T4L49",
+            "number": 49,
+            "type": "LTwo",
+            "text": "According to the professor, in what ways was Max Steiner a pioneer of film scoring?",
+            "questionAudio": "T4L49Q.WAV",
+            "options": [
+              "He experimented with background music.",
+              "He composed music to be played during dialogues.",
+              "He wrote the sophisticated music of today.",
+              "He conducted music for films."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that Max Steiner was the composer for the first film to experiment with background music without a visible means of production as"
+          },
+          {
+            "id": "T4L50",
+            "number": 50,
+            "type": "LMC",
+            "text": "What event probably had the most influence on film music?",
+            "questionAudio": "T4L50Q.WAV",
+            "options": [
+              "The synchronization of sound and image in 1922",
+              "The catalogs of music for specific dramatic purposes in the early 1910s",
+              "The experiments with background music for film in the early 1930s",
+              "Camille Saint-Saens's composition in 1908 of music for a specific film"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "None of the developments in film music could have taken place without the synchronization of sound and image developed in 1922."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "<I>Some people wish to ban smoking in public places. Others don't agree. What is your opinion?</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "<I>Some people wish to ban smoking in public places. Others don't agree. What is your opinion?</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

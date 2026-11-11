@@ -1,0 +1,2442 @@
+{
+  "testNumber": 1,
+  "title": "Cambridge Practice Test 1",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 1 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T1S01",
+      "number": 1,
+      "type": "SComplete",
+      "text": "Not all birds <_>.",
+      "options": [
+        "fly",
+        "flying",
+        "to fly",
+        "flown"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "Not all birds fly.",
+      "feedback": "A verb in the simple present tense, \"fly,\" is needed to complete the sentence."
+    },
+    {
+      "id": "T1S02",
+      "number": 2,
+      "type": "SIdentify",
+      "text": "Natural predators, <U1>disturbing</U1> from tourists, and pollution <U2>have</U2> all <U3>contributed</U3> to the <U4>decline</U4> of the California condor.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "Natural predators, <U1>disturbing</U1> from touriststors, <U1>disturbing</U1> from touristsÄ, and pollution <U2>have</U2> all <U3>contributed</U3> to the <U4>decline</U4> of the California condor.",
+      "correctedSentence": "1",
+      "feedback": "Natural predators, disturbances from tourists, and pollution have all contributed to the decline of the California condor."
+    },
+    {
+      "id": "T1S03",
+      "number": 3,
+      "type": "SComplete",
+      "text": "A construction kit consists of parts that can be <_>.",
+      "options": [
+        "fitted together",
+        "together they are fitted",
+        "that when fitted together",
+        "together are fitted"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "A construction kit consists of parts that can be fitted together.",
+      "feedback": "The adjective clause \"that can be\" is incomplete. A verb, \"fitted,\" can complete the clause. \"Together\" tells how the parts fit."
+    },
+    {
+      "id": "T1S04",
+      "number": 4,
+      "type": "SIdentify",
+      "text": "The Soay sheep, the <U1>old</U1> breed of sheep in <U2>existence</U2>, <U3>has changed</U3> little <U4>since</U4> 3500 B.C.E.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S82-S87",
+      "correctedSentence": "The Soay sheep, the oldest breed of sheep in existence, has changed little since 3500 B.C.E.",
+      "feedback": "The superlative form \"oldest\" should be used because Soay sheep are being compared to all other breeds of sheep."
+    },
+    {
+      "id": "T1S05",
+      "number": 5,
+      "type": "SComplete",
+      "text": "The Swedish scientist <_> to people who have done something important to help humankind.",
+      "options": [
+        "Alfred B. Nobel left money to be awarded",
+        "left money to be awarded to Alfred B. Nobel",
+        "Alfred B. Nobel left to be awarded money",
+        "awarding money to Alfred B. Nobel to be left"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "The Swedish scientist Alfred B. Nobel left money to be awarded to people who have done something important to help humankind.",
+      "feedback": "left money to be awarded to Alfred B. Nobel"
+    },
+    {
+      "id": "T1S06",
+      "number": 6,
+      "type": "SIdentify",
+      "text": "A traveler can <U1>reach</U1> some of <U2>the village</U2> along the Amazon <U3>only</U3> by <U4>riverboat</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S1-S5",
+      "correctedSentence": "A traveler can reach some of the villages along the Amazon only by riverboat.",
+      "feedback": "A traveler can reach some of the villages along the Amazon only by riverboat."
+    },
+    {
+      "id": "T1S07",
+      "number": 7,
+      "type": "SComplete",
+      "text": "The western part of Oregon generally receives more rain than <_> the eastern part.",
+      "options": [
+        "does",
+        "in it does",
+        "it does in",
+        "in"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "The western part of Oregon generally receives more rain than does the eastern part.",
+      "feedback": "An aux-word (auxiliary verb), \"does,\" is needed to complete the sentence."
+    },
+    {
+      "id": "T1S08",
+      "number": 8,
+      "type": "SIdentify",
+      "text": "Fiber <U1>is important</U1> element <U2>in</U2> nutrition, and it aids in <U3>protecting</U3> the digestive tract <U4>as</U4> well.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S6-S10",
+      "correctedSentence": "Fiber is an important element in nutrition, and it aids in protecting the digestive tract as well.",
+      "feedback": "Fiber is an important element in nutrition, and it aids in protecting the digestive tract as well."
+    },
+    {
+      "id": "T1S09",
+      "number": 9,
+      "type": "SComplete",
+      "text": "<_> porpoises and dolphins, whales are mammals.",
+      "options": [
+        "Like",
+        "As",
+        "Also",
+        "When"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S91-S94",
+      "correctedSentence": "Like porpoises and dolphins, whales are mammals.",
+      "feedback": "\"Like,\" meaning \"similar to,\" is a preposition that indicates a comparison. Here there is a comparison between \"porpoises and dolphins\" and \"whales.\""
+    },
+    {
+      "id": "T1S10",
+      "number": 10,
+      "type": "SIdentify",
+      "text": "<U1>The first</U1> European <U2>settlement</U2> of Australia <U3>left</U3> the city of Portsmouth <U4>in</U4> May 1787.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42",
+      "correctedSentence": "The first European settlers of Australia left the city of Portsmouth in May 1787.",
+      "feedback": "\"Settlement\" is a noun that refers to a place. The noun form \"settlers\" is used for people."
+    },
+    {
+      "id": "T1S11",
+      "number": 11,
+      "type": "SComplete",
+      "text": "<_>, Luxor did not reach preeminence until about 2000 B.C.E.",
+      "options": [
+        "Although founded many centuries earlier",
+        "Many centuries earlier it was founded",
+        "The city founded centuries earlier",
+        "Founding the city centuries earlier"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S77-S80",
+      "correctedSentence": "Although founded many centuries earlier, Luxor did not reach preeminence until about 2000 B.C.E.",
+      "feedback": "Many centuries earlier it was founded"
+    },
+    {
+      "id": "T1S12",
+      "number": 12,
+      "type": "SIdentify",
+      "text": "Starches <U1>provide</U1> people <U2>with</U2> important nutrients <U3>which</U3> they need <U4>them</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S61-S66",
+      "correctedSentence": "Starches provide people with important nutrients which they need.",
+      "feedback": "Starches provide people with important nutrients which they need."
+    },
+    {
+      "id": "T1S13",
+      "number": 13,
+      "type": "SComplete",
+      "text": "<_> living in Birmingham, England, that the American writer Washington Irving wrote <I>Rip Van Winkle</I>.",
+      "options": [
+        "It was while",
+        "It was",
+        "There he was",
+        "While he was"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53 and S77-S80",
+      "correctedSentence": "It was while living in Birmingham, England, that the American writer Washington Irving wrote <I>Rip Van Winkle</I>.",
+      "feedback": "A subject and verb are needed to complete the sentence. The word \"it\" fills the subject position, and the verb \"was\" fills the verb position. An adverb, \"while,\" is needed to introduce the adverb phrase \"living in Birmingham, England.\""
+    },
+    {
+      "id": "T1S14",
+      "number": 14,
+      "type": "SIdentify",
+      "text": "The Bactrian, <U1>or</U1>] Asian, camel <U2>can be</U2> <U3>identified</U3> by <U4>their</U4> two humps.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S11-S15",
+      "correctedSentence": "The Bactrian, or Asian, camel can be identified by its two humps.",
+      "feedback": "The possessive adjective \"its\" should be used instead of \"their\" because it refers to \"Bactrian camel,\" which is used in the singular form indicating a class of animal."
+    },
+    {
+      "id": "T1S15",
+      "number": 15,
+      "type": "SComplete",
+      "text": "<_> known as \"Stonehenge\" has never been determined.",
+      "options": [
+        "Who built the stone circle",
+        "The stone circle",
+        "That the stone circle",
+        "There is the stone circle"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S59",
+      "correctedSentence": "Who built the stone circle known as \"Stonehenge\" has never been determined.",
+      "feedback": "The verb in the passive voice \"has never been determined\" needs a subject that indicates what hasn't yet been determined. \"Who built the stone circle\" fills that position."
+    },
+    {
+      "id": "T1S16",
+      "number": 16,
+      "type": "SIdentify",
+      "text": "<U1>A</U1> trade center since <U2>antiquity</U2>, Catalonia <U3>itself</U3> has often been ruled by <U4>outsider</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S1-S5",
+      "correctedSentence": "A trade center since antiquity, Catalonia itself has often been rulÉed by outsiders.",
+      "feedback": "A trade center since antiquity, Catalonia itself has often been rulÉed by outsiders."
+    },
+    {
+      "id": "T1S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "Certain Paleolithic artifacts are given special terms <_>.",
+      "options": [
+        "indicating the location of their discovery",
+        "which indicating their location of discovery",
+        "whose locations are indicating their discovery",
+        "what the location of their discovery is"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "Certain Paleolithic artifacts are given special terms indicating the location of their discovery.",
+      "feedback": "which indicating their location of discovery"
+    },
+    {
+      "id": "T1S18",
+      "number": 18,
+      "type": "SIdentify",
+      "text": "<U1>Early</U1> balloonists remained aloft <U2>in the air</U2> for <U3>relatively</U3> short <U4>periods</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S95-S96",
+      "correctedSentence": "Early balloonists remained aloft for relatively short periods.",
+      "feedback": "Early balloonists remained aloft for relatively short periods."
+    },
+    {
+      "id": "T1S19",
+      "number": 19,
+      "type": "SComplete",
+      "text": "No matter <_>, Mozart was an accomplished composer while still a child.",
+      "options": [
+        "how remarkable it seems",
+        "how seems it remarkable",
+        "it seems remarkable how",
+        "how it seems remarkable"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S72-S76",
+      "correctedSentence": "No matter how remarkable it seems, Mozart was an accomplished composer while still a child.",
+      "feedback": "An adverb clause is needed to complete the sentence. The word order for an adverb clause introduced by the clause marker \"how\" is: \"how\" + adjective + subject + verb."
+    },
+    {
+      "id": "T1S20",
+      "number": 20,
+      "type": "SIdentify",
+      "text": "<U1>At</U1> space camp, <U2>youngsters</U2> go through <U3>concentrated</U3> astronaut training <U4>but</U4> shuttle simulations.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S43-S50",
+      "correctedSentence": "At space camp, youngsters go through concentrated astronaut training and shuttle simulations.",
+      "feedback": "At space camp, youngsters go through concentrated astronaut training and shuttle simulations."
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T1R01-11Plain",
+        "startQuestion": 1,
+        "endQuestion": 11,
+        "text": "Experiments have shown that in selecting personnel for a job, interviewing is, at best, a hindrance and may even cause harm. These studies have disclosed that the judgments of interviewers differ markedly and bear little or no relationship to the adequacy of job applicants. Of the many reasons why this should be the case, four in particular stand out. The first reason is related to an error of judgment known as the \"halo effect.\" If a person has one noticeably good trait, his or her other characteristics will be judged as better than they really are. Thus, an individual who dresses smartly and shows self-confidence is likely to be judged capable of doing a job well regardless of his or her real ability. The \"horns effect\" describes essentially the same error, but focuses on one particular bad trait. Here the individual will be judged as incapable of doing a good job because of one flaw.\n\nInterviewers are also prejudiced by the \"primacy effect.\" This error occurs when interpretation of later information is distorted by earlier related information. Hence, in an interview situation, the interviewer spends most of the interview trying to confirm the impression given by the candidate in the first few moments. Studies have repeatedly demonstrated that such an impression is unrelated to the aptitude of the applicant.\n\nThe phenomenon known as the \"contrast effect\" also skews the judgment of interviewers. A suitable candidate may be underestimated because he or she is different from a previous one who appears exceptionally intelligent. Likewise, an average candidate who is preceded by one who gives a weak showing may be judged as more suitable than he or she really is.\n\nSince interviews as a form of personnel selection have been shown to be inadequate, other selection procedures have been devised that more accurately predict candidate suitability. Of the various tests devised, the predictor that appears to do this most successfully is the applicant's cognitive ability as measured by a variety of verbal and spatial tests."
+      },
+      {
+        "groupId": "T1R12-25Plain",
+        "startQuestion": 12,
+        "endQuestion": 25,
+        "text": "A variety of experiments can be performed to illustrate the nature of light, but perhaps the most well known is the classic \"double-slit experiment\" first performed by Thomas Young in 1803.  In the first part of this experiment, a light is shone through a tiny vertical slit in a screen and allowed to pass on to a second detecting screen. The light spreads out after passing through the hole, and a large illuminated area that fades into darkness at the edges shows up on the detecting screen.  To form this pattern, the light actually bends or diffracts when passing through the slit.\n\nIn the second part of the experiment, light is shone through two parallel slits. This time the light passes through the slits, but instead of creating a large lighted area, the detecting screen now shows alternating bands of light and darkness. The band in the center is the brightest. Around that are alternating bands of light and darkness with the light bands becoming less intense the farther away they are from the central one.\n\nWhat is happening is called the \"phenomenon of interference.\" The waves of light from the two slits interfere with each other. Like all waves, light waves have crests, their highest points, and troughs, their lowest points. In places where the crests coming from one slit extend over the crests coming from the other slit, the result is an intensification of light, and light bands appear on the detecting screen. In places where the crests from one slit overlap the troughs from the other slit, they cancel each other out, and the result is an area of darkness on the detecting screen.\n\nBut what happens if particles of light, or photons, are shot one after the other through the slits? If only one slit is open, these photons build up the same pattern as that of the beam of light. The fascinating thing is that if two slits are open and photons are fired one at a time through either of them, the pattern that builds up on the detecting screen is the same pattern obtained when a beam of light is shone through two slits. In other words, a single photon appears to \"know\" whether one slit or two are open."
+      },
+      {
+        "groupId": "T1R26-38Plain",
+        "startQuestion": 26,
+        "endQuestion": 38,
+        "text": "It was once believed that being overweight was healthy, but nowadays few people subscribe to this viewpoint. While many people are fighting the battle to lose weight, studies are being conducted concerning the appetite and how it is controlled by both emotional and biochemical factors. Some of the conclusions of these studies may give insing.\n\nA test in which subjects were blindfolded showed that obese people have a keener sense of taste and {crave} more flavorful food than people who are not extremely overweight. When deprived of variety and intensity of tastes, obese people are rarely satisfied and consequently eat more to fulfill this need. Also, blood samples taken from people after they were shown a picture of food revealed that overweight people reacted with an increase in blood insulin, a chemical associated with appetite. This did not happen to average-weight people.\n\nIn another experiment, results showed that certain people have a specific, biologically induced hunger for carbohydrates. When people eat carbohydrates, the level of serotonin, a neurotransmitter in the brain, rises. Enough serotonin produces a sense of satiation, and, as a result, their hunger for carbohydrates subsides.\n\nExercise has been recommended as an important part of a weight-loss program. However, it has been found that mild exercise, such as using the stairs instead of the elevator, is better in the long run than taking on a strenuous program, such as jogging, which many people find difficult to continue over long periods of time and which also increases appetite."
+      },
+      {
+        "groupId": "T1R39-50Plain",
+        "startQuestion": 39,
+        "endQuestion": 50,
+        "text": "In June 1863 a Confederate army under the command of General Lee encountered a Union army commanded by General Meade near the town of Gettysburg in Pennsylvania. The ensuing battle, which lasted three days, is considered the single most important engagement of the American Civil War.\n\nOn the morning of July 1, the battle opened with Confederate troops attacking a Union cavalry division to the west of the town at McPherson Ridge. Reinforcements came to both sides, but eventually the Union forces were overpowered and were driven back to the south of Gettysburg. They formed defensive positions along Cemetery Ridge, a long rise of land running southwards from outside the town, and on two hills just to the north and east of the ridge. The whole army formed a defensive arc resembling a fishhook. The Confederate forces, about a mile away, faced the Union positions in a larger arc from the west and north.\n\nThroughout the day of July 2, Lee's forces attacked, leaving thousands of dead on both sides. The Confederates overran the Union's advance lines in the southern part of their \"hook,\" but they failed to dislodge the Union forces from their main positions. A strategically important hill known as Little Round Top on the Union's left flank was stormed unsuccessfully by the Confederates with a devastating number of casualties on both sides.\n\nOn the third day of battle, Lee decided to concentrate his attack on the center of the Union forces that ranged along Cemetery Ridge. As a prelude to the attack, the Confederate artillery bombarded the ridge for two hours but inflicted less damage than they had expected, due to poor visibility. When the bombardment ceased, a Confederate infantry force of twelve thousand men charged courageously across the open land toward the Union lines. They were subjected to heavy artillery and rifle fire and sustained a huge number of casualties. This attack, now known as Pickett's Charge after the general whose division led it, failed in its objective to break the Union line. After this failure General Lee decided to withdraw his army toward safer territory in the South. Both sides had suffered huge losses of men, but the Union had succeeded in preventing the Confederates from successfully invading the North, and so Gettysburg proved to be a decisive turning point in the Civil War."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T1R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "This passage mainly discusses the",
+        "paragraphNumber": 1,
+        "options": [
+          "weaknesses of the job interview process",
+          "effects of interviewing on job applicants",
+          "judgments of interviewers concerning job applicants",
+          "techniques interviewers use for judging job applicants"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The word \"they\" refers to the other \"characteristics\" that will be judged as being better because of a noticeably good trait."
+      },
+      {
+        "id": "T1R02",
+        "number": 2,
+        "type": "RMCSynonymWord",
+        "text": "The word hindrance in paragraph 1 is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "interference",
+          "encouragement",
+          "assistance",
+          "procedure"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The word \"they\" refers to the other \"characteristics\" that will be judged as being better because of a noticeably good trait."
+      },
+      {
+        "id": "T1R03",
+        "number": 3,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>they</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>they</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "characteristics",
+          "person",
+          "noticeably",
+          "good"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The word \"they\" refers to the other \"characteristics\" that will be judged as being better because of a noticeably good trait."
+      },
+      {
+        "id": "T1R04",
+        "number": 4,
+        "type": "RMCSimple",
+        "text": "According to the passage, the halo effect",
+        "paragraphNumber": 1,
+        "options": [
+          "exemplifies how one good characteristic colors perceptions",
+          "stands out as the worst judgment error",
+          "only takes effect when a candidate is well dressed",
+          "increases the interviewer's ability to judge real potential"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author discusses how one good characteristic, such as dressing smartly, makes the interviewer think that other characteristics of the applicant are also good."
+      },
+      {
+        "id": "T1R05",
+        "number": 5,
+        "type": "RMCSynonymWord",
+        "text": "The word confirm in paragraph 2 is closest in meaning to",
+        "paragraphNumber": 2,
+        "options": [
+          "verify",
+          "conclude",
+          "recollect",
+          "misrepresent"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "is the one that stays with the interviewer"
+      },
+      {
+        "id": "T1R06",
+        "number": 6,
+        "type": "RMCSimple",
+        "text": "According to the passage, the first impression",
+        "paragraphNumber": 1,
+        "options": [
+          "is the one that stays with the interviewer",
+          "can easily be altered",
+          "is unrelated to the interviewer's prejudices",
+          "has been repeatedly demonstrated to the applicant"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author mentions all of the following reasons why interviewing is not an accurate way to predict candidate suitability EXCEPT the"
+      },
+      {
+        "id": "T1R07",
+        "number": 7,
+        "type": "RMCSynonymWord",
+        "text": "The word \"skews\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "biases",
+          "opposes",
+          "improves",
+          "distinguishes"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The cognitive effect is not mentioned in the passage."
+      },
+      {
+        "id": "T1R08",
+        "number": 8,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>this</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>this</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "this",
+          "many",
+          "reasons",
+          "should"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The cognitive effect is not mentioned in the passage."
+      },
+      {
+        "id": "T1R09",
+        "number": 9,
+        "type": "RMCSimple",
+        "text": "The author mentions all of the following reasons why interviewing is not an accurate way to predict candidate suitability EXCEPT the",
+        "paragraphNumber": 1,
+        "options": [
+          "cognitive effect",
+          "halo effect",
+          "primacy effect",
+          "contrast effect"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author discusses the effect of comparing two candidates."
+      },
+      {
+        "id": "T1R10",
+        "number": 10,
+        "type": "RMCSimple",
+        "text": "cognitive effect",
+        "paragraphNumber": 1,
+        "options": [
+          "halo effect",
+          "primacy effect",
+          "contrast effect",
+          "The cognitive effect is not mentioned in the passage."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The paragraphs following the passage would most likely discuss which of the following?"
+      },
+      {
+        "id": "T1R11",
+        "number": 11,
+        "type": "RMCSimple",
+        "text": "The paragraphs following the passage would most likely discuss which of the following?",
+        "paragraphNumber": 1,
+        "options": [
+          "More information on cognitive-ability tests",
+          "Other reasons for misjudgments of applicants",
+          "More information on the kinds of judgments interviewers make",
+          "Other selection procedures included in interviewing"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With what topic are the first two paragraphs mainly concerned?"
+      },
+      {
+        "id": "T1R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "With what topic are the first two paragraphs mainly concerned?",
+        "paragraphNumber": 1,
+        "options": [
+          "The classic double-slit light experiment",
+          "Thomas Young's various illustrations",
+          "The significance of phout these tests.",
+          "RMCSimple"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With what topic are the first two paragraphs mainly concerned?"
+      },
+      {
+        "id": "T1R13",
+        "number": 13,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>slit</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>slit</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "slit",
+          "variety",
+          "experiments",
+          "performed"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"slit\" is a long narrow opening or a type of \"hole.\""
+      },
+      {
+        "id": "T1R14",
+        "number": 14,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>one</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>one</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "one",
+          "first",
+          "part",
+          "this"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The central \"one\" is the \"band\" in the center."
+      },
+      {
+        "id": "T1R15",
+        "number": 15,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that shows which pattern of light emerges on a detecting screen when a single photon is fired through two open slits.",
+        "paragraphNumber": 1,
+        "options": [
+          "Pattern with central band and alternating bands of light and darkness",
+          "Pattern with only two single lines",
+          "Uniform illumination across the entire screen",
+          "Completely dark screen with no bands"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T1R15Q1.png",
+          "assets/images/cambridge/T1R15Q2.png",
+          "assets/images/cambridge/T1R15Q3.png",
+          "assets/images/cambridge/T1R15Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "A single photon fired through two open slits builds a pattern that has a central band and alternating bands of light and darkness."
+      },
+      {
+        "id": "T1R16",
+        "number": 16,
+        "type": "RClickWordReferPhrase",
+        "text": "Look at the phrase <B>each other</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>each other</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "waves of light",
+          "two slits",
+          "detecting screen",
+          "bands of light"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Each other\" refers to each of the \"waves of light\" from the two slits."
+      },
+      {
+        "id": "T1R17",
+        "number": 17,
+        "type": "RMCOther",
+        "text": "Why does the author mention crests and troughs in paragraph 3?",
+        "paragraphNumber": 3,
+        "options": [
+          "To give background information that the reader needs to understand the phenomenon of photon interference",
+          "To explain what all waves are like so that the reader will understand waves",
+          "To inform the reader what the highest points and lowest points in a wave are called",
+          "To explain why the physical aspects of a wave are important for the movement of light"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author describes waves in general to give the background information the reader needs to understand how one light wave interferes with the other light wave."
+      },
+      {
+        "id": "T1R18",
+        "number": 18,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"overlap\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "overlap",
+          "places",
+          "where",
+          "crests"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"overlap\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T1R19",
+        "number": 19,
+        "type": "RClickSentence",
+        "text": "Click on the paragraph that describes what happens when a light beam is projected through a single slit.<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "variety",
+          "experiments",
+          "performed",
+          "illustrate"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that describes what happens when the crest of a wave extends over the trough of another wave."
+      },
+      {
+        "id": "T1R20",
+        "number": 20,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"photons\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "photons",
+          "what",
+          "happens",
+          "particles"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A single photon can predict photon and light-beam behavior."
+      },
+      {
+        "id": "T1R21",
+        "number": 21,
+        "type": "RMCOther",
+        "text": "What does the author mean by the statement {a single photon appears to \"know\" whether one slit or two are open} in paragraph 4?",
+        "paragraphNumber": 4,
+        "options": [
+          "A single photon behaves as if other photons were causing interference.",
+          "A single photon can predict photon and light-beam behavior.",
+          "A single photon has the ability to think about whether one slit or two are open.",
+          "A single photon knows how the other photons will behave and alters its behavior accordingly."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Photons\" are \"particles of light.\""
+      },
+      {
+        "id": "T1R22",
+        "number": 22,
+        "type": "RMCSimple",
+        "text": "The passage discusses all of the following experiments EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "shining light beams one at a time through two slits",
+          "shining light beams through a single slit",
+          "shining photons one at a time through a single slit",
+          "shining photons one at a time through two slits"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With which of the following statements would the author most probably agree?"
+      },
+      {
+        "id": "T1R23",
+        "number": 23,
+        "type": "RMCSimple",
+        "text": "With which of the following statements would the author most probably agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "There still exist unexplained phenomena in the study of light behavior.",
+          "The physics of light has been understood since the first experiment in 1803.",
+          "Photons cannot make patterns unless they can overlap each other.",
+          "The intensification of light bands is dependentince the first experiment in 1803."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author's statement that light behavior is fascinating and that an inanimate object appears to \"know\" something suggests that there are phenomena that are not completely understood."
+      },
+      {
+        "id": "T1R24",
+        "number": 24,
+        "type": "RAddSentenceToPassage",
+        "text": "This is fairly easy to replicate in a classroom setting.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "This is fairly easy to replicate in a classroom setting."
+      },
+      {
+        "id": "T1R25",
+        "number": 25,
+        "type": "RClickParagraph",
+        "text": "Click on the paragraph that describes what happens when a light beam is projected through a single slit.<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that describes what happens when a light beam is projected through a single slit."
+      },
+      {
+        "id": "T1R26",
+        "number": 26,
+        "type": "RMCSimple",
+        "text": "What is the main purpose of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "To present research into the factors causing obesity",
+          "To discuss the health problems caused by being overweight",
+          "To recommend a weight-loss program for the obese",
+          "To help overweight people overcome their eating problem"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author mentions people's eating habits during times of stress to show that"
+      },
+      {
+        "id": "T1R27",
+        "number": 27,
+        "type": "RMCSimple",
+        "text": "The author mentions people's eating habits during times of stress to show that",
+        "paragraphNumber": 1,
+        "options": [
+          "a large percentage of people deal with stress by eating",
+          "overweight people are tense",
+          "thin people don't eat when under stress",
+          "56 percent of the population isn't overweight"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Paragraph 2 supports which of the following conclusions?"
+      },
+      {
+        "id": "T1R28",
+        "number": 28,
+        "type": "RMCSynonymWord",
+        "text": "The word \"\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "RMCSynonymWord",
+          "RMCOther",
+          "A variety of foods and strong flavors satisfy heavy people.",
+          "Thin people don't enjoy food as much as overweight people do."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "Paragraph 2 supports which of the following conclusions?"
+      },
+      {
+        "id": "T1R29",
+        "number": 29,
+        "type": "RMCOther",
+        "text": "Paragraph 2 supports which of the following conclusions?",
+        "paragraphNumber": 2,
+        "options": [
+          "A variety of foods and strong flavors satisfy heavy people.",
+          "Thin people don't enjoy food as much as overweight people do.",
+          "Overweight people have an abnormal sense of taste.",
+          "Deprivation of food makes people fat."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Because the lack of variety and flavor leaves heavy people dissatisfied, it can be inferred that eating a variety of food with strong flavors will satisfy them."
+      },
+      {
+        "id": "T1R30",
+        "number": 30,
+        "type": "RMCSimple",
+        "text": "According to the passage,",
+        "paragraphNumber": 1,
+        "options": [
+          "insulin levels don't change in average-weight people who see food",
+          "insulin increases in the bloodstream when people eat large amounts of food",
+          "insulin can be used to lessen the appetite",
+          "insulin causes a chemical reaction when food is seen"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be inferred in paragraph 3 that for certain people"
+      },
+      {
+        "id": "T1R31",
+        "number": 31,
+        "type": "RMCOther",
+        "text": "It can be inferred in paragraph 3 that for certain people",
+        "paragraphNumber": 3,
+        "options": [
+          "eating carbohydrates eliminates hunger",
+          "carbohydrates biologically induce hunger",
+          "carbohydrates don't satisfy a hungry person",
+          "carbohydrates subside when serotonin is produced"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated in the passage that \"when people eat carbohydrates, the level of serotonin ... rises [which] produces a sense of satiation,\" thereby eliminating their hunger."
+      },
+      {
+        "id": "T1R32",
+        "number": 32,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "their",
+          "Enough",
+          "serotonin",
+          "produces"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When \"people\" eat carbohydrates, their hunger subsides."
+      },
+      {
+        "id": "T1R33",
+        "number": 33,
+        "type": "RClickWordAntonym",
+        "text": "Look at the word <B>subsides</B> in the passage. Click on the word or phrase in the <B>bold</B> text that is OPPOSITE in meaning to the word <B>subsides</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "subsides",
+          "Enough",
+          "serotonin",
+          "produces"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"subsides\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T1R34",
+        "number": 34,
+        "type": "RMCSimple",
+        "text": "What can be said about serotonin?",
+        "paragraphNumber": 1,
+        "options": [
+          "It tells the brain when a person is full.",
+          "It is a chemical that increases appetites.",
+          "Only certain people produce it in their brains.",
+          "It neurotransmits carbohydrates to the brain."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author suggests that it might be good for extremely overweight people wanting to lose weight to do all of the following EXCEPT"
+      },
+      {
+        "id": "T1R35",
+        "number": 35,
+        "type": "RClickWordAntonym",
+        "text": "Look at the word <B>strenuous</B> in the passage. Click on the word or phrase in the <B>bold</B> text that is OPPOSITE in meaning to the word <B>strenuous</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "sedentary",
+          "vigorous",
+          "strenuous",
+          "moderate"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, 'strenuous' means vigorous or demanding. An activity that is 'sedentary' involves little physical effort."
+      },
+      {
+        "id": "T1R36",
+        "number": 36,
+        "type": "RMCSimple",
+        "text": "The author suggests that it might be good for extremely overweight people wanting to lose weight to do all of the following EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "jog fifteen miles daily and look at pictures of food",
+          "walk up stairs instead of using the elevator",
+          "eood for extremely overweight people wanting to lose weight to do all of the following EXCEPT",
+          "ead of using the elevator"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "avoid stressful situations and eat spicy foods"
+      },
+      {
+        "id": "T1R37",
+        "number": 37,
+        "type": "RMCSimple",
+        "text": "Which of the following exercises might be best for an overweight person to engage in daily?",
+        "paragraphNumber": 1,
+        "options": [
+          "A stroll",
+          "A long swim",
+          "Cross-country skiing",
+          "A 10-mile bicycle ride"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "the batsses a nutritional substance that reduces hunger."
+      },
+      {
+        "id": "T1R38",
+        "number": 38,
+        "type": "RClickParagraph",
+        "text": "Click on the paragraph in which the author discusses a nutritional substance that reduces hunger.<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author discusses a nutritional substance that reduces hunger."
+      },
+      {
+        "id": "T1R39",
+        "number": 39,
+        "type": "RMCSimple",
+        "text": "The passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "the bat",
+          "the defeat of the Confederate army in the American Civil War",
+          "the attack known as Pickett's Charge, when General Lee invaded the North",
+          "the skillful deployment of Union forces at the battle of Gettysburg"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "armoredve positions along Cemetery Ridge."
+      },
+      {
+        "id": "T1R40",
+        "number": 40,
+        "type": "RMCSynonymWord",
+        "text": "The word Reinforcements in paragraph 2 is closest in meaning to",
+        "paragraphNumber": 2,
+        "options": [
+          "additional troops",
+          "subsidiary branches",
+          "armoredve positions along Cemetery Ridge.",
+          "RAddSentenceToParagraph"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 3,
+        "feedback": "\"The Union forces\" formed defensive positions along Cemetery Ridge."
+      },
+      {
+        "id": "T1R41",
+        "number": 41,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>they</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>they</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "They",
+          "formed",
+          "defensive",
+          "positions"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"The Union forces\" formed defensive positions along Cemetery Ridge."
+      },
+      {
+        "id": "T1R42",
+        "number": 42,
+        "type": "RAddSentenceToParagraph",
+        "text": "Throughout the",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "\"The Union forces\" formed defensive positions along Cemetery Ridge."
+      },
+      {
+        "id": "T1R43",
+        "number": 43,
+        "type": "RClickSentence",
+        "text": "in which the author mentions a Confederate success.",
+        "paragraphNumber": 1,
+        "options": [
+          "Confederate",
+          "under",
+          "command",
+          "General"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author mentions a Confederate success."
+      },
+      {
+        "id": "T1R44",
+        "number": 44,
+        "type": "RMCSynonymWord",
+        "text": "The word \"stormed\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "attacked",
+          "avoided",
+          "dislodged",
+          "diverted"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When people \"sustain\" something, such as a number of casualties, they \"suffer\" or endure it."
+      },
+      {
+        "id": "T1R45",
+        "number": 45,
+        "type": "RMCSynonymWord",
+        "text": "The word \"sustained\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "attacked",
+          "avoided",
+          "dislodged",
+          "diverted"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author mentions the poor visibility in paragraph 4 to help explain why"
+      },
+      {
+        "id": "T1R46",
+        "number": 46,
+        "type": "RMCOther",
+        "text": "The author mentions the poor visibility in paragraph 4 to help explain why",
+        "paragraphNumber": 4,
+        "options": [
+          "the attack failed to attain its objectives",
+          "the men charged across the open land",
+          "the Union lines sustained a large number of casualties",
+          "General Lee withdrew his troops to safer territory"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What does the author mean by saying Gettysburg was a decisive turning point in the Civil War?"
+      },
+      {
+        "id": "T1R47",
+        "number": 47,
+        "type": "RMCSimple",
+        "text": "What does the author mean by saying Gettysburg was a decisive turning point in the Civil War?",
+        "paragraphNumber": 1,
+        "options": [
+          "It was because of events at Gettysburg that the Union was eventually victorious.",
+          "It was at Gettysburg that the Union troops forced the Confederates to flee to the South.",
+          "It was the battburg that the Union was eventually victorious.",
+          "It was at Gettysburg that the Union troops forced the Confederates to flee to the South."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The Confederates' failure to invade the North was the point in the war that decided the outcome in the Union's favor."
+      },
+      {
+        "id": "T1R48",
+        "number": 48,
+        "type": "RMCSimple",
+        "text": "The author discusses all of the following tactics EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "the importance of espionage in determining position",
+          "the defensive positions taken by the troops",
+          "a courageous charge across open ground",
+          "a bombardment concentrated on the Union's forces"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "From which direction did Pickett's Charge originate?"
+      },
+      {
+        "id": "T1R49",
+        "number": 49,
+        "type": "RMCSimple",
+        "text": "From which direction did Pickett's Charge originate?",
+        "paragraphNumber": 1,
+        "options": [
+          "Northwest",
+          "Northeast",
+          "Southeast",
+          "Southwest"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, the battle at Gettysburg was"
+      },
+      {
+        "id": "T1R50",
+        "number": 50,
+        "type": "RMCSimple",
+        "text": "According to the passage, the battle at Gettysburg was",
+        "paragraphNumber": 1,
+        "options": [
+          "the most important battle in the Civil War",
+          "a huge success for the Union army",
+          "a devastating defeat for Pickett",
+          "General Lee's greatest engagement"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author mention [QText] in paragraph [ParaNumber]?<P>[AnswerSet]<P>Paragraph [ParaNumber] is marked with an arrow (~)."
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T1L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "It was kind of Tom to make the offer.",
+          "Tom's part in the play included mime.",
+          "Tom lifted an iced drink.",
+          "Tom waved his hand as he parted."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L01C.WAV",
+        "questionAudio": "T1L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L01C.png",
+        "transcript": "WOMAN: Tom offered to give us a lift to the University Theater since our car is in the shop.\nMAN: That was a nice gesture on Tom's part.",
+        "feedback": "\"Nice\" means \"kind,\" and a \"gesture\" is something someone does as a courtesy."
+      },
+      {
+        "id": "T1L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "They shared the cost of the gift.",
+          "They shipped her the gift.",
+          "They broke what was in the package.",
+          "They arranged to go away."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L02C.WAV",
+        "questionAudio": "T1L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L02C.png",
+        "transcript": "MAN: What a great retirement present the biology class got for Dr. Winslow! It must have been expensive.\nWOMAN: It was, but we all chipped in for it.",
+        "feedback": "\"Chip in\" means \"to donate a small sum of money or amount of time to help someone.\""
+      },
+      {
+        "id": "T1L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Hardback books cost twice as much as before.",
+          "The cost of hardback books goes up two or three times a year.",
+          "The cost of hardback books has gone up twice in the last three years.",
+          "Two years ago hardback books cost a third as much as now."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L03C.WAV",
+        "questionAudio": "T1L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L03C.png",
+        "transcript": "MAN: I can't believe how much I spT1L03",
+        "feedback": "\"Costs\" refers to \"price,\" \"twice as much\" means the same as \"double,\" and \"in the last three years\" indicates \"three years before now.\""
+      },
+      {
+        "id": "T1L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "It doesn't seem possible to her that they missed the Supreme Court.",
+          "She thinks they didn't go to the Supreme Court.",
+          "She can't believe they went to the Supreme Court.",
+          "Their going to the Supreme Court seems unbelievable."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L04C.WAV",
+        "questionAudio": "T1L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L04C.png",
+        "transcript": "MAN: I suppose Jack told you all about our field trip to the capital with our American government class.\nWOMAN: Yes, he did. And I can't believe you didn't visit the Supreme Court.",
+        "feedback": "\"It doesn't seem possible\" means \"it's hard to believe.\""
+      },
+      {
+        "id": "T1L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "He passed by a narrow margin.",
+          "He was close to a passing mark.",
+          "He will be called into the physics office.",
+          "He shouldn't shout in the hallway."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L05C.WAV",
+        "questionAudio": "T1L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L05C.png",
+        "transcript": "MAN: I got a sixty on the physics exam.\nWOMAN: What a close call!",
+        "feedback": "The expression \"close call\" is used when a person has had a narrow escape; he has just barely managed to pass the"
+      },
+      {
+        "id": "T1L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "It's difficult to explain how to get to his house.",
+          "He doesn't want the woman to visit him.",
+          "It's easy to find his house.",
+          "The woman wouldn't be able to find the parking lot."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L06C.WAV",
+        "questionAudio": "T1L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L06C.png",
+        "transcript": "WOMAN: Can you explain to me how to get to your house?\nMAN: It's better if I meet you in the parking lot in front of the Student Activities Center and lead you there.",
+        "feedback": "The man's wanting to meet the woman at a well-known place (the Student Activities Center) and lead her to his house suggests that it is difficult to explain how to get to his house."
+      },
+      {
+        "id": "T1L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the woman say about Scott?",
+        "options": [
+          "He began writing his dissertation more than five years ago.",
+          "He finished working on his dissertation more than five years ago.",
+          "He has taken less than five years to write his dissertation.",
+          "He will be writing his dissertation for at least five more years."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L07C.WAV",
+        "questionAudio": "T1L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L07C.png",
+        "transcript": "MAN: How long has Scott been writing his dissertation - five years?\nWOMAN: At least that long.",
+        "feedback": "When the man asks, \"How long?\" the woman replies, \"At least that long\" - meaning five years or more."
+      },
+      {
+        "id": "T1L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What do|es the woman mean?",
+        "options": [
+          "They should ask for directions.",
+          "They need to buy some gasoline.",
+          "They need to check their headlights and taillights.",
+          "They should pull off the road."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L08C.WAV",
+        "questionAudio": "T1L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L08C.png",
+        "transcript": "MAN: I can't make heads or tails of this map.\nWOMAN: Let's pull into the next gas station.",
+        "feedback": "The woman is responding to the man's inability to read the map by suggesting that they pull into a gas station. It can be inferred that this is to ask for directions."
+      },
+      {
+        "id": "T1L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "She's on her way to exercise.",
+          "She needs to get a haircut.",
+          "She's going to visit Barbara.",
+          "She wants to see Jim."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L09C.WAV",
+        "questionAudio": "T1L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L09C.png",
+        "transcript": "MAN: Where are you headed, Barbara?\nWOMAN: To the gym.",
+        "feedback": "A gym is a place to get exercise. Since Barbara is going to the gym, she's probably going to work out."
+      },
+      {
+        "id": "T1L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She is surprised he took so long to finish.",
+          "She is surprised he didn't finish.",
+          "She is surprised the exam was so easy.",
+          "She is surprised the exam took hardly any time at all."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L10C.WAV",
+        "questionAudio": "T1L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L10C.png",
+        "transcript": "MAN: I hardly had time to finish the exam.\nWOMAN: Really? I finished in no time.",
+        "feedback": "The woman is surprised"
+      },
+      {
+        "id": "T1L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the woman imply the man should do?",
+        "options": [
+          "Pick up a map from the information desk",
+          "Ask about bus routes at the information desk",
+          "Refer to the map at the bus station",
+          "Map out the routes in the Student Union"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L11C.WAV",
+        "questionAudio": "T1L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L11C.png",
+        "transcript": "MAN: Do you know which bus goes out to Rocky Heights?\nWOMAN: There are maps of bus routes at the information desk in the Student Union.",
+        "feedback": "The woman's saying that there are maps of bus routes at the information desk indicates that he should get one there."
+      },
+      {
+        "id": "T1L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "Her sister cut her hair.",
+          "Her sister works at home.",
+          "Her sister will cut his hair.",
+          "Her sister needs more practice."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L12C.WAV",
+        "questionAudio": "T1L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L12C.png",
+        "transcript": "MAN: Hey, I like your haircut. Where did you have it done?\nWOMAN: At home. My sister wanted to get some practice.",
+        "feedback": "The woman's saying that her sister wanted some practice implies that she let her sister cut her hair."
+      },
+      {
+        "id": "T1L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She's upset with Jill about not giving her notes back.",
+          "She wants to gi#ve Jill another piece of information.",
+          "She's thinking about binding her notes.",
+          "She wouldn't mind going to see Jill about the notes."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L13C.WAV",
+        "questionAudio": "T1L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L13C.png",
+        "transcript": "MAN: Did Jill return your notes last night?\nWOMAN: No. And when I see her, I'm going to give her a piece of my mind.",
+        "feedback": "The expression \"give a piece of one's mind\" means \"let someone know that one is angry about something that person has done.\""
+      },
+      {
+        "id": "T1L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He thinks Sue's ideas are impractical.",
+          "He's heard about Sue's great ideas.",
+          "He agrees with Sue's ideas for the project.",
+          "He finds some of Sue's ideas agreeable."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L14C.WAV",
+        "questionAudio": "T1L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L14C.png",
+        "transcript": "WOMAN: Sue's ideas for her research project sound great, don't you agree?\nMAN: I think they're somewhat overambitious.",
+        "feedback": "In the man's opinion, Sue's ideas are too ambitious to put into action."
+      },
+      {
+        "id": "T1L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She can't believe that Bob has already completed his work.",
+          "She knows that Bob won't be able to go back to the library.",
+          "She doesn't know that Bob didn't finish the assignment.",
+          "She's certain that Bob shouldn't have gone back to the library."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L15C.WAV",
+        "questionAudio": "T1L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L15C.png",
+        "transcript": "MAN: Bob's back from the library.\nWOMAN: He couldn't have finished that assignment already.",
+        "feedback": "\"Couldn't have\" ind"
+      },
+      {
+        "id": "T1L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What can be inferred about the woman?",
+        "options": [
+          "She probably has to commute to the university campus frequently.",
+          "She would probably rather walk to the university than take the bus.",
+          "She is probably very studious and wants to be far away from campus life.",
+          "She would probably like to commute to Los Altos from a quiet suburb."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L16C.WAV",
+        "questionAudio": "T1L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L16C.png",
+        "transcript": "MAN: What kind of house are you looking for?\nWOMAN: We'd like a small one in a quiet suburb that's within commuting distance of the university.\nMAN: The Los Altos district is quiet, and it's a five-minute walk to a bus route that passes directly by the main campus.",
+        "feedback": "The woman's desire for a place that is within commuting distance of the university indicates that she needs to go there often."
+      },
+      {
+        "id": "T1L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He didn't know what to say when Dan accused him.",
+          "Dan's leave-taking surprised him.",
+          "It wasn't true that Dan asked him to make a speech.",
+          "He was amazed at the way Dan defended him."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L17C.WAV",
+        "questionAudio": "T1L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L17C.png",
+        "transcript": "WOMAN: I was surprised that you didn't say anything in your defense.\nMAN: I should have.\nWOMAN: Well, why didn't you? You had the chance.\nMAN: It's just that Dan's accusations left me speechless.",
+        "feedback": "To be \"left speechless\" means to be \"unable to say anything in response.\" He was unable to speak because he was shocked by the accusations (charges that someone had done something wrong)."
+      },
+      {
+        "id": "T1L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The man could get good information about bicycles from Ted.",
+          "Ted could set up a good deal for the man.",
+          "The man should consider driving a bus.",
+          "Ted would be interested in buying the man's car."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T1L18C.WAV",
+        "questionAudio": "T1L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T1L18C.png",
+        "transcript": "MAN: Parking on campus is really difficult. I think I'm going to sell my car and get a bicycle.\nWOMAN: Why not take the bus? The service here is very good.\nMAN: It's not that good. Besides, riding bicycles is healthy, and they're cheap and easy to maintain.\nWOMAN: If you're going to get a bike, talk to Ted first. He's very knowledgeable about them.",
+        "feedback": "The woman is suggesting that the man get Ted's advice when buying a bicycle because Ted knows a lot about bicycles."
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T1L19-21",
+        "startQuestion": 19,
+        "endQuestion": 21,
+        "fullAudio": "T1L19-21.WAV",
+        "audioClips": [
+          "T1L19-21.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L19-21C.png",
+        "transcript": "MAN: I need to buy Phil something for his birthday.\nWOMAN: I'm going downtown to Opick up my new contact lenses. Would you like a ride?\nMAN: What time would you be going?\nWOMAN: About one o'clock.\nMAN: I have a fencing class then.\nWOMAN: I can wait until later if you'd like.\nMAN: Can you? That would be great. I get out of class at 1:50, but I'll have to shower afterwards. Would 2:30 be too late?\nWOMAN: No problem. Shall I pick you up in front of the gym?\nMAN: There's really no place to park there, and if I'm a little late, that could cause you problems. How about meeting me in the student parking lot behind the gym? I know it's a bit out of the way because of that one-way street, but it might be the safer bet.\nWOMAN: That's fine. I'd rather drive a bit more than get a traffic ticket. They're really strict around here. So, I'll meet you about 2:30 in the student parking lot. See you later.",
+        "questions": [
+          {
+            "id": "T1L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "What is the main topic of the conversation?",
+            "questionAudio": "T1L19Q.WAV",
+            "options": [
+              "The time and place to meet",
+              "The birthday gift for Phil",
+              "The man's fencing class",
+              "The best place to park"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The conversation is mainly about arrangements for a time and place to meet so that the woman can give the man a ride downtown."
+          },
+          {
+            "id": "T1L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "Why does the woman want to go downtown?",
+            "questionAudio": "T1L20Q.WAV",
+            "options": [
+              "She needs to pick up her new contact lenses.",
+              "She has to pay a fine for a traffic ticket.",
+              "She wants to help the man buy a present.",
+              "She wants to buy a present for Phil."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman states that she is going downtown to pick up her new contact lenses."
+          },
+          {
+            "id": "T1L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "Where are the people going to meet?",
+            "questionAudio": "T1L21Q.WAV",
+            "options": [
+              "In the student parking lot",
+              "In front of the gym building",
+              "On the one-way street",
+              "In the fencing class"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Although the woman suggests meeting in front of the gym, the man convinces her that the student parking lot is the best place to meet."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L22-24",
+        "startQuestion": 22,
+        "endQuestion": 24,
+        "fullAudio": "T1L22-24.WAV",
+        "audioClips": [
+          "T1L22-24.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L22-24C.png",
+        "transcript": "WOMAN: I wasn't able to meet Dr. Reed's deadline for that report.\nMAN: Have you been to see her about it?\nWOMAN: Yes, I spoke to her yesterday.\nMAN: Did she give you an extension?\nWOMAN: No, she didn't, unfortunately, but she did give me some ideas on how to organize my material better so I'll be able to make the deadline for the next assignment.\nMAN: I could use some advice on how to do that.\nWOMAN: I can't remember all she said, but I jotted down the main points. I can make a copy for you.\nMAN: Could you? I'd really appreciate that.\nWOMAN: I'll give it to you tomorrow before class.\nMAN: Thanks. See you tomorrow, then.",
+        "questions": [
+          {
+            "id": "T1L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What happened to the woman?",
+            "questionAudio": "T1L22Q.WAV",
+            "options": [
+              "She didn't complete her assignment.",
+              "She reported to Dr. Reed.",
+              "She waited in line to meet Dr. Reed.",
+              "She got an extension."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman says that she was unable to meet the deadline for her re"
+          },
+          {
+            "id": "T1L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "What did Dr. Reed give the woman?",
+            "questionAudio": "T1L23Q.WAV",
+            "options": [
+              "Some organizational tips",
+              "A new deadline",
+              "Some ideas for the report",
+              "A different assignment"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman says that Dr. Reed gave her some ideas (tips) on how to organize her material."
+          },
+          {
+            "id": "T1L24",
+            "number": 24,
+            "type": "LMC",
+            "text": "What does the man want?",
+            "questionAudio": "T1L24Q.WAV",
+            "options": [
+              "Advice on organizing his material",
+              "The due dates for future reports",
+              "The main points of the assignment",
+              "A copy of the assignment"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man says he needs advice on that (organizing his material better), and the woman says she'll make a copy for him of the main points of what Dr. Reed said."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L25-29",
+        "startQuestion": 25,
+        "endQuestion": 29,
+        "fullAudio": "T1L25-29.WAV",
+        "audioClips": [
+          "T1L25-29.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L25-29C.png",
+        "transcript": "WOMAN: What are your plans for the summer?\nMAN: I'm going to attend summer classes.\nWOMAN: Summer classes? You're kidding. Aren't you burned out by the end of the term? Don't you need a holiday?\nMAN: Not really. I don't carry a heavy class load during the year so I can hold down a part-time job. Then I take a summer class or two that I really enjoy to make up for it.\nWOMAN: That sounds like a good idea, but I don't think Iapping the strata. Then we'll return to campus to do lab work on our finds.\nWOMAN: That sounds fascinating. Why don't they offer it during the academic year?\nMAN: Unfortunately, the department can't hold classes like these during the year because students are taking so many classes at the same time, they can't manage the field trips. Also, the weather in the fall and spring can be unpredictable. It would be hard to do the fieldwork in a snowstorm.\nWOMAN: Well, that's true. What other classes have you taken during the summer sessions?\nMAN: Well, I got university credit for digging on an archaeological site last year.\nWOMAN: Oh? Where did you dig?\nMAN: In Colorado. It was a buffalo-kill site. You know, one where the early Americans drove the animals off a cliff.\nWOMAN: Did you find anything of interest?\nMAN: Lots of broken stone tools used for butchering the buffalo.\nWOMAN: You must have had a great time. I think I might consider taking some summer classes.",
+        "questions": [
+          {
+            "id": "T1L25",
+            "number": 25,
+            "type": "LMC",
+            "text": "What is the man going to do during the summer?",
+            "questionAudio": "T1L25Q.WAV",
+            "options": [
+              "Attend classes",
+              "Hold down a part-time job",
+              "Dig on an archaeological site",
+              "Go camping in Colorado"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man tells the woman that he's signing up for a class."
+          },
+          {
+            "id": "T1L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "What is NOT done at Copper Mountain?",
+            "questionAudio": "T1L26Q.WAV",
+            "options": [
+              "Laboratory analysis",
+              "Fieldwork",
+              "Fossil collecting",
+              "Mapping strata"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man states that they'll return to campus to do the lab work."
+          },
+          {
+            "id": "T1L27",
+            "number": 27,
+            "type": "LTwo",
+            "text": "According to the man, why can't some of the summer classes be held during the academic year?",
+            "questionAudio": "T1L27Q.WAV",
+            "options": [
+              "Because field trips would keep students away from regular classes",
+              "Because weather conditions can make it difficult to work",
+              "Because professors are too busy to help students",
+              "Because too many students are Kinterested in taking them"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man states that these courses can't be held during the academic year because students would miss too many of their other classes while away from campus for extended periods of time. He also states that unpredictable storms in spring and fall could make it difficult to do the fieldwork."
+          },
+          {
+            "id": "T1L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "What objects might be found at a buffalo-kill site?",
+            "questionAudio": "T1L28Q.WAV",
+            "options": [
+              "Buffalo bones and flint knives",
+              "Buffalo meat being dried",
+              "Buffalo skins and rifles",
+              "Buffalo herds grazing near cliffs"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Buffalo bones and flint knives would not deteriorate over time and, therefore, would be the most likely to be found at a site."
+          },
+          {
+            "id": "T1L29",
+            "number": 29,
+            "type": "LMC",
+            "text": "What does the man imply about summer classes?",
+            "questionAudio": "T1L29Q.WAV",
+            "options": [
+              "They're more interesting than regular classes.",
+              "They're more work than regular classes.",
+              "They're more challenging than regular classes.",
+              "They're more expensive than regular cla"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man's enthusiastic descriptions of the classes indicate that he thinks they are more interesting."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L30-34",
+        "startQuestion": 30,
+        "endQuestion": 34,
+        "fullAudio": "T1L30-34.WAV",
+        "audioClips": [
+          "T1L30-34.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L30-34C.png",
+        "transcript": "WOMAN: Did you hear on the news last night that a Rembrandt has just been returned to our city museum after being out on unauthorized loan for three years?\nMAN: Yes, Dr. Matson. I saw the news last night and was wondering why that particular painting was stolen when there are so many valuable items in the museum.\nWOMAN: Actually, that Rembrandt is favored by thieves. It's been taken four times in the last twenty years. The museum curators believe it may have something to do with its size - 9 by 11 inches.\nMAN: That would make it easier to steal and hide, wouldn't it? How valuable is the painting?\nWOMAN: Well, it's been appraised at five million dollars, but I don't know what a thief can sell it for.\nMAN: The painting is quite well known, isn't it? It seems that no one would want a stolen painting that's so easily recognized.\nWOMAN: It seems that way, but the museum has had to take extra security precautions because of its popularity with thieves.",
+        "questions": [
+          {
+            "id": "T1L30",
+            "number": 30,
+            "type": "LMC",
+            "text": "What are the people discussing?",
+            "questionAudio": "T1L30Q.WAV",
+            "options": [
+              "A painting that thieves favor",
+              "A popularople discussing?",
+              "L26-L29",
+              "L26-L29"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": ""
+          },
+          {
+            "id": "T1L31",
+            "number": 31,
+            "type": "LMC",
+            "text": "How long had the painting been missing?",
+            "questionAudio": "T1L31Q.WAV",
+            "options": [
+              "For 3 years",
+              "For 5 years",
+              "For 4 years",
+              "For 20 years"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor says the painting has been \"out on unauthorized loan for three years.\" \"Unauthorized loan\" is a humorous way of saying it was stolen."
+          },
+          {
+            "id": "T1L32",
+            "number": 32,
+            "type": "LMC",
+            "text": "What reason is given for the painting's popularity among thieves?",
+            "questionAudio": "T1L32Q.WAV",
+            "options": [
+              "It's 9 by 11 inches.",
+              "It's a Rembrandt.",
+              "It's worth $5 million.",
+              "It's easily recognized."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Its small size makes it easy to conceal and take out of the museum."
+          },
+          {
+            "id": "T1L33",
+            "number": 33,
+            "type": "LMC",
+            "text": "What is the professor uncertain about?",
+            "questionAudio": "T1L33Q.WAV",
+            "options": [
+              "How much a stolen painting sells for",
+              "How thieves can steal the painting",
+              "How many times the painting has been taken",
+              "Why someone would buy a painting"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor says that the painting is appraised at $5 million, but she doesn't know what a thief can sell it for."
+          },
+          {
+            "id": "T1L34",
+            "number": 34,
+            "type": "LPictureHorizontal",
+            "text": "Select the work of art below that thieves would be attracted to.",
+            "questionAudio": "T1L34Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T1L34Q1.png",
+              "assets/images/cambridge/T1L34Q2.png",
+              "assets/images/cambridge/T1L34Q3.png",
+              "assets/images/cambridge/T1L34Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It can be inferred that the small size of a vase would make it easier to steal than the other objects."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L35-39",
+        "startQuestion": 35,
+        "endQuestion": 39,
+        "fullAudio": "T1L35-39.WAV",
+        "audioClips": [
+          "T1L35-39.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L35-39C.png",
+        "transcript": "Although we don't think of ourselves as migratory in the way we do of other animal species, people have always been on the move. A few hundred thousand years ago, humans migrated from the savannahs of Africa and spread rapidly into present-day Europe and Asia. This migration coincided with successive cycles o)Qx\t&AT1L40-45Today I want to discuss the life of the writer Jack London. London was born in San Francisco in 1876. His mother was married to a disabled Civil War veteran called John London. The family moved around a lot when Jack was young and eventually settled in the city of Oakland.\nAs a very young man, Jack wo*yÉ&ËöT1L30-34WOMAN: Did you hear on the news last night that a Rembrandt has just been returned to our city museum after being out on unauthorized loan for three years?\nMAN: Yes, Dr. Matson. I saw the news last night and was wondering why that particular painting was stolen when there are so many valuable items in the museum.\nWOMAN: Actually, that Rembrandt is favored by thieves. It's been taken four times in the last twenty years. The museum curators believe it may have something to do with its size - 9 by 11 inches.\nMAN: That would make it easier to steal and hide, wouldn't it? How valuable is the painting?\nWOMAN: Well, it's been appraised at five million dollars, but I don't know what a thief can sell it for.\nMAN: The painting is quite well known, isn't it? It seems that no one would want a stolen painting that's so easily recognized.\nWOMAN: It seems that way, but the museum has had to take extra security precautions because of its popularity with thieves.",
+        "questions": [
+          {
+            "id": "T1L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "What is the purpose of the talk?",
+            "questionAudio": "T1L35Q.WAV",
+            "options": [
+              "To outline the history of human migration",
+              "To show how North America was settled",
+              "To explain why humans started leaving Africa",
+              "To examine the causes of population movement"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The talk briefly describes patterns of human migration throughout history."
+          },
+          {
+            "id": "T1L36",
+            "number": 36,
+            "type": "LMC",
+            "text": "How did people survive the Ice Age in northern Europe and Asia?",
+            "questionAudio": "T1L36Q.WAV",
+            "options": [
+              "They made shelter, clothes, and fire.",
+              "They moved south to avoid the cold.",
+              "They took over unused land.",
+              "They hunted migrating animals."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that people's abilities to make shelter and clothes and to control fire helped them survive."
+          },
+          {
+            "id": "T1L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "What does the speaker say about the invasion of occupied land by human groups?",
+            "questionAudio": "T1L37Q.WAV",
+            "options": [
+              "It is one form of human migration.",
+              "It was practiced only when there was no free land.",
+              "It occurred mai",
+              "It is not related to human migration."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker explains that human migration involves taking over both unused land and occupied land."
+          },
+          {
+            "id": "T1L38",
+            "number": 38,
+            "type": "LMC",
+            "text": "What does the speaker say about human migration?",
+            "questionAudio": "T1L38Q.WAV",
+            "options": [
+              "It seems to be a basic human instinct.",
+              "It has been done only at certain times in history.",
+              "It was done mainly by early tribal societies.",
+              "It appears to no longer be common."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker ends the talk with the point that migration seems to be a fundamental human instinct."
+          },
+          {
+            "id": "T1L39",
+            "number": 39,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a series of human migrations. Put the migrations in chronological order.",
+            "questionAudio": "T1L39Q.WAV",
+            "options": [
+              "Humans migrated from the savannahs of Africa into Europe and Asia.",
+              "Humans spread through eastern Asia and south to Australia.",
+              "Humans crossed the Bering land bridge and spread throughout the Americas.",
+              "Humans have continued to migrate throughout the world."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First humans left the grasslands of Africa and followed the migration of plants and animals affected by glacial cycles into Europe and Asia. Then they spread to Japan, Indonesia, and Australia. They crossed the Bering land bridge and spread down to the southern tip of South America. Humans continue to migrate."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L40-45",
+        "startQuestion": 40,
+        "endQuestion": 45,
+        "fullAudio": "T1L40-45.WAV",
+        "audioClips": [
+          "T1L40-45.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L40-45C.png",
+        "transcript": "Today I want to discuss the life of the writer Jack London. London was born in San Francisco in 1876. His mother was married to a disabled Civil War veteran called John London. The family moved around a lot when Jack was young and eventually settled in the city of Oakland.\nAs a very young man, Jack wo*yÉ&ËöT1L30-34WOMAN: Did you hear on the news last night that a Rembrandt has just been returned to our city museum after being out on unauthorized loan for three years?\nMAN: Yes, Dr. Matson. I saw the news last night and was wondering why that particular painting was stolen when there are so many valuable items in the museum.\nWOMAN: Actually, that Rembrandt is favored by thieves. It's been taken four times in the last twenty years. The museum curators believe it may have something to do with its size - 9 by 11 inches.\nMAN: That would make it easier to steal and hide, wouldn't it? How valuable is the painting?\nWOMAN: Well, it's been appraised at five million dollars, but I don't know what a thief can sell it for.\nMAN: The painting is quite well known, isn't it? It seems that no one would want a stolen painting that's so easily recognized.\nWOMAN: It seems that way, but the museum has had to take extra security precautions because of its popularity with thieves.",
+        "questions": [
+          {
+            "id": "T1L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "What is the main topic of the professor's discussion?",
+            "questionAudio": "T1L40Q.WAV",
+            "options": [
+              "Jack London's life",
+              "Jack London's family",
+              "Jack London's works",
+              "Jack London's politics"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "London's works, family, and politics are all aspects of his life."
+          },
+          {
+            "id": "T1L41",
+            "number": 41,
+            "type": "LMC",
+            "text": "Why did London become a writer?",
+            "questionAudio": "T1L41Q.WAV",
+            "options": [
+              "To avoid working in a factory",
+              "To cover the costs of his kidney illness",
+              "Because he was an avid reader",
+              "Because of his failure in becoming a political leader"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states London chose the life of a writer to escape the prospect of becoming a factory worker."
+          },
+          {
+            "id": "T1L42",
+            "number": 42,
+            "type": "LTwo",
+            "text": "According to the professor, where did London get his ideas for his publications?",
+            "questionAudio": "T1L42Q.WAV",
+            "options": [
+              "He created stories from his imagination.",
+              "He used material from his own experiences.",
+              "He retold stories written by other authors.",
+              "He told the stories of people he met when he was a factory worker."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that London's adventurous life gave him the material to create imaginative literature."
+          },
+          {
+            "id": "T1L43",
+            "number": 43,
+            "type": "LMC",
+            "text": "Why does the professor mention London's novel <I>The Call of the Wild</I>?",
+            "questionAudio": "T1L43Q.WAV",
+            "options": [
+              "To name the work that brought London fame",
+              "To give an example of London's diverse experiences",
+              "To give an example of London's disciplined approach to writing",
+              "To name a work that showed London's anticapitalist ideas"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor names this novel as the one that brought London lasting fame."
+          },
+          {
+            "id": "T1L44",
+            "number": 44,
+            "type": "LTwo",
+            "text": "According to the professor, in what ways was London inconsistent and self-contradictory?",
+            "questionAudio": "T1L44Q.WAV",
+            "options": [
+              "In his support for socialism",
+              "In his support for women's rights",
+              "In his innovative ideas",
+              "In his support for the prohibition of alcohol"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that London's support for socialism was offset by his belief in individualism, and that although he supported"
+          },
+          {
+            "id": "T1L45",
+            "number": 45,
+            "type": "LOrdering",
+            "text": "The professor describes London's life chronologically. Summarize his life by putting the events in order.",
+            "questionAudio": "T1L45Q.WAV",
+            "options": [
+              "London's family settled in Oakland after having moved around.",
+              "London's working life as a young man was very diverse.",
+              "London worked at becoming a successful writer.",
+              "London introduced practical innovations on his ranch."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "London's family moved to Oakland when he was young. He then held a variety of jobs. He decided to become a writer rather than do factory work. He got into ranching towards the end of his life."
+          }
+        ]
+      },
+      {
+        "groupId": "T1L46-50",
+        "startQuestion": 46,
+        "endQuestion": 50,
+        "fullAudio": "T1L46-50.WAV",
+        "audioClips": [
+          "T1L46-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T1L46-50C.png",
+        "transcript": "Some of you may have heard of the Lost Colony, the first English settlement on the North American continent, established in 1585 on Roanoke Island in what is now North Carolina.\nThe original settlers found the island swampy and inhospitable, and relations with the nearby Native Americans soon deteriorated. In June 1586, the original colonists, fearful and hungry, returned to England on some ships that were passing their settlement. Then, just three weeks later, ships sent from England and loaded with supplies arrived. Upon finding the colonists gone, the captain left fifteen men to hold the fort and left again for England.\nA second group of colonists arrived in 1587 only to find that the holding force had been killed. The leader of this new group, aware that his settlers needed assistance and more supplies, sailed again to England, but his return voyage was delayed due to war between England and Spain. When relief vessels finally got back to Roanoke in 1590,",
+        "questions": [
+          {
+            "id": "T1L46",
+            "number": 46,
+            "type": "LMC",
+            "text": "What is the lecture mainly about?",
+            "questionAudio": "T1L46Q.WAV",
+            "options": [
+              "The events surrounding the Roanoke mystery",
+              "Scholars' claims about the Lost Colony",
+              "The return of the original Roanoke colonists",
+              "Theories of the Roanoke episode"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor starts the talk with an explanation of the origina"
+          },
+          {
+            "id": "T1L47",
+            "number": 47,
+            "type": "LTwo",
+            "text": "According to the professor, what did the people on the relief vessels find in Roanoke?",
+            "questionAudio": "T1L47Q.WAV",
+            "options": [
+              "An abandoned fort",
+              "A mysterious clue",
+              "The 100 new pioneers",
+              "Cut-down entrance posts to the fort"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the fort was abandoned without a trace except for one clue - the word \"Croatoan\" was scratched onto an entrance post."
+          },
+          {
+            "id": "T1L48",
+            "number": 48,
+            "type": "LMC",
+            "text": "Which of the following may explain what happened to the Roanoke settlers?",
+            "questionAudio": "T1L48Q.WAV",
+            "options": [
+              "They married into the native population.",
+              "They got involved in the war with Spain.",
+              "They returned to England for supplies.",
+              "They moved to a nearby fort."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since descendants of native people claim that these colonists are their ancestors, it is plausible that the colonists married into the native population."
+          },
+          {
+            "id": "T1L49",
+            "number": 49,
+            "type": "LMatchingTextWordorPhrase",
+            "text": "What happened to each of the three groups of people left at Roanoke?",
+            "questionAudio": "T1L49Q.WAV",
+            "options": [
+              "The holding force of fifteen men//were found dead",
+              "The original settlers//returned to England",
+              "The 100 new settlers//disappeared"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the original settlers returned to England with some ships that were passing the settlement. The fifteen men whom the captain left to hold the fort were found dead, and the 100 new settlers disappeared mysteriously."
+          },
+          {
+            "id": "T1L50",
+            "number": 50,
+            "type": "LMC",
+            "text": "Why does the professor refer to Roanoke as an enigmatic episode in early American history?",
+            "questionAudio": "T1L50Q.WAV",
+            "options": [
+              "Because what happened to the settlers is a mystery",
+              "Because Roanoke had been abandoned",
+              "Because the story is fascinating for history students",
+              "Because there was not a trace of the settlers on the island of Croatoan"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The disappearance of the settlement is a mystery. The word \"enigmatic\" is a synonym for \"mysterious."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "Do you agree or disagree with the following statement?<P><I>Childhood is the happiest time of a person's life.</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "Do you agree or disagree with the following statement?<P><I>Childhood is the happiest time of a person's life.</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

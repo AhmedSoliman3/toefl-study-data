@@ -1,0 +1,2443 @@
+{
+  "testNumber": 2,
+  "title": "Cambridge Practice Test 2",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 2 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T2S01",
+      "number": 1,
+      "type": "SComplete",
+      "text": "Deep in the Rio Bec area of Mexico's Yucatan Peninsula <_>.",
+      "options": [
+        "lies a 1,250-year-old pyramid",
+        "does a 1,250-year-old pyramid lie",
+        "a 1,250-year-old pyramid lie",
+        "is a 1,250-year-old pyramid lying"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "Deep in the Rio Bec area of Mexico's Yucatan Peninsula lies a 1,250-year-old pyramid.",
+      "feedback": "does a 1,250-year-old pyramid lie"
+    },
+    {
+      "id": "T2S02",
+      "number": 2,
+      "type": "SIdentify",
+      "text": "Motoring authorities <U1>credit</U1> mandatory seat-belt laws for the <U2>reduces</U2> <U3>in</U3> traffic <U4>fatalities</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42",
+      "correctedSentence": "Motoring authorities credit mandatory seat-belt laws for the reduction in traffic fatalities.",
+      "feedback": "Motoring authorities credit mandatory seat-belt laws for the reduction in traffic fatalities."
+    },
+    {
+      "id": "T2S03",
+      "number": 3,
+      "type": "SComplete",
+      "text": "The Pacific Crest Trail is America's <_>.",
+      "options": [
+        "longest footpath",
+        "the long footpath",
+        "footpath the longest one",
+        "the longest footpath"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S1-S5 and S82-S87",
+      "correctedSentence": "The Pacific Crest Trail is America's longest footpath.",
+      "feedback": "After a possessive noun, the superlative form of the adjective, \"longest,\" is not preceded by \"the.\""
+    },
+    {
+      "id": "T2S04",
+      "number": 4,
+      "type": "SIdentify",
+      "text": "Vancouver, British Columbia, <U1>was named</U1> <U2>after</U2> the man <U3>which</U3> explored the <U4>area</U4> in 1792.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66",
+      "correctedSentence": "Vancouver, British Columbia, was named after the man who explored the area in 1792.",
+      "feedback": "Vancouver, British Columbia, was named after the man who explored the area in 1792."
+    },
+    {
+      "id": "T2S05",
+      "number": 5,
+      "type": "SComplete",
+      "text": "<_> almost every major city in the world.",
+      "options": [
+        "Air pollution now afflicts",
+        "Air pollution that now afflicts",
+        "Not only does air pollution now afflict",
+        "Air pollution what now afflicts"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "Air pollution now afflicts almost every major city in the world.",
+      "feedback": "Air pollution that now afflicts"
+    },
+    {
+      "id": "T2S06",
+      "number": 6,
+      "type": "SIdentify",
+      "text": "Belgian chocolate is <U1>considered</U1> by <U2>many</U2> to be <U3>more</U3> finer than any <U4>other</U4> in the world.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S82-S87",
+      "correctedSentence": "Belgian chocolate is considered by many to be finer than any other in the world.",
+      "feedback": "Belgian chocolate is considered by many to be finer than any other in the world."
+    },
+    {
+      "id": "T2S07",
+      "number": 7,
+      "type": "SComplete",
+      "text": "Today, \"carpet\" refers to floor coverings that reach from wall to w!all, <_> \"rug\" refers to a piece of material that covers only one section of the floor.",
+      "options": [
+        "whereas",
+        "therefore",
+        "in as much as",
+        "among"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S72-S76",
+      "correctedSentence": "Today, \"carpet\" refers to floor coverings that reach from wall to w!all, whereas \"rug\" refers to a piece of material that covers only one section of the floor.",
+      "feedback": "The clause marker \"whereas,\" indicating a contrast between \"carpet\" and \"rug,\" is needed to complete the sentence."
+    },
+    {
+      "id": "T2S08",
+      "number": 8,
+      "type": "SIdentify",
+      "text": "It <U1>is well-known</U1> fact <U2>that</U2> camels can <U3>go</U3> for extended periods <U4>without</U4> water.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S6-S10",
+      "correctedSentence": "It is a well-known fact that camels can go for extended periods without water.",
+      "feedback": "It is a well-known fact that camels can go for extended periods without water."
+    },
+    {
+      "id": "T2S09",
+      "number": 9,
+      "type": "SComplete",
+      "text": "The triple function of Bodiam Castle's moat was to be defensive, to be decorative, and <_>.",
+      "options": [
+        "to double the impression of impregnability",
+        "to be double the impression of impregnability",
+        "double the impression of impregnability",
+        "for doubling the impression of impregnability"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S88-S90",
+      "correctedSentence": "The triple function of Bodiam Castle's moat was to be defensive, to be decorative, and to double the impression of impregnability.",
+      "feedback": "to be double the impression of impregnability"
+    },
+    {
+      "id": "T2S10",
+      "number": 10,
+      "type": "SIdentify",
+      "text": "The artists John Constable and Thomas Gainsborough <U1>were born</U1> <U2>at</U2> a <U3>few</U3> miles of each <U4>other</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S91-S94",
+      "correctedSentence": "The artists John Constable and Thomas Gainsborough were born within a few miles of each other.",
+      "feedback": "The preposition \"at\" indicates a specific place. Its use here is illogical because there are two places. \"Within\" is the correct preposition and indicates being inside a certain area."
+    },
+    {
+      "id": "T2S11",
+      "number": 11,
+      "type": "SComplete",
+      "text": "<_> is that a chicken stands up to lay its eggs.",
+      "options": [
+        "What many people don't realize",
+        "Many people don't realize",
+        "It is that many people don't realize",
+        "Because many people don't realize"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S59",
+      "correctedSentence": "What many people don't realize is that a chicken stands up to lay its eggs.",
+      "feedback": "It is that many people don't realize"
+    },
+    {
+      "id": "T2S12",
+      "number": 12,
+      "type": "SIdentify",
+      "text": "Sunlight <U1>can be used</U1> to generate electricity by means of cells <U2>containing</U2> substances that emit electrons <U3>that</U3> bombarded <U4>with</U4> photons.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S77-S80",
+      "correctedSentence": "Sunlight can be used to generate electricity by means of cells containing substances that emit electrons when bombarded with photons.",
+      "feedback": "Sunlight can be used to generate electricity by means of cells containing substances that emit electrons when bombarded with photons."
+    },
+    {
+      "id": "T2S13",
+      "number": 13,
+      "type": "SComplete",
+      "text": "<_> before the stork chick moves even six inches in the nest.",
+      "options": [
+        "It takes just over five months",
+        "Just over five months is",
+        "When just five months are over",
+        "That it takes just over five months"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "It takes just over five months before the stork chick moves even six inches in the nest.",
+      "feedback": "An independent clause that includes a subject, verb, and object is needed to complete this sentence."
+    },
+    {
+      "id": "T2S14",
+      "number": 14,
+      "type": "SIdentify",
+      "text": "<U1>The capital</U1> of Yemen <U2>is</U2> <U3>situating</U3> 2,190 meters <U4>above</U4> sea level.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S2Ï5-S31",
+      "correctedSentence": "The capital of Yemen is situated 2,190 meters above sea level.",
+      "feedback": "The capital cannot perform the action of situating. Therefore, the passive form of the verb \"situated\" is correct."
+    },
+    {
+      "id": "T2S15",
+      "number": 15,
+      "type": "SComplete",
+      "text": "Thor Heyerdahl, <_> from Peru in a frail balsa craft, attempted to prove his theory of South American migration to Polynesia.",
+      "options": [
+        "setting sail",
+        "set sail",
+        "has set sail",
+        "he set sail"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "Thor Heyerdahl, setting sail from Peru in a frail balsa craft, attempted to prove his theory of South American migration to Polynesia.",
+      "feedback": "An -ing verb form, \"setting sail,\" is needed to complete the adjective phrase, which gives more information about the subject, Thor Heyerdahl."
+    },
+    {
+      "id": "T2S16",
+      "number": 16,
+      "type": "SIdentify",
+      "text": "<U1>The</U1> psychological school <U2>of</U2> behaviorism <U3>it</U3> was <U4>founded</U4> by J. B. Watson.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S17-S23",
+      "correctedSentence": "The psychological school of behaviorism was founded by J. B. Watson.",
+      "feedback": "The subject of the sentence is \"school.\" The pronoun \"it\" cannot be used to fill the same subject position."
+    },
+    {
+      "id": "T2S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "but only as a dethroned exile",
+      "options": [
+        "S91-S94",
+        "<BR1>",
+        "<BR1>",
+        "<BR1>"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "not only as a dethroned exile",
+      "correctedSentence": "but only as a dethroned exile",
+      "feedback": "but being only a dethroned exile"
+    },
+    {
+      "id": "T2S18",
+      "number": 18,
+      "type": "SIdentify",
+      "text": "The <U1>discovery</U1> <U2>of</U2> gold in 1849 <U3>brought</U3> California nationwide <U4>attentive</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S37-S42",
+      "correctedSentence": "The discovery of gold in 1849 brought California nationwide attention.",
+      "feedback": "\"Attentive\" is the adjective form; however, the noun form \"attention\" should be used in the object position."
+    },
+    {
+      "id": "T2S19",
+      "number": 19,
+      "type": "SComplete",
+      "text": "Jacob Lawrence is considered by many critics <_>.",
+      "options": [
+        "to be the foremost African-American artistâ",
+        "the foremost African-American artist is",
+        "foremost African-American artist",
+        "is the foremost African-American artist"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "Jacob Lawrence is considered by many critics to be the foremost African-American artistâ.",
+      "feedback": "the foremost African-American artist is"
+    },
+    {
+      "id": "T2S20",
+      "number": 20,
+      "type": "SIdentify",
+      "text": "The Kerma <U1>civilization</U1> was <U2>some</U2> of the <U3>earliest</U3> indigenous African <U4>tribal</U4> groups.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S43-S50",
+      "correctedSentence": "The Kerma civilization was one of the earliest indigenous African tribal groups.",
+      "feedback": "The word \"some\" must be changed to \"one.\" The word \"civilization,\" which agrees with the singular verb \"was,\" indicates that only one civilization is being discussed."
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T2R01-14Plain",
+        "startQuestion": 1,
+        "endQuestion": 14,
+        "text": "One of the foremost American entertainers of the first part of the twentieth century was a part-Cherokee Native American named Will Rogers (1879-1935). Rogers was born in territory that would later become the state of Oklahoma and spent much of his youth riding horses and mastering the use of the lariat. These skills were refined into an entertainment act based on fancy rope tricks interspersed with humorous anecdotes and witty remarks. Traveling widely as a vaudeville entertainer, Rogers had become a star act by 1915 with the Ziegfeld Follies, a famous stage show. In 1918 his stage skills led to a new career as a movie actor both in silent films and later in the \"talkies.\"\n\nIn the early 1920s, Rogers embarked on another profession, this time as a journalist writing weekly newspaper columns that reached millions of people worldwide. Beginning in 1930 he also broadcast regular radio addresses.  What distinguished his journalistic approach was his firsthand experience of ordinary people and places and a wry sense of humor, often debunking establishment figures and institutions.  This poking fun at the serious side of life, combined with an optimistic homespun philosophy, gave him immense popular appeal. He became a national and international celebrity and acquired the unofficial status of a goodwill ambassador during his travels in Europe. He also had a strong philanthropic streak and devoted money and time to charitable causes. @\n\nRogers also had a keen interest in flying. He often wrote about the development of aviation and made friends with trailblazing fliers such as Charles Lindbergh. Another pioneering aviator, Wiley Post, invited Rogers to join him in testing the viability of a commercial route between the United States and Asia. Tragically, both Rogers and Post were killed when their plane crashed in northern Alaska. Rogers's death was felt deeply throughout the United States and the public displays of mourning were heartfelt and widespread. The epitaph by his tomb is taken from one of his numerous quotable remarks and reminds us of the essential dignity of the man. It reads, \"Never Met A Man I Didn't Like.\""
+      },
+      {
+        "groupId": "T2R15-27Plain",
+        "startQuestion": 15,
+        "endQuestion": 27,
+        "text": "The damming of river systems in the northwestern United States has had devastating effects on salmon. In the spring young salmon, called smolts, drift into rivers from smaller streams. They swim with the current downstream heading for the Pacific Ocean. Before the large-scale construction of dams, the young salmon used the strong flow from melting snows to get to the sea in between six and twenty days. It is necessary to do this because during these days the smolts' bodies undergo the physiological changes for adaptation to salt water.\n\nUnfortunately, the current has become very slow due to the construction of numerous dams.  Companies operating the dams also intentionally slow the current.  They store the water from the melting snow until the winter, when more electric power is needed. The net result is that many of the young fish do not survive the now sixty-day trip to the sea. Consequently, there are fewer adult salmon to migrate back up the rivers for breeding. When it comes time for the salmon to return, they again face the problem of dams. As fewer adult salmon are able to get back to their cool upstream water, they fail to produce a sufficiently numerous new generation of salmon. This cycle could eventually lead to extinction of the fish.\n\nAttempts are being made to transport the young salmon downriver by barge. However, many scientists think that this artificial method of getting the fish to the sea kills more than it saves. Another suggestion, recently proposed by environmentalists, is to increase the rate of water flow. This would be a partial solution to the declining salmon numbers. One method of doing this would call for releasing water from upstream reservoirs. This would speed up the downstream movement of the smolts.\n\nAnother method would be to reduce the water level in the reservoirs for a period in the spring when the smolts are migrating downstream. This would also increase the flow rate temporarily without requiring massive amounts of water and, thus, enable the young salmon to move downstream faster. Unfortunately, both of these proposals have met with criticism from the power companies."
+      },
+      {
+        "groupId": "T2R28-39Plain",
+        "startQuestion": 28,
+        "endQuestion": 39,
+        "text": "Psychologists have found that privately made resolutions are rarely followed, whereas a public commitment to achieve some goal, such as losing weight or giving up smoking, is likely to be much more effective. This is because the approval of others for reaching one's target is valued. In contrast, disapproval for failure can lead to feelings of shame.\n\nAdvertising agencies have designed studies bearing out the truth of this observation. In their research, a group of strangers was bombarded with information about the qualities of a particular product. They were then asked to either announce out loud or write down privately whether they intended to buy the product. It was later discovered that those who publicly declared their intention to buy were considerably more likely to do so than those who affirmed their intentions in private.\n\nIn another study, an experimenter claiming to represent a local utility company interviewed homeowners, telling them he was investigating ways in which energy consumption could be reduced. Half the subjects, randomly selected, were told that if they agreed to conserve energy, their names would be mentioned in an article published in the local newspaper; the remaining half were told their names would not be used. |All those interviewed agreed to cooperate and signed a form either giving consent for their names to be used or stating that their names would not be used. Later in the year, the amount of gas consumed in each house was recorded. The owners who had agreed to their names being published had used significantly less gas than those who remained anonymous."
+      },
+      {
+        "groupId": "T2R40-50Plain",
+        "startQuestion": 40,
+        "endQuestion": 50,
+        "text": "Research investigating what happens when people sleep has shown that they typically journey through five distinct levels or stages of sleep.  Each level corresponds to changes in body temperature, respiration and body movements, and electroencephalograph (EEG) patterns. EEG patterns refer to the patterns of electrical activity in the brain as measured by a device called an electroencephalograph.\n\nThe first stage is a period of quiet sleep during which muscle tension decreases and the brain produces irregular, rapid waves. If woken at this time, a sleeper may jerk suddenly and deny having been asleep. In the second stage, breathing and the heart rate slow down and brain waves become larger.  In the third and fourth stages, bodily functions decrease more and brain waves become even larger.\n\nThe deepest sleep occurs in the fourth stage and is very difficult to awaken from. This is considered a regenerative period, when the body repairs itself. In fact, during illness people may fall immediately into a deep sleep because infection-fighting antibodies are produced in greater numbers in this stage. After a period of time in Stage 4, a sleeper ascends back through each of the stages. He or she then enters a new stage that is sometimes known as Stage 5, even though it is, in a sense, higher than Stage 1.\n\nThe fifth stage is reached, judging by brain activity, when a person appears to be sleeping lightly as in Stage 1 but is very hard to rouse. Because of this, the stage is sometimes called \"paradoxical sleep.\" During this stage, people exhibit what are known as rapid eye movements (REMs), and frequently their toes and facial muscles twitch, whereas the large muscles seem paralyzed. It is believed that during this stage most dreaming occurs. If something happens to awaken someone during this stage, the sleeper frequently recalls vivid dreams.\n\nDuring the course of an eight-hour period, most people seem to pass through five or six cycles of sleep. In the earlier cycles, sleepers typically descend down to Stage 4. However, after several complete cycles earlier in the night, they do not reenter the deeper stages, but fluctuate between REM and Stage 2. As the end of the sleep period approaches, body temperature begins to rise and the breathing and heart rate normalize."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T2R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "What is the passage mainly about?",
+        "paragraphNumber": 1,
+        "options": [
+          "An entertaining and accomplished man",
+          "The death of an ambassador",
+          "An epitaph to a remarkable person",
+          "The anecdotes of a humorous journalist"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage is mainly about the accomplishments of Will Rogers, a man who started out in the entertainment industry and moved into journalism, where he became most widely know in the entertainment industry and moved into journalism, where he became most widely know journalism, where he became most widely knowalism, where he became most widely know"
+      },
+      {
+        "id": "T2R02",
+        "number": 2,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following statements is true?",
+        "paragraphNumber": 1,
+        "options": [
+          "Rogers had Native-American blood.",
+          "Rogers told stories about his Native-American upbringing.",
+          "Rogers learned rope tricks from Native Americans.",
+          "Rogers portrayed Native Americans on film."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An anecdote is an often humorous account, or story, of some interesting event."
+      },
+      {
+        "id": "T2R03",
+        "number": 3,
+        "type": "RMCSynonymWord",
+        "text": "The word \"anecdotes\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "stories",
+          "tricks",
+          "recalls",
+          "quips"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author implies that the writing of some journalists was not humorous."
+      },
+      {
+        "id": "T2R04",
+        "number": 4,
+        "type": "RClickSentence",
+        "text": "in which the author implies that the writing of some journalists was not humorous.",
+        "paragraphNumber": 1,
+        "options": [
+          "foremost",
+          "American",
+          "entertainers",
+          "first"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author implies that the writing of some journalists was not humorous."
+      },
+      {
+        "id": "T2R05",
+        "number": 5,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>debunking</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>debunking</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "debunking",
+          "What",
+          "distinguished",
+          "journalistic"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"debunking\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R06",
+        "number": 6,
+        "type": "RMCOther",
+        "text": "What does the author mean by a goodwill ambassador in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "Rogers traveled the world projecting a kindly image of his country.",
+          "Rogers worked in American embassies in European countries.",
+          "Rogers's homespun philosophy made him an international celebrity.",
+          "Rogers's immense popular appeal helped him to establish charitable institutions."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An ambassador is a person who represt-loss program. However, it has been found that mild exercise, such as using the stairs instead of the elevator, is better in the long run than taking on a strenuous program, such as jogging, which many people find difficult to continue over long periods of time and which also increases appetite."
+      },
+      {
+        "id": "T2R07",
+        "number": 7,
+        "type": "RAddSentenceToParagraph",
+        "text": "Among his preferred causes was alleviating the plight of Native Americans and the needy victims of the Great Depression.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "Among his preferred causes was alleviating the plight of Native Americans and the needy victims of the Great Depression."
+      },
+      {
+        "id": "T2R08",
+        "number": 8,
+        "type": "RMCOther",
+        "text": "Why does the author mention Rogers's {philanthropic streak} in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "To emphasize the variety of his interests",
+          "To show Rogers's main preoccupation",
+          "To indicate how serious poverty was at the time",
+          "To outline Rogers's journalistic career"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"trailblazer\" or \"pioneer\" explores something new. Aviation was a relatively new field in Rogers's time."
+      },
+      {
+        "id": "T2R09",
+        "number": 9,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following is true of Rogers?",
+        "paragraphNumber": 1,
+        "options": [
+          "He was well known outside the United States.",
+          "His journalism was read especially by the establishment.",
+          "He did not enjoy making fun of serious issues.",
+          "His humor was not appreciated by many radio listeners."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"trailblazing\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R10",
+        "number": 10,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"trailblazing\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "trailblazing",
+          "often",
+          "wrote",
+          "about"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"trailblazing\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R11",
+        "number": 11,
+        "type": "RMCSynonymWord",
+        "text": "The word \"viability\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "feasibility",
+          "conviction",
+          "importance",
+          "intensity"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An \"epitaph\" is a short thought or message usually \"inscribed\" (an inscription) on a gravestone."
+      },
+      {
+        "id": "T2R12",
+        "number": 12,
+        "type": "RMCSynonymWord",
+        "text": "The word \"epitaph\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "inscription",
+          "homage",
+          "memoirs",
+          "mourning"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"The epitaph\" reads, \"Never Met A Man I Didn't Like.\""
+      },
+      {
+        "id": "T2R13",
+        "number": 13,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>It</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>It</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "It",
+          "reads",
+          "Never",
+          "Didn"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"The epitaph\" reads, \"Never Met A Man I Didn't Like.\""
+      },
+      {
+        "id": "T2R14",
+        "number": 14,
+        "type": "RMCSimple",
+        "text": "The author implies that Will Rogers was popular",
+        "paragraphNumber": 1,
+        "options": [
+          "throughout most of his career",
+          "only after he became a radio journalist",
+          "especially because of his charitable concerns",
+          "largely with establishment figures"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is the main topic of the passage?"
+      },
+      {
+        "id": "T2R15",
+        "number": 15,
+        "type": "RMCSimple",
+        "text": "Which of the following is the main topic of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The harm caused to salmon by river damming",
+          "The failure of adult salmon to rt salmon to r",
+          "The importance of smolts returning upstream",
+          "The need for smolts to reach salt water quickly"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In paragraph 1, the author suggests that"
+      },
+      {
+        "id": "T2R16",
+        "number": 16,
+        "type": "RMCOther",
+        "text": "In paragraph 1, the author suggests that",
+        "paragraphNumber": 1,
+        "options": [
+          "young salmon lose the ability to tolerate freshwater streams",
+          "salmon bodies are adversely affected by the cold melting snow",
+          "smolts are unable to swim in strong currents",
+          "large-scale dam construction causes the smolts to enter the sea too quickly"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Smolts must get to the sea in between six and twenty days because their bodies undergo physiological changes allowing them to live in salt water. Therefore, they lose the ability to tolerate freshwater streams."
+      },
+      {
+        "id": "T2R17",
+        "number": 17,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>current</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>current</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "current",
+          "They",
+          "swim",
+          "with"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"current\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R18",
+        "number": 18,
+        "type": "RClickSentence",
+        "text": "that explains how the smolts reached the sea previous to the damming of river systems.",
+        "paragraphNumber": 1,
+        "options": [
+          "damming",
+          "river",
+          "systems",
+          "northwestern"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains how the smolts reached the sea previous to the damming of river systems."
+      },
+      {
+        "id": "T2R19",
+        "number": 19,
+        "type": "RAddSentenceToParagraph",
+        "text": "The following sentence can be added to paragraph 2.<P><B>This is also a time when they can charge higher prices for the electricity generated by the moving water.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "This is also a time when they can charge higher prices ickWordReferWord"
+      },
+      {
+        "id": "T2R20",
+        "number": 20,
+        "type": "RClickWordReferWord",
+        "text": "The following sentence can be added to paragraph 2.<P><B>This is also a time when they can charge higher prices for the electricity generated by the moving water.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "They",
+          "swim",
+          "with",
+          "current"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When the salmon \"return\" to the risuing battle, which lasted three days, is considered the single most important engagement of the American Civil War.<BR><B>On the morning of July 1, the battle opened with Confederate troops atta"
+      },
+      {
+        "id": "T2R21",
+        "number": 21,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>return</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>return</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "return",
+          "When",
+          "comes",
+          "time"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When the salmon \"return\" to the rin the salmon \"return\" to the ri"
+      },
+      {
+        "id": "T2R22",
+        "number": 22,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>It</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>It</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "it",
+          "damming",
+          "river",
+          "systems"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"This artificial method\" of getting the fish to the sea kills more than \"it\" (this artificial method) saves."
+      },
+      {
+        "id": "T2R23",
+        "number": 23,
+        "type": "RMCOther",
+        "text": "In paragraph 3, what does the author mean by the statement many scientists think that this artificial method of getting the fish to the sea kills more than it saves?",
+        "paragraphNumber": 3,
+        "options": [
+          "More fish die when transported than would die otherwise.",
+          "Saving fish is artificial.",
+          "Artificial methods of transportation save the lives of many fish.",
+          "The sea kills more fish than are saved by transportation."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "ll known as Little Round Top on the Union's left flank was stormed unsuccessfully by the Confederates with a devastating number of casualties on both sides."
+      },
+      {
+        "id": "T2R24",
+        "number": 24,
+        "type": "RMCSynonymWord",
+        "text": "The word \"proposals\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "propositions",
+          "invitations",
+          "ord",
+          "RMCSimple"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage discusses all of the following methods of dealing with this problem EXCEPT"
+      },
+      {
+        "id": "T2R25",
+        "number": 25,
+        "type": "RMCSimple",
+        "text": "The passage discusses all of the following methods of dealing with this problem EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "breeding salmon",
+          "carrying the fish in boats",
+          "allowing water to be released from upstream reservoirs",
+          "dropping water levels in reservoirs"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With which of the following statements would the author most probably agree?"
+      },
+      {
+        "id": "T2R26",
+        "number": 26,
+        "type": "RMCSimple",
+        "text": "With which of the following statements would the author most probably agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "Controversy about the salmon issue is likely to continue.",
+          "A solution to the salmon problem will probably be found in the near future.",
+          "Salmon will become extinct within the next decade.",
+          "Selective breeding for longer physiological maturation is a possibility."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that best outlines the salmon's dilemma."
+      },
+      {
+        "id": "T2R27",
+        "number": 27,
+        "type": "RClickParagraph",
+        "text": "that best outlines the salmon's dilemma.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that best outlines the salmon's dilemma."
+      },
+      {
+        "id": "T2R28",
+        "number": 28,
+        "type": "RMCSimple",
+        "text": "R1-R3",
+        "paragraphNumber": 1,
+        "options": [
+          "explanations",
+          "speculations",
+          "persuasions",
+          "When people make a \"resolution,\" they declare their intentions (make a y to achieve their goals."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When people make a \"resolution,\" they declare their intentions (make a"
+      },
+      {
+        "id": "T2R29",
+        "number": 29,
+        "type": "RMCSynonymWord",
+        "text": "The word \"resolutions\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "declarations",
+          "explanations",
+          "speculations",
+          "persuasions"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"goal\" is the \"target\" or objective that someone hopes to achieve."
+      },
+      {
+        "id": "T2R30",
+        "number": 30,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"goal\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "goal",
+          "Psychologists",
+          "have",
+          "found"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"goal\" is the \"target\" or objective that someone hopes to achieve."
+      },
+      {
+        "id": "T2R31",
+        "number": 31,
+        "type": "RMCSimple",
+        "text": "It can be inferred that all of the following help motivate a person to achieve a goal EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "a sense of noncommitment",
+          "a desire for approval",
+          "a fear of disapproval",
+          "a fear of failure"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"shang agencies probably interested in conducting their suacy"
+      },
+      {
+        "id": "T2R32",
+        "number": 32,
+        "type": "RMCSynonymWord",
+        "text": "The word \"\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "Why were advertising agencies probably interested in conducting their sCSimple",
+          "Northwest",
+          "Northeast",
+          "A feeling of \"shame\" or \"disgrace\" is a feeling that the good opinion and respect of others has been lost because one has not behaved in an acceptable way."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "From which direction did Pickett's Charge originate?"
+      },
+      {
+        "id": "T2R33",
+        "number": 33,
+        "type": "RMCSimple",
+        "text": "Why were advertising agencies probably interested in conducting their sested in conducting their s",
+        "paragraphNumber": 1,
+        "options": [
+          "They wanted to find the best way to get people to buy their clients' products.",
+          "They wanted to introduce their people to more products.",
+          "They wanted to demonstrate the quality of their clients' products.",
+          "They wanted to know if people intended to purchase their clients' products."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "was asked to announce out loud or write down their intentions."
+      },
+      {
+        "id": "T2R34",
+        "number": 34,
+        "type": "RMCSynonymWord",
+        "text": "The word bombarded in paragraph 2 is closest in meaning to",
+        "paragraphNumber": 2,
+        "options": [
+          "saturated",
+          "bombed",
+          "attacked",
+          "hampered"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, the anonymoferWord"
+      },
+      {
+        "id": "T2R35",
+        "number": 35,
+        "type": "RClickWordReferWord",
+        "text": "The following sentence can be added to paragraph 2.<P><B>This is also a time when they can charge higher prices for the electricity generated by the moving water.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "They",
+          "were",
+          "then",
+          "asked"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The \"group of strangers\" was asked to announce out loud or write down their intentions."
+      },
+      {
+        "id": "T2R36",
+        "number": 36,
+        "type": "RMCSimple",
+        "text": "According to the passage, the anonymoferWord",
+        "paragraphNumber": 1,
+        "options": [
+          "The \"group of strangers\" was asked to announce out loud or write down their intentions.",
+          "RMCSimple",
+          "According to the passage, the anonymo",
+          "used more gas than the other subjects"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The subjects who did not make a public commitment (who remained anonymous) cooperated but did not conserve as much gas."
+      },
+      {
+        "id": "T2R37",
+        "number": 37,
+        "type": "RMCOther",
+        "text": "How did the experimenter in paragraph 3 find out how much gas the subjects used?",
+        "paragraphNumber": 3,
+        "options": [
+          "The amount was recorded.",
+          "The amount was stated in the contract.",
+          "The people published the amount.",
+          "The people were giveh of the following"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"consumed\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R38",
+        "number": 38,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>consumed</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>consumed</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "consumed",
+          "Later",
+          "year",
+          "amount"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"consumed\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R39",
+        "number": 39,
+        "type": "RMCSimple",
+        "text": "This passage supports which of the following",
+        "paragraphNumber": 1,
+        "options": [
+          "Commitments made in private are more likely to fail.",
+          "Disapproval for failure makes people less willing to make public commitments.",
+          "Intentions announced out loud are more effective than those published in newspapers.",
+          "Well-informed people are more likely to publicly declare their intentions."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage cites several studies indicating that people who make their intentions known to others are more likely to succeed than those who keep their intentions private."
+      },
+      {
+        "id": "T2R40",
+        "number": 40,
+        "type": "RMCSimple",
+        "text": "Which of the following would be a good title for this passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The stages of sleep",
+          "The paradoxes of sleep",
+          "The levels of EEG patterns",
+          "The regenerative stage of REM"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What are the {EEG patterns} mentioned in paragraph 1?"
+      },
+      {
+        "id": "T2R41",
+        "number": 41,
+        "type": "RMCOther",
+        "text": "What are the EEG patterns mentioned in paragraph 1?",
+        "paragraphNumber": 1,
+        "options": [
+          "Measured electrical brain activity",
+          "Records of muscle movement during sleep",
+          "Heart rate rhythms during resting periods",
+          "Body temperature fluctuations throughout the night"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "EEG patterns measure the electrical brain activity of a person during different stages of sleep."
+      },
+      {
+        "id": "T2R42",
+        "number": 42,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"decrease\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "decrease",
+          "first",
+          "stage",
+          "period"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"decrease\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T2R43",
+        "number": 43,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>period</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>period</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "period",
+          "first",
+          "stage",
+          "quiet"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A length of time that an activity occurs is called a \"period.\" This can also be referred to as a \"stage\" of that activity."
+      },
+      {
+        "id": "T2R44",
+        "number": 44,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"rouse\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "rouse",
+          "fifth",
+          "stage",
+          "reached"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "To \"rouse\" people from sleep means to \"awaken\" them or make them stop sleeping."
+      },
+      {
+        "id": "T2R45",
+        "number": 45,
+        "type": "RMCSimple",
+        "text": "In paragraph 4, what does the author mean by the statement that it is difficult to rouse someone from Stage 4 sleep?",
+        "paragraphNumber": 4,
+        "options": [
+          "It is hard to awaken the person.",
+          "The person will wake up with an elevated pulse.",
+          "The person will immediately remember their dreams.",
+          "The person cannot move their limbs upon waking."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "To \"rouse\" someone means to awaken them or disturb their sleep."
+      },
+      {
+        "id": "T2R46",
+        "number": 46,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "their",
+          "During",
+          "this",
+          "stage"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "of a deeper sleep than Stage 4 but includes vivid dreams as in Stage 1."
+      },
+      {
+        "id": "T2R47",
+        "number": 47,
+        "type": "RClickWordReferWord",
+        "text": "The following sentence can be added to paragraph 2.<P><B>This is also a time when they can charge higher prices for the electricity generated by the moving water.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "they",
+          "Research",
+          "investigating",
+          "what"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "of a deeper sleep than Stage 4 but includes vivid dreams as in Stage 1."
+      },
+      {
+        "id": "T2R48",
+        "number": 48,
+        "type": "RMCPicture",
+        "text": "Click on the graph below that shows the pattern of cycles in a typical eight-hour period of sleep.",
+        "paragraphNumber": 1,
+        "options": [
+          "Graph showing initial descent to Stage 4 followed by REM and Stage 2 cycles",
+          "Graph showing constant descent into deep sleep throughout the night",
+          "Graph showing immediate REM sleep that remains level for eight hours",
+          "Graph with completely random irregular spikes"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T2R48Q1.png",
+          "assets/images/cambridge/T2R48Q2.png",
+          "assets/images/cambridge/T2R48Q3.png",
+          "assets/images/cambridge/T2R48Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, most people pass through five or six cycles. After several cycles of descent down to Stage 4 and ascent to Stage 5 (REM), they then fluctuate between REM and Stage 2 for the rest of the period of sleep."
+      },
+      {
+        "id": "T2R49",
+        "number": 49,
+        "type": "RClickParagraph",
+        "text": "Click on the paragraph that discusses the healing properties of sleep.<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that discusses the healing pverall pattern of quiescent periods and active periods."
+      },
+      {
+        "id": "T2R50",
+        "number": 50,
+        "type": "RAddSentenceToPassage",
+        "text": "The following sentence can be added to the passage.<P><B>These stages form an overall pattern of quiescent periods and active periods.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "These stages form an overall pattern of quiescent periods and active periods."
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T2L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Peter really didn't want to help.",
+          "Peter couldn't n mean?",
+          "L9-L11",
+          "L9-L11"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L01C.WAV",
+        "questionAudio": "T2L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L01C.png",
+        "transcript": "MAN: How did you get Peter to help out at the Student Activities Center?\nWOMAN: It wasn't easy - I had to twist his arm.",
+        "feedback": ""
+      },
+      {
+        "id": "T2L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "He would like classes to be over sooner.",
+          "His class will finish in a minute.",
+          "He thinks class will end too soon.",
+          "He thinks the week after next is very early."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L02C.WAV",
+        "questionAudio": "T2L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L02C.png",
+        "transcript": "WOMAN: Classes will be over the week after next.\nMAN: And that's not a minute too soon for me.",
+        "feedback": "The man's use of the expression \"That's not a minute too soon for me\" implies \"Classes cannot be over soon enough to please me.\" In other words, the man is extremely eager for classes to be over."
+      },
+      {
+        "id": "T2L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What did Robert do?",
+        "options": [
+          "He assured students that he would help with housing troubles.",
+          "He elected the student body presi",
+          "He caused the students to have difficulties with rent.",
+          "He assisted students having trouble finding living accommodations."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L03C.WAV",
+        "questionAudio": "T2L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L03C.png",
+        "transcript": "WOMAN: Was Robert elected student body president?\nMAN: Of coursed student body president?\nMAN: Of course",
+        "feedback": "Robert promised to help solve student problems that concerned housing."
+      },
+      {
+        "id": "T2L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What does the woman say about Jane?",
+        "options": [
+          "She's good at solving math problems.",
+          "She has problems with math.",
+          "She doesn't mind failing.",
+          "She isn't careful in her work."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L04C.WAV",
+        "questionAudio": "T2L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L04C.png",
+        "transcript": "MAN: Jane had no problem passing calculus.\nWOMAN: She sure has a head for it, doesn't she?",
+        "feedback": "If someone \"has a head for something\" (gains knowledge about something easily), that person is probably \"good at it\" (competent at doing it)."
+      },
+      {
+        "id": "T2L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "The woman can't take the picture.",
+          "He would like to take a photograph.",
+          "He can't give the woman the camera.",
+          "The woman forgot to buy film."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L05C.WAV",
+        "questionAudio": "T2L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L05C.png",
+        "transcript": "WOMAN: Do you have the camera? I'd like a shot of the facade of that building for my photography class.\nMAN: That would be a nice photo, but we're out of film.",
+        "feedback": "The man regrets that there is no more film. Therefore, the woman can't take the picture."
+      },
+      {
+        "id": "T2L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does7 the woman imply?",
+        "options": [
+          "He isn't a very serious student.",
+          "He might have failed the test.",
+          "He probably did his homework.",
+          "He should have read the textbooks."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L06C.WAV",
+        "questionAudio": "T2L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L06C.png",
+        "transcript": "MAN: I wouldn't have failed that test if I'd gone to the course review.\nWOMAN: And if you had read the books and done the homework.",
+        "feedback": "The woman lists several things that the man hadn't done but would have done if he had been serious about his studies."
+      },
+      {
+        "id": "T2L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "They could share the cost.",
+          "He could meet her halfway.",
+          "He could lend her the money.",
+          "They could make part of the journey."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L07C.WAV",
+        "questionAudio": "T2L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L07C.png",
+        "transcript": "WOMAN: I don't have enough money to buy gas for the geology trip.\nMAN: We could go halves.",
+        "feedback": "The expression \"go halves\" means \"share the cost.\" Because the woman does not have the money to buy gasoline for the trip, the man is suggesting that they share the cost of gas. Perhaps in that way she can afford the trip."
+      },
+      {
+        "id": "T2L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "It's snowing very hard.",
+          "The man is blind.",
+          "She doesn't know if it's snowing.",
+          "She can't get across the street to the Student Union."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L08C.WAV",
+        "questionAudio": "T2L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L08C.png",
+        "transcript": "MAN: Is it snowing out?\nWOMAN: Is it snowing! You can't even see the Student Union across the street.",
+        "feedback": "The woman"
+      },
+      {
+        "id": "T2L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "They'll be finished taking the tests in two weeks.",
+          "The testing ended last week.",
+          "They haven't had an exam in over a week.",
+          "The testing will take over two weeks."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L09C.WAV",
+        "questionAudio": "T2L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L09C.png",
+        "transcript": "MAN: I'm so burned out I don't think I can finish this term.\nWOMAN: You can do it. Our final exams are over the week after next.",
+        "feedback": "The woman encourages the man by telling him that tests will be finished (be over) in two weeks (the week after next)."
+      },
+      {
+        "id": "T2L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the man say about Sue?",
+        "options": [
+          "She enrolled in a short German-language course.",
+          "She had a bad accident while driving in Germany.",
+          "She met a German in her math course.",
+          "She is going to take a short trip to Germany."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L10C.WAV",
+        "questionAudio": "T2L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L10C.png",
+        "transcript": "WOMAN: How will Sue ever get around Germany?\nMAN: Don't worry. She's signed up for a crash course in German.",
+        "feedback": "Sue has signed up for a course (enrolled in a course). A crash course is a short course that is held for many hours over several days or weeks. In other words, it's intensive for a s"
+      },
+      {
+        "id": "T2L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Margaret should say she's sorry for having mislaid the paper.",
+          "Margaret was sorry that Dr. Morris mislaid his paper.",
+          "Margaret made a better apology than Dr. Morris did.",
+          "Margaret apologized to Dr. Morris for the mislaid paper."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L11C.WAV",
+        "questionAudio": "T2L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L11C.png",
+        "transcript": "MAN: Margaret had better apologize to Dr. Morris for having mislaid that nutrition research paper he asked her to send off.\nWOMAN: I should say so.",
+        "feedback": "The woman agrees with the man that since Margaret mislaid Dr. Morris's research paper, she should say she is sorry for doing that."
+      },
+      {
+        "id": "T2L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "He doesn't want to return the book yet.",
+          "He wants the book the woman borrowed by next week.",
+          "He can't lend the woman the book until next week.",
+          "He has already given the book to the woman."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L12C.WAV",
+        "questionAudio": "T2L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L12C.png",
+        "transcript": "WOMAN: Have you forgotten about the book I lent you?\nMAN: No, I haven't. But can you wait another week for it?",
+        "feedback": "The man's asking the woman if she can wait another week before he returns the book indicates that he wants to keep it for a longer time."
+      },
+      {
+        "id": "T2L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Jason k[nows the part extremely well.",
+          "Jason moved backward, not forward, in the line.",
+          "Jason lined up with his back toward the memorial.",
+          "Jason moved behind the line."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L13C.WAV",
+        "questionAudio": "T2L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L13C.png",
+        "transcript": "MAN: Is Jason ready to audition for the Drama Department's new production?\nWOMAN: Ready? He's memorized his lines backwards and forwards.",
+        "feedback": "Jason's \"lines\" are \"his part of the script,\" and to memorize them \"backwards and forwards\" (thoroughly) means that he knows them extremely well."
+      },
+      {
+        "id": "T2L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "They could go see the show.",
+          "It's time to leave the show.",
+          "They could meet there at noon.",
+          "There's no time to design a costume."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L14C.WAV",
+        "questionAudio": "T2L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L14C.png",
+        "transcript": "MAN: There's an exhibition on costume design at the Fashion Institute.\nWOMAN: Shall we go?",
+        "feedback": "The woman is suggesting that they go to the exhibition."
+      },
+      {
+        "id": "T2L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She would prefer studying zoology.",
+          "Botany is an easier course.",
+          "Botany is easy, but zoology is not.",
+          "She could do as well in botany as in zoology."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L15C.WAV",
+        "questionAudio": "T2L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L15C.png",
+        "transcript": "MAN: Why don't you sign up for a course in botany?\nWOMAN: I'd do better in zoology.",
+        "feedback": "The woman is indicating a preference for a different course (zoology) from the one the man is suggesting (botany)."
+      },
+      {
+        "id": "T2L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She is going to the library later.",
+          "She isn't going to the library today.",
+          "She is going to take a lunch break.",
+          "She is going to go to the library before lunch."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L16C.WAV",
+        "questionAudio": "T2L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L16C.png",
+        "transcript": "MAN: Are you going to the library today?\nWOMAN: Not until after lunch.",
+        "feedback": "The woman means that she isn't going to the library now but that she is going to the library after lunch."
+      },
+      {
+        "id": "T2L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The man's schedule could be worse.",
+          "Evening classes are better.",
+          "It is unfortunate that he has a ten-o'clock class.",
+          "She was correct about his schedule."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L17C.WAV",
+        "questionAudio": "T2L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L17C.png",
+        "transcript": "",
+        "feedback": "The woman"
+      },
+      {
+        "id": "T2L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "Why has the man come to the library?",
+        "options": [
+          "To fix the photocopier",
+          "To annoy the students",
+          "To study the photocopies",
+          "To work for a week"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T2L18C.WAV",
+        "questionAudio": "T2L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T2L18C.png",
+        "transcript": "MAN: I've come about the photocopier.\nWOMAN: Oh, good. It hasn't been working properly for almost a week, and the students are getting annoyed. Photocopiers in university libraries get a lot of use.\nMAN: That's true. So, what's the problem?\nWOMAN: The copies are coming out with dark streaks on them, and it's making a peculiar noise.",
+        "feedback": "It can be inferred by the man's statement that he has come about the photocopier and by the woman's description of the problem that he has come to repair it."
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T2L19-21",
+        "startQuestion": 19,
+        "endQuestion": 21,
+        "fullAudio": "T2L19-21.WAV",
+        "audioClips": [
+          "T2L19-21.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L19-21C.png",
+        "transcript": "WOMAN: Are you going to meet me at the Student Union?\nMAN: Yes, I think that would be the easiest place to meet. Then we can share a taxi to the theater.\nWOMAN: What time should I be there?\nMAN: My evening archaeology class finishes at about seven o'clock, so I can be at the main entrance of the Student Union by 7:15 at the latest.\nWOMAN: Unless your professor gets carried away with his lecture. That's happened before.\nMAN: That's true. If he does, I shouldn't be more than fifteen minutes late, though, and that will still give us time to get to the theater.\nWOMAN: You've already reserved the tickets, haven't you?\nMAN: Yes, but I haven't gone to get them.\nWOMAN: I'll be downtown this afternoon, anyway. I could go to the ticket office and pick them up. Then if you're late, it won't matter. We'll be able to go right in.\nMAN: That's a great idea. Thanks. See you this evening.",
+        "questions": [
+          {
+            "id": "T2L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "What are the two people discussing?",
+            "questionAudio": "T2L19Q.WAV",
+            "options": [
+              "The arrangements for meeting each other",
+              "The professor of an archaeology class",
+              "The importance of reserving theater tickets early",
+              "The best place and time to catch a taxi"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The people are talking about a time and place to meet before going to the theater."
+          },
+          {
+            "id": "T2L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "Why does the woman think the man might be late?",
+            "questionAudio": "T2L20Q.WAV",
+            "options": [
+              "His class sometimes gets out late.",
+              "His professor has stopped him after class before.",
+              "He might not be able to get a taxi.",
+              "He is in the habit of showing up late."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman states that the man's professor sometimes gets carried away (might be so enthusiastic about the lecture that he or she doesn't notice the time). This implies that the man might arrive at the meeting place late."
+          },
+          {
+            "id": "T2L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "What does the woman intend to do in the afternoon?",
+            "questionAudio": "T2L21Q.WAV",
+            "options": [
+              "Pick up the tickets",
+              "Reserve the tickets",
+              "Meet the man",
+              "Call the taxi"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman offers to pick up the tickets early in order to save time."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L22-24",
+        "startQuestion": 22,
+        "endQuestion": 24,
+        "fullAudio": "T2L22-24.WAV",
+        "audioClips": [
+          "T2L22-24.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L22-24C.png",
+        "transcript": "MAN: I was supposed to buy a lot more books, but I didn't have enough money.\nWOMAN: Did you try that used-book store on University Avenue or ask whether you could check out copies from the library?\nMAN: Both. The library had a couple of them, and I bought all the used ones I could find.\nWOMAN: You're always short of ¥money. Why don't you look for a part-time job?\nMAN: I'm afraid a job would interfere with my studies.\nWOMAN: I don't think so. They're always looking for people to work at the concession stands during the university sports events and concerts.\nMAN: Hey, I could see the games and concerts for free while I earned money!\nWOMAN: That's right. And it wouldn't take that much time away from your studying.",
+        "questions": [
+          {
+            "id": "T2L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What is the man's problem?",
+            "questionAudio": "T2L22Q.WAV",
+            "options": [
+              "He doesn't have enough money to meet expenses.",
+              "His studies keep him from attending sports events.",
+              "His part-time job interferes with his studies.",
+              "He wants to get a part-time job at the concession stands."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man"
+          },
+          {
+            "id": "T2L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "What does the woman suggest he do?",
+            "questionAudio": "T2L23Q.WAV",
+            "options": [
+              "Work part-time at university events",
+              "Buy used books from the library",
+              "Try the library on University Avenue",
+              "Take time off to play sports"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Although the woman suggests buying used books and checking out books from the library, she also suggests that he take care of his financial problem by getting a part-time job."
+          },
+          {
+            "id": "T2L24",
+            "number": 24,
+            "type": "LMC",
+            "text": "What will the man probably do?",
+            "questionAudio": "T2L24Q.WAV",
+            "options": [
+              "Apply for a job",
+              "See a concert for free",
+              "Buy used books",
+              "Go to the sports events"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman has given the man several reasons to apply for a job in order to meet his expenses. He sees the advantages of doing this and will probably try to get the part-time job the woman has recommended."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L25-29",
+        "startQuestion": 25,
+        "endQuestion": 29,
+        "fullAudio": "T2L25-29.WAV",
+        "audioClips": [
+          "T2L25-29.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L25-29C.png",
+        "transcript": "The silhouette portrait, in which the shadow&%vü&¶JT2L30-34MAN: Professor Cline?\nWOMAN: Yes?\nMAN: I'm Robert Daley. The work-study office sent me.\nWOMAN: Oh, I've been waiting for them to send someone. Did you say your name was Robert?\nMAN: Yes.\nWOMAN: What's your major, Robert?\nMAN: Zoology.\nWOMAN: Good'Ïwx&¯ñT2L35-40Shortly after eight o'clock on Sunday evening, October 30, 1938, many Americans became anxious or even panic-stricken while listening to a live, one-hour radio play realisticallyf a sitter's profile is captured on paper, is still a popular art form at fairs and school carnivals. Originally, this kind of portrait was called a \"shade.\" Once the artist captured the shade on paper, it could be transferred onto ivory, plaster, porcelain, or glass. It could also be reduced to fit into brooches, lockets, or rings.\nThe word \"silhouette\" was taken from the surname of Etienne de Silhouette, an eighteenth-century French finance minister who was infamous for his cost-cutting policies. In ridiculing these policies, opponents coined the term \"a la silhouette\" to mean \"done cheaply.\" This phrase was passed on to the art of profile drawings because it was so inexpensive. However cheap they may have been in the eighteenth century, today these curiosities, which might be mistaken for junk, could be worth large amounts of money depending on the date they were made and the artist who made them. Eighteenth-century silhouettes continue to be auctioned at high prices.",
+        "questions": [
+          {
+            "id": "T2L25",
+            "number": 25,
+            "type": "LMC",
+            "text": "What were silhouettes originally called?",
+            "questionAudio": "T2L25Q.WAV",
+            "options": [
+              "Shade",
+              "Curiosities",
+              "Shadows",
+              "Profiles"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It is stated in the talk that these portraits were once called shades."
+          },
+          {
+            "id": "T2L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "What is NOT mentioned as one of the materials artists transferred portraits onto?",
+            "questionAudio": "T2L26Q.WAV",
+            "options": [
+              "Clay",
+              "Porcelain",
+              "Ivory",
+              "Glass"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The mentioned materials are ivory, plaster, porcelain, and glass. Clay is not mentioned."
+          },
+          {
+            "id": "T2L27",
+            "number": 27,
+            "type": "LMC",
+            "text": "Who was Etienne de Silhouette?",
+            "questionAudio": "T2L27Q.WAV",
+            "options": [
+              "A French finance minister who was known for his stinginess",
+              "The man whose profile was the most infamous",
+              "The artist who invented shadow portraits",
+              "The man who paid a lot of money for a shadow painting"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It is stated in the talk that Etienne de Silhouette was an eighteenth-century French finance minister who was infamous for his stringent economic policies."
+          },
+          {
+            "id": "T2L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "Why are the discussed art forms known as silhouettes?",
+            "questionAudio": "T2L28Q.WAV",
+            "options": [
+              "They were inexpensive.",
+              "They were from the eighteenth century.",
+              "They were mistaken for junk.",
+              "They were curiosities."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Because the phrase \"a la silhouette\" meant \"cheap,\" the term was used for this art form, which was inexpensive to produce."
+          },
+          {
+            "id": "T2L29",
+            "number": 29,
+            "type": "LPictureHorizontal",
+            "text": "Which picture is an example of a silhouette?",
+            "questionAudio": "T2L29Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T2L29Q1.png",
+              "assets/images/cambridge/T2L29Q2.png",
+              "assets/images/cambridge/T2L29Q3.png",
+              "assets/images/cambridge/T2L29Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "A silhouette is described as the shadow of a sitter's profile captured on paper."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L30-34",
+        "startQuestion": 30,
+        "endQuestion": 34,
+        "fullAudio": "T2L30-34.WAV",
+        "audioClips": [
+          "T2L30-34.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L30-34C.png",
+        "transcript": "T2L34QLOrderingThe professor briefly explains a process. Summarize the process by putting the events in order.A convenient time must be arranged for the student to come.L31-L36The paramecia must be counted.A form must be filled out and turned in.The statistics must be fed into the computer.First, the man must arrange a time to come to the biology lab. At the lab, he will count paramecia and write these numbers on a form that he will give to Nancy, who will enter the statistics into the computer.",
+        "questions": [
+          {
+            "id": "T2L30",
+            "number": 30,
+            "type": "LMC",
+            "text": "What are the people mainly discussing?",
+            "questionAudio": "T2L30Q.WAV",
+            "options": [
+              "The man's work-study duties",
+              "The reproduction of paramecia",
+              "The man's major",
+              "The lab equipment"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man introduces himself as the person the work-study office sent. The woman then explains the job."
+          },
+          {
+            "id": "T2L31",
+            "number": 31,
+            "type": "LMC",
+            "text": "In what department is the professor probably working?",
+            "questionAudio": "T2L31Q.WAV",
+            "options": [
+              "Biology",
+              "Zoology",
+              "Chemistry",
+              "Physics"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor offers to show the man \"our lab,\" and the man asks if he will be working in the biology lab. This indicates that the professor is probably working in the Biology Department."
+          },
+          {
+            "id": "T2L32",
+            "number": 32,
+            "type": "LMC",
+            "text": "What will the man's job be?",
+            "questionAudio": "T2L32Q.WAV",
+            "options": [
+              "Counting paramecia",
+              "Filling in forms about time",
+              "Watching paramecia reproduce",
+              "Timing paramecia speeds"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman states that they need him to count paramecia."
+          },
+          {
+            "id": "T2L33",
+            "number": 33,
+            "type": "LMC",
+            "text": "Why might it be important that the man come in at the same time daily?",
+            "questionAudio": "T2L33Q.WAV",
+            "options": [
+              "It's necessary for analyzing the speed of reproduction.",
+              "The lab can be left open at that time.",
+              "The forms must be turned in to the office before it closes.",
+              "Another professor must be in the lab."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The paramecia probably need to be counted at regular intervals in order to ascertain the speed at which they are reproducing."
+          },
+          {
+            "id": "T2L34",
+            "number": 34,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T2L34Q.WAV",
+            "options": [
+              "A convenient time must be arranged for the student to come.",
+              "The paramecia must be counted.",
+              "A form must be filled out and turned in.",
+              "The statistics must be fed into the computer."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First, the man must arrange a time to come to the biology lab. At the lab, he will count paramecia and write these numbers on a form that he will give to Nancy, who will enter the statistics into the computer."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L35-40",
+        "startQuestion": 35,
+        "endQuestion": 40,
+        "fullAudio": "T2L35-40.WAV",
+        "audioClips": [
+          "T2L35-40.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L35-40C.png",
+        "transcript": "Shortly after eight o'clock on Sunday evening, October 30, 1938, many Americans became anxious or even panic-stricken while listening to a live, one-hour radio play realisticallyf a sitter's profile is captured on paper, is still a popular art form at fairs and school carnivals. Originally, this kind of portrait was called a \"shade.\" Once the artist captured the shade on paper, it could be transferred onto ivory, plaster, porcelain, or glass. It could also be reduced to fit into brooches, lockets, or rings.\nThe word \"silhouette\" was taken from the surname of Etienne de Silhouette, an eighteenth-century French finance minister who was infamous for his cost-cutting policies. In ridiculing these policies, opponents coined the term \"a la silhouette\" to mean \"done cheaply.\" This phrase was passed on to the art of profile drawings because it was so inexpensive. However cheap they may have been in the eighteenth century, today these curiosities, which might be mistaken for junk, could be worth large amounts of money depending on the date they were made and the artist who made them. Eighteenth-century silhouettes continue to be auctioned at high prices.",
+        "questions": [
+          {
+            "id": "T2L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "What is the talk mainly about?",
+            "questionAudio": "T2L35Q.WAV",
+            "options": [
+              "The public reaction to a media broadcast",
+              "A hoax planned by the media",
+              "The invasion of Martians",
+              "A devastating war"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The talk is mainly about the public's reaction to a radio play."
+          },
+          {
+            "id": "T2L36",
+            "number": 36,
+            "type": "LTwo",
+            "text": "According to the professor, what is true about the broadcast?",
+            "questionAudio": "T2L36Q.WAV",
+            "options": [
+              "George Orson Welles produced the radio play.",
+              "The broadcast- was convincing and realistic.",
+              "H. G. Wells wrote the radio script.",
+              "The radio play was produced in Grovers Mill, New Jersey."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the radio play was produced by George Orson Welles and that it contained convincing sound effects and realistic special bulletins."
+          },
+          {
+            "id": "T2L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "What can be said about the event?",
+            "questionAudio": "T2L37Q.WAV",
+            "options": [
+              "It had a widespread effect in the United States.",
+              "It made Orson Welles famous.",
+              "It began in England.",
+              "It took place on Halloween Eve in 1898."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the event is the most widely known delusion in United States, if not world, history."
+          },
+          {
+            "id": "T2L38",
+            "number": 38,
+            "type": "LMC",
+            "text": "Why were people convinced of the invasion?",
+            "questionAudio": "T2L38Q.WAV",
+            "options": [
+              "Real places were referred to in realistic special bulletins.",
+              "People trusted Orson Welles.",
+              "All regions of the United States were exposed.",
+              "Americans are genuinely frightened by Martians."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor talks abo"
+          },
+          {
+            "id": "T2L39",
+            "number": 39,
+            "type": "LOrdering",
+            "text": "The professor explains a sequence of events. Summarize the sequence of events by putting the events in order.",
+            "questionAudio": "T2L39Q.WAV",
+            "options": [
+              "H. G. Wells wrote <I>The War of the Worlds.</I>",
+              "A dramatic play was performed on radio.",
+              "Some Americans tried to flee the invasion.",
+              "The audience's reaction to the broadcast became well known."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The original novel was published in 1898. The novel was adapted and broadcast on radio to Americans in 1938. Some of the audience believed the broadcast and tried to flee the invasion. This incident has become well known."
+          },
+          {
+            "id": "T2L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "What is the ironic twist the professor mentions?",
+            "questionAudio": "T2L40Q.WAV",
+            "options": [
+              "The media may have misled the public about the extent of the panic.",
+              "Sociologists have demonstrated the influence of media on society.",
+              "Americans were influenced by the",
+              "The original play created mass panic."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor argues that the media may have exaggerated the actual extent of the panic. This is ironic because the original panic was caused by the media itself."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L41-45",
+        "startQuestion": 41,
+        "endQuestion": 45,
+        "fullAudio": "T2L41-45.WAV",
+        "audioClips": [
+          "T2L41-45.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L41-45C.png",
+        "transcript": "WOMAN 1: As it is now well established, our planet's protective ozone layer has been thinning in recent decades. The ozone layer lies between fifteen and thirty kilometers above the Earth's surface and absorbs ultraviolet rays emitted by the sun. The thinning of the ozone layer occurs when artificial chemicals called chlorofluorocarbons (CFCs) and other chlorine compounds combine with the oxygen atoms of the ozone, and this depletes the amount of ozone. Ozone depletion has serious consequences because more ultraviolet light can reach the Earth's surface and damage DNA in humans and animals. The most well-known effect of this is the recent dramatic increase in skin cancers.\nMAN: So, who is actually responsible for creating these CFCs?\nWOMAN 1: Well, in a sense, we all are. CFCs are a main component of dry-cleaning and refrigerating chemicals. They are also produced in various manufacturing processes, in nitrogen fertilizers, and by aerosols used in products such as hr sprays and polishes. Fortunately, their use in aerosols has been phased out in most countries. These chemicals disperse in the lower atmosphere, where they linger for years before migrating to the stratosphere, where the damage to the ozone takes place.\nWOMAN 2: Dr. Alameda, this sounds very pessimistic. Haven't there been international agreements to phase out CFCs?\nWOMAN 1: Yes, in fact, since 1985 several international conventions have produced agreements.\nMAN: Would you say you are optimistic about the future of the ozone layer?\nWOMAN 1: I would say I'm guardedly optimistic for the long-term future. The various agreements are beginning to take effect. The problem is that it takes many years for the CFCs to disperse, and not all countries are enthusiastic about phasing out their production for economic reasons. However, it is generally expected that the ozone layer will recover completely by the year 2060 as long as we all abide by the international agreements.",
+        "questions": [
+          {
+            "id": "T2L41",
+            "number": 41,
+            "type": "LMC",
+            "text": "What is the discussion mainly about?",
+            "questionAudio": "T2L41Q.WAV",
+            "options": [
+              "General information about CFCs",
+              "The eradication of CFCs",
+              "The thinning of the ozone layer",
+              "International convention agreements"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor talks about many different aspects of chlorofluorocarbons (CFCs)."
+          },
+          {
+            "id": "T2L42",
+            "number": 42,
+            "type": "LMC",
+            "text": "According to the professor, how do CFCs get into the atmosphere?",
+            "questionAudio": "T2L42Q.WAV",
+            "options": [
+              "They are released through some products and processes.",
+              "They are in the DNA of humans and plants.",
+              "They are a chemical reaction caused by ultraviolet rays.",
+              "They migrate from the stratosphere."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that CFCs are components of certain products and are produced in various manufacturi"
+          },
+          {
+            "id": "T2L43",
+            "number": 43,
+            "type": "LMC",
+            "text": "Why does the professor mention hair sprays and polishes?",
+            "questionAudio": "T2L43Q.WAV",
+            "options": [
+              "To give examples of products that are put into aerosol containers",
+              "To give an analogy of how CFCs are dispersed",
+              "To illustrate that products containing CFCs are unimportant",
+              "To show what kind of products are being phased out"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor gives hair sprays and polishes as examples of aerosol products containing CFCs."
+          },
+          {
+            "id": "T2L44",
+            "number": 44,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T2L44Q.WAV",
+            "options": [
+              "Artificial chemicals called CFCs are used in the production of many goods.",
+              "The use of products containing CFCs allows CFCs to enter the atmosphere.",
+              "Oxygen combines with CFCs, causing the depletion of the ozone layer.",
+              "Ultraviolet light is able to reach the Earth's surface and damage DNA."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First, artificial chemicals called CFCs are used in products. T"
+          },
+          {
+            "id": "T2L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "Why is the professor cautious in her prediction of the future?",
+            "questionAudio": "T2L45Q.WAV",
+            "options": [
+              "She is not certain everyone will comply with the international agreements.",
+              "She doesn't think the CFCs will disperse without some assistance.",
+              "She doesn't know if alternatives to CFCs are acceptable.",
+              "She doesn't believe the ozone layer can recover from the environmental abuse."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that because of economic reasons, some countries are not enthusiastic about phasing out the production of CFCs."
+          }
+        ]
+      },
+      {
+        "groupId": "T2L46-50",
+        "startQuestion": 46,
+        "endQuestion": 50,
+        "fullAudio": "T2L46-50.WAV",
+        "audioClips": [
+          "T2L46-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T2L46-50C.png",
+        "transcript": "The basic principle of the American juvenile justice system is that children are different from adults. It follows that the justice system that deals with children should reflect t,T2L41-45WOMAN 1: As it is now well established, our planet's protective ozone layer has been thinning in recent decades. The ozone layer lies between fifteen and thirty kilometers above the Earth's surface and absorbs ultraviolet rays emitted by the sun. The thinning of the ozone layer occurs when artificial chemicals called chlorofluorocarbons (CFCs) and other chlorine compounds combine with the oxygen atoms of the ozone, and this depletes the amount of ozone. Ozone depletion has serious consequences because more ultraviolet light can reach the Earth's surface and damage DNA in humans and animals. The most well-known effect of this is the recent dramatic increase in skin cancers.\nMAN: So, who is actually responsible for creating these CFCs?\nWOMAN 1: Well, in a sense, we all are. CFCs are a main component of dry-cleaning and refrigerating chemicals. They are also produced in various manufacturing processes, in nitrogen fertilizers, and by aerosols used in products such as hr sprays and polishes. Fortunately, their use in aerosols has been phased out in most countries. These chemicals disperse in the lower atmosphere, where they linger for years before migrating to the stratosphere, where the damage to the ozone takes place.\nWOMAN 2: Dr. Alameda, this sounds very pessimistic. Haven't there been international agreements to phase out CFCs?\nWOMAN 1: Yes, in fact, since 1985 several international conventions have produced agreements.\nMAN: Would you say you are optimistic about the future of the ozone layer?\nWOMAN 1: I would say I'm guardedly optimistic for the long-term future. The various agreements are beginning to take effect. The problem is that it takes many years for the CFCs to disperse, and not all countries are enthusiastic about phasing out their production for economic reasons. However, it is generally expected that the ozone layer will recover completely by the year 2060 as long as we all abide by the international agreements.",
+        "questions": [
+          {
+            "id": "T2L46",
+            "number": 46,
+            "type": "LMC",
+            "text": "What is the talk mainly about?",
+            "questionAudio": "T2L46Q.WAV",
+            "options": [
+              "Juvenile justice system reform",
+              "Juvenile crime",
+              "Criminal statistics concerning young people",
+              "Criminal rehabilitation of youth"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker talks about the American justice system's needing to deal differently with children than it deals with adults and goes on to discuss reforming the system in a way that continues to protect children."
+          },
+          {
+            "id": "T2L47",
+            "number": 47,
+            "type": "LMC",
+            "text": "What resulted from the basic legal principle that children are different from adults?",
+            "questionAudio": "T2L47Q.WAV",
+            "options": [
+              "Juvenile offenders received individualized treatment.",
+              "Children were made vulnerable.",
+              "The justice system was overhauled.",
+              "The justice system was subjected to a rational examination."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the American justice system reflects the differences between children and adults, and it provides for these differences by individualizing the treatment of children."
+          },
+          {
+            "id": "T2L48",
+            "number": 48,
+            "type": "LMC",
+            "text": "Why is the professor concerned about reforms to the juvenile justice system?",
+            "questionAudio": "T2L48Q.WAV",
+            "options": [
+              "Juvenile criminals might be treated as adult criminals.",
+              "The reforms might fail to rehabilitate offend6ers.",
+              "Juvenile criminal offenses might continue to increase.",
+              "The reforms might not be tough enough."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor realizes that there is an increase in criminal offenses by juveniles. Nonetheless, he worries that juveniles who commit crimes may be treated as adult criminals."
+          },
+          {
+            "id": "T2L49",
+            "number": 49,
+            "type": "LMatchingTextWordorPhrase",
+            "text": "What do the three key areas of research examine?",
+            "questionAudio": "T2L49Q.WAV",
+            "options": [
+              "Juvenile's understanding of criminal behavior//Accountability",
+              "Juvenile's likelihood of committing crimes//Risk evaluation",
+              "Juvenile's likelihood of modifying behavior//Susceptibility to change"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Accountability involves assessing how juveniles differ from adults in their understanding of criminal behavior. Risk evaluation involves determining the chances that a juvenile will commit an offense. Susceptibility to change involves assessing how likely it is that a juvenile may respond to treatment."
+          },
+          {
+            "id": "T2L50",
+            "number": 50,
+            "type": "LTwo",
+            "text": "What doîes the professor recommend?",
+            "questionAudio": "T2L50Q.WAV",
+            "options": [
+              "Conducting more research in relevant fields",
+              "Spreading knowledge among professionals and the community",
+              "Dismantling the whole juvenile justice system",
+              "Debating issues with different juvenile offenders"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor recommends that research into the key areas be based on a thorough understanding of the related fields of child and adolescent development and that this knowledge be spread among professionals and throughout the community."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "<I>Compare and contrast your way of life with that of your parents. Which way of life do you think would be more satisfying to future generations?</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "<I>Compare and contrast your way of life with that of your parents. Which way of life do you think would be more satisfying to future generations?</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

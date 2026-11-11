@@ -1,0 +1,2443 @@
+{
+  "testNumber": 5,
+  "title": "Cambridge Practice Test 5",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 5 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T5S01",
+      "number": 1,
+      "type": "SComplete",
+      "text": "Blood flow <_> by the heart.",
+      "options": [
+        "is controlled",
+        "which is controlled",
+        "being controlled",
+        "controlled"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "Blood flow is controlled by the heart.",
+      "feedback": "A verb is missing - the word \"flow\" is a noun used as a subject in this sentence. The phrase \"by the heart\" indicates that the passin this sentence. The phrase \"by the heart\" indicates that the passi\"by the heart\" indicates that the passi/ve form of the verb should be used."
+    },
+    {
+      "id": "T5S02",
+      "number": 2,
+      "type": "SIdentify",
+      "text": "Copper is a metal <U1>which</U1> is <U2>easy</U2> worked and which <U3>mixes</U3> well with <U4>other</U4> metals to form alloys.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42",
+      "correctedSentence": "Copper is a metal which is easily worked and which mixes well with other metals to form alloys.",
+      "feedback": "Copper is a metal which is easily worked and which mixes well with other metals to form alloys."
+    },
+    {
+      "id": "T5S03",
+      "number": 3,
+      "type": "SComplete",
+      "text": "<_> that F. W. Frohawk made his greatest contribution to the field of natural history during the Victorian period.",
+      "options": [
+        "It was as a butterfly illustrator",
+        "He was as a butterfly illustrator",
+        "A butterfly illustrator",
+        "When he was a butterfly illustrator"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "It was as a butterfly illustrator that F. W. Frohawk made his greatest contribution to the field of natural history during the Victorian period.",
+      "feedback": "He was as a butterfly illustrator"
+    },
+    {
+      "id": "T5S04",
+      "number": 4,
+      "type": "SIdentify",
+      "text": "Sitka was the <U1>capital</U1> of Russian America, and <U2\u001c>the</U2> town still carries <U3>legacy</U3> of <U4>its</U4> Russian founders.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S6-S10",
+      "correctedSentence": "Sitka was the capital of Russian America, and the town still carries the legacy of its Russian founders.",
+      "feedback": "Sitka was the capital of Russian America, and the town still carries the legacy of its Russian founders."
+    },
+    {
+      "id": "T5S05",
+      "number": 5,
+      "type": "SComplete",
+      "text": "Today's sailors <_> many of the same dangers as their predecessors.",
+      "options": [
+        "face",
+        "face is",
+        "is facing",
+        "are faced"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S25-S31",
+      "correctedSentence": "Today's sailors face many of the same dangers as their predecessors.",
+      "feedback": "A verb in the simple present, \"face,\" agrees with the subject \"sailors\" and completes the sentence."
+    },
+    {
+      "id": "T5S06",
+      "number": 6,
+      "type": "SIdentify",
+      "text": "Special elastic <U1>ligament</U1> allow <U2>the</U2> whale's <U3>jaws</U3> to accommodate <U4>its</U4> wide-angle bites.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "Special elastic ligaments allow the whale's jaws to accommodate its wide-angle bites.",
+      "feedback": "Special elastic ligaments allow the whale's jaws to accommodate its wide-angle bites."
+    },
+    {
+      "id": "T5S07",
+      "number": 7,
+      "type": "SComplete",
+      "text": "<_> to iden\u0016tify children with special educational needs, its use is now widespread throughout educational systems.",
+      "options": [
+        "Although intelligence testing was initially developed",
+        "It was initially developed intelligence testing",
+        "When intelligence testing was initially developed",
+        "That intelligence testing was initially developed"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S95-S96",
+      "correctedSentence": "Although intelligence testing was initially developed to iden\u0016tify children with special educational needs, its use is now widespread throughout educational systems.",
+      "feedback": "It was initially developed intelligence testing"
+    },
+    {
+      "id": "T5S08",
+      "number": 8,
+      "type": "SIdentify",
+      "text": "<U1>When</U1> a human being walks, he <U2>or</U2> she exerts a certain <U3>number</U3> of force <U4>on</U4> the ground.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S1-S5",
+      "correctedSentence": "When a human being walks, he or she exerts a certain amount of force on the ground.",
+      "feedback": "When a human being walks, he or she exerts a certain amount of force on the ground."
+    },
+    {
+      "id": "T5S09",
+      "number": 9,
+      "type": "SComplete",
+      "text": "Braille is La system of raised dots used by blind people <_> with their fingers.",
+      "options": [
+        "who read",
+        "they read",
+        "who reading",
+        "read"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66",
+      "correctedSentence": "Braille is La system of raised dots used by blind people who read with their fingers.",
+      "feedback": "The independent clause is complete. An adjective clause beginning with \"who\" is needed to give more information about the noun \"blind people.\" The verb \"read\" agrees with \"people.\""
+    },
+    {
+      "id": "T5S10",
+      "number": 10,
+      "type": "SIdentify",
+      "text": "Sigmund Freud, the <U1>founding</U1> of psychoanalysis, <U2>settled</U2> in London <U3>at</U3> the <U4>age</U4> of eighty-two.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S37-S42",
+      "correctedSentence": "Sigmund Freud, the founder of psychoanalysis, settled in London at the age of eighty-two.",
+      "feedback": "Sigmund Freud, the founder of psychoanalysis, settled in London at the age of eighty-two."
+    },
+    {
+      "id": "T5S11",
+      "number": 11,
+      "type": "SComplete",
+      "text": "<_> of true seals, the monk seals are considered to be the most primitive.",
+      "options": [
+        "Of the eighteen species",
+        "The eighteen species",
+        "eighteen species are",
+        "There ar¥e eighteen species"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S77-S80",
+      "correctedSentence": "Of the eighteen species of true seals, the monk seals are considered to be the most primitive.",
+      "feedback": "The adverb clause is not complete. A phrase, \"of the eighteen species,\" begins the clause and gives more specific information."
+    },
+    {
+      "id": "T5S12",
+      "number": 12,
+      "type": "SIdentify",
+      "text": "Uranus is the <U1>alone</U1> planet <U2>in the</U2> solar system <U3>which</U3> is tipped on <U4>its</U4> side.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S43-S50",
+      "correctedSentence": "Uranus is the only planet in the solar system which is tipped on its side.",
+      "feedback": "Uranus is the only planet in the solar system which is tipped on its side."
+    },
+    {
+      "id": "T5S13",
+      "number": 13,
+      "type": "SComplete",
+      "text": "<_> lack of success and financial reward, Vincent van Gogh persevered with his painting.",
+      "options": [
+        "Despite his",
+        "Because of his",
+        "His",
+        "Although his"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S91-S94",
+      "correctedSentence": "Despite his lack of success and financial reward, Vincent van Gogh persevered with his painting.",
+      "feedback": "A preposition indicating a contrast, \"despite,\" is needed to complete the sentence. The \"lack of success and financial reward\" is in contrast to the action of persevering."
+    },
+    {
+      "id": "T5S14",
+      "number": 14,
+      "type": "SIdentify",
+      "text": "Scurvy, <U1>caused</U1> by a <U2>lackP</U2> of vitamin C, could kill <U3>the most</U3> of a ship's crew on <U4>a</U4> long voyage.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S82-S87",
+      "correctedSentence": "Scurvy, caused by a lack of vitamin C, could kill most of a ship's crew on a long voyage.",
+      "feedback": "Scurvy, caused by a lack of vitamin C, could kill most of a ship's crew on a long voyage."
+    },
+    {
+      "id": "T5S15",
+      "number": 15,
+      "type": "SComplete",
+      "text": "<_> spontaneity and playfulness but also the willingness to take risks.",
+      "options": [
+        "Not only does creative behavior involve",
+        "Despite creative behavior involves",
+        "Not until creative behavior involves",
+        "Seldom does creative behavior involve"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "Not only does creative behavior involve spontaneity and playfulness but also the willingness to take risks.",
+      "feedback": "Despite creative behavior involves"
+    },
+    {
+      "id": "T5S16",
+      "number": 16,
+      "type": "SIdentify",
+      "text": "The tiger's cunning, strength, and <U1>agile</U1> have <U2>earned</U2> <U3>it</U3> a <U4>legendary</U4> reputation.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S37-S42 and S88-S90",
+      "correctedSentence": "The tiger's cunning, strength, and agility ½have earned it a legendary reputation.",
+      "feedback": "\"Agile\" is an adjective. \"Agility\" is the noun form that should be used to be parallel with the nouns \"cunning\" and \"strength.\""
+    },
+    {
+      "id": "T5S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "In the eighteenth century, <_> as meeting places by literary figures.",
+      "options": [
+        "coffeehouses were used",
+        "coffeehouses which were used",
+        "even though coffeehouses were",
+        "there were coffeehouses"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "In the eighteenth century, coffeehouses were used as meeting places by literary figures.",
+      "feedback": "A subject, \"coffeehouses,\" and a verb, \"were used,\" are needed to complete the sentence. The phrase \"by literary figures\" indicates that the verb should be in the passive form."
+    },
+    {
+      "id": "T5S18",
+      "number": 18,
+      "type": "SIdentify",
+      "text": "A new battery <U1>for</U1> domestic appliances <U2>in the house</U2> is <U3>as</U3> thin and <U4>flexible</U4> as paper.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S95-S96",
+      "correctedSentence": "A new battery for domestic appliances is as thin and flexible as paper.",
+      "feedback": "A new battery for domestic appliances is as thin and flexible as paper."
+    },
+    {
+      "id": "T5S19",
+      "number": 19,
+      "type": "SComplete",
+      "text": "Several expeditions, <_>, have searched the slopes of Mount Ararat.",
+      "options": [
+        "attempting to find the remains of Noah's ark",
+        "attempted to find the remains of Noah's ark",
+        "whose attempts to find the remains of Noah's ark",
+        "attempt to find the remains of Noah's ark"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "Several expeditions, attempting to find the remains of Noah's ark, have searched the slopes of Mount Ararat.",
+      "feedback": "attempted to find the remains of Noah's ark"
+    },
+    {
+      "id": "T5S20",
+      "number": 20,
+      "type": "SIdentify",
+      "text": "<U1>The</U1> uncertainty principle states <U2>what</U2> we cannot know <U3>precisely</U3> both the position <U4>and</U4> velocity of a particle.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S54-S59",
+      "correctedSentence": "The uncertainty principle states that we cannot know precisely both the position and velocity of a particle.",
+      "feedback": "The word \"that,\" and not \"what,\" should introduce the noun clause. The noun clause is in the object position of the independent c\u0012lause."
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T5R01-14Plain",
+        "startQuestion": 1,
+        "endQuestion": 14,
+        "text": "In the natural world a multitude of symbiotic relationships has developed between different organisms. In many of these relationships, the partnership is one-sided; in other words, one of the symbionts benefits from the association while the other may be harmed by it.\n\nSometimes two species develop a relationship that is beneficial to both parties. This is called mutualism. A well-known example of such an alliance is found in the relationship of ants and aphids. Aphids are tiny pear-shaped insects that typically feed exclusively on a particular plant, living in crowded clusters on the underside of leaves or on stems. Their mouthparts are adapted to piercing plant tissue and efficiently sucking out the sap, not all of which they can metabolize. From the back of the insects two cornicles, or \"tailpipes,\" protrude and from these, aphids secrete honeydew, a sticky substance high in nutritive value. The honeydew, which falls onto the ground or onto the leaves of the plant, is intercepted by ants, which use the substance as a food source.\n\nSome ant species even stroke the back end of aphids - sometimes called \"ants' cows\" - with their legs and antennae in order to stimulate the flow of the liquid. Aphids may actually withhold the honeydew until ants caress them. Some ants take care of whole \"herds\" of aphids, building shelters for them and carrying them to new plants as the old ones die.\n\nThe ants, whose mouthparts are not well modified for obtaining juice from plants, rely on the aphids to obtain it for them. The aphids are not well adapted for fighting off predators and rely on ants to provide this service for them. Both these creatures, therefore, benefit from this arrangement of close cooperation in a relationship somewhat analogous to the relationship between cattle and human beings."
+      },
+      {
+        "groupId": "T5R15-25Plain",
+        "startQuestion": 15,
+        "endQuestion": 25,
+        "text": "The erection of the Brooklyn Bridge, which spans the East River in New York City, vies with the digging of the Suez Canal as one of the great engineering triumphs of the nineteenth century. Approval for the project was given in 1866, but a setback occurred before work had gotten under way - John Roebling, its celebrated designer and chief engineer, died from tetanus. His son, Washington Roebling, took over the mammoth task and set to work supervising the placement of the foundations on the riverbed.\n\nBecause work had to be performed below water level, enormous watertight chambers called caissons were used. The bottom of the caissons was open and rested on the riverbed.  Well-like tubes extending above the water level allowed compressed air to be pumped in to prevent water from entering and to provide air for the workers excavating the soil on the open bottom.  The extracted debris was passed out of other vertical shafts. As the soil was removed, the caissons gradually sank into the riverbed until they rested securely on underlying rock. On their upper sides the two granite towers from which the bridge was suspended were built up to an eventual height of 270 feet above water level.\n\nTo support the weight of the 1,600-foot span of roadway, four immense spun-wire cables - each 16 inches in diameter - were ingeniously fed out from cast-iron blocks mounted on the tops of the completed towers. From the cables steel rope suspenders reached down to the roadway itself, and extra support was gained from steel stays leading directly from the towers to the deck.\n\nDuring construction many novel problems were faced. One such predicament was caused by the compressed air pumped into the caissons. Workers ascending too rapidly through the decompression chambers suffered from the bends due to the formation of nitrogen bubbles in the blood. In 1872 Roebling himself became a victim of this crippling disease and spent the remainder of the building period supervising from his apartment overlooking the river. Roebling's wife, Emily, took over the practical day-to-day matters and became an expert herself on bridge construction.\n\nDespite numerous accidents and engineering difficulties, and even some financial scandals, in 1883 the bridge, dubbed \"a new wonder of the world,\" was finally opened to public traffic - a testament to the determination, skill, and daring of those who envisioned and built it."
+      },
+      {
+        "groupId": "T5R26-39Plain",
+        "startQuestion": 26,
+        "endQuestion": 39,
+        "text": "A few investigators are dedicated to researching mysterious unclassified beasts that orthodox scientists refuse to believe exist. While these cryptozoologists keep an open mind about their object of study, they are quick to point to cases in which the skeptics have been proved mistaken. For example, the pygmy hippopotamus, once claimed to be extinct, was found to exist in East Africa. The giant squid was dismissed as the product of an overactive imagination until a specimen was washed up on a beach in 1873.\n\nOne of the most celebrated mysteries being investigated by cryptozoologists is Bigfoot - a large, hairy, humanoid creature that many people claim to have seen in parts of North America. In 1967, a film of what was purported to be Bigfoot was actually taken by an amateur photographer. Of course, this footage may well have been a hoax. Nevertheless, many people remain convinced of Bigfoot's existence.\n\nThe Loch Ness Monster provokes similar disagreements among researchers. |In this case some authorities argue that while some creature may have been seen, it is probably a type of whale that penetrates the loch when the Ness River floods.\n\nThe yeti, or abominable snowman, of the Himalayas may be the most fascinating undiscovered creature. Many climbers claim to have seen the yeti or its footprints, and local inhabitants of the mountains are convinced of its existence. As in the case of Bigfoot, some film footage that is alleged to be of this creature exists. No doubt, such well-known mysteries as the yeti and less well-known mysteries as the Congo dinosaur and the Queensland tiger are intriguing and will no doubt be the object of much speculation as well as pursuit for years to come."
+      },
+      {
+        "groupId": "T5R40-50Plain",
+        "startQuestion": 40,
+        "endQuestion": 50,
+        "text": "History is replete with examples of group decisions overriding realistic and sensible courses of action. Two well-known psychological phenomena at the root of such group behavior are known as the risky shift effect and the \"groupthink\" hypothesis. Research into the former reveals that decisions taken by a group after discussion display more experimentation, are less conservative, and are more risky than those made by individuals acting alone prior to any discussion. It appears, then, that members of a group increase their tendency to engage in reckless behavior as a result of working with other members. For example, a group of managers or, on the other hand, a committee of union members is more likely to adopt a radical and perhaps confrontational approach to negotiations than any of the individuals acting separately.\n\nSuch risky behavior often goes hand in hand with the tendency of group members to become susceptible to \"groupthink,\" a notion developed by Irving Janis whereby each individual tries to conform to what they perceive is the disposition of the group as a whole. They may be overtaken by an illusion of group invulnerability and may take on an attitude of excessive optimism.  Furthermore, members may start to believe in their group's inherent righteousness.  The group conformity is further cemented by a process of self-censorship, which prevents individuals from giving voice to misgivings. These biases can become so dominant that members fail to make realistic evaluations of the outcomes of their decisions. }\n\nA much-cited historical illustration of groupthink is the decision by the Kennedy Administration to order the disastrous Bay of Pigs invasion of Cuba in 1961. Individual advisors of the president who initially questioned the wisdom of the invasion modified their views after group discussion and concurred with the risky venture. Though such political blunders furnish the most salient examples of these phenomena, the dangers created by the inclinations of group members to make irrational decisions are evident in all human endeavors."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T5R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "What is this passage mainly about?",
+        "paragraphNumber": 1,
+        "options": [
+          "An example of mutualism",
+          "One-sided symbiotic relationships",
+          "Species that develop harmful symbiotic relationships",
+          "The relationship of symbionts in a partnership"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, which of the following statements is true?"
+      },
+      {
+        "id": "T5R02",
+        "number": 2,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following statements is true?",
+        "paragraphNumber": 1,
+        "options": [
+          "Some ants are insect herders.",
+          "Some aphids take undue advantage of their hosts.",
+          "Some ants remove dead aphids from crowded clusters.",
+          "Some aphids benefit more from the relationship than ants."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "nefit more from the relationship than ants."
+      },
+      {
+        "id": "T5R03",
+        "number": 3,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>herds</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>herds</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "clusters",
+          "mouthparts",
+          "relationships",
+          "cornicles"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In the passage, 'herds' refers to large groupings or 'clusters' of aphids."
+      },
+      {
+        "id": "T5R04",
+        "number": 4,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 2 in which the author implies why aphids produce honeydew.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "natural",
+          "world",
+          "multitude",
+          "symbiotic"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author implies why aphids produce honeydew."
+      },
+      {
+        "id": "T5R05",
+        "number": 5,
+        "type": "RMCSynonymWord",
+        "text": "The word \"protrude\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "project",
+          "upraise",
+          "propel",
+          "develop"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, which of the following is true of aphids?"
+      },
+      {
+        "id": "T5R06",
+        "number": 6,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following is true of aphids?",
+        "paragraphNumber": 1,
+        "options": [
+          "Theyÿÿÿû",
+          "According to the passage, which of the following is true of aphids?",
+          "RMCSimple",
+          "They"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "They adapt easily to different plants."
+      },
+      {
+        "id": "T5R07",
+        "number": 7,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"stroke\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "stroke",
+          "Some",
+          "species",
+          "even"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The ants carry the aphids to new plants as the old \"plants\" die."
+      },
+      {
+        "id": "T5R08",
+        "number": 8,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>ones</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>ones</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "ones",
+          "Some",
+          "ants",
+          "take"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The ants carry the aphids to new plants as the old \"plants\" die."
+      },
+      {
+        "id": "T5R09",
+        "number": 9,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>them</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>them</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "them",
+          "Aphids",
+          "actually",
+          "withhold"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The aphids obtain the juice from plants for \"the ants.\""
+      },
+      {
+        "id": "T5R10",
+        "number": 10,
+        "type": "RMCSimple",
+        "text": "According to the passage, what is the relationship that exists between ants and aphids?",
+        "paragraphNumber": 1,
+        "options": [
+          "Which of the following is NOT true of the symbiotic relationship between ants and aphids?",
+          "RMCSimple",
+          "Aphids suck honeydew out of plants for ants.",
+          "Ants eat aphid secretions."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is mutually1], [1543, 1550], [1552, 1553]], #answer: 6], #QHash: [[18, 26], [132, 140]], #QText1: \"Look at the word <B>plausible</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>plausible</B>.\"]"
+      },
+      {
+        "id": "T5R11",
+        "number": 11,
+        "type": "RMCSynonymWord",
+        "text": "The word \"analogous\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "parallel",
+          "anesthetic",
+          "divergent",
+          "logical"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the follre dependent on ants."
+      },
+      {
+        "id": "T5R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "Which of the following is NOT true of the symbiotic relationship between ants and aphids?",
+        "paragraphNumber": 1,
+        "options": [
+          "Aphids suck honeydew out of plants for ants.",
+          "Ants eat aphid secretions.",
+          "Ants milk their aphid \"cows\" by stroking them.",
+          "Aphids are dependent on ants."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the foll the inquiry, suggests that the c"
+      },
+      {
+        "id": "T5R13",
+        "number": 13,
+        "type": "RMCSimple",
+        "text": "Which of the follre dependent on ants.",
+        "paragraphNumber": 1,
+        "options": [
+          "Which of the foll",
+          "The aphids do not suck honeydew out of plants for ants. The honeydew is a by-product that the aphids produce when sucking the sap from leaves.",
+          "RMCSimple",
+          "A fish that eats the harmful bacteria off the scales of another fish"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A moss that covers tree leaves in such a way that the leaves cannot get sunlight"
+      },
+      {
+        "id": "T5R14",
+        "number": 14,
+        "type": "RMCOther",
+        "text": "Why does the author mention cattle and human beings in paragraph 4?",
+        "paragraphNumber": 4,
+        "options": [
+          "To give an example of another case of mutualism",
+          "RMCOther",
+          "To contrast symbiotic relationships",
+          "To show how humans protect cattle"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "To compare how humans and ants get their food"
+      },
+      {
+        "id": "T5R15",
+        "number": 15,
+        "type": "RMCSimple",
+        "text": "What is this passage mainly about?",
+        "paragraphNumber": 1,
+        "options": [
+          "The challenges faced while building the Brooklyn Bridge",
+          "The use of underwater caissons in bridge construction",
+          "The erection of the towers of the Brooklyn Bridge",
+          "The problems faced by nineteenth-century bridge builders"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When something is \"extracted,\" it is \"removed\" or taken away."
+      },
+      {
+        "id": "T5R16",
+        "number": 16,
+        "type": "RMCSimple",
+        "text": "The phrase vies with in paragraph 1 is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "rivals",
+          "undermines",
+          "compares with",
+          "When something \"vies with\" something else, it \"rivals\" it or competes with it."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When something is \"extracted,\" it is \"removed\" or taken away."
+      },
+      {
+        "id": "T5R17",
+        "number": 17,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"extracted\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "extracted",
+          "debris",
+          "passed",
+          "other"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"extracted\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R18",
+        "number": 18,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>shafts</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to <B>shafts</B>.",
+        "paragraphNumber": 2,
+        "options": [
+          "tubes",
+          "towers",
+          "cables",
+          "materials"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"shafts\" and \"tubes\" are both passageways. The shaft was used for soil removal and the tube for worker access."
+      },
+      {
+        "id": "T5R19",
+        "number": 19,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "their",
+          "upper",
+          "sides",
+          "granite"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The two granite towers were built on the upper sides of \"the caissons.\""
+      },
+      {
+        "id": "T5R20",
+        "number": 20,
+        "type": "RMCSimple",
+        "text": "It can be inferred from the passage that Emily Roebling",
+        "paragraphNumber": 1,
+        "options": [
+          "was dedicated to completing the bridge",
+          "was a qualified bridge engineer",
+          "also became a victim of the bends",
+          "had training from the bridge's designer"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author implies that Washington Roebling worked in the watertight chambers."
+      },
+      {
+        "id": "T5R21",
+        "number": 21,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 2 in which the author implies why aphids produce honeydew.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "erection",
+          "Brooklyn",
+          "Bridge",
+          "which"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author implies that Washington Roebling worked in the watertight chambers."
+      },
+      {
+        "id": "T5R22",
+        "number": 22,
+        "type": "RAddSentenceToParagraph",
+        "text": "The walls tapered from a thickness of 8 feet at the top to only a few inches at the bottom edge, allowing the device to sink into the mud.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "The walls tapered from a thickness of 8 feet at the top to only a few inches at the bottom edge, allowing the device to sink into the mud."
+      },
+      {
+        "id": "T5R23",
+        "number": 23,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following statements is true?",
+        "paragraphNumber": 2,
+        "options": [
+          "The bridge's designer did not see the completed structure.",
+          "The bends was considered a minor problem.",
+          "The support towers were made of steel.",
+          "The foundations were too unstable to support the roadway."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The bridge's designer, John Roebling, died before the bridge was constructed."
+      },
+      {
+        "id": "T5R24",
+        "number": 24,
+        "type": "RMCSimple",
+        "text": "Which of the following is NOT implied or stated about the Brooklyn Bridge in the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "The bridge was the first to use underwater caissons.",
+          "Workers were injured during the construction.",
+          "Disputes about money occurred.",
+          "The support towers were made of stone."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author's attitude toward the construction of the Brooklyn Bridge can best be described as one of"
+      },
+      {
+        "id": "T5R25",
+        "number": 25,
+        "type": "RMCSimple",
+        "text": "The author's attitude toward the construction of the Brooklyn Bridge can best be described as one of",
+        "paragraphNumber": 1,
+        "options": [
+          "admiration",
+          "skepticism",
+          "indifference",
+          "curiosity"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author describes the bridge as \"one of the great engineering triumphs of the nineteenth century\" and claims that it is \"a testament to the determination, skill, and daring of those who envisioned and built it.\""
+      },
+      {
+        "id": "T5R26",
+        "number": 26,
+        "type": "RMCSimple",
+        "text": "The passage mainly discusses",
+        "paragraphNumber": 1,
+        "options": [
+          "unknown creatures",
+          "wild animals",
+          "false beliefs",
+          "cryptozoologists"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Click on the picture below that gives an example of the kind of creature a cryptozoologist would probably show most interest in."
+      },
+      {
+        "id": "T5R27",
+        "number": 27,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that gives an example of the kind of creature a cryptozoologist would probably show most interest in.",
+        "paragraphNumber": 1,
+        "options": [
+          "A mysterious giant octopus",
+          "A common domestic dog",
+          "A brown bear",
+          "A honeybee"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T5R27Q1.png",
+          "assets/images/cambridge/T5R27Q2.png",
+          "assets/images/cambridge/T5R27Q3.png",
+          "assets/images/cambridge/T5R27Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Since cryptozoologists research mysterious unclassified beasts, they would be most interested in a giant octopus, which is not known to exist."
+      },
+      {
+        "id": "T5R28",
+        "number": 28,
+        "type": "RClickWordReferPhrase",
+        "text": "Look at the word <B>object of study</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>object of study</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "object of study",
+          "While",
+          "these",
+          "keep"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"object of study\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R29",
+        "number": 29,
+        "type": "RMCSimple",
+        "text": "The author discusses the pygmy hippopotamus to show that creatures that many people believe do not exist",
+        "paragraphNumber": 1,
+        "options": [
+          "may exist",
+          "live in Africa",
+          "are extinct",
+          "are fascinating"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author points out the example of the pygmy hippopotamus because its existence proved skeptics to be mistaken. Therefore, some unclassified creatures may exist."
+      },
+      {
+        "id": "T5R30",
+        "number": 30,
+        "type": "RMCSimple",
+        "text": "The giant squid became a classified creature when",
+        "paragraphNumber": 1,
+        "options": [
+          "one was washed up on the shore",
+          "it was dismissed as having been imagined",
+          "one was found in East Africa",
+          "it was filmed to sell products"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Something that is \"celebrated\" or \"renowned\" is famous for a particular quality."
+      },
+      {
+        "id": "T5R31",
+        "number": 31,
+        "type": "RMCSynonymWord",
+        "text": "The word \"celebrated\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "renowned",
+          "engaging",
+          "appealing",
+          "manipulated"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"hoax\" is a kind of \"trick\" in which one makes others believe that something fake is genuine."
+      },
+      {
+        "id": "T5R32",
+        "number": 32,
+        "type": "RMCSynonymWord",
+        "text": "The word \"celebrated\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "renowned",
+          "engaging",
+          "appealing",
+          "manipulated"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"authorities\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R33",
+        "number": 33,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"authorities\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "authorities",
+          "this",
+          "case",
+          "some"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"authorities\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R34",
+        "number": 34,
+        "type": "RMCSynonymWord",
+        "text": "The word \"penetrates\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "enters",
+          "attacks",
+          "retreats",
+          "pervades"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, the existence of the yeti is"
+      },
+      {
+        "id": "T5R35",
+        "number": 35,
+        "type": "RMCSimple",
+        "text": "According to the passage, the existence of the yeti is",
+        "paragraphNumber": 1,
+        "options": [
+          "considered certain by some Himalayan inhabitants",
+          "a well-established fact",
+          "less well-known than that of the Congo dinosaur",
+          "proved by its footprints"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": ""
+      },
+      {
+        "id": "T5R36",
+        "number": 36,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"fascinating\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "fascinating",
+          "yeti",
+          "abominable",
+          "snowman"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"fascinating\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R37",
+        "number": 37,
+        "type": "RMCSynonymWord",
+        "text": "The word \"speculation\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "conjecture",
+          "research",
+          "observation",
+          "disagreement"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following statements is NOT true of unclassified beasts?"
+      },
+      {
+        "id": "T5R38",
+        "number": 38,
+        "type": "RMCSimple",
+        "text": "Which of the following statements is NOT true of unclassified beasts?",
+        "paragraphNumber": 1,
+        "options": [
+          "Scientists have proven that Bigfoot exists in North America.",
+          "Mountain climbers claim to have seen the yeti.",
+          "The Loch Ness Monster may be a whale.",
+          "The pygmy hippopotamus exists."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is the main topic of the passage?"
+      },
+      {
+        "id": "T5R39",
+        "number": 39,
+        "type": "RClickParagraph",
+        "text": "#",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following is the main topic of the passage?"
+      },
+      {
+        "id": "T5R40",
+        "number": 40,
+        "type": "RMCSimple",
+        "text": "Which of the following is the main topic of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "Factors affecting rational group decisions",
+          "Events leading to the Bay of Pigs",
+          "Phenomena affecting workplace negotiations",
+          "Illusions leading to group conformity"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, group members"
+      },
+      {
+        "id": "T5R41",
+        "number": 41,
+        "type": "RMCSimple",
+        "text": "According to the passage, group members",
+        "paragraphNumber": 1,
+        "options": [
+          "tend to make risky decisions",
+          "are confrontational by nature",
+          "tend to become invulnerable",
+          "are susceptible to confrontations"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Behavior that is \"risky\" or \"reckless\" involves taking pa"
+      },
+      {
+        "id": "T5R42",
+        "number": 42,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"risky\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "risky",
+          "well",
+          "known",
+          "psychological"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Behavior that is \"risky\" or \"reckless\" involves taking pa"
+      },
+      {
+        "id": "T5R43",
+        "number": 43,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>those</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>those</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "those",
+          "Research",
+          "into",
+          "former"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Decisions taken by a group are more risky than \"decisions\" made by individuals."
+      },
+      {
+        "id": "T5R44",
+        "number": 44,
+        "type": "RMCSimple",
+        "text": "According to the passage, the risky shift effect is shown",
+        "paragraphNumber": 1,
+        "options": [
+          "by group members",
+          "by risky individuals",
+          "by vulnerable individuals",
+          "by union members"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What does the author mean by the expression {hand in hand} in paragraph 2?"
+      },
+      {
+        "id": "T5R45",
+        "number": 45,
+        "type": "RMCOther",
+        "text": "What does the author mean by the expression hand in hand in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "The risky shift effect is frequently seen in conjunction with the groupthink ten",
+          "The members of a risky shift group work well with those of a groupthink group.",
+          "The members of both risky shift and groupthink groups are close friends.",
+          "Risky shift behavior and the susceptibility of groupthink are both notions developed by Irving Janis."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"tendency\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R46",
+        "number": 46,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"tendency\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "tendency",
+          "appears",
+          "then",
+          "that"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"tendency\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T5R47",
+        "number": 47,
+        "type": "RAddSentenceToParagraph",
+        "text": "To speak out might incur the displeasure of colleagues.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "To speak out might incur the displeasure of colleagues."
+      },
+      {
+        "id": "T5R48",
+        "number": 48,
+        "type": "RMCSimple",
+        "text": "According to the author, groupthink and the risky shift effect tend to make group members behave in all of the following ways EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "questioning the other members' biases",
+          "displaying unfounded optimism",
+          "showing a tendency to experiment",
+          "conforming to group tendencies"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated that members enter into a process of self-censorship that prevents them from giving voice to misgivings. In other words, they do not question other members' biases."
+      },
+      {
+        "id": "T5R49",
+        "number": 49,
+        "type": "RMCSimple",
+        "text": "The decision to invade Cuba in 1961 illustrates",
+        "paragraphNumber": 1,
+        "options": [
+          "the dangers of groupthink",
+          "the wisdom of discussion",
+          "the independence of Kennedy's advisors",
+          "the frequency of political blunders"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be inferred from the passage that the author thinks the two psychological phenomena"
+      },
+      {
+        "id": "T5R50",
+        "number": 50,
+        "type": "RMCSimple",
+        "text": "",
+        "paragraphNumber": 1,
+        "options": [
+          "influence group decisions",
+          "are fundamentally righteous",
+          "are inherently unstable",
+          "censor the outcomes"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be inferred from the passage that the author thinks the two psychological phenomena"
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T5L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She doesn't plan to go to the concert.",
+          "She has an mean?",
+          "L21-L24",
+          "L21-L24"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L01C.WAV",
+        "questionAudio": "T5L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L01C.png",
+        "transcript": "MAN: You're going to the concert in the park this afternoon, aren't you?\nWOMAN: I have that science report to write up for tomorrow.",
+        "feedback": ""
+      },
+      {
+        "id": "T5L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "There are four issues per year.",
+          "The magazine comes out four times a month.",
+          "There are only four issues left for this year.",
+          "Only four issues have come out so far this year."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L02C.WAV",
+        "questionAudio": "T5L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L02C.png",
+        "transcript": "WOMAN: How many issues do you get for a yearly subscription to that new psychology magazine?\nMAN: It only comes out quarterly.",
+        "feedback": "The man answers \"quarterly,\" which means \"four times,\" to the woman's question of how many issues come out in a year."
+      },
+      {
+        "id": "T5L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She enjoys shorter, more intensive studies held in a relaxed atmosphere.",
+          "She would prefer to attend the regular semesters.",
+          "She has never taken a class during the summer.",
+          "She would rather relax than do intensive work in the summer."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L03C.WAV",
+        "questionAudio": "T5L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L03C.png",
+        "transcript": "MAN: You've been attending summer sessions every year, haven't you?\nWOMAN: Yes. There's a more relaxed atmosphere, and even though the course work is more intensive, it doesn't drag on the way the regular semesters do.",
+        "feedback": "The woman describes the summer sessions as more intensive, but shorter and more relaxed."
+      },
+      {
+        "id": "T5L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What did Sally do?",
+        "options": [
+          "She submitted a report.",
+          "She followed Michael.",
+          "She promised a report.",
+          "She recommended Michael."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L04C.WAV",
+        "questionAudio": "T5L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L04C.png",
+        "transcript": "MAN: Has Sally followed up on Michael's and your recommendations?\nWOMAN: Yes, she has. And her report looks very promising.",
+        "feedback": "It can be inferred from the conversation that Sally wrote a report concerning the recommendations she \"followed up on.\""
+      },
+      {
+        "id": "T5L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the woman say about Rebecca?",
+        "options": [
+          "She was probably tired from all her swimming.",
+          "She has to swim laps until she's worn out.",
+          "She always swims laps until she's exhausted.",
+          "She exhausted all the other lap swimmers."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L05C.WAV",
+        "questionAudio": "T5L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L05C.png",
+        "transcript": "MAN: Rebecca is the best on the university swim team.\nWOMAN: Yes, but she must have been exhausted after swimming all those laps.",
+        "feedback": "\"Was probably tired\" means \"must have been exhausted,\" and swimming was what caused Rebecca to be tired."
+      },
+      {
+        "id": "T5L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does the man say about Pete?",
+        "options": [
+          "He has become very busy with his research.",
+          "He's working for a packaging company.",
+          "He has just completed a research assignment.",
+          "He had to cover the research for a classmate."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L06C.WAV",
+        "questionAudio": "T5L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L06C.png",
+        "transcript": "WOMAN: I haven't seen Pete fo$I",
+        "feedback": "\"To be wrapped up in something\" means \"to be completely involved or very busy with it.\""
+      },
+      {
+        "id": "T5L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What is the man probably going to do?",
+        "options": [
+          "Rewrite the paper",
+          "Buy a computer",
+          "Read his handwriting",
+          "Clear the papers away"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L07C.WAV",
+        "questionAudio": "T5L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L07C.png",
+        "transcript": "WOMAN: Would you please type this paper? I can't read your handwriting.\nMAN: I'm sorry, Dr. Mills. I don't have access to a computer, but I could try to rewrite it more clearly.",
+        "feedback": "The man offers to rewrite the paper more clearly."
+      },
+      {
+        "id": "T5L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What can be inferred about the woman?",
+        "options": [
+          "She had a difficult time checking out.",
+          "She was charged for her destructive behavior.",
+          "She didn't turn in her key to the housing office.",
+          "She doesn't want to walk over to the housing office."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L08C.WAV",
+        "questionAudio": "T5L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L08C.png",
+        "transcript": "MAN: Turning in the key to the housing office wasn't as bad as all that, was it?\nWOMAN: Well, first I had to have someone check the room for damage. Then I was charged for a hole that I know I didn't make, and ... I don't want to talk about it.",
+        "feedback": "The woman gives some examples of how bad the process was and then states that she doesn't want to talk about it. This implies that she had a difficult time."
+      },
+      {
+        "id": "T5L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He can read t~he signs if she goes slower.",
+          "He doesn't know how to read road signs.",
+          "He can read the signs if she takes the exit.",
+          "He's not certain where she should slow down."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L09C.WAV",
+        "questionAudio": "T5L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L09C.png",
+        "transcript": "WOMAN: Do I take this exit?\nMAN: I'm not sure. Slow down so I can read the road signs.",
+        "feedback": "It can be inferred that the man cannot tell the woman whether or not she should get off the highway (\"take the exit\") unless she goes slow enough for him to read the road signs."
+      },
+      {
+        "id": "T5L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "She doesn't want to miss the climb.",
+          "She'd prefer to hear the talk.",
+          "She hasn't seen the dean in a long time.",
+          "She'll speak to them after the climb."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L10C.WAV",
+        "questionAudio": "T5L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L10C.png",
+        "transcript": "MAN: You ought to come with us to hear the dean's speech.\nWOMAN: And miss the mountain-climbing trip?",
+        "feedback": "The woman is declining the man's invitation to hear the dean's speech by implying that she would not want to miss the mountain-climbing trip."
+      },
+      {
+        "id": "T5L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Peter allowed him to use the car.",
+          "Peter got the car for him.",
+          "Peter borrowed his car.",
+          "He and Peter were permitted to use the car."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L11C.WAV",
+        "questionAudio": "T5L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L11C.png",
+        "transcript": "WOMAN: How did you get here so fast?\nMAN: Peter let me use his car.",
+        "feedback": "The word \"let\" means the same as \"allow.\""
+      },
+      {
+        "id": "T5L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the woman suggest?",
+        "options": [
+          "The man should officially report that his bicycle is missing.",
+          "The man should give her report to the campus police.",
+          "The man should go to the classroom building and return the bicycle.",
+          "The man should explain the details of her report to an officer."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L12C.WAV",
+        "questionAudio": "T5L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L12C.png",
+        "transcript": "MAN: I left my bicycle in front of the classroom building, and when I got out of class, it was gone.\nWOMAN: I would report that if I were you. Why don't you go to the campus police right now and give the details to one of the officers?",
+        "feedback": "The woman is suggesting that the man report the theft to the campus police and give someone there the details."
+      },
+      {
+        "id": "T5L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What happened to the man?",
+        "options": [
+          "He was waiting for the woman in the wrong place.",
+          "He was waiting for the class to begin.",
+          "He was late getting to the classroom building.",
+          "He was lucky to find the entrance door to the building."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L13C.WAV",
+        "questionAudio": "T5L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L13C.png",
+        "transcript": "WOMAN: Where were you? The class is starting.\nMAN: I was waiting for you in front of the building. It's lucky I thought to lookt be interested in hearing about a special weekend climbing workshop that will be given at the State Park Climbing Center next month. The instructors will include Jim Brown, who is one of the most experienced rock climbers in the world today. I'm sure that participants in the course will gain a great deal of confidence and will greatly refine their techniques. There will be room for only twenty participants so everyone will be given close attention. The cost for the weekend, including accommodations and food, is three hundred dollars. There will be a small extra charge for equipment for those participants who don't have their own. Also, a thirty-dollar nonrefundable deposit is required by the end of next week, and the balance should be paid by July 20. I do urge everyone here to take advantage of this wonderful opportunity. If you want to register, I'll give you an application form. After our climb this morning, return the form and deposit to my office as soon as possible.",
+        "feedback": "The man was waiting for the woman in front of the classroom building. It can be inferred that when he found her inside the building, he'd been waiting in the wrong place."
+      },
+      {
+        "id": "T5L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the woman say about Tim?",
+        "options": [
+          "He's not interested in being on a team.",
+          "He wasn't good enough to make the team.",
+          "He likes shooting competitions.",
+          "He can't decide which sports he should try out for."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L14C.WAV",
+        "questionAudio": "T5L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L14C.png",
+        "transcript": "MAN: Have you seen Tim shoot baskets? He should be on the university team.\nWOMAN: He is good at basketball, but I don't think he likes to compete in sports.",
+        "feedback": "Since Tim does not like to compete, he probably doesn't want to be on a university team."
+      },
+      {
+        "id": "T5L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What are the people discussing?",
+        "options": [
+          "What they are taking on their camping trip",
+          "How to cool down in the heat",
+          "Where to take the first-aid course",
+          "How to tend to the injured"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L15C.WAV",
+        "questionAudio": "T5L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L15C.png",
+        "transcript": "WOMAN: Have you already packed the tent and the cooler?\nMAN: Yes, and I've thrown in the sle2eping bags and the first-aid kit, too.",
+        "feedback": "When people go camping, they usually take a tent, a cooler for food, sleeping bags, and a first-aid kit."
+      },
+      {
+        "id": "T5L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Sue is good at convincing people to help.",
+          "Sue has knocked on people's doors for money.",
+          "Sue causes people to waste their time and money.",
+          "Sue cashes checks for people who have time to wait."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L16C.WAV",
+        "questionAudio": "T5L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L16C.png",
+        "transcript": "MAN: You can't imagine all I've done for Sue and her causes.\nWOMAN: I know. She has a knack for getting people to donate their time and money.",
+        "feedback": "The expression \"have a knack for something\" means \"to be good at it.\""
+      },
+      {
+        "id": "T5L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She can take up to eight tablets a day.",
+          "She can take tablets up to eight times a day.",
+          "She cannot take the tablets for more than one day.",
+          "S"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L17C.WAV",
+        "questionAudio": "T5L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L17C.png",
+        "transcript": "WOMAN: These are the pills the doctor at the University Health Center prescribed.\nMAN: It says you can take two tablets every four hours.\nWOMAN: Yes, but no more than eight in twenty-four hours.",
+        "feedback": "The phrase \"no more than eight in twenty-four hours\" means the same as \"up to eight tablets a day.\""
+      },
+      {
+        "id": "T5L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "They could watch a program on television.",
+          "They're supposed to continue studying.",
+          "They should go to the six-o'clock movie.",
+          "They could see a very funny comedian."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T5L18C.WAV",
+        "questionAudio": "T5L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T5L18C.png",
+        "transcript": "WOMAN: I really can't do any more studying. Let's go see a movie.\nMAN: I need a break from studying, too, but I don't have the money to go anywhere.\nWOMAN: Any suggestions for what to do, then?\nMAN: Well, I've heard that the comedy on Channel 6 is supposed to be very funny.",
+        "feedback": "The man is suggesting that they watch a comedy on television.",
+        "correctAnswerIndices": [
+          0
+        ]
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T5L19-21",
+        "startQuestion": 19,
+        "endQuestion": 21,
+        "fullAudio": "T5L19-21.WAV",
+        "audioClips": [
+          "T5L19-21.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L19-21C.png",
+        "transcript": "MAN: I've heard the band that is going to be playing at the Student Union tonight is very good. Would you like to go dancing?\nWOMAN: I'm sorry, I can't.\nMAN: If you don't know how to dance, I ïcan show you.\nWOMAN: It's not that. I twisted my ankle at the track while jogging last night, and it still hurts.\nMAN: If you are still in pain, you may have seriously injured some ligaments. Would you like me to take you to the hospital for an X ray?\nWOMAN: That's very kind of you, but I have an exam I can't miss. It's in the Testing Center, right by the Student Health Clinic. After the exam, I can hobble over and have it looked at.\nMAN: The Testing Center is on the far side of campus. At least let me drive you over there.\nWOMAN: Oh, I would hate to be so much trouble.\nMAN: It's no trouble at all. I'll get my car and meet you in front of the Administration Building.\nWOMAN: Thank you. I'd really appreciate the lift.",
+        "questions": [
+          {
+            "id": "T5L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "Where does this conversation probably take place?",
+            "questionAudio": "T5L19Q.WAV",
+            "options": [
+              "On a university campus",
+              "In front of the Administration Building",
+              "At a Student Union dance",
+              "At the racetrack"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man offers to drive the woman to the \"far side of campus,\" and tells her to meet him in front of the Administration Building. This suggests that they are somewhere on a university campus."
+          },
+          {
+            "id": "T5L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "Why doesn't the woman want to go dancing?",
+            "questionAudio": "T5L20Q.WAV",
+            "options": [
+              "She's injured herself.",
+              "She's worried about her exam.",
+              "She doesn't like the band.",
+              "She doesn't know how to dance."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman refuses the man's offer to go dancing because she has twisted her ankle."
+          },
+          {
+            "id": "T5L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "The man offers to do all but o\\ne of the following. Which does he NOT offer to do?",
+            "questionAudio": "T5L21Q.WAV",
+            "options": [
+              "Show her how to dance at the hospital",
+              "Give her a ride to the Testing Center",
+              "Take her dancing",
+              "Take her for treatment"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man offers to teach her to dance and to take her to the hospital, but he doesn't offer to teach her how to dance at the hospital."
+          }
+        ]
+      },
+      {
+        "groupId": "T5L22-26",
+        "startQuestion": 22,
+        "endQuestion": 26,
+        "fullAudio": "T5L22-26.WAV",
+        "audioClips": [
+          "T5L22-26.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L22-26C.png",
+        "transcript": "WOMAN: I'm having a terrible time in my Russian class. The midterm test scores have been posted, and I failed dismally.\nMAN: That's too bad. Well, I could help you in math or chemistry, but not in foreign languages.<îP>WOMAN: I'm just at my wits' end.\nMAN: Why don't you get a tutor?\nWOMAN: A tutor?\nMAN: Yeah, in the Student Service Center they have lists of people who are willing to teach subjects they're good at.\nWOMAN: Do you think there would be anyone who could help me with my Russian?\nMAN: Why not? There might be a Russian exchange student or a graduate student in the Russian Department who needs spare cash.\nWOMAN: Is it very expensive?\nMAN: It doesn't cost at all.\nWOMAN: But you just said that a student who needs money ...\nMAN: I mean it doesn't cost you anything at all. The Student Service Center pays their tutors from some grant they get.\nWOMAN: Wow! Maybe there's hope for me after all. Thanks for the information.",
+        "questions": [
+          {
+            "id": "T5L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What service are the people discussing?",
+            "questionAudio": "T5L22Q.WAV",
+            "options": [
+              "The tutorial service",
+              "The student-exchange program",
+              "The Russian Department",
+              "The Student Service Center"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man suggests that the woman get a tutor and then explains about the tutorial service provided by the Student Service Center."
+          },
+          {
+            "id": "T5L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "In what way does the man help the woman?",
+            "questionAudio": "T5L23Q.WAV",
+            "options": [
+              "He tells her about a university service.",
+              "He helps her with math and chemistry.",
+              "He offers to tutor her.",
+              "He introduces her to a Russian exchange student."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man gives the woman in"
+          },
+          {
+            "id": "T5L24",
+            "number": 24,
+            "type": "LMC",
+            "text": "How could the Student Service Center help the woman?",
+            "questionAudio": "T5L24Q.WAV",
+            "options": [
+              "They could put her in touch with someone who knows Russian.",
+              "They could introduce her to some interesting graduate students.",
+              "They could arrange for her to go to Russia in their student-exchange program.",
+              "They could put her name on a list of teachers."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The center has a list of people willing to help students who need tutoring. They could give her the contact information for someone who can help her with her Russian class."
+          },
+          {
+            "id": "T5L25",
+            "number": 25,
+            "type": "LMC",
+            "text": "Why does the woman assume she has to pay?",
+            "questionAudio": "T5L25Q.WAV",
+            "options": [
+              "Because people who need extra money work as tutors",
+              "Because the graduate students have to be paid",
+              "Because the Student Service Center pays the fees",
+              "Because the service is funded by a grant"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man says that people who need spare cash"
+          },
+          {
+            "id": "T5L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "What will the woman probably do as a result of this conversation?",
+            "questionAudio": "T5L26Q.WAV",
+            "options": [
+              "Get help with her lessons",
+              "Have the man help her",
+              "Sign up to teach",
+              "Fail her Russian course"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman wants help with her Russian lessons so she can pass the course. Now that she knows about the service, she will probably go to the center and find a tutor."
+          }
+        ]
+      },
+      {
+        "groupId": "T5L27-33",
+        "startQuestion": 27,
+        "endQuestion": 33,
+        "fullAudio": "T5L27-33.WAV",
+        "audioClips": [
+          "T5L27-33.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L27-33C.png",
+        "transcript": "In areas of land underlain by limestone and subject to water erosion, a distinctive type of landscape is formed. Rainwater, containing chemicals taken from the air and the soil, forms a%r\tÁ&z'T5L34-38Weak acid solution. This solution then seeps into cracks in the limestone and dissolves it, forming caves and channels.\nBeneath the surface, the land may become honeycombed with caverns and underground streams. This process can take thousands of years. Here's a cross-sectional diagram of this kind of landscape.\nA particular feature of this limestone landscape is called a sinkhole. Sinkholes are depressions in the ground, usually circular or oval in shape and varying in diameter from a few meters to a kilometer, and in depth from a few meters to several hundred.\nSometimes sinkholes are formed when an underground cavern collapses. This can be due to the weight of water soaking into the land above the underground cavity or because the cavern becomes too large to support the roof. These sinkholes usually have steep walls due to a sudden collapse of land. Sometimes a house or a section of a road can fall into a sinkhole when the ground collapses. The collapse-type sinkhole has beco more common in recent years due mainly to human activity, which often interferes with the natural flow of underground water.\nAnother kind of sinkhole is formed when water permeates the surface through cracks in the surface rock. As water continues to flow through these cracks, the hole gets larger, allowing more water to flow in. The sinkhole typically takes on a conical shape, with the roughly circular opening narrowing to a point at the place where the water disappears under the surface. If the bottom of the sinkhole reaches the water table, a lake may form.\nIn the past, these geological features were often thoughtlessly used as places to dump trash. This led directly to the pollution of groundwater, since sinkholes connect to the underground water system. Attempts are being made to improve this situation through educational programs, and today newly found sinkholes are often filled with soil or cement in an attempt to stop people from dumping their garbage in them.",
+        "questions": [
+          {
+            "id": "T5L27",
+            "number": 27,
+            "type": "LMC",
+            "text": "What is the lecture mainly about?",
+            "questionAudio": "T5L27Q.WAV",
+            "options": [
+              "Sinkhole formation",
+              "Underground drainage systems",
+              "Limestone erosion",
+              "Caves and underground channels"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Although the professor discusses limestone-cave formations in general, the focus of the talk is the formation of sinkholes."
+          },
+          {
+            "id": "T5L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "What is a common feature of a sinkhole?",
+            "questionAudio": "T5L28Q.WAV",
+            "options": [
+              "A circular or oval shape",
+              "A depth of up to sev",
+              "A honeycombed pattern",
+              "Its sudden collapse"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that sinkholes are usually circular or oval in shape."
+          },
+          {
+            "id": "T5L29",
+            "number": 29,
+            "type": "LTwo",
+            "text": "According to the professor, why do underground caverns collapse?",
+            "questionAudio": "T5L29Q.WAV",
+            "options": [
+              "Because the weight of water above the cavity becomes too great",
+              "Because the cavern becomes too large to support its roof",
+              "Because people have built too many houses on top of them",
+              "Because limestone is a soluble rock affected by water action"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor gives two reasons for the collapse of roofs: (1) the weight of water soaking into the land above the cavity becoming too heavy, and (2) the cavity becoming too large to support its roof."
+          },
+          {
+            "id": "T5L30",
+            "number": 30,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T5L30Q.WAV",
+            "options": [
+              "Rainwater forms a weak acid solution.",
+              "Dissolving limestone forms caves and channels.",
+              "An under ground cavern cannot support its roof.",
+              "The roof collapses into the cavern."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First the rainwater that collects above the roof forms a weak acid solution which dissolves the limestone. The cavern cannot support its roof, which becomes weak and collapses."
+          },
+          {
+            "id": "T5L31",
+            "number": 31,
+            "type": "LPictureHorizontal",
+            "text": "Select the picture that shows a collapse sinkhole.",
+            "questionAudio": "T5L31Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T5L31Q1.png",
+              "assets/images/cambridge/T5L31Q2.png",
+              "assets/images/cambridge/T5L31Q3.png",
+              "assets/images/cambridge/T5L31Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "A collapse sinkhole is an underground cave whose roof has fallen in."
+          },
+          {
+            "id": "T5L32",
+            "number": 32,
+            "type": "LPictureHorizontal",
+            "text": "Select the type of sinkhole that is formed when water passes through cracks in the surface rock.",
+            "questionAudio": "T5L32Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T5L32Q1.png",
+              "assets/images/cambridge/T5L32Q2.png",
+              "assets/images/cambridge/T5L32Q3.png",
+              "assets/images/cambridge/T5L32Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The sinkhole formed by water passing through surface cracks has a conical shape. The opening is roughly circular, narrowing to a point at the place where the water disappears under the surface."
+          },
+          {
+            "id": "T5L33",
+            "number": 33,
+            "type": "LTwo",
+            "text": "What problems concerning sinkholes does the professor discuss?",
+            "questionAudio": "T5L33Q.WAV",
+            "options": [
+              "Houses falling into a sinkhole",
+              "Their use as garbage dumps, causing water pollution",
+              "Interference with underground caverns",
+              "Exposed water tables"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that sometimes"
+          }
+        ]
+      },
+      {
+        "groupId": "T5L34-38",
+        "startQuestion": 34,
+        "endQuestion": 38,
+        "fullAudio": "T5L34-38.WAV",
+        "audioClips": [
+          "T5L34-38.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L34-38C.png",
+        "transcript": "Weak acid solution. This solution then seeps into cracks in the limestone and dissolves it, forming caves and channels.\nBeneath the surface, the land may become honeycombed with caverns and underground streams. This process can take thousands of years. Here's a cross-sectional diagram of this kind of landscape.\nA particular feature of this limestone landscape is called a sinkhole. Sinkholes are depressions in the ground, usually circular or oval in shape and varying in diameter from a few meters to a kilometer, and in depth from a few meters to several hundred.\nSometimes sinkholes are formed when an underground cavern collapses. This can be due to the weight of water soaking into the land above the underground cavity or because the cavern becomes too large to support the roof. These sinkholes usually have steep walls due to a sudden collapse of land. Sometimes a house or a section of a road can fall into a sinkhole when the ground collapses. The collapse-type sinkhole has beco more common in recent years due mainly to human activity, which often interferes with the natural flow of underground water.\nAnother kind of sinkhole is formed when water permeates the surface through cracks in the surface rock. As water continues to flow through these cracks, the hole gets larger, allowing more water to flow in. The sinkhole typically takes on a conical shape, with the roughly circular opening narrowing to a point at the place where the water disappears under the surface. If the bottom of the sinkhole reaches the water table, a lake may form.\nIn the past, these geological features were often thoughtlessly used as places to dump trash. This led directly to the pollution of groundwater, since sinkholes connect to the underground water system. Attempts are being made to improve this situation through educational programs, and today newly found sinkholes are often filled with soil or cement in an attempt to stop people from dumping their garbage in them.",
+        "questions": [
+          {
+            "id": "T5L34",
+            "number": 34,
+            "type": "LMC",
+            "text": "What is the discussion mainly about?",
+            "questionAudio": "T5L34Q.WAV",
+            "options": [
+              "An agricultural group of people who lived in the Southwest",
+              "A mass starvation that forced people to immigrate to central Mexico",
+              "The Anasazi cliff dwellings in Mesa Verde National Park",
+              "The destruction of an extraordinary Anasazi city in A.D. 1300"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor introduces the topic of the Anasazi, an agricultural group of people who lived in the Southwest. The discussion continues on this topic."
+          },
+          {
+            "id": "T5L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "The Cliff Palace in Mesa Verde National Park is an example of what Anasazi skills?",
+            "questionAudio": "T5L35Q.WAV",
+            "options": [
+              "Their extraordinary building techniques",
+              "The evolution of their fine pottery techniques",
+              "Their highly developed agricultural economy",
+              "The extensive trade they developed throug"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor cites the Cliff Palace as a well-known example of the Anasazi's remarkable building techniques."
+          },
+          {
+            "id": "T5L36",
+            "number": 36,
+            "type": "LTwo",
+            "text": "What is true about the abandonment of the cliff dwellings?",
+            "questionAudio": "T5L36Q.WAV",
+            "options": [
+              "There is no conclusive evidence to support any theories.",
+              "A combination of factors probably led to the abandonment.",
+              "The excavation of the site indicates violence occurring within the city walls.",
+              "The cliff dwellings did not prove to be a good defense against invaders."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The class discusses several possible theories, but the professor states that there is no conclusive evidence to support any of them. She goes on to say that the general consensus is that there may have been a combination of factors that led to the abandonment of the city."
+          },
+          {
+            "id": "T5L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "Which of the following is mentioned as support for the mass starvation hypothesis?",
+            "questionAudio": "T5L37Q.WAV",
+            "options": [
+              "Tree rings that indicate a drought around the time of the_ abandonment",
+              "High walls that indicate a long-term siege by invaders",
+              "Bone analysis that indicates severe malnourishment of the human population",
+              "Overcrowding of the population"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that tree rings indicate that there was a drought, but that it was not any more severe than previous droughts."
+          },
+          {
+            "id": "T5L38",
+            "number": 38,
+            "type": "LMC",
+            "text": "Which of the following supports the warfare theory?",
+            "questionAudio": "T5L38Q.WAV",
+            "options": [
+              "The crowding of people into a smaller area suggests the arrival of invaders.",
+              "Later sites appeared to be built for defense.",
+              "Many great cities such as Troy were destroyed in warfare.",
+              "People met violent deaths in other cities."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that people were crowded into a smaller area and that this crowding suggests an influx of invaders."
+          }
+        ]
+      },
+      {
+        "groupId": "T5L39-45",
+        "startQuestion": 39,
+        "endQuestion": 45,
+        "fullAudio": "T5L39-45.WAV",
+        "audioClips": [
+          "T5L39-45.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L39-45C.png",
+        "transcript": "Today we are going to be talking about one of the most basic laws of economics: nothing of value is free. Sometimes this is dubbed \"tanstaafl.\" The word \"tanstaafl\" is formed from the initials of the statement \"There Ain't No Such Thing As A Free Lunch.\" What this means is that everything that has value must be paid for in currency, labor, or something else.\nNot only do people have to pay for everything that has value, but governments also have to. Governments have a lot ofown us that when taxes get too high, people eventually revolt and overthrow the offending government. To avoid raising taxes, a government must find another way to deal with the problem of getting money to meet its expenses.\nLet's look at the Romans. The Roman government taxed its citizens in order to pay for the expenses of running such a vast empire. It became apparent over time that if it raised taxes further, it risked provoking unrest. So the leaders came up with the idea of clipping the denarius, a coin made of 94 percent silver. When the tax collectors brought in people's taxes paid in silver coins, the Roman treasury clipped, or shaved, the edges off the coins. The clippings were minted into new coins. For a time, this gave the government the money necessary for its budget. But it did not take the Roman people long to realize that some of their coins were missing silver. Therefore, they either refused to accept the clipped coins or charged more coins for their goods and svices. In later centuries a system called \"reeding\" came into practice. A reeded coin has grooves along its edge, making it easy to see whether or not clipping has taken place.\nBut since the Roman government still needed money and clipping no longer served its purpose, the Roman treasury started melting down coins and reminting them with a mixture of base metal, such as copper. However, each time a coin was melted down and reminted with a base-metal mixture, the percentage of precious metal became less and that of base metal more. When the Roman people realized that their money was being debased, they responded by hoarding coins. Whenever they got a \"good\" coin - one with a high percentage of silver in it - they kept it. They spent only \"bad\" coins - those with a low percentage of silver. This behavior is explained by Gresham's Law, which states that bad money drives good money out of circulation. When debasement happens, money loses its value and prices inevitably rise.",
+        "questions": [
+          {
+            "id": "T5L39",
+            "number": 39,
+            "type": "LMC",
+            "text": "What does \"tanstaafl\" mean?",
+            "questionAudio": "T5L39Q.WAV",
+            "options": [
+              "Valuable things are not free.",
+              "Governments spend a lot of money.",
+              "People don't",
+              "Don't trust anyone who offers a free lunch."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that \"tanstaafl\" means that everything of value must be paid for in some way."
+          },
+          {
+            "id": "T5L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "Why did the Romans start to clip coins?",
+            "questionAudio": "T5L40Q.WAV",
+            "options": [
+              "To pay expenses without raising taxes",
+              "To show the importance of reeding",
+              "To undermine the economic system in the Roman Empire",
+              "To cheat the Roman treasury"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "According to the lecture, the Roman government needed money but wanted to avoid raising taxes."
+          },
+          {
+            "id": "T5L41",
+            "number": 41,
+            "type": "LMC",
+            "text": "Why did the system of reeding come into practice?",
+            "questionAudio": "T5L41Q.WAV",
+            "options": [
+              "To show that clipping had not been done to the coin",
+              "To help the blind distinguish coins of different values",
+              "To further reduce silver content in coins",
+              "To prove that the edges of the coins had been reinforced"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that a reeded coin has grooves that make it easy to see whet"
+          },
+          {
+            "id": "T5L42",
+            "number": 42,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T5L42Q.WAV",
+            "options": [
+              "Silver coins are melted down.",
+              "Copper is added to the silver.",
+              "New coins are minted from the mixture.",
+              "Each reminting decreases the silver content."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Silver coins are melted down and copper is added to the silver. New coins are minted from this mixture. Each time coins are melted down and reminted, the amount of silver decreases and the amount of copper increases."
+          },
+          {
+            "id": "T5L43",
+            "number": 43,
+            "type": "LMatchingPictureWord",
+            "text": "What kinds of coins are illustrated below?",
+            "questionAudio": "T5L43Q.WAV",
+            "options": [
+              "Clipped: coins that have pieces cut away",
+              "Reeded: coins with grooves along their edge",
+              "Debased: coins with less silver content",
+              "Standard: coins with full metal weight"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T5L43Q1.png",
+              "assets/images/cambridge/T5L43Q2.png",
+              "assets/images/cambridge/T5L43Q3.png",
+              "assets/images/cambridge/T5L43Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Clipped coins are 94-percent-silver coins that have pieces cut away. Reeded coins are 94-percent-silver coins that have grooves along their edge to show that clipping has not occurred."
+          },
+          {
+            "id": "T5L44",
+            "number": 44,
+            "type": "LTwo",
+            "text": "What two statements can be made about Gresham's Law?",
+            "questionAudio": "T5L44Q.WAV",
+            "options": [
+              "People keep good money.",
+              "People spend bad money.",
+              "People prefer paper money to coins.",
+              "People melt down silver coins."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Gresham's Law states that when bad money is put into circulation, it drives good money out of circulation. People hoard the good money (don't spend it) and spend the bad."
+          },
+          {
+            "id": "T5L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "What can be inferred about the practice of debasing coins?",
+            "questionAudio": "T5L45Q.WAV",
+            "options": [
+              "It creates economic instability.",
+              "It ended with the fall of the Roma",
+              "It leads to the overthrow of corrupt governments.",
+              "It brings hoarded money into circulation."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The loss of money value and the rise of prices create economic instability."
+          }
+        ]
+      },
+      {
+        "groupId": "T5L46-50",
+        "startQuestion": 46,
+        "endQuestion": 50,
+        "fullAudio": "T5L46-50.WAV",
+        "audioClips": [
+          "T5L46-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T5L46-50C.png",
+        "transcript": "Well, we've been rock climbing together now on several occasions, and I feel everyone has made excellent progress. I thought you mi-u&(ðT5L10MAN: You ought to come with us to hear the dean's speech.\nWOMAN: And miss the mountain-climbing trip?",
+        "questions": [
+          {
+            "id": "T5L46",
+            "number": 46,
+            "type": "LMC",
+            "text": "Who is Jim Brown?",
+            "questionAudio": "T5L46Q.WAV",
+            "options": [
+              "An experienced climber",
+              "One of the students",
+              "The organizer of the course",
+              "A state-park ranger"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that Jim Brown is one of the world's most experienced rock climbers."
+          },
+          {
+            "id": "T5L47",
+            "number": 47,
+            "type": "LMC",
+            "text": "How can students register for the workshop?",
+            "questionAudio": "T5L47Q.WAV",
+            "options": [
+              "Bring the completed application form and deposit to the office",
+              "Call the State Park Climbing Center",
+              "Tell the course instructor after class",
+              "Pay the workshop fees"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that application forms can be returned to the office."
+          },
+          {
+            "id": "T5L48",
+            "number": 48,
+            "type": "LMC",
+            "text": "What does the three-hundred-dollar fee NOT include?",
+            "questionAudio": "T5L48Q.WAV",
+            "options": [
+              "Equipment",
+              "Instructor's fees",
+              "The deposit",
+              "Accommodations and food"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that the fees include accommodations and food, but there is an extra charge if the participant needs equipment."
+          },
+          {
+            "id": "T5L49",
+            "number": 49,
+            "type": "LMC",
+            "text": "Why does the speaker encourage the students to take the workshop?",
+            "questionAudio": "T5L49Q.WAV",
+            "options": [
+              "They can learn from one of the best climbers in the world.",
+              "Students will be able to join an expedition.",
+              "Close attention will be given to all details.",
+              "They can have an eventful trip."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker encourages everyone to take advantage of the opportunity to study under Jim Brown, who will help them to refine their techniques and gain confidence."
+          },
+          {
+            "id": "T5L50",
+            "number": 50,
+            "type": "LMC",
+            "text": "How long is the workshop?",
+            "questionAudio": "T5L50Q.WAV",
+            "options": [
+              "A weekend",
+              "A month",
+              "A day",
+              "An afternoon"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that it is a special weekend climbing workshop."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "Do you agree or disagree with the following statement?<P><I>The automobile has brought more harm than good to the planet.</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "Do you agree or disagree with the following statement?<P><I>The automobile has brought more harm than good to the planet.</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

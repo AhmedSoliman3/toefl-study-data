@@ -1,0 +1,2459 @@
+{
+  "testNumber": 7,
+  "title": "Cambridge Practice Test 7",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 7 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T7S01",
+      "number": 1,
+      "type": "SIdentify",
+      "text": "Passive smoking is <U1>defined</U1> as the <U2>exposure</U2> of <U3>nonsmoker</U3> to <U4>environmental</U4> tobacco smoke.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S1-S10",
+      "correctedSentence": "Passive smoking is defined as the exposure of nonsmokers to environmental tobacco smoke.",
+      "feedback": "Passive smoking is defined as the exposure of nonsmokers to environmental tobacco smoke."
+    },
+    {
+      "id": "T7S02",
+      "number": 2,
+      "type": "SComplete",
+      "text": "<_> is as simple as it looks.",
+      "options": [
+        "Building adobe houses",
+        "Adobe houses building",
+        "Adobe houses which are built",
+        "Adobe houses built"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "Building adobe houses is as simple as it looks.",
+      "feedback": "A subject is needed to complete the sentence. The gerund phrase \"building adobe houses\" can be used in the subject position."
+    },
+    {
+      "id": "T7S03",
+      "number": 3,
+      "type": "SIdentify",
+      "text": "<U1>The</U1> cinecamera <U2>has</U2> become obsolete since <U3>its</U3> invention of video-recording <U4>technology</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S6-S10",
+      "correctedSentence": "The cinecamera has become obsolete since the invention of video-recording technology.",
+      "feedback": "\"Its\" is illogical because it can only refer to \"cinecamera.\" A cinecamera cannot invent anything and therefore cannot possess an invention. The article \"the\" should be used."
+    },
+    {
+      "id": "T7S04",
+      "number": 4,
+      "type": "SComplete",
+      "text": "The novelist Jane Austen <_> the first twenty-six years of her lifÉe in the village of Steventon, Hampshire.",
+      "options": [
+        "lived",
+        "living",
+        "was lived",
+        "who lived"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66",
+      "correctedSentence": "The novelist Jane Austen lived the first twenty-six years of her lifÉe in the village of Steventon, Hampshire.",
+      "feedback": "A verb in the simple past tense, \"lived,\" is needed to complete the sentence."
+    },
+    {
+      "id": "T7S05",
+      "number": 5,
+      "type": "SIdentify",
+      "text": "The <U1>rupture</U1> of the Mareb Dam in ancient Yemen <U2>brought</U2> <U3>it about</U3> the <U4>collapse of</U4> many small kingdoms.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S11-S15",
+      "correctedSentence": "The rupture of the Mareb Dam in ancient Yemen brought about the collapse of many small kingdoms.",
+      "feedback": "\"Brought about\" is a phrasal verb that takes an object, in this case, \"collapse.\" As \"collapse\" is a noun, the pronoun \"it\" should be deleted."
+    },
+    {
+      "id": "T7S06",
+      "number": 6,
+      "type": "SComplete",
+      "text": "The Romans used central heating systems very much like <_>.",
+      "options": [
+        "those of today",
+        "today's do",
+        "those they do",
+        "the systems which are now"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S43-S50",
+      "correctedSentence": "The Romans used central heating systems very much like those of today.",
+      "feedback": "The preposition \"like\" indicates that a comparison is being made. The word \"those\" refers to the \"central heating system\u0018s\" of today."
+    },
+    {
+      "id": "T7S07",
+      "number": 7,
+      "type": "SIdentify",
+      "text": "The refracting telescope <U1>contains</U1> lenses <U2>that</U2> <U3>magnification</U3> the image which reaches <U4>it</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S37-S42",
+      "correctedSentence": "The refracting telescope contains lenses that magnify the image which reaches it.",
+      "feedback": "\"Magnification\" is a noun. The verb form \"magnify\" should be used in the verb position of the adjective clause."
+    },
+    {
+      "id": "T7S08",
+      "number": 8,
+      "type": "SComplete",
+      "text": "Human beings <_> than one hundred years are rare.",
+      "options": [
+        "who live longer",
+        "live longer",
+        "who live long",
+        "live long"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66 and S82-S87",
+      "correctedSentence": "Human beings who live longer than one hundred years are rare.",
+      "feedback": "An adjective clause is needed to identify which \"human beings\" are being discussed. The word \"than\" indicates that a word showing comparison should be used. \"Who live longer\" correctly begins the adjective clause."
+    },
+    {
+      "id": "T7S09",
+      "number": 9,
+      "type": "SIdentify",
+      "text": "Scientists worry <U1>what</U1> the <U2>continued</U2> use of certain <U3>pollutants</U3> may damage <U4>the</U4> Earthï's ozone layer.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S59",
+      "correctedSentence": "Scientists worry that the continued use of certain pollutants may damage the Earth's ozone layer.",
+      "feedback": "Scientists worry that the continued use of certain pollutants may damage the Earth's ozone layer."
+    },
+    {
+      "id": "T7S10",
+      "number": 10,
+      "type": "SComplete",
+      "text": "Grace Kelly was first famous as a Hollywood actress and then <_> Prince Rainier of Monaco.",
+      "options": [
+        "as the wife of",
+        "to be the wife of",
+        "she was the wife of",
+        "the wife of"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S88-S90",
+      "correctedSentence": "Grace Kelly was first famous as a Hollywood actress and then as the wife of Prince Rainier of Monaco.",
+      "feedback": "A prepositional phrase, \"as the wife,\" is needed to be parallel with the prepositional phrase \"as a Hollywood actress.\""
+    },
+    {
+      "id": "T7S11",
+      "number": 11,
+      "type": "SIdentify",
+      "text": "<U1>Some</U1> 2,300 years <U2>ago</U2>, Greek philosophers <U3>gave</U3> the name \"atom\" to the <U4>smaller</U4> particle of matter in nature.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S82-S87",
+      "correctedSentence": "Some 2,300 years ago, Greek philosophers gave the name \"atom\" to the smallest particle of matter in nature.",
+      "feedback": "Some 2,300 years ago, Greek philosophers gave the name \"atom\" to the smallest particle of matter in nature."
+    },
+    {
+      "id": "T7S12",
+      "number": 12,
+      "type": "SComplete",
+      "text": "<_>, the Emperor Justinian had overseen the building of more than a thousand churches and monuments in Constantinople.",
+      "options": [
+        "By the time of his death in A.D. 565",
+        "Being the time of his death in A.D. 565",
+        "The time of his death in A.D. 565",
+        "Throughout the time of his death in A.D. 565"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S77-S80",
+      "correctedSentence": "By the time of his death in A.D. 565, the Emperor Justinian had overseen the building of more than a thousand churches and monuments in Constantinople.",
+      "feedback": "Being the time of his death in A.D. 565"
+    },
+    {
+      "id": "T7S13",
+      "number": 13,
+      "type": "SIdentify",
+      "text": "A budget is a plan <U1>that</U1> estimates how much <U2>money</U2> will be spent, <U3>what</U3> it will be spent on, and how much money <U4>is</U4> left over.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S88-S90",
+      "correctedSentence": "A budget is a plan that estimates how much money will be spent, what it will be spent on, and how much money will be left over.",
+      "feedback": "A budget is a plan that estimates how much money will be spent, what it will be spent on, and how much money will be left over."
+    },
+    {
+      "id": "T7S14",
+      "number": 14,
+      "type": "SComplete",
+      "text": "The highly endangered <I>Waldrapp ibis</I> is a wading bird <_>.",
+      "options": [
+        "related to the stork and flamingo",
+        "relation to the stork and flamingo",
+        "is related to the stork and flamingo",
+        "relating to the stork and flamingo"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "The highly endangered <I>Waldrapp ibis</I> is a wading bird related to the stork and flamingo.",
+      "feedback": "relation to the stork and flamingo"
+    },
+    {
+      "id": "T7S15",
+      "number": 15,
+      "type": "SIdentify",
+      "text": "Norma Jean Baker <U1>was</U1> the <U2>real</U2> name of the <U3>famous</U3> Hollywood actress known <U4>such as</U4> Marilyn Monroe.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S43-S50",
+      "correctedSentence": "Norma Jean Baker was the real name of the famous Hollywood actress known as Marilyn Monroe.",
+      "feedback": "Norma Jean Baker was the real name of the famous Hollywood actress known as Marilyn Monroe."
+    },
+    {
+      "id": "T7S16",
+      "number": 16,
+      "type": "SComplete",
+      "text": "In recent years, automobile emissions have disfigured stone carvings, corroded bronze monuments, and <_>.",
+      "options": [
+        "soiled ancient buildings",
+        "ancient buildings being soiled",
+        "the soiling of ancient buildings",
+        "ancient buildings"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S88-S90",
+      "correctedSentence": "In recent years, automobile emissions have disfigured stone carvings, corroded bronze monuments, and soiled ancient buildings.",
+      "feedback": "the soiling of ancient buildings"
+    },
+    {
+      "id": "T7S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "<U1>As</U1> medical costs soar <U2>and get higher</U2>, the idea of a complete physical checkup has <U3>come under fire</U3> as a waste of both <U4>time and money</U4>.",
+      "options": [
+        "2",
+        "As medical costs soar, the idea of a complete physical checkup has come under fire as a waste of both time and money.",
+        "",
+        ""
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S95-S96",
+      "correctedSentence": "<U1>As</U1> medical costs soar <U2>and get higher</U2>, the idea of a complete physical checkup has <U3>come under fire</U3> as a waste of both <U4>time and money</U4>.",
+      "feedback": "As medical costs soar, the idea of a complete physical checkup has come under fire as a waste of both time and money."
+    },
+    {
+      "id": "T7S18",
+      "number": 18,
+      "type": "SComplete",
+      "text": "Scientists have identified several hundred subatomic particles <_> by a nuclear force.",
+      "options": [
+        "held together",
+        "that held together",
+        "holding together",
+        "whose together"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "Scientists have identified several hundred subatomic particles held together by a nuclear force.",
+      "feedback": "An adjective phrase or clause is needed to give more information about \"subatomic particles.\" The adjective clause \"that are held together\" can be reduced to \"held together.\""
+    },
+    {
+      "id": "T7S19",
+      "number": 19,
+      "type": "SIdentify",
+      "text": "Plants known <U1>so</U1> \"adaptogens\" improve human vitality, eliminate <U2>stress</U2>, and <U3>sustain</U3> life in the most ardSuous <U4>conditions</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S43-S50 and S91-S94",
+      "correctedSentence": "Plants known as \"adaptogens\" improve human vitality, eliminate stress, and sustain life in the most arduous conditions.",
+      "feedback": "Plants known as \"adaptogens\" improve human vitality, eliminate stress, and sustain life in the most arduous conditions."
+    },
+    {
+      "id": "T7S20",
+      "number": 20,
+      "type": "SComplete",
+      "text": "<_> breaks, the two ends can be joined with a touch of nail polish.",
+      "options": [
+        "If the tape from a cassette",
+        "For the tape from a cassette to",
+        "The tape from a cassette that",
+        "With the tape from a cassette"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S72-S76",
+      "correctedSentence": "If the tape from a cassette breaks, the two ends can be joined with a touch of nail polish.",
+      "feedback": "For the tape from a cassette to"
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T7R01-13Plain",
+        "startQuestion": 1,
+        "endQuestion": 13,
+        "text": "Water scarcity is fast becoming one of the major limiting factors in world crop production. In many areas, poor agricultural practices have led to increasing desertification and the loss of formerly arable lands. Consequently, those plant species that are well adapted to survival in dry climates are being studied to determine how to develop more efficient crops to grow on marginally arable lands.\n\nPlants use several mechanisms to ensure their survival in desert environments. Some involve purely mechanical and physical adaptations, such as the shape of the plant's surface, a smaller leaf size, and extensive root systems. Xerophytes and phreatophytes are two kinds of plants that survive in the desert environment through adaptations of their physical structure. |Xerophytes - which include cactuses, an adaptation from the rose family - are effective desert plants because they have spines instead of leaves. These spines protect the plant from animals, shade it from the sun, and help it collect moisture. Another adaptation is their shallow and extensive root systems. The roots radiate out from the cactus and quickly absorb large quantities of water when it rains.\n\nThe mesquite tree is a type of phreatophyte. These plants have tiny leaves that close their pores during the day to avoid water loss and open them at night when they can absorb moisture. All phreatophytes have developed extremely long root systems that draw water from the water table deep underground. Root systems of roughly 25 meters have been measured. Some phreatophytes have developed a double root system - the typical long root system to collect groundwater and a shallow one like the xerophytes have to collect surface water.\n\nSome desert-plant adaptations are related to chemical mechanisms. For instance, some phreatophytes depend on their unpleasant smell and taste for protection, while many xerophytes have internal gums and mucilages that give them water-retaining properties. Another chemical mechanism is that of the epicuticular wax layer. This wax layer acts as an impervious cover to protect the plant. It prevents excessive loss of internal moisture. It also protects the plant from external aggression, which can come from inorganic agents such as gases, or organic agents, which include bacteria and plant pests.\n\nResearchers have proposed that synthetic waxes with similar protective abilities could be prepared based on knowledge of desert plants. If successfully developed, such a compound could be used to greatly increase a plant's ability to maintain health in such adverse situations as inadequate water supply, limited fertilizer availability, attack by pests, and poor storage after harvesting."
+      },
+      {
+        "groupId": "T7R14-23Plain",
+        "startQuestion": 14,
+        "endQuestion": 23,
+        "text": "History books record the first film with sound as The Jazz Singer in 1927. But sound films, or \"talkies,\" did not suddenly appear after years of silent screenings. From the earliest public performances in 1896, films were accompanied by music and sound effects. These accompaniments were produced by a single pianist, a small band, or a full-scale orchestra; larger movie theaters could buy sound-effect machines.\n\nResearch into sound reproduced at exactly the same time as the pictures - called \"synchronized sound\" - began soon after the very first films were shown. With synchronized sound, characters on the movie screen could sing and speak. As early as 1896, the newly invented gramophone, which played a large disc containing music and dialogue, was used as a sound system. The biggest disadvantage was that the sound and pictures could become unsynchronized if, for example, the gramophone needle jumped or if the speed of the projector changed. |This system was only effective for a single song or dialogue sequence.\n\nIn the \"sound-on-film\" system, sounds were recorded as a series of marks on celluloid read by optical sensors. These signals would be placed on the film alongside the images, guaranteeing synchronization. Short feature films were produced in this way as early as 1922. This system eventually brought us \"talking pictures.\""
+      },
+      {
+        "groupId": "T7R24-37Plain",
+        "startQuestion": 24,
+        "endQuestion": 37,
+        "text": "Many folk cures that have been around for centuries may be more therapeutic than previously suspected. The importance of documenting these remedies and experimenting to see if results are indeed beneficial cannot be overemphasized. A case in point is that of the wormwood plant. This plant has been used for hundreds of years in China and Vietnam to combat malaria. An early record of the medicinal use of wormwood was found in a recipe discovered in a Southeast Asian tomb dating from 168 B.C. A new antimalarial drug has been developed through research into wormwood's properties.\n\nIn parts of South America, a powder obtained from grinding sugarcane is used for healing infections in wounds and ulcers. This usage may date back to pre-Columbian times. Experiments being carried out on several hundred patients indicate that ordinary sugar in high concentrations is lethal to bacteria. Its suction effect helps the healing process by eliminating dead cells and generating a glasslike layer that protects the wound.\n\nAnother folk medicine that scientists are investigating is one used by Arab fishermen who rub their wounds with a venomous catfish to quicken healing. This catfish excretes a gel-like slime that scientists have found to contain antibiotics, a coagulant that helps close injured blood vessels, anti-inflammatory agents, and a chemical that directs production of a gluelike material that aids healing.\n\nTraditional herbal treatments are often locally available and inexpensive, making them ideal for use by local people. Fieldwork into the documentation of traditional medicines worldwide needs to be undertaken before those traditions are lost. If such documentation is made, the substances can then be analyzed, and synthetic substances can be developed for human consumption around the world."
+      },
+      {
+        "groupId": "T7R38-50Plain",
+        "startQuestion": 38,
+        "endQuestion": 50,
+        "text": "During the Great Depression in the United States, President Roosevelt's administration ushered in a series of innovative and often controversial cultural programs with the avowed aim of easing unemployment among artists and writers while giving the general public access to the arts. One of the major cultural schemes was funded under the Federal Writers' Project (FWP), which employed nearly seven thousand writers at its peak in 1936. |The funding provided work for both novice and experienced writers, many of whom went on to acquire national and international literary reputations.\n\nAmong a variety of undertakings, FWP workers interviewed more than ten thousand people from different regions, ethnic groups, and occupations about their work histories, family life, education, politics, and leisure-time activities. The wide diversity of interviewees was encouraged by the administrators, keen to foster tolerance and to promote a sense of national identity during the difficult period of the 1930s. Informants who were interviewed included ironworkers, farmwives, meat packers, tenant farmers, and vagrants, among many others. Many of the interviewees told of their upbringings in the nineteenth century and included recollections of historic personages, such as Buffalo Bill, or of important events, such as the Great Fire of Chicago in 1871. Included among the informants were a large number of former slaves whose memories offer a vivid account of conditions before and after the abolition of slavery.\n\nThese vivid and often poignant accounts of life histories were originally intended for publication in a series that would form a gigantic documentary portrait of everyday life in America. Unfortunately, this part of the project was never fully realized due to political opposition and the redirection of national priorities following the U.S. entry into World War II. However, the raw material collected remains a valuable resource for historians and provides a compelling insight into the lives of ordinary people of a bygone era. Furthermore, several of the FWP writers found the knowledge and experiences they had gathered from their research an invaluable source for their own literary creations. Many notable works of fiction were influenced by the informants' experiences and were colored by their language and speech patterns."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T7R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "This passage deals mainly with",
+        "paragraphNumber": 1,
+        "options": [
+          "the adaptations of desert plants",
+          "desertification",
+          "decreasing water supplies",
+          "factors limiting crop production"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Land that is \"arable\" or \"fertile\" is suitable for growing crops."
+      },
+      {
+        "id": "T7R02",
+        "number": 2,
+        "type": "RMCSynonymWord",
+        "text": "The word arable in paragraph 1 is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "fertile",
+          "parched",
+          "barren",
+          "marsh"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The shape of the plant's surface is given as an example of a survival mechanism."
+      },
+      {
+        "id": "T7R03",
+        "number": 3,
+        "type": "RMCSimple",
+        "text": "Which of the following is a mechanical or physical mechanism that desert plants rely on?",
+        "paragraphNumber": 1,
+        "options": [
+          "The plant's shape",
+          "The small root system",
+          "The vast leaf size",
+          "The slow water absorption"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author mention {xerophytes} and {phreatophytes} in paragraph 2?"
+      },
+      {
+        "id": "T7R04",
+        "number": 4,
+        "type": "RMCOther",
+        "text": "Why does the author mention xerophytes and phreatophytes in paragraph 2?",
+        "paragraphNumber": 2,
+        "options": [
+          "To give examples of two types of adaptations",
+          "To show how desert plants survive in such adverse conditions",
+          "To contrast one plant's mechanical adaptation to another's physical adaptation",
+          "To compare how two different kinds of plants have altered their environment"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Xerophytes and phreatophytes are examples of two kinds of plants that have adapted to the desert environment by altering their physical structure."
+      },
+      {
+        "id": "T7R05",
+        "number": 5,
+        "type": "RMCSynonymWord",
+        "text": "The word \"extensive\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "widespread",
+          "spongy",
+          "shallow",
+          "comprehensive"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"moisture\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T7R06",
+        "number": 6,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>moisture</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>moisture</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "moisture",
+          "These",
+          "spines",
+          "protect"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"moisture\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T7R07",
+        "number": 7,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>them</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>them</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "pores",
+          "stomata",
+          "leaves",
+          "stems"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The leaves open their pores to take in carbon dioxide. The pronoun 'them' refers to the 'pores'."
+      },
+      {
+        "id": "T7R08",
+        "number": 8,
+        "type": "RMCPicture",
+        "text": "Click on the picture of a plant below that would best survive a desert environment.",
+        "paragraphNumber": 1,
+        "options": [
+          "A plant with tiny leaves and two root systems: one deep taproot and one shallow spreading root system",
+          "A broad-leafed tropical plant with delicate surface roots",
+          "A soft fern with high moisture requirement",
+          "A floating water lily with wide buoyant leaves"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T7R08Q1.png",
+          "assets/images/cambridge/T7R08Q2.png",
+          "assets/images/cambridge/T7R08Q3.png",
+          "assets/images/cambridge/T7R08Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, some phreatophytes have tiny leaves and two root systems - one that is long and deep and one that is shallow."
+      },
+      {
+        "id": "T7R09",
+        "number": 9,
+        "type": "RMCSimple",
+        "text": "Which is one of the ways in which a wax layer protects the plant?",
+        "paragraphNumber": 1,
+        "options": [
+          "It guards against bacteria.",
+          "It helps the plant to avoid excessive moisture intake.",
+          "It helps the plant to attack aggressors.",
+          "It releases gases against plant pests."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What is an example of an inorganic agent that may attack plants?"
+      },
+      {
+        "id": "T7R10",
+        "number": 10,
+        "type": "RMCSynonymWord",
+        "text": "The word \"aggression\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "attack",
+          "agiion.",
+          "RMCSynonymWord",
+          "attack"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What is an example of an inorganic agent that may attack plants?"
+      },
+      {
+        "id": "T7R11",
+        "number": 11,
+        "type": "RMCSimple",
+        "text": "What is an example of an inorganic agent that may attack plants?",
+        "paragraphNumber": 1,
+        "options": [
+          "Gas",
+          "Bacteria",
+          "Insects",
+          "Pests"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be inferred that synthetic waxes"
+      },
+      {
+        "id": "T7R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "It can be inferred that synthetic waxes",
+        "paragraphNumber": 1,
+        "options": [
+          "have not been developed yet",
+          "have not succeeded",
+          "have been determined to be impervious to organic and inorganic agents",
+          "have the quality of causing bacteria"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "All of the following are examples of an adverse situation for crops EXCEPT"
+      },
+      {
+        "id": "T7R13",
+        "number": 13,
+        "type": "RMCSimple",
+        "text": "All of the following are examples of an adverse situation for crops EXCEPT",
+        "paragraphNumber": 1,
+        "options": [
+          "proper storage",
+          "inadequate water",
+          "insufficient fertilizer",
+          "pest aggression"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Proper storage is not an example of an adverse"
+      },
+      {
+        "id": "T7R14",
+        "number": 14,
+        "type": "RMCSimple",
+        "text": "The passage is mainly about the",
+        "paragraphNumber": 1,
+        "options": [
+          "development of sound with movies",
+          "history of silent movies",
+          "disadvantages of synchronized sound",
+          "research into sound reproduction"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the passage, films using sound effects were screened"
+      },
+      {
+        "id": "T7R15",
+        "number": 15,
+        "type": "RMCSimple",
+        "text": "According to the passage, films using sound effects were screened",
+        "paragraphNumber": 1,
+        "options": [
+          "as early as 1896",
+          "before 1896",
+          "as early as 1922",
+          "in 1927"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "When a film is \"screened,\" it is \"projected\" onto a screen so that people can view it."
+      },
+      {
+        "id": "T7R16",
+        "number": 16,
+        "type": "RMCSynonymWord",
+        "text": "The word \"screenings\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "projections",
+          "revelations",
+          "synchronizations",
+          "diversions"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Chimpanzees' use of sign language is merely imitative behavior."
+      },
+      {
+        "id": "T7R17",
+        "number": 17,
+        "type": "RMCSynonymWord",
+        "text": "The word \"screening\" in the passage is closest in meaning to",
+        "paragraphNumber": 2,
+        "options": [
+          "filtering",
+          "displaying",
+          "examining",
+          "protecting"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"screening\" means \"filtering\" or shielding against harmful rays."
+      },
+      {
+        "id": "T7R18",
+        "number": 18,
+        "type": "RMCSimple",
+        "text": "It can be inferred that",
+        "paragraphNumber": 1,
+        "options": [
+          "gramophones were developed about the same time as moving pictures",
+          "most movie theaters had a pianist",
+          "sound-effect machines were very rare",
+          "orchestras could not synchronize sound with the pictures"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated that the newly invented gramophone was used as early as 1896 and the earliest screenings of moving pictures were in 1896. Therefore, it can be inferred that they were developed about the same time."
+      },
+      {
+        "id": "T7R19",
+        "number": 19,
+        "type": "RMCSimple",
+        "text": "According to the passage, gramophones were ineffective because they",
+        "paragraphNumber": 1,
+        "options": [
+          "got out of synchronization with the picture",
+          "were too large for most movie theaters",
+          "changed speeds when the needle jumped",
+          "Two ways the gramophone got out of synchronization with the picture are discussed - the jumping of the needle and the speeding up of the projector."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A \"sequence\" or \"progression\" of something is a number of events (in this case, pieces of a conversation) that come one after another in a fixed order."
+      },
+      {
+        "id": "T7R20",
+        "number": 20,
+        "type": "RMCSynonymWord",
+        "text": "The word sequence in paragraph 2 is closest in meaning to",
+        "paragraphNumber": 2,
+        "options": [
+          "progression",
+          "interpretation",
+          "distribution",
+          "organization"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "These \"marks\" would be placed on the film alongside the images to guarantee synchronization."
+      },
+      {
+        "id": "T7R21",
+        "number": 21,
+        "type": "RClickWordReferPhrase",
+        "text": "Look at the phrase <B>These signals</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>These signals</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "These signals",
+          "These",
+          "signals",
+          "would"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"These signals\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T7R22",
+        "number": 22,
+        "type": "RMCSimple",
+        "text": "According to the passage, sound-on-film guaranteed synchronization because the recording was",
+        "paragraphNumber": 1,
+        "options": [
+          "inserted alongside the images on the film",
+          "made during the filming of the picture",
+          "made on celluloid",
+          "marked on the gramophone"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Short feature films produced as early as 1922"
+      },
+      {
+        "id": "T7R23",
+        "number": 23,
+        "type": "RMCSimple",
+        "text": "Short feature films produced as early as 1922",
+        "paragraphNumber": 1,
+        "options": [
+          "preceded talking pictures",
+          "were recorded by optical sensors",
+          "put musicians out of work",
+          "were only effective for dialogue sequences"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated that this system (the system used for short feature films) eventually brought us \"talking pictures.\" This indicates that short feature films came before \"talking pictures.\""
+      },
+      {
+        "id": "T7R24",
+        "number": 24,
+        "type": "RMCSimple",
+        "text": "This passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "the validity of folk remedies and their uses for advances in modern medicine",
+          "using folk medicines in place of modern medicines",
+          "antibiotics and antimalarial drugs used in the field of medicine",
+          "isolating antibiotics in sugar, wormwood, and slime"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In paragraph 1, the author uses {wormwood} as an example of"
+      },
+      {
+        "id": "T7R25",
+        "number": 25,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>remedies</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>remedies</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "cures",
+          "medicines",
+          "properties",
+          "inhabitants"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Folk 'remedies' are traditional 'cures' or therapeutic treatments."
+      },
+      {
+        "id": "T7R26",
+        "number": 26,
+        "type": "RMCOther",
+        "text": "In paragraph 1, the author uses wormwood as an example of",
+        "paragraphNumber": 1,
+        "options": [
+          "a folk remedy that has influenced modern medicine",
+          "a discovery from an ancient tomb dating from 168 B.C.",
+          "a new antimalarial drug used in China and Vietnam",
+          "an overemphasized folk cure of the Southeast Asians"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "From the statements \"folk cures that have been around for centuries may be more therapeutic\" and \"A new antimalarial drug has been developed through research into wormwood's properties,\" it can be understood that wormwood as a folk cure has influenced modern medicine."
+      },
+      {
+        "id": "T7R27",
+        "number": 27,
+        "type": "RClickSentence",
+        "text": "#Tt wormwood as a folk cure has influenced modern medicine.",
+        "paragraphNumber": 1,
+        "options": [
+          "cures",
+          "around",
+          "centuries",
+          "therapeutic"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "#Tt wormwood as a folk cure has influenced modern medicine."
+      },
+      {
+        "id": "T7R28",
+        "number": 28,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>Its</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>Its</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "Its",
+          "suction",
+          "effect",
+          "helps"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The suction effect of \"sugar\" helps the healing process."
+      },
+      {
+        "id": "T7R29",
+        "number": 29,
+        "type": "RMCOther",
+        "text": "Look at paragraph 2. With which of the following statements would the author most probably agree?",
+        "paragraphNumber": 2,
+        "options": [
+          "Sugar promotes healing.",
+          "Bacteria feed on sugar.",
+          "Sugar kills unhealthy cells.",
+          "Glass is formed from sugar."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In paragraph 3, the author states that the gel-like substance that promotes healing comes from"
+      },
+      {
+        "id": "T7R30",
+        "number": 30,
+        "type": "RMCOther",
+        "text": "In paragraph 3, the author states that the gel-like substance that promotes healing comes from",
+        "paragraphNumber": 3,
+        "options": [
+          "RMCOther",
+          "It produces glue.",
+          "It prohibits inflammation.",
+          "It fights bacteria."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In paragraph 3, which of the following is NOT discussed as a quality of the catfish slime?"
+      },
+      {
+        "id": "T7R31",
+        "number": 31,
+        "type": "RMCOther",
+        "text": "In paragraph 3, which of the following is NOT discussed as a quality of the catfish slime?",
+        "paragraphNumber": 3,
+        "options": [
+          "It produces glue.",
+          "It prohibits inflammation.",
+          "It fights bacteria.",
+          "It stops bleeding."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Traditional herbal treatments\" are ideal for use by local people."
+      },
+      {
+        "id": "T7R32",
+        "number": 32,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>them</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>them</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "them",
+          "Traditional",
+          "herbal",
+          "treatments"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Traditional herbal treatments\" are ideal for use by local people."
+      },
+      {
+        "id": "T7R33",
+        "number": 33,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"consumption\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "consumption",
+          "such",
+          "documentation",
+          "made"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "#Templman \"consumption\" is made for human \"use.\""
+      },
+      {
+        "id": "T7R34",
+        "number": 34,
+        "type": "RClickParagraph",
+        "text": "#Templ-37Q34",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In what way would the author state that wormwood, sugar, and catfish slime are similar?"
+      },
+      {
+        "id": "T7R35",
+        "number": 35,
+        "type": "RMCSimple",
+        "text": "In what way would the author state that wormwood, sugar, and catfish slime are similar?",
+        "paragraphNumber": 1,
+        "options": [
+          "They combat illnesses.",
+          "They cause blood clots.",
+          "They fight bacterial infections.",
+          "They eliminate dead cells."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas."
+      },
+      {
+        "id": "T7R36",
+        "number": 36,
+        "type": "RAddSentenceToPassage",
+        "text": "The following sentence can be added to the passage.<P><B>In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas."
+      },
+      {
+        "id": "T7R37",
+        "number": 37,
+        "type": "RMCSimple",
+        "text": "Which one of the following sentences should NOT be included in a summary of the passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "Synthetic substances need to be analyzed for human consumption.",
+          "Traditional remedies are important for research into medicine.",
+          "Early records of medicinal uses can lead to developments in drugs.",
+          "Documentation of traditional treatments needs to be undertaken."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following was one of the aims of the FWP?"
+      },
+      {
+        "id": "T7R38",
+        "number": 38,
+        "type": "RMCSimple",
+        "text": "The passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "a federally funded project",
+          "Depression-era struggles",
+          "biographies of the poor",
+          "a source of literary creations"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Which of the following was one of the aims of the FWP?"
+      },
+      {
+        "id": "T7R39",
+        "number": 39,
+        "type": "RMCSimple",
+        "text": "Which of the following was one of the aims of the FWP?",
+        "paragraphNumber": 1,
+        "options": [
+          "To give work to writers",
+          "To help freed slaves",
+          "To fund controversial projects",
+          "To encourage administrators"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "FWP workers interviewed more than ten thousand \"people\" about their work histories."
+      },
+      {
+        "id": "T7R40",
+        "number": 40,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 2,
+        "options": [
+          "people",
+          "FWP workers",
+          "work histories",
+          "occupations"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "FWP workers interviewed more than ten thousand \"people\" about their work histories. The pronoun \"their\" refers to the \"people\" whose work histories were being documented."
+      },
+      {
+        "id": "T7R41",
+        "number": 41,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "their",
+          "Among",
+          "variety",
+          "undertakings"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "FWP workers interviewed more than ten thousand \"people\" about their work histories."
+      },
+      {
+        "id": "T7R42",
+        "number": 42,
+        "type": "RMCSynonymWord",
+        "text": "The word \"vagrants\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "wander\"",
+          "FWP workers interviewed more than ten thousand \"people\" about their work histories.",
+          "RMCSynonymWord",
+          "wander"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"recollections\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T7R43",
+        "number": 43,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"recollections\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "recollections",
+          "Many",
+          "interviewees",
+          "told"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"recollections\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T7R44",
+        "number": 44,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 2 that suggests that government officials were aware of their social responsibilities.<P>Paragraph 2 is marked with an arrow (~).",
+        "paragraphNumber": 2,
+        "options": [
+          "During",
+          "Great",
+          "Depression",
+          "United"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that suggests that government officials were aware of their social responsibilities."
+      },
+      {
+        "id": "T7R45",
+        "number": 45,
+        "type": "RMCSimple",
+        "text": "With which of the following statements about the FWP would the author of the passage most likely agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "It was ambitious in extent.",
+          "It was bitter in outcome.",
+          "It was nostalgic in intent.",
+          "It was narrow i intent."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Seven thousand writers interviewing more than ten thousand people from different regions, ethnic groups, and occupations indicates that this was an ambitious project."
+      },
+      {
+        "id": "T7R46",
+        "number": 46,
+        "type": "RMCSynonymWord",
+        "text": "The word \"poignant\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "heartfelt",
+          "thrilling",
+          "sarcastic",
+          "pathetic"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What does the author mean by {a bygone era} in paragraph 3?"
+      },
+      {
+        "id": "T7R47",
+        "number": 47,
+        "type": "RMCSimple",
+        "text": "It can be inferred from the passage that the FWP",
+        "paragraphNumber": 1,
+        "options": [
+          "was opposed by some people",
+          "was an unprincipled ruse",
+          "was an expensive failure",
+          "was mocked by informants"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "What does the author mean by {a bygone era} in paragraph 3?"
+      },
+      {
+        "id": "T7R48",
+        "number": 48,
+        "type": "RMCOther",
+        "text": "What does the author mean by a bygone era in paragraph 3?",
+        "paragraphNumber": 3,
+        "options": [
+          "Any period in the past",
+          "The onset of World War II",
+          "A time when priorities were more realistic",
+          "The everyday life historians provide insights into"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The onset oon. This indicates that some people were opposed to the project."
+      },
+      {
+        "id": "T7R49",
+        "number": 49,
+        "type": "RMCSimple",
+        "text": "According to the passage, the life histories series",
+        "paragraphNumber": 1,
+        "options": [
+          "was a valuable literary resource",
+          "was completed after World War II",
+          "had attained its overall goals",
+          "had several historical weaknesses"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It can be understood from the passage that one aspect of the life histories series that influenced literary output was"
+      },
+      {
+        "id": "T7R50",
+        "number": 50,
+        "type": "RMCSimple",
+        "text": "It can be understood from the passage that one aspect of the life histories series that influenced literary output was",
+        "paragraphNumber": 1,
+        "options": [
+          "the dialects of the informants",
+          "the controversy of the programs",
+          "the tolerance of the public",
+          "the criticism of the opposition"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author mention [QText] in paragraph [ParaNumber]?<P>[AnswerSet]<P>Paragraph [ParaNumber] is marked with an arrow (~)."
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T7L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The man can choose whom to go with.",
+          "She can't tan mean?",
+          "L21-L24",
+          "L21-L24"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L01C.WAV",
+        "questionAudio": "T7L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L01C.png",
+        "transcript": "MAN: Could you give me a lift to the football game at the University Stadium tonight?\nWOMAN: Well, I have to be there by six o'clock to set up the concession stands. If that's too early for you, I think Patty might be going around 7:30.",
+        "feedback": ""
+      },
+      {
+        "id": "T7L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the man imply?",
+        "options": [
+          "Club participation in student elections has increased.",
+          "At least twenty-five students voted.",
+          "Over a hundred students took part in the last elections.",
+          "More than half the students have joined clubs."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L02C.WAV",
+        "questionAudio": "T7L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L02C.png",
+        "transcript": "WOMAN: Fifty students voted in the club elections at the meeting last night.\nMAN: That's more than doublelast night.\nMAN: That's more than double",
+        "feedback": "The man's saying that the number has more than doubled indicates that the student participation in the club has increased."
+      },
+      {
+        "id": "T7L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She thought the man knew a lot about computer programming.",
+          "She thought the man should help her anyway.",
+          "She thought the man helped with computer programs.",
+          "She thought the man should give up computer programming."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L03C.WAV",
+        "questionAudio": "T7L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L03C.png",
+        "transcript": "MAN: Someone with more experience in computer programming could help you.\nWOMAN: Oh, I thought you did have lots of experience.",
+        "feedback": "The woman's statement indicates that she thought he had enough experience in computer programming to help her."
+      },
+      {
+        "id": "T7L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What is the man going to do?",
+        "options": [
+          "Give the woman time to use the telephone",
+          "Let the woman finish making her phone call",
+          "Return after the woman has made her phone call",
+          "Make a call before meeting the woman in the lobby"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L04C.WAV",
+        "questionAudio": "T7L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L04C.png",
+        "transcript": "WOMAN: I'd like to stop to make a phone call before we leave the dormitory.\nMAN: Fine. I'll wait for you in the lobby.",
+        "feedback": "The man tells the woman that he will wait in the lobby. In other words, he will give her time to make the call."
+      },
+      {
+        "id": "T7L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Even with the door closed, the music was too loud.",
+          "Simon couldn't get the door closed.",
+          "The music couldn't be heard through the closed door.",
+          "Simon was trying to hear the music."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L05C.WAV",
+        "questionAudio": "T7L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L05C.png",
+        "transcript": "WOMAN: The noise in the dorm kept Simon awake most of the night.\nMAN: I know. He said he tried closing the door, but he could still hear loud music.",
+        "feedback": "\"To try doing something\" means \"to test an action.\" Simon tried closing the door, but that action didn't stop him from hearing the music."
+      },
+      {
+        "id": "T7L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What can be inferred about the woman?",
+        "options": [
+          "She's very hungry.",
+          "She's dieting.",
+          "She doesn't like doughnuts.",
+          "She's going to the deli."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L06C.WAV",
+        "questionAudio": "T7L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L06C.png",
+        "transcript": "MAN: I'm going out for a doughnut. Can I get you something?\nWOMAN: Hmm. I'm dying for one of those big, juicy sandwiches from the deli.",
+        "feedback": "The expression \"dying for\" means \"want very badly.\" The woman must be hungry since she wants a big sandwich very badly."
+      },
+      {
+        "id": "T7L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the woman suggest the man do?",
+        "options": [
+          "Continue practicing",
+          "Go to Vienna",
+          "Join the university choir",
+          "Pass the audition"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L07C.WAV",
+        "questionAudio": "T7L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L07C.png",
+        "transcript": "MAN: I had my heart set on going to Vienna with the university choir.\nWOMAN: Keep practicing and you'll pass the audition next year.",
+        "feedback": "The woman thinks the man will succeed if he continues to practice."
+      },
+      {
+        "id": "T7L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "Michael is related to the man by marriage.",
+          "Michael has a brother.",
+          "Michael is a lawyer.",
+          "Michael is married to a lawyer."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L08C.WAV",
+        "questionAudio": "T7L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L08C.png",
+        "transcript": "WOMAN: Do you know Michael Jones?\nMAN: Know him? Why, he's my brother-in-law.",
+        "feedback": "Michael is related to the man through marriage - either Michael is married to the man's sister, or the man is married to Michael's sister."
+      },
+      {
+        "id": "T7L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the woman say about Nick?",
+        "options": [
+          "He didn't get any information about the check.",
+          "He couldn't contact the weather bureau.",
+          "He checked the weather forecast.",
+          "He's going to have a good checkup."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L09C.WAV",
+        "questionAudio": "T7L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L09C.png",
+        "transcript": "MAN: What was Nick's problem?\nWOMAN: He couldn't find out whether the check was still good.",
+        "feedback": "The woman states that Nick couldn't find out (couldn't get information) about the check."
+      },
+      {
+        "id": "T7L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "Sam's completed sixty credit hours or more.",
+          "Sam's completed fewer than sixty credit hours.",
+          "Sam hasn't completed sixty credit hours yet.",
+          "Sam has at most sixty credit hours."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L10C.WAV",
+        "questionAudio": "T7L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L10C.png",
+        "transcript": "MAN: Sam's completed sixty credit hours, hasn't he?\nWOMAN: At least.",
+        "feedback": "The woman means that Sam has completed at least sixty credit hours. Here, \"at least\" means \"sixty is the minimum number\" and that the actual number is sixty or more."
+      },
+      {
+        "id": "T7L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What is the woman implying?",
+        "options": [
+          "The man is probably not studying effectively.",
+          "The man should study geology more than calculus.",
+          "The man shouldn't be having more difficulty with calculus than with geology.",
+          "T"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L11C.WAV",
+        "questionAudio": "T7L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L11C.png",
+        "transcript": "MAN: I've studied harder in that geology class than for my calculus class, and I'm still not passing.\nWOMAN: Perhaps your professor could give you some studying tips.",
+        "feedback": "By suggesting that the man get tips for studying, the woman implies that she doesn't think the man is studying in an effective way."
+      },
+      {
+        "id": "T7L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What is the woman's concern?",
+        "options": [
+          "The woman intended to write more than she did.",
+          "The woman intended to write half as much as she did.",
+          "The woman won't have time to write as much as she wanted.",
+          "The woman will have to turn in the essay late."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L12C.WAV",
+        "questionAudio": "T7L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L12C.png",
+        "transcript": "WOMAN: I didn't get half as much written on that essay as I intended.\nMAN: Well, maybe you can write more later.",
+        "feedback": "The woman didn't write as much as she intended to write. She wrote less than half of what she intended to write."
+      },
+      {
+        "id": "T7L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She would be pleased if Larry brought his notes.",
+          "She doesn't think Larry can find his class notes.",
+          "She's annoyed with Jack about the class notes.",
+          "She would rather have Larry's class notes than Jack's."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L13C.WAV",
+        "questionAudio": "T7L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L13C.png",
+        "transcript": "MAN: I heard that Jack wasn't able to lend you his class notes. Would you like me to bring mine over?\nWOMAN: Oh, could you, Larry?",
+        "feedback": "\"Could you?\" means \"Is it possible for you to bring over your class"
+      },
+      {
+        "id": "T7L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "They arrived just in time.",
+          "They didn't attend the recital.",
+          "The music started too soon.",
+          "They didn't see the man."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L14C.WAV",
+        "questionAudio": "T7L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L14C.png",
+        "transcript": "MAN: I didn't see you before the music students' recital. I hope you didn't miss the beginning.\nWOMAN: No sooner did we arrive than the music started.",
+        "feedback": "The music started immediately after the people arrived."
+      },
+      {
+        "id": "T7L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "The last day to drop a class is a week away.",
+          "The man has four weeks to drop the class.",
+          "The man must drop the class before Thursday.",
+          "Thursday, the fourth, is the last day to drop classes."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L15C.WAV",
+        "questionAudio": "T7L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L15C.png",
+        "transcript": "MAN: When is the last day I can drop a class?\nWOMAN: Next Thursday. You have a full week.",
+        "feedback": "\"A full week\" is one complete week."
+      },
+      {
+        "id": "T7L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What had the man done?",
+        "options": [
+          "He'd parked his truck in a no-parking area.",
+          "He'd driven his truck around the block.",
+          "He'd put his truck in reverse.",
+          "He'd put the cut branches in his truck."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L16C.WAV",
+        "questionAudio": "T7L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L16C.png",
+        "transcript": "WOMAN: Could you please move your truck so I can back out?\nMAN: I'm sorry. I didn't realize I was blocking the driveway.\nWOMAN: Yeah. It looks like I need to ask University Maintenance to cut back those branches so people can see the sign.",
+        "feedback": "The man parked in a place that blocked the driveway so that the woman couldn't get out. He could not see the sign because of the tree branches. The sign is probably a no-parking sign."
+      },
+      {
+        "id": "T7L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What is probably the woman's major?",
+        "options": [
+          "Psychology",
+          "Education",
+          "Accounting",
+          "Mathematics"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L17C.WAV",
+        "questionAudio": "T7L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L17C.png",
+        "transcript": "WOMAN: I think I'll sign up for Psychology 321.\nMAN: I thought that only education majors got credit for that class.\nWOMAN: Oh, dear. I'd better find out for certain. I don't want to take a course that doesn't go toward my major.",
+        "feedback": "The woman doesn't want to take any courses that don't go toward her major. She is prepared to take Psychology 321 until she discovers it might be for education majors. Her unwillingness to take it until she knows for sure indicates that psychology is probably her major."
+      },
+      {
+        "id": "T7L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She probably won't spend extra money.",
+          "She has managed to get an apartment that is farther away.",
+          "She will have to commute a long distance.",
+          "She is paying extra to have a newer apartment."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T7L18C.WAV",
+        "questionAudio": "T7L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T7L18C.png",
+        "transcript": "MAN: Have you found a new apartment yet?\nWOMAN: Yes. In fact, I've managed to find one close to campus.\nMAN: That was lucky. They're not very easy to get because that's what everyone wants.\nWOMAN: Yeah. It's more expensive than an apartment farther away, but I'll save on commuting expenses.",
+        "feedback": "The cost of the apartment may be more, but the woman will spend less on traveling to and from campus.",
+        "correctAnswerIndices": [
+          0
+        ]
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T7L19-20",
+        "startQuestion": 19,
+        "endQuestion": 20,
+        "fullAudio": "T7L19-20.WAV",
+        "audioClips": [
+          "T7L19-20.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L19-20C.png",
+        "transcript": "MAN: Have you decided if you'll spend spring break surfing in California?\nWOMAN: Well, I had decided to do that, but my plans have changed drastically.\nMAN: Why? What happened?\nWOMAN: Dr. Franklin announced that there would be a biology expedition in Alaska for which we could get course credit. It sounded like an opportunity I couldn't miss.\nMAN: So, you're going to Alaska, are you?\nWOMAN: Yes, and I'm really looking forward to it. I've never been there before.",
+        "questions": [
+          {
+            "id": "T7L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "What were the woman's original plans?",
+            "questionAudio": "T7L19Q.WAV",
+            "options": [
+              "Go surfing in California",
+              "Get university credit in Alaska",
+              "Join an expedition in California",
+              "Visit a biologist in Alaska"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man asks the woman if she still plans on going surfing in California. This indicates that this was her original plan."
+          },
+          {
+            "id": "T7L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "What does the woman intend to do now?",
+            "questionAudio": "T7L20Q.WAV",
+            "options": [
+              "Get university credit in biology",
+              "Spend her spring break surfing",
+              "Study biology in California",
+              "Announce an expedition in Alaska"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman explains that a biology expedition in Alaska for university credit is an opportunity she couldn't miss. She confirms that she intends to d"
+          }
+        ]
+      },
+      {
+        "groupId": "T7L21-22",
+        "startQuestion": 21,
+        "endQuestion": 22,
+        "fullAudio": "T7L21-22.WAV",
+        "audioClips": [
+          "T7L21-22.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L21-22C.png",
+        "transcript": "MAN: Did you hear that Mary wants to give up her job?\nWOMAN: Really? Why?\nMAN: She says it's very repetitive and she's getting bored.\nWOMAN: That is a problem, but it's a well-paying job and those aren't easy to get nowadays.\nMAN: That's true. It's hard to get work in a university town like this.\nWOMAN: Yeah. What with all the graduates who like it here and don't want to move on.\nMAN: And don't forget that there are also a lot of people who! are working to put their spouses through school.\nWOMAN: I wonder if it's any easier to find work in larger cities where there are universities.\nMAN: I suppose it is, but it's also more expensive to live there and commuting can be a real headache.\nWOMAN: That's for sure.",
+        "questions": [
+          {
+            "id": "T7L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "What are the two people discussing?",
+            "questionAudio": "T7L21Q.WAV",
+            "options": [
+              "The difficulty of finding a job in a university town",
+              "The expenses of commuting to the university",
+              "Advantages of living in a larger city",
+              "Jobs that are repetitive and boring"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Although the people begin the conversation by discussing a friend's quitting a boring, repetitive job, they continue the conversation by discussing the difficulty of finding a job position in a university town."
+          },
+          {
+            "id": "T7L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What is Mary's problem?",
+            "questionAudio": "T7L22Q.WAV",
+            "options": [
+              "Her work is repetitive and she has lost interest in it.",
+              "She can't find a job and has to move to a larger city.",
+              "Her job doesn't pay well enough.",
+              "She needs to work to help pay her husband's university expenses."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man states that Mary finds her job repetitive. She is bored and wants to quit the job."
+          }
+        ]
+      },
+      {
+        "groupId": "T7L23-27",
+        "startQuestion": 23,
+        "endQuestion": 27,
+        "fullAudio": "T7L23-27.WAV",
+        "audioClips": [
+          "T7L23-27.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L23-27C.png",
+        "transcript": "MAN: Hi, Jane. How was the conference in Denver? You look worn out.\nWOMAN: The conference was great, but on the return flight my luggage got lost.\nMAN: Oh, no. Are you sure you went to the right place to pick up your bags?\nWOMAN: Yes, of course. I waited until everything had come through from the flight, and my suitcases weren't there.\nMAN: That must have been terrible. Did you report them to the lost-and-found office?\nWOMAN: Yes. I had to fill out a search form. And at first, I couldn't find my baggage-claim tickets when the woman asked to see them. %mp\tH&bÔT7L28-34In underground cave systems, rainfall containing minerals absorbed from carbonat course, they were attached to my ticket stubs.\nMAN: Is your missing luggage that large gray one with a strap that I helped you bring home from the store?\nWOMAN: Yes, and a small black one that belongs to my mother. It's one of her favorites.\nMAN: Did you have identification tags on them?\nWOMAN: Well, my name is on the gray one. There's a kind of window on the strap where you can put your name and address. My mother's name is on a tag on the black bag. I also have identification inside both.\nMAN: Good. Is your telephone number on them?\nWOMAN: No, but I let the lost-and-found people know where I could be reached. They said that they would put a search on the bags immediately and contact me as soon as they're recovered.\nMAN: That's reassuring. I wouldn't worry too much about it. They will probably come in on the next flight from Denver.\nWOMAN: I hope you're right. That gray suitcase was expensive, and my mother will be really upset if I've lost her black one.",
+        "questions": [
+          {
+            "id": "T7L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "Why had the woman gone to Denver?",
+            "questionAudio": "T7L23Q.WAV",
+            "options": [
+              "To attend a convention",
+              "To recover her luggage",
+              "To buy a new suitcase",
+              "To visit her mother"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man asks the woman how the convention in Denver was, so she probably went to Denver to attend a conference."
+          },
+          {
+            "id": "T7L24",
+            "number": 24,
+            "type": "LTwo",
+            "text": "What was the woman asked to do at the airport?",
+            "questionAudio": "T7L24Q.WAV",
+            "options": [
+              "Fill out a search form",
+              "Show a woman her baggage-claim tickets",
+              "Attach the claim form to her tickets",
+              "Open her suitcases for customs"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman was asked to fill out a search form and show her baggage-claim tickets."
+          },
+          {
+            "id": "T7L25",
+            "number": 25,
+            "type": "LMC",
+            "text": "What does the woman have inside her suitcases?",
+            "questionAudio": "T7L25Q.WAV",
+            "options": [
+              "Identification",
+              "Baggage-claim tickets",
+              "A black suitcase",
+              "A strap"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman tells the man that she has her name and address (identification) inside the luggage."
+          },
+          {
+            "id": "T7L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "What will the lost-and-found office do when the lu",
+            "questionAudio": "T7L26Q.WAV",
+            "options": [
+              "Contact the woman",
+              "Search for the name and address",
+              "Cover the luggage",
+              "Fill out the search form"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman says that she was told she would be contacted as soon as the suitcases are recovered."
+          },
+          {
+            "id": "T7L27",
+            "number": 27,
+            "type": "LPictureClock",
+            "text": "Select the illustration below that shows the woman's suitcases.",
+            "questionAudio": "T7L27Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T7L27Q1.png",
+              "assets/images/cambridge/T7L27Q2.png",
+              "assets/images/cambridge/T7L27Q3.png",
+              "assets/images/cambridge/T7L27Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman describes the two suitcases: a large gray one with a strap and a small black one."
+          }
+        ]
+      },
+      {
+        "groupId": "T7L28-34",
+        "startQuestion": 28,
+        "endQuestion": 34,
+        "fullAudio": "T7L28-34.WAV",
+        "audioClips": [
+          "T7L28-34.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L28-34C.png",
+        "transcript": "In underground cave systems, rainfall containing minerals absorbed from carbonat course, they were attached to my ticket stubs.\nMAN: Is your missing luggage that large gray one with a strap that I helped you bring home from the store?\nWOMAN: Yes, and a small black one that belongs to my mother. It's one of her favorites.\nMAN: Did you have identification tags on them?\nWOMAN: Well, my name is on the gray one. There's a kind of window on the strap where you can put your name and address. My mother's name is on a tag on the black bag. I also have identification inside both.\nMAN: Good. Is your telephone number on them?\nWOMAN: No, but I let the lost-and-found people know where I could be reached. They said that they would put a search on the bags immediately and contact me as soon as they're recovered.\nMAN: That's reassuring. I wouldn't worry too much about it. They will probably come in on the next flight from Denver.\nWOMAN: I hope you're right. That gray suitcase was expensive, and my mother will be really upset if I've lost her black one.",
+        "questions": [
+          {
+            "id": "T7L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "What is the lecture mainly about?",
+            "questionAudio": "T7L28Q.WAV",
+            "options": [
+              "Speleothems",
+              "Flowstones",
+              "Stalactites and stalagmites",
+              "Draperies"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor begins the lecture by talking about the formations built up by debris from rainfall entering underground cave systems. She calls these formations \"speleothems\" and goes on to describe several of these formations."
+          },
+          {
+            "id": "T7L29",
+            "number": 29,
+            "type": "LOrdering",
+            "text": "The pro",
+            "questionAudio": "T7L29Q.WAV",
+            "options": [
+              "Water containing minerals seeps through the roof of a cave.",
+              "Seepage creates long, hollow tubes where mineral residues build up.",
+              "Tubes become plugged and the water flows down the outside surface.",
+              "An icicle shape is formed from which water drops to the floor."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The water containing minerals absorbed from carbonate rock and plant debris drips through the cave roof, creating vertical, elongated, hollow tubes known as soda straws. Eventually the tube becomes plugged and the water then runs down the outside surface of the tube. This forms an icicle shape."
+          },
+          {
+            "id": "T7L30",
+            "number": 30,
+            "type": "LMatchingTextWord",
+            "text": "How do the following types of speleothems develop?",
+            "questionAudio": "T7L30Q.WAV",
+            "options": [
+              "The water flow deposits thin trails that build up a series of ripples and folds.//Draperies",
+              "The water flows down a vertical surface somewhat like a waterfall.//Flowstones",
+              "The water dripping on the floor kbuilds up a vertical formation.//Stalagmites"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Draperies are a series of ripples and folds made by the water flow depositing the mineral solution in thin trails. Flowstones are formations that have the appearance of a waterfall made by water flowing down a vertical surface. Stalagmites are vertical columns made by water dripping onto the floor."
+          },
+          {
+            "id": "T7L31",
+            "number": 31,
+            "type": "LPicture1",
+            "text": "Select the helictite formation in the diagram.",
+            "questionAudio": "T7L31Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T7L31Q1.png",
+              "assets/images/cambridge/T7L31Q2.png",
+              "assets/images/cambridge/T7L31Q3.png",
+              "assets/images/cambridge/T7L31Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor describes the helictites as delicate formations that are twisted and tangled like the roots of plants."
+          },
+          {
+            "id": "T7L32",
+            "number": 32,
+            "type": "LTwo",
+            "text": "What possible explanations does the professor give about the shapes of helictites?",
+            "questionAudio": "T7L32Q.WAV",
+            "options": [
+              "Their shapes are affected by the variations in pressure within a cave.",
+              "They are caused by wind currents occurring in a cave.",
+              "They break off before they become twisted.",
+              "Their eccentric patterns are artificially created."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that some geologists argue that variations in pressure and wind within the cave may cause the eccentric patterns of helictites."
+          },
+          {
+            "id": "T7L33",
+            "number": 33,
+            "type": "LTwo",
+            "text": "According to the professor, what can be said of speleothems?",
+            "questionAudio": "T7L33Q.WAV",
+            "options": [
+              "They can be of different colors.",
+              "They come in a variety of shapes.",
+              "They are destroyed by rainfall.",
+              "They are unusual in cave formations."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that most speleothems are found in a variety of colors as well as shapes."
+          },
+          {
+            "id": "T7L34",
+            "number": 34,
+            "type": "LMC",
+            "text": "What is the professor's attitude toward cave systems?",
+            "questionAudio": "T7L34Q.WAV",
+            "options": [
+              "She probably thinks people should be educated about the need to preserve them.",
+              "She probably doesn't believe they should be open to the general public.",
+              "She probably believes that cave samples should be removed for further studies.",
+              "She/ probably doesn't think they will survive for future generations."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that it is important to treat the underground world with care and respect for future generations. This implies that she wants people to learn about them and feels there is a need to preserve them."
+          }
+        ]
+      },
+      {
+        "groupId": "T7L35-39",
+        "startQuestion": 35,
+        "endQuestion": 39,
+        "fullAudio": "T7L35-39.WAV",
+        "audioClips": [
+          "T7L35-39.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L35-39C.png",
+        "transcript": "While pesticides have gotten a lot of negative publicity, some of it may not be justified. Contrary to popular belief, there are no pesticides approved for use in the U.S. which are known to cause cancer in humans. It's unlikely that pesticide residues have caused cancer in any individual, but there are approved chemicals that are listed as suspeoses thousands of times greater than humans typically consume. I would like to suggest that this is not a realistic method of testing pesticide risks, particularly in humans.\nFurthermore, there are natural chemicals in our foods that are much more toxic than pesticide residues. These natural toxins are associated with several kinds of cancer. The best way to fight these toxins is to destroy the fungi that are responsible for producing them. This can be achieved by pesticide treatment. In this way, pesticides may actually reduce the incidence of cancer.\nA final, important point is that the use of pesticides has allowed us to dramatically increase the supply of cheap, attractive fruits and vegetables throughout the year. We are now discovering that eating more fruits and vegetables can reduce the risk of cancer by a significant amount. Thus, because pesticide use leads to an increase in fresh food consumption, it indirectly saves lives by cutting the incidence of cancer.",
+        "questions": [
+          {
+            "id": "T7L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "What is the professor describing?",
+            "questionAudio": "T7L35Q.WAV",
+            "options": [
+              "The potential importance of pesticides in preventing cancer",
+              "The production of fresh fruits and vegetables",
+              "The use of experiments with rats",
+              "The toxic effects of pesticides"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor begins the talk with a statement concerning pesticide use and cancer. The talk continues by giving details of how pesticides may actually prevent cancer."
+          },
+          {
+            "id": "T7L36",
+            "number": 36,
+            "type": "LMC",
+            "text": "How does the professor regard studies done with rats?",
+            "questionAudio": "T7L36Q.WAV",
+            "options": [
+              "As an invalid method for judging the risk of pesticides",
+              "As a reliable way of judging rat behavior",
+              "As a cruel method of re",
+              "As a useful form of research"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor suggests that the rat studies do not use realistic methods of testing. This indicates that the professor regards the results of the tests as invalid."
+          },
+          {
+            "id": "T7L37",
+            "number": 37,
+            "type": "LMC",
+            "text": "Why does the professor mention natural chemicals in foods?",
+            "questionAudio": "T7L37Q.WAV",
+            "options": [
+              "To emphasize that natural toxins exist",
+              "To show how they may be good for our health",
+              "To inform the class that they have been approved for consumption",
+              "To explain that rats consume these natural chemicals"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor mentions that there are natural chemicals that are associated with several kinds of cancer."
+          },
+          {
+            "id": "T7L38",
+            "number": 38,
+            "type": "LTwo",
+            "text": "What important points does the professor make about pesticides and cancer?",
+            "questionAudio": "T7L38Q.WAV",
+            "options": [
+              "A diet of fruits and vegetables can reduce cancer.",
+              "Pesticides help increase the supply of toxin-free, fresh foods.",
+              "Pesticide-free fungi can be a natural cancer treatment.",
+              "Pesticides are"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that eating more fruits and vegetables can reduce the risk of cancer and that the use of pesticides, which kill natural toxins, has allowed an increase in the supply of fruits and vegetables."
+          },
+          {
+            "id": "T7L39",
+            "number": 39,
+            "type": "LMC",
+            "text": "What does the professor imply about the use of pesticides?",
+            "questionAudio": "T7L39Q.WAV",
+            "options": [
+              "Farmers should continue using pesticides.",
+              "People should eat fewer kinds of fresh food.",
+              "Scientists should conduct further experiments with rats.",
+              "The testing of pesticides should be stopped."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that pesticide use increases fresh-food consumption and thus indirectly saves lives. This assertion indicates that the professor is advocating the continued use of pesticides."
+          }
+        ]
+      },
+      {
+        "groupId": "T7L40-44",
+        "startQuestion": 40,
+        "endQuestion": 44,
+        "fullAudio": "T7L40-44.WAV",
+        "audioClips": [
+          "T7L40-44.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L40-44C.png",
+        "transcript": "The passenger pigeon was once the most numerous species of bird in North America, and possibly on the earth. It has been calculated that in North America they were more abundant than all the birds of all other species combined. The earliest records, dating from 1630, describe)r&±XT7L45-50MAN 1: Today, I would like to continue our discussion about the development of refrigeration. As we discussed previously, early humans probably noticed that their meat would last longer if it was stored in a cave or packed in snow. There is evidence they even stored food underwater. Later, ice was actively harvested from frozen lakes and rivers, and this ice would be suge migrations of literally billions of these birds clouding the skies. The flapping of their wings created a noise like thunder, and the flocks took days to pass. Their nesting sites in the Eastern Woodlands of the United States covered hundreds of square miles.\nThe birds were originally hunted by Native American Iroquois, who killed only young birds and left adult pigeons to breed again. With the colonization of the continent by Europeans, however, the habitat of the passenger pigeon came under threat as forests of chestnut and oak trees, the main source of food for the bird, were gradually cleared and converted to farmland. Numbers declined steadily. The bird was also hunted relentlessly by colonists, sometimes for food, to be consumed both by humans and by hogs, but sometimes merely for sport. The vulnerable birds were clubbed, netted, and shot. Such destruction was also seen as a valid form of pest control, since the bird was deemed a menace to crops. The extension of the raroad increased the pressure on the birds, as they could then be easily shipped to the insatiable markets of the growing cities. Despite declining numbers, the passenger pigeons still congregated in huge flocks and were such easy targets that in one competition, a participant was expected to kill 30,000 birds just to be considered for a prize.\nIn 1896 only an estimated 250,000 birds were left, all remaining in one large flock. A large group of hunters using the telegraph to coordinate their activity destroyed all but 5,000. A few isolated individuals continued to live on in the wild, but by 1909 only three passenger pigeons, all kept at the Cincinnati Zoological Gardens, were known to exist. The last of these, affectionately known as Martha, became a popular tourist attraction, and the authorities offered thousands of dollars to anyone who could find a male for breeding purposes. The search was to no avail, and in September 1914 Martha died and the species became extinct.",
+        "questions": [
+          {
+            "id": "T7L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "What is the talk mainly about?",
+            "questionAudio": "T7L40Q.WAV",
+            "options": [
+              "The destruction of a bird species",
+              "Ways to kill bird pests",
+              "Birds of North America",
+              "Pigeon-hunting competitions"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The talk mainly discusses the progress of the decline of passenger pigeons from flocks of billions to extinction."
+          },
+          {
+            "id": "T7L41",
+            "number": 41,
+            "type": "LPictureClock",
+            "text": "Select the graph that shows the decline of the passenger pigeon.",
+            "questionAudio": "T7L41Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T7L41Q1.png",
+              "assets/images/cambridge/T7L41Q2.png",
+              "assets/images/cambridge/T7L41Q3.png",
+              "assets/images/cambridge/T7L41Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The speaker states that there were billions of birds when the first Europeans arrived on the American continent and this number had declined to 250,000 by 1896. In 1896 hunters brought the numbers down to 5000. By 1909 there were only 3 pigeons left. The passenger pigeons were extinct by 1914."
+          },
+          {
+            "id": "T7L42",
+            "number": 42,
+            "type": "LTwo",
+            "text": "Which of the following can be inferred about the passenger pigeon?",
+            "questionAudio": "T7L42Q.WAV",
+            "options": [
+              "They were probably easy to kill.",
+              "The isolated individuals possibly had trouble finding mates.",
+              "There was possibly only one large flock.",
+              "Tourists probably kept Martha from breeding."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It can be inferred that the birds were easy to kill by the statement that contestants had to kill 30,000 to win a prize. The birds possibly had difficulty finding mates because the isolated individuals dropped from 5,000 to 3 in 13 years."
+          },
+          {
+            "id": "T7L43",
+            "number": 43,
+            "type": "LOrder",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T7L43Q.WAV",
+            "options": [
+              "Native Americans hunt passenger pigeons.",
+              "Forests are cleared for farmland.",
+              "The railroad system expands.",
+              "Hunters destroy a large flock of 250,000 birds."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The birds were originally hunted by Native Americans. When the Europeans came, they cleared the forests for farming, thus destroying the birds' habitat. Later railroads were introduced, making it possible to ship birds for a demanding market. Finally a large group of hunters coordinated their hunt, bringing the group of 250,000 down to 5,000."
+          },
+          {
+            "id": "T7L44",
+            "number": 44,
+            "type": "LMC",
+            "text": "Apart from history, this lecture would be most relevant for students studying which one of the following subjects?",
+            "questionAudio": "T7L44Q.WAV",
+            "options": [
+              "Ecology",
+              "Veterinary medicine",
+              "Economics",
+              "Agriculture"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since this lecture concerns the effects of human culture on the survival of another species, it would be most relevant for stud"
+          }
+        ]
+      },
+      {
+        "groupId": "T7L45-50",
+        "startQuestion": 45,
+        "endQuestion": 50,
+        "fullAudio": "T7L45-50.WAV",
+        "audioClips": [
+          "T7L45-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T7L45-50C.png",
+        "transcript": "MAN 1: Today, I would like to continue our discussion about the development of refrigeration. As we discussed previously, early humans probably noticed that their meat would last longer if it was stored in a cave or packed in snow. There is evidence they even stored food underwater. Later, ice was actively harvested from frozen lakes and rivers, and this ice would be suge migrations of literally billions of these birds clouding the skies. The flapping of their wings created a noise like thunder, and the flocks took days to pass. Their nesting sites in the Eastern Woodlands of the United States covered hundreds of square miles.\nThe birds were originally hunted by Native American Iroquois, who killed only young birds and left adult pigeons to breed again. With the colonization of the continent by Europeans, however, the habitat of the passenger pigeon came under threat as forests of chestnut and oak trees, the main source of food for the bird, were gradually cleared and converted to farmland. Numbers declined steadily. The bird was also hunted relentlessly by colonists, sometimes for food, to be consumed both by humans and by hogs, but sometimes merely for sport. The vulnerable birds were clubbed, netted, and shot. Such destruction was also seen as a valid form of pest control, since the bird was deemed a menace to crops. The extension of the raroad increased the pressure on the birds, as they could then be easily shipped to the insatiable markets of the growing cities. Despite declining numbers, the passenger pigeons still congregated in huge flocks and were such easy targets that in one competition, a participant was expected to kill 30,000 birds just to be considered for a prize.\nIn 1896 only an estimated 250,000 birds were left, all remaining in one large flock. A large group of hunters using the telegraph to coordinate their activity destroyed all but 5,000. A few isolated individuals continued to live on in the wild, but by 1909 only three passenger pigeons, all kept at the Cincinnati Zoological Gardens, were known to exist. The last of these, affectionately known as Martha, became a popular tourist attraction, and the authorities offered thousands of dollars to anyone who could find a male for breeding purposes. The search was to no avail, and in September 1914 Martha died and the species became extinct.",
+        "questions": [
+          {
+            "id": "T7L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "What is the discussion mainly about?",
+            "questionAudio": "T7L45Q.WAV",
+            "options": [
+              "Developments in refrigeration technology",
+              "How refrigeration technology improved people's lives",
+              "Reasons for refrigerating perishable foods",
+              "The ways early people stored food"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The participants discuss how refrigeration has changed from prehistoric times to modern times."
+          },
+          {
+            "id": "T7L46",
+            "number": 46,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T7L46Q.WAV",
+            "options": [
+              "Perishable foods were stored in snow or under the water.",
+              "Ice harvested from lakes and rivers in the winter was kept in icehouses.",
+              "Ice delivered to homes was stored in cupboards lined with tin and insulation material.",
+              "Refrigerators replaced iceboxes."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First, people stored foods in snow or under the water. Later they harvested ice from lakes and rivers and stored it in icehouses. It was delivered to homes and pu"
+          },
+          {
+            "id": "T7L47",
+            "number": 47,
+            "type": "LPictureClock",
+            "text": "Select the picture that shows a storage place that served whole communities.",
+            "questionAudio": "T7L47Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T7L47Q1.png",
+              "assets/images/cambridge/T7L47Q2.png",
+              "assets/images/cambridge/T7L47Q3.png",
+              "assets/images/cambridge/T7L47Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The icehouse was where the harvested ice was stored. This building served whole communities."
+          },
+          {
+            "id": "T7L48",
+            "number": 48,
+            "type": "LTwo",
+            "text": "What was probably true about icehouses?",
+            "questionAudio": "T7L48Q.WAV",
+            "options": [
+              "They were built close to a lake or river.",
+              "They were important for the people in the area.",
+              "They protected food stored underwater.",
+              "They made very good museums."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Icehouses were probably built close to sources of winter ice (lakes or rivers) and were probably important for the people in the area for food preservation."
+          },
+          {
+            "id": "T7L49",
+            "number": 49,
+            "type": "LMC",
+            "text": "What was used to insulate an icebox?",
+            "questionAudio": "T7L49Q.WAV",
+            "options": [
+              "Sawdust",
+              "Snow",
+              "Freon",
+              "Newspaper"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the icebox was insu"
+          },
+          {
+            "id": "T7L50",
+            "number": 50,
+            "type": "LMC",
+            "text": "What does the professor say about refrigeration technology?",
+            "questionAudio": "T7L50Q.WAV",
+            "options": [
+              "It is developing in the face of new environmental concerns.",
+              "It is the cause of ozone depletion.",
+              "It needs no further development.",
+              "It has motivated the invention of freon."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "According to the professor, the development of refrigeration technology has been motivated by environmental concerns."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "<I>Compare and contrast the advantages of choosing a stable career over an adventurous lifestyle.</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "<I>Compare and contrast the advantages of choosing a stable career over an adventurous lifestyle.</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}

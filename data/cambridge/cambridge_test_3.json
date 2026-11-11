@@ -1,0 +1,2443 @@
+{
+  "testNumber": 3,
+  "title": "Cambridge Practice Test 3",
+  "description": "Official Cambridge TOEFL CBT Practice Exam 3 containing Structure, Reading, Listening, and Writing sections.",
+  "structure": [
+    {
+      "id": "T3S01",
+      "number": 1,
+      "type": "SComplete",
+      "text": "It is now known that Saturn <_> not the only planet in our solar system with rings.",
+      "options": [
+        "is",
+        "which",
+        "be",
+        "so"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S59",
+      "correctedSentence": "It is now known that Saturn is not the only planet in our solar system with rings.",
+      "feedback": "A verb is needed to complete the noun clause. \"Is\" agrees with the subject \"Saturn.\""
+    },
+    {
+      "id": "T3S02",
+      "number": 2,
+      "type": "SIdentify",
+      "text": "It was not <U1>until</U1> 1937 <U2>when</U2> the southernmost source of <U3>the</U3> Nile River <U4>was discovered</U4>.",
+      "options": [
+        "until",
+        "when",
+        "the",
+        "was discovered"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S02",
+      "correctedSentence": "It was not until 1937 that the southernmost source of the Nile River was discovered.",
+      "feedback": "The correlative structure 'It was not until... that' is required. Replace 'when' with 'that'."
+    },
+    {
+      "id": "T3S03",
+      "number": 3,
+      "type": "SComplete",
+      "text": "<_> is essential for the plant life of the Amazon basin.",
+      "options": [
+        "Adequate rainfall",
+        "It is an adequate rainfall",
+        "Though an adequate rainfall",
+        "Although an adequate rainfall"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "Adequate rainfall is essential for the plant life of the Amazon basin.",
+      "feedback": "A simple subject is needed to complete the independent clause."
+    },
+    {
+      "id": "T3S04",
+      "number": 4,
+      "type": "SIdentify",
+      "text": "Platinum is a <U1>rare</U1> and <U2>value</U2> metal, white <U3>in color</U3>, and <U4>easy</U4> to work.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "S37-S42",
+      "correctedSentence": "Platinum is a rare and valuable metal, white in color, and easy to work.",
+      "feedback": "Platinum is a rare and valuable metal, white in color, and easy to work."
+    },
+    {
+      "id": "T3S05",
+      "number": 5,
+      "type": "SComplete",
+      "text": "The Mediterranean monk seal is distinguished from the more familiar gray seal by <_>.",
+      "options": [
+        "its size",
+        "is a size",
+        "is its size",
+        "is size"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S1-S5",
+      "correctedSentence": "The Mediterranean monk seal is distinguished from the more familiar gray seal by its size.",
+      "feedback": "The preposition \"by\" needs to be followed by a noun or noun phrase, \"its size,\" to fill the object position."
+    },
+    {
+      "id": "T3S06",
+      "number": 6,
+      "type": "SIdentify",
+      "text": "<U1>During</U1> the two centuries <U2>between</U2> Herschel and <I>Voyager</I>, <U3>relatively</U3> little <U4>learned</U4> about the planet Uranus.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S25-S31",
+      "correctedSentence": "During the two centuries between Herschel and <I>Voyager</I>, relatively little was learned about the planet Uranus.",
+      "feedback": "During the two centuries between Herschel and <I>Voyager</I>, relatively little was learned about the planet Uranus."
+    },
+    {
+      "id": "T3S07",
+      "number": 7,
+      "type": "SComplete",
+      "text": "The Himalayas are the <_>.",
+      "options": [
+        "world's most extensive ranges",
+        "height of world exteõnsive ranges",
+        "ranges of the most extensive world",
+        "extensive ranges of the world"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S82-S87",
+      "correctedSentence": "The Himalayas are the world's most extensive ranges.",
+      "feedback": "height of world exteõnsive ranges"
+    },
+    {
+      "id": "T3S08",
+      "number": 8,
+      "type": "SIdentify",
+      "text": "<U1>Some</U1> conservationists <U2>attempt to save</U2> rare domestic farm <U3>animal</U3>, <U4>such as the</U4> Tamworth pig.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S1-S5",
+      "correctedSentence": "Some conservationists attempt to save rare domestic farm animals, such as the Tamworth pig.",
+      "feedback": "Some conservationists attempt to save rare domestic farm animals, such as the Tamworth pig."
+    },
+    {
+      "id": "T3S09",
+      "number": 9,
+      "type": "SComplete",
+      "text": "Anthony Burgess, <_> as a novelist, was originally a student of music.",
+      "options": [
+        "who achieved fame",
+        "because of being famous",
+        "who because he was fa¦mous",
+        "he achieved fame"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S61-S66",
+      "correctedSentence": "Anthony Burgess, who achieved fame as a novelist, was originally a student of music.",
+      "feedback": "The adjective clause that identifies \"Anthony Burgess\" needs to be completed. \"Who achieved fame\" begins the clause."
+    },
+    {
+      "id": "T3S10",
+      "number": 10,
+      "type": "SIdentify",
+      "text": "The head proctor tells the students when they should <U1>begin</U1> the exam, how long <U2>they have</U2> to complete it, and what <U3>the procedures</U3> are for <U4>turning in</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 3,
+      "rule": "S11-S15",
+      "correctedSentence": "The head proctor tells the students when they should begin the exam, how long they have to complete it, and what the procedures are for turning it in.",
+      "feedback": "When the phrasal verb \"turn in\" means \"hand something in,\" it needs an object. The phrase should be \"turning it in.\" The object \"it\" refers to the exam."
+    },
+    {
+      "id": "T3S11",
+      "number": 11,
+      "type": "SComplete",
+      "text": "Not until Edward Jenner developed the first anti-smallpox serum in 1796 <_> against this terrible disease.",
+      "options": [
+        "was there protection",
+        "protection was",
+        "protection was given",
+        "it was protected"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S32-S35",
+      "correctedSentence": "Not until Edward Jenner developed the first anti-smallpox serum in 1796 was there protection against this terrible disease.",
+      "feedback": "A subjÂect, \"there,\" and verb, \"was,\" are needed to complete the sentence. The negative phrase \"not until\" indicates that the positions of the subject and aux-word or verb will be inverted."
+    },
+    {
+      "id": "T3S12",
+      "number": 12,
+      "type": "SIdentify",
+      "text": "Estimates <U1>about</U1> scientists <U2>suggest</U2> that only one percent of the world's <U3>extinct</U3> animals and plants have been <U4>identified</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S91-S94",
+      "correctedSentence": "Estimates by scientists suggest that only one percent of the world's extinct animals and plants have been identified.",
+      "feedback": "Estimates by scientists suggest that only one percent of the world's extinct animals and plants have been identified."
+    },
+    {
+      "id": "T3S13",
+      "number": 13,
+      "type": "SComplete",
+      "text": "Early sailors, <_> sometimes in uncharted seas, faced many hazards in reaching their destination.",
+      "options": [
+        "navigating",
+        "were navigated",
+        "navigate",
+        "and navigates"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S67-S70",
+      "correctedSentence": "Early sailors, navigating sometimes in uncharted seas, faced many hazards in reaching their destination.",
+      "feedback": "An adjective clause or phrase is needed to give more information about \"sailoQrs.\" \"Navigating sometimes in uncharted seas\" is an adjective phrase."
+    },
+    {
+      "id": "T3S14",
+      "number": 14,
+      "type": "SIdentify",
+      "text": "The <U1>oceans</U1> contain many <U2>forms</U2> of life that <U3>has</U3> not <U4>yet</U4> been discovered.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 2,
+      "rule": "S25-S31",
+      "correctedSentence": "The oceans contain many forms of life that have not yet been discovered.",
+      "feedback": "The subject of the adjective clause \"that\" refers to \"forms,\" a plural noun. Therefore, the verb of the clause should be the plural form \"have.\""
+    },
+    {
+      "id": "T3S15",
+      "number": 15,
+      "type": "SComplete",
+      "text": "<_> first three years of the war with Germany and Austria-Hungary left 1.8 million Russian soldiers dead.",
+      "options": [
+        "The",
+        "In the",
+        "It was the",
+        "When the"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S6-S10",
+      "correctedSentence": "The first three years of the war with Germany and Austria-Hungary left 1.8 million Russian soldiers dead.",
+      "feedback": "An article, \"the,\" is needed to complete the noun phrase used as the subject."
+    },
+    {
+      "id": "T3S16",
+      "number": 16,
+      "type": "SIdentify",
+      "text": "Before 1992, Bobby Fischer had not <U1>played</U1> in <U2>other</U2> chess tournament <U3>since</U3> winning the Chess World Championship <U4>in</U4> 1972.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 1,
+      "rule": "Sù43-S50",
+      "correctedSentence": "Before 1992, Bobby Fischer had not played in another chess tournament since winning the Chess World Championship in 1972.",
+      "feedback": "Before 1992, Bobby Fischer had not played in another chess tournament since winning the Chess World Championship in 1972."
+    },
+    {
+      "id": "T3S17",
+      "number": 17,
+      "type": "SComplete",
+      "text": "The smallest <_>, paradoxically, explored by the largest machines.",
+      "options": [
+        "particles in the universe are",
+        "particles in the universe",
+        "particles that are in the universe",
+        "particles in the universe have"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S52-S53",
+      "correctedSentence": "The smallest particles in the universe are, paradoxically, explored by the largest machines.",
+      "feedback": "particles that are in the universe"
+    },
+    {
+      "id": "T3S18",
+      "number": 18,
+      "type": "SIdentify",
+      "text": "<U1>Perhaps was</U1> his defiance against <U2>his</U2> parents' attitude <U3>that led</U3> Salvatore Ferragamo to fame <U4>as the</U4> shoemaker for the world's most famous women.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S17-S23",
+      "correctedSentence": "Perhaps it was his defiance against his parents' attitude that \u0007led Salvatore Ferragamo to fame as the shoemaker for the world's most famous women.",
+      "feedback": "Perhaps it was his defiance against his parents' attitude that \u0007led Salvatore Ferragamo to fame as the shoemaker for the world's most famous women."
+    },
+    {
+      "id": "T3S19",
+      "number": 19,
+      "type": "SComplete",
+      "text": "Not only are reindeer used for their hides and milk <_>.",
+      "options": [
+        "but for pulling sleighs as well",
+        "as well as pulling sleighs",
+        "but they pull sleighs",
+        "also to pull sleighs"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S88-S90 and S91-S94",
+      "correctedSentence": "Not only are reindeer used for their hides and milk but for pulling sleighs as well.",
+      "feedback": "\"Not only\" indicates that a phrase or clause introduced by \"but\" or \"but also\" is needed to complete the sentence. The prepositional phrase \"for their hides and milk\" indicates that a prepositional phrase, \"for pulling sleighs,\" is needed to complete a parallel structure."
+    },
+    {
+      "id": "T3S20",
+      "number": 20,
+      "type": "SIdentify",
+      "text": "The United Nations Organization maintains <U1>what</U1> water will be <U2>at</U2> the heart of <U3>many</U3> future international <U4>disputes</U4>.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswerIndex": 0,
+      "rule": "S54-S×59",
+      "correctedSentence": "The United Nations Organization maintains that water will be at the heart of many future international disputes.",
+      "feedback": "When the object of a verb is a sentence, \"that,\" not \"what,\" introduces it."
+    }
+  ],
+  "reading": {
+    "passages": [
+      {
+        "groupId": "T3R01-11Plain",
+        "startQuestion": 1,
+        "endQuestion": 11,
+        "text": "Nature has always provided a stimulus for inventive minds. Early flying machines clearly were an attempt to emulate the freedom of birds. Architects and engineers have often consciously modeled buildings on forms found in nature. A more recent example of the inspiration given by nature is the invention of Velcro. The inventor of this now common fastening device noticed that small burrs attached to his dog's coat grasped the hairs by means of tiny hooks. This led him to invent a synthetic fabric whose surfaces mimic the clasping properties of this natural seedpod.\n\nAnimals and plants have evolved solutions to the kinds of problems that often interest engineers and designers. Much current research in material science is concerned with actively examining the natural world, especially at the molecular level, for inspiration to develop materials with novel properties. This relatively new field of study is sometimes known as biomimetics, since it consciously attempts to mimic nature.\n\nResearchers have investigated several interesting areas. For example, they have studied how the molecular structure of antler bone contributes to its amazing toughness, how the skin structure of a worm contributes to its ability to crawl, how the sea cucumber softens its skeleton and changes shape so that it can squeeze through tiny gaps in rocks, or what gives wood its high resistance to impact. These investigations have led to several breakthroughs in the development of composite materials with remarkable properties.\n\nPredictions for future inventions that may be developed from these lines of research include so-called smart structures that design and repair themselves in a similar way to a variety of processes in the natural world. For example, engineers have envisaged bridges that would detect areas heavily stressed by vehicle movement or wind. The bridge structure would then automatically add or move material to the weak areas until the stress is reduced. The same principle might be used to repair damaged buildings. Other new materials that have been imagined are substances that would copy photosynthesis in green plants in order to create new energy sources. The potential impact of biomimetic research is so great that the twenty-first century may come to be known as the \"Age of Materials.\""
+      },
+      {
+        "groupId": "T3R12-26Plain",
+        "startQuestion": 12,
+        "endQuestion": 26,
+        "text": "Diamond value is based on four characteristics: carat, color, clarity, and cut. The size of a diamond is measured by carat weight. There are 100 points in a carat and 142 carats in an ounce. Each point above 1 carat is more valuable than each one below 1 carat. |In other words, a stone that weighs more than 1 carat is more valuable per point than a stone that is smaller than 1 carat.\n\nThe scale used for rating color begins with D, which means the gem is absolutely colorless and, therefore, the most valuable. E and F are almost colorless. All three are good for investment purposes. A stone rated between G and J is good for jewelry. Beyond J the stones take on a slightly yellowish color, which gets deeper as the grade declines.\n\nThe clarity of a stone is determined by its lack of carbon spots, inner flaws, and surface blemishes. While most of these are invisible to the unaided eye, they do affect the diamond's brilliance. For jewelry, a diamond rated VVS1 (very, very slight imperfections) is as close to flawless as one will find. After that the scale goes to VVS2, VS1, VS2, SI1, SI2, I1, I2, and so on.\n\nThe final characteristic is cut. When shaped - whether round, oval, emerald, marquise, pear, or heart - the diamond should be faceted so that light is directed into the depths of the prism and then reflected outward again. A well-cut diamond will separate the light into different colors when the light is reflected. Only stones of similar shape should have their reflective qualities compared, as some shapes are more reflective than others. The round shape is the most reflective."
+      },
+      {
+        "groupId": "T3R27-38Plain",
+        "startQuestion": 27,
+        "endQuestion": 38,
+        "text": "People who suffer from excessive drowsiness during the daytime may be victims of a condition known as \"narcolepsy.\" Although most people may feel sleepy while watching TV or after eating a meal, narcoleptics may fall asleep at unusual or embarrassing times. They may doze while eating, talking, taking a shower, or even driving a car. Victims can be affected in one of two ways. Most narcoleptics have several sleeping periods during each day with alert periods in between. A minority of others feel drowsy almost all the time and are alert for only brief intervals. Many people with this condition also suffer from cataplexy - a form of muscular paralysis that can range from a mild weakness at the knees to complete immobility affecting the entire body. This condition lasts from a few seconds to several minutes and is often set off by intense emotions.\n\nNo reliable data exist showing how many people have narcolepsy.  Some estimates put the number as high as three hundred thousand in the United States alone.  Researchers suggest that the problem may stem from the immune system's reacting abnormally to the brain's chemical processes. Further studies have shown a link between narcolepsy and a number of genes, although it is quite possible for an individual to have these genes and not develop the disease. There are also cases of twins where one member has narcolepsy but the other does not. Thus, an explanation based on genetics alone is not adequate.\n\nThere is currently no cure for narcolepsy, so sufferers of this condition can only have their symptoms treated through a combination of counseling and drugs. The available drugs can help control the worst of the symptoms, but their administration has unwanted side effects such as increased blood pressure and heart rate and, sometimes, even increased sleepiness. It is clear that improved medications need to be developed."
+      },
+      {
+        "groupId": "T3R39-50Plain",
+        "startQuestion": 39,
+        "endQuestion": 50,
+        "text": "In the eleventh century, people noticed that if a small hole was put in one wall of a darkened room, then light coming through the aperture would make a faint picture of the scene outside on the opposite wall of the room. A room like this was called a camera obscura. Artists later used a box to create a camera obscura, with a lens in its opening to make the picture clearer. But it was not possible to preserve the image that was produced in the box.\n\nIn 1727, Johann Heinrich Schulze mixed chalk, silver, and nitric acid in a bottle. He found that when the mixture was subjected to light, it became darker. In 1826, Joseph Nicephore Niepce put some paper dipped in a light-sensitive chemical into his camera obscura, which he left exposed in a window. The result was probably the first permanent photographic image.\n\nThe image Niepce made was a negative, a picture where all the white parts are black and all the black parts are white. Later, Louis Daguerre found a way to reverse the black and white parts to make positive prints. But when he looked at the pictures in the light, the chemicals continued to react and the pictures went dark. In 1837, he found a way to fix the image. These images are known as daguerreotypes.\n\nMany developments of photographic equipment were made in the nineteenth century. Glass plates coated with light-sensitive chemicals were used to produce clear, sharp, positive prints on paper. In the 1870s, George Eastman proposed using rolls of paper film, coated with chemicals, to replace glass plates. |Then, in 1888, Eastman began manufacturing the Kodak camera, the first \"modern\" lightweight camera that people could carry and use.\n\nDuring the twentieth century, many technological improvements were made. One of the most important was color film. Color film is made from layers of chemicals that are sensitive to red, green, and blue light, from which all other colors can be made. Despite the fact that the space age has witnessed the creation of an array of technological marvels, even the ability to take photographs of distant galaxies from above the Earth's atmosphere via orbiting satellites, the basic principles of photography have not changed since Niepce took his first fuzzy negative pictures."
+      }
+    ],
+    "questions": [
+      {
+        "id": "T3R01",
+        "number": 1,
+        "type": "RMCSimple",
+        "text": "The passage is concerned with",
+        "paragraphNumber": 1,
+        "options": [
+          "the development of products based on nature",
+          "future research into the uses of Velcro",
+          "the effect of the Age of Materials on nature",
+          "problems that preoccupy designers and engineers"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage discusses the natural world as a stimulus for inventions and goes on to discuss how structures in nature are used for the advancement of product development."
+      },
+      {
+        "id": "T3R02",
+        "number": 2,
+        "type": "RMCSimple",
+        "text": "Why does the author mention Velcro?",
+        "paragraphNumber": 1,
+        "options": [
+          "To show how a natural structure inspired a useful invention",
+          "To complain that burrs attach themselves to his dog's coat",
+          "To suggest the use of Velcro as a means of fastening objects",
+          "To give an example of tiny hooklike structures in synthetic fabric"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": ""
+      },
+      {
+        "id": "T3R03",
+        "number": 3,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"emulate\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "emulate",
+          "Early",
+          "flying",
+          "machines"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"emulate\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R04",
+        "number": 4,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>him</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>him</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "him",
+          "This",
+          "invent",
+          "synthetic"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "This led \"the inventor\" to invent a synthetic fabric."
+      },
+      {
+        "id": "T3R05",
+        "number": 5,
+        "type": "RMCSynonymWord",
+        "text": "The word \"novel\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "unique",
+          "familiar",
+          "fictitious",
+          "legendary"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With which of the following statements about investigations in biomimetics would the author most likely agree?"
+      },
+      {
+        "id": "T3R06",
+        "number": 6,
+        "type": "RMCSimple",
+        "text": "With which of the following statements about investigations in biomimetics would the author most likely agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "Biomimetics may lead to useful inventions.",
+          "Biomimetics is not promising.",
+          "Biomimetics may lead to the development of new creatures.",
+          "Biomimet"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 3,
+        "feedback": "Nature has always provided a stimulus for inventive minds. Early flying machines clearly were an attempt to emulate the freedom of birds. Architects and engineers have often consciously modeled buildings on forms found in nature. A more recent example of the inspiration given by nature is the invention of Velcro. The inventor o"
+      },
+      {
+        "id": "T3R07",
+        "number": 7,
+        "type": "RMCOther",
+        "text": "Why does the author use the term smart in paragraph 4?",
+        "paragraphNumber": 4,
+        "options": [
+          "To emphasize the self-directed nature of some processes",
+          "To compare the intelligence of structures with that of nature",
+          "To stress the analogy of the structures to fashion",
+          "To satirize the processes in the natural world"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"envisaged\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R08",
+        "number": 8,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"envisaged\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "envisaged",
+          "example",
+          "engineers",
+          "have"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"envisaged\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R09",
+        "number": 9,
+        "type": "RMCSimple",
+        "text": "Which of the following would NOT be a useful bio",
+        "paragraphNumber": 1,
+        "options": [
+          "Tomatoes mimicking the structures that give sea cucumbers the ability to squeeze through cracks",
+          "Bulletproof jackets mimicking the structures that give wood its resistance to impact",
+          "Glass in windshields mimicking the structures that give antler bone its toughness",
+          "Cables mimicking the structures that give spiderwebs their flexibility and tensile strength"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "According to the author, what w"
+      },
+      {
+        "id": "T3R10",
+        "number": 10,
+        "type": "RMCSimple",
+        "text": "According to the author, what would be the advantage of a product that mimics photosynthesis?",
+        "paragraphNumber": 1,
+        "options": [
+          "It could help to meet future energy needs.",
+          "It could be used to create green plants.",
+          "It could be an aid in repairing green areas.",
+          "It could form the basis of twenty-first-century materials."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains the reason for ffecting diamond value"
+      },
+      {
+        "id": "T3R11",
+        "number": 11,
+        "type": "RClickParagraph",
+        "text": "Click on the paragraph that explains the reason for the term &quot;biomimetics.&quot;<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that explains the reason for ffecting diamond value"
+      },
+      {
+        "id": "T3R12",
+        "number": 12,
+        "type": "RMCSimple",
+        "text": "The passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "qualities affecting diamond value",
+          "the cost of diamonds",
+          "how to judge an expensive diamond",
+          "buying"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "With which of the following statements about a one-carat diamond would the author agree?"
+      },
+      {
+        "id": "T3R13",
+        "number": 13,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>stone</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>stone</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "one",
+          "Each",
+          "point",
+          "above"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Each point above 1 carat is more valuable than each \"point\" below 1 carat."
+      },
+      {
+        "id": "T3R14",
+        "number": 14,
+        "type": "RMCSimple",
+        "text": "With which of the following statements about a one-carat diamond would the author agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "It has 100 points.",
+          "It weighs an ounce.",
+          "It costs twice as much as a smaller one.",
+          "It has the same quality as a half-carat diamond."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Absolutely\" or \"completely\" is used to emphasize the lack of color."
+      },
+      {
+        "id": "T3R15",
+        "number": 15,
+        "type": "RMCSynonymWord",
+        "text": "The word \"absolutely\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "completely",
+          "actually",
+          "positively",
+          "greatly"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Stone\" is another name for \"gem.\""
+      },
+      {
+        "id": "T3R16",
+        "number": 16,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>stone</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>stone</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "stone",
+          "other",
+          "words",
+          "that"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "\"Absolutely\" or \"completely\" is used to emphasize the lack of color."
+      },
+      {
+        "id": "T3R17",
+        "number": 17,
+        "type": "RMCSimple",
+        "text": "With which of the following letters might the author rate a stone that has no color at all?",
+        "paragraphNumber": 1,
+        "options": [
+          "D",
+          "A",
+          "G",
+          "Z"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated that a 'D' rating means the stone is absolutely colorless."
+      },
+      {
+        "id": "T3R18",
+        "number": 18,
+        "type": "RClickSentence",
+        "text": "Click on the sentence in paragraph 3 where the author discusses a nearly perfect diamond.<P>Paragraph 3 is marked with an arrow (~).",
+        "paragraphNumber": 3,
+        "options": [
+          "Diamond",
+          "value",
+          "based",
+          "carat"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "where the author discusses a nearly perfect diamond."
+      },
+      {
+        "id": "T3R19",
+        "number": 19,
+        "type": "RMCSimple",
+        "text": "With which of the following statements about the clarity of a stone would the author most probably agree?",
+        "paragraphNumber": 1,
+        "options": [
+          "It is determined by imperfections.",
+          "It is invisible to the unaided eye.",
+          "It affects the diamond's brilliance.",
+          "It has spots, flaws, and blemishes."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Something that is \"flawless\" or \"unblemished\" is in perfect condition."
+      },
+      {
+        "id": "T3R20",
+        "number": 20,
+        "type": "RMCSynonymWord",
+        "text": "The following sentence can be added to the passage.<P><B>In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "paragraphNumber": 1,
+        "options": [
+          "unblemished",
+          "unsaturated",
+          "unrefined",
+          "unbruised"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Diamond value is based on four characteristics: carat, color, clarity, and cut. The size of a diamond is measured by carat weight. There are 100 points in a carat and 142 carats in an ounce. Each point above 1 carat is more valuable than each one below 1 carat. In other words, a stone that weighs more than 1 carat is more valuable per point than a stone that is smaller than 1 carat.<BR>The scale used for rating color begins with D, which means the gem is absolutely colorless and, therefore, the most valuable. E and F are almost colorless. All three are good for investment purposes. A stone rated between G and J"
+      },
+      {
+        "id": "T3R21",
+        "number": 21,
+        "type": "RClickSentence",
+        "text": "that outlines the factors associated with brilliance.",
+        "paragraphNumber": 1,
+        "options": [
+          "Diamond",
+          "value",
+          "based",
+          "carat"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "that outlines the factors associated with brilliance."
+      },
+      {
+        "id": "T3R22",
+        "number": 22,
+        "type": "RMCOther",
+        "text": "In paragraph 4, the author states that diamonds reflect",
+        "paragraphNumber": 4,
+        "options": [
+          "light",
+          "the prism",
+          "the depths",
+          "facets"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author suggest only comparing two diamonds of the same shape?"
+      },
+      {
+        "id": "T3R23",
+        "number": 23,
+        "type": "RMCSimple",
+        "text": "Why does the author suggest only comparing two diamonds of the same shape?",
+        "paragraphNumber": 1,
+        "options": [
+          "Because they can be compared for reflective quality",
+          "Because they will have the same valu",
+          "RMCSimple",
+          "Because they can be compared for reflective quality"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Why does the author suggest only comparing two diamonds of the same shape?"
+      },
+      {
+        "id": "T3R24",
+        "number": 24,
+        "type": "RMCSynonymWord",
+        "text": "The word \"faceted\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "cut",
+          "split",
+          "turned",
+          "set"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A sentence that describes arly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished."
+      },
+      {
+        "id": "T3R25",
+        "number": 25,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that represents the shape of the most sparkling diamond cut.",
+        "paragraphNumber": 1,
+        "options": [
+          "Round brilliant cut",
+          "Emerald rectangular cut",
+          "Heart shape cut",
+          "Marquise pointed cut"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T3R25Q1.png",
+          "assets/images/cambridge/T3R25Q2.png",
+          "assets/images/cambridge/T3R25Q3.png",
+          "assets/images/cambridge/T3R25Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "It is stated in the passage that the round shape is the most reflective and thus sparkles more."
+      },
+      {
+        "id": "T3R26",
+        "number": 26,
+        "type": "RAddSentenceToPassage",
+        "text": "The following sentence can be added to the passage.<P><B>In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished."
+      },
+      {
+        "id": "T3R27",
+        "number": 27,
+        "type": "RMCSimple",
+        "text": "What is the main topic of this passage?",
+        "paragraphNumber": 1,
+        "options": [
+          "Aspects of narcolepsy",
+          "Causes of narcolepsy",
+          "Treatment of narcolepsy",
+          "Development of narcolepsy"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Narcolepsy is a condition in which people"
+      },
+      {
+        "id": "T3R28",
+        "number": 28,
+        "type": "RMCSimple",
+        "text": "Narcolepsy is a condition in which people",
+        "paragraphNumber": 1,
+        "options": [
+          "doze at unusual times",
+          "doze after eating a meal",
+          "have unusual brain chemistry",
+          "only sleep in the day"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "A person is most likely to be narcoleptic if he or she falls asleep while"
+      },
+      {
+        "id": "T3R29",
+        "number": 29,
+        "type": "RMCSimple",
+        "text": "A person is most likely to be narcoleptic if he or she falls asleep while",
+        "paragraphNumber": 1,
+        "options": [
+          "eating at a restaurant",
+          "watching a movie",
+          "lying on the beach",
+          "taking a long airplane trip"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"intervals\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R30",
+        "number": 30,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"intervals\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "intervals",
+          "minority",
+          "others",
+          "feel"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"intervals\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R31",
+        "number": 31,
+        "type": "RMCSynonymWord",
+        "text": "The word \"alert\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "awake",
+          "tired",
+          "alarmed",
+          "informed"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An illness that incapacitates a person while, for eRMCSimple"
+      },
+      {
+        "id": "T3R32",
+        "number": 32,
+        "type": "RClickWordSynonymWord",
+        "text": "The word \"paralysis\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "paralysis",
+          "Many",
+          "people",
+          "with"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"paralysis\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R33",
+        "number": 33,
+        "type": "RMCSimple",
+        "text": "The passage implies that narcolepsy",
+        "paragraphNumber": 1,
+        "options": [
+          "can be a serious disorder",
+          "is an imaginary problem",
+          "is easily cured",
+          "is really laziness"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "An illness that incapacitates a person while, for e"
+      },
+      {
+        "id": "T3R34",
+        "number": 34,
+        "type": "RMCOther",
+        "text": "According to the information in paragraph 2, it can be said that",
+        "paragraphNumber": 2,
+        "options": [
+          "the number of narcoleptics is unknown",
+          "most people are narcoleptics sometimes",
+          "narcoleptics are drug addicts",
+          "narcolepsy is a very rare condition"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "There are several sentences in the middle of the paragraph that discuss some possible causes of narcolepsy. A sentence that introduces the topic of causes would precede them."
+      },
+      {
+        "id": "T3R35",
+        "number": 35,
+        "type": "RAddSentenceToParagraph",
+        "text": "Unfortunately, there is also little knowledge about the causes of this illness.",
+        "paragraphNumber": 1,
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 2,
+        "feedback": "Unfortunately, there is also little knowledge about the causes of this illness."
+      },
+      {
+        "id": "T3R36",
+        "number": 36,
+        "type": "RClickSentence",
+        "text": "where the author mentions the possible cause of narcolepsy.",
+        "paragraphNumber": 1,
+        "options": [
+          "People",
+          "suffer",
+          "excessive",
+          "drowsiness"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "where the author mentions the possible cause of narcolepsy."
+      },
+      {
+        "id": "T3R37",
+        "number": 37,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>their</B> in the passage. Click on the word or phrase in the <B>bold</B> text that <B>their</B> refers to.",
+        "paragraphNumber": 1,
+        "options": [
+          "narcoleptics",
+          "doctors",
+          "causes",
+          "symptoms"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The pronoun 'their' refers to 'narcoleptics'."
+      },
+      {
+        "id": "T3R38",
+        "number": 38,
+        "type": "RMCSimple",
+        "text": "Which of the following statements about narcolepsy is NOT true?",
+        "paragraphNumber": 1,
+        "options": [
+          "Narcolepsy can be cured through counseling and drugs.",
+          "Doctors treat symptoms rather than causes.",
+          "The causes of narcolepsy have not been found yet.",
+          "Narcolepsy affects people in two basic ways."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "the history of photographic technology"
+      },
+      {
+        "id": "T3R39",
+        "number": 39,
+        "type": "RMCSimple",
+        "text": "The passage is mainly about",
+        "paragraphNumber": 1,
+        "options": [
+          "the history of photographic technology",
+          "the development of the camera obscura",
+          "how the camera obscura was invented",
+          "the time perioof photographic technology"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The author discusses the development of photography beginning with the camera obscura and ending with the photos taken from space today."
+      },
+      {
+        "id": "T3R40",
+        "number": 40,
+        "type": "RMCSimple",
+        "text": "The first camera obscura can be described as nothing more than",
+        "paragraphNumber": 1,
+        "options": [
+          "a dark room in which an image was projected onto a wall",
+          "a preserved image of a dark room projected in a box",
+          "a box with a lens, which projected an image onto a wall in a dark room",
+          "a hole in a wall into which a lens could be inserted to project an image"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "RClickWordSynonymTemplate, \"preserve\""
+      },
+      {
+        "id": "T3R41",
+        "number": 41,
+        "type": "RMCSynonymWord",
+        "text": "The word \"preserve\" in the passage is closest in meaning to",
+        "paragraphNumber": 1,
+        "options": [
+          "retain",
+          "retreat",
+          "defend",
+          "remedy"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"aperture\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R42",
+        "number": 42,
+        "type": "RMCSimple",
+        "text": "retain",
+        "paragraphNumber": 1,
+        "options": [
+          "retreat",
+          "defend",
+          "remedy",
+          "When something is \"preserved\" or \"retained,\" it is kept in its current state."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Click on the picture below that illustrates an example of the first camera obscura."
+      },
+      {
+        "id": "T3R43",
+        "number": 43,
+        "type": "RMCPicture",
+        "text": "Click on the picture below that illustrates an example of the first camera obscura.",
+        "paragraphNumber": 1,
+        "options": [
+          "A darkened room with a pinhole in one wall projecting an inverted image",
+          "A handheld portable wooden box with glass lens",
+          "A tripod with bellows and chemical flash",
+          "A modern camera with reflex mirror"
+        ],
+        "pictureOptions": [
+          "assets/images/cambridge/T3R43Q1.png",
+          "assets/images/cambridge/T3R43Q2.png",
+          "assets/images/cambridge/T3R43Q3.png",
+          "assets/images/cambridge/T3R43Q4.png"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "A room with a hole in one of its walls was first called a camera obscura."
+      },
+      {
+        "id": "T3R44",
+        "number": 44,
+        "type": "RClickWordSynonymWord",
+        "text": "Look at the word <B>exposed</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>exposed</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "exposed",
+          "Joseph",
+          "Nicephore",
+          "Niepce"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "In this passage, \"exposed\" refers to or is used as the key reference in the text."
+      },
+      {
+        "id": "T3R45",
+        "number": 45,
+        "type": "RMCSimple",
+        "text": "According to the passage, which of the following is most likely true?",
+        "paragraphNumber": 1,
+        "options": [
+          "In the original camera obscura, people could observe on their wall a scene taking place on the outside of the room.",
+          "In an attempt to preserve the image, artists added a lens to the camera obscura.",
+          "Johann Heinrich Schulze and Joseph ], [4",
+          "Biomimetics may lead to useful inventions."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Biomimetics may lead to the development of new creatures."
+      },
+      {
+        "id": "T3R46",
+        "number": 46,
+        "type": "RMCSimple",
+        "text": "Which of the following people is NOT mentioned as working with photographic images?",
+        "paragraphNumber": 1,
+        "options": [
+          "Johann Heinrich Schulze",
+          "Joseph Nicephore Niepce",
+          "Louis Daguerre",
+          "George Eastman"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Although Johann Heinrich Schulze discovered a mixture that became darker when subjected to light, the passage does not indicate that he was working on this mixture to produce photographic images."
+      },
+      {
+        "id": "T3R47",
+        "number": 47,
+        "type": "RMCSimple",
+        "text": "According to the passage, what problem did Daguerre encounter?",
+        "paragraphNumber": 1,
+        "options": [
+          "His positive images would darken.",
+          "His pictures were all negative images.",
+          "He co",
+          "He could not reverse the fixed image."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Color film is one of the most important \"technological improvements.\""
+      },
+      {
+        "id": "T3R48",
+        "number": 48,
+        "type": "RClickWordReferWord",
+        "text": "Look at the word <B>stone</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>stone</B>.",
+        "paragraphNumber": 1,
+        "options": [
+          "One",
+          "most",
+          "important",
+          "color"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "Color film is one of the most important \"technological improvements.\""
+      },
+      {
+        "id": "T3R49",
+        "number": 49,
+        "type": "RClickParagraph",
+        "text": "Click on the paragraph in which the author compares present-day methods with those of the past.<P>Scroll the passage to see all of the paragraphs.",
+        "paragraphNumber": 1,
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "in which the author compares present-day methods with those of the past."
+      },
+      {
+        "id": "T3R50",
+        "number": 50,
+        "type": "RMCSimple",
+        "text": "Which of the following statements would the author probably agree with?",
+        "paragraphNumber": 1,
+        "options": [
+          "The Kodak camera was the first truly portable camera popular with the general public.",
+          "Eastman was responsible for the development of digital sensors.",
+          "The camera obscura was only used for scientific measurement.",
+          "Photography eliminated the need for portrait artists completely."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "feedback": "The passage states that the introduction of George Eastman's Kodak camera made photography accessible and portable for the first time."
+      }
+    ]
+  },
+  "listening": {
+    "shortConversations": [
+      {
+        "id": "T3L01",
+        "number": 1,
+        "type": "LMC",
+        "text": "What was Bob going to do?",
+        "options": [
+          "Get a form for financial aid",
+          "Pick up something f to do?",
+          "L13-L18",
+          "L13-L18"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L01C.WAV",
+        "questionAudio": "T3L01Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L01C.png",
+        "transcript": "MAN: Where was Bob going in such a hurry?\nWOMAN: He was going to pick up an application for a student loan.",
+        "feedback": ""
+      },
+      {
+        "id": "T3L02",
+        "number": 2,
+        "type": "LMC",
+        "text": "What does the man say about the scenery?",
+        "options": [
+          "The club members built it after getting advice.",
+          "A carpenter built it according to the Drama Club's design.",
+          "The club members made it from a carpenter's design.",
+          "A carpenter had it designed for the Drama Club."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L02C.WAV",
+        "questionAudio": "T3L02Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L02C.png",
+        "transcript": "WOMAN: Did the drama club members make all the scenery for the play?\nMAN: Yes, but a carpenter advised them on the design.",
+        "feedback": "The club members built the scenery after having a carpenter advise them on the design."
+      },
+      {
+        "id": "T3L03",
+        "number": 3,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "There's no one to get directions from.",
+          "Nobody knows where Elm Street is.",
+          "Nobody can find Elm Street.",
+          "They've seen only one street that may be Elm Street."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L03C.WAV",
+        "questionAudio": "T3L03Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L03C.png",
+        "transcript": "MAN: We've been driving around for T3L03",
+        "feedback": "The expression \"not a single soul\" means \"no one.\""
+      },
+      {
+        "id": "T3L04",
+        "number": 4,
+        "type": "LMC",
+        "text": "What did the man say about the poll?",
+        "options": [
+          "The results are disp",
+          "It was taken in the union.",
+          "The poll was postponed.",
+          "The union board members passed the results on."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L04C.WAV",
+        "questionAudio": "T3L04Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L04C.png",
+        "transcript": "WOMAN: Did you see the results of the poll?\nMAN: Yes, they were posted on the bulletin board in the union.",
+        "feedback": "\"Posted\" means \"displayed.\""
+      },
+      {
+        "id": "T3L05",
+        "number": 5,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "She missed her breakfast.",
+          "She had to eat breakfast too early.",
+          "She can't have breakfast at this time of day.",
+          "She is always hungry at this time."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L05C.WAV",
+        "questionAudio": "T3L05Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L05C.png",
+        "transcript": "MAN: It's a little early for lunch, isn't it?\nWOMAN: I had to leave home before breakfast was ready.",
+        "feedback": "The woman missed her breakfast because it was not ready before she had to leave."
+      },
+      {
+        "id": "T3L06",
+        "number": 6,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He's looking forward to seeing Gloria's presentation.",
+          "He'll miss the presentation to meet Gloria.",
+          "He doesn't want to hear another presentation.",
+          "He doesn't want Gloria to miss the program."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L06C.WAV",
+        "questionAudio": "T3L06Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L06C.png",
+        "transcript": "WOMAN: Gloria's giving her presentation this afternoon.\nMAN: Oh, I don't want to miss that.",
+        "feedback": "The man's not wanting to miss the presentation means that he wants to see it."
+      },
+      {
+        "id": "T3L07",
+        "number": 7,
+        "type": "LMC",
+        "text": "What does the man imply about Professor Wilson?",
+        "options": [
+          "He usually gives tests on Mondays.",
+          "He always gives old quizzes.",
+          "He doesn't have a policy about exams.",
+          "He doesn't usually give exams."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L07C.WAV",
+        "questionAudio": "T3L07Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L07C.png",
+        "transcript": "WOMAN: Professor Wilson said we'd have a quiz on Monday.\nMAN: That's nothing new.",
+        "feedback": "The fact that there's nothing new about his giving a quiz on Monday means he usually does this."
+      },
+      {
+        "id": "T3L08",
+        "number": 8,
+        "type": "LMC",
+        "text": "What are the people discussing?",
+        "options": [
+          "Working on an assignment",
+          "Going on a date",
+          "Having a good time",
+          "Meeting next week"
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L08C.WAV",
+        "questionAudio": "T3L08Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L08C.png",
+        "transcript": "MAN: We should meet once a week to discuss our term project.\nWOMAN: Wednesday afternoons would be a good time for me.",
+        "feedback": "It can be inferred that the two people are studying together from the phrase \"term project,\" and that they are arranging a time to discuss it."
+      },
+      {
+        "id": "T3L09",
+        "number": 9,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He has more problems to do.",
+          "He only has to do one problem.",
+          "He's finished one list of problems.",
+          "He has just written a list of his problems."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L09C.WAV",
+        "questionAudio": "T3L09Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L09C.png",
+        "transcript": "WOMAN: You sure have spent a long time on that calculus problem.\nMAN: And that's just one on a long list.",
+        "feedback": "\"Just one on a long list\" means there are more problems to do."
+      },
+      {
+        "id": "T3L10",
+        "number": 10,
+        "type": "LMC",
+        "text": "What does the woman imply?",
+        "options": [
+          "S",
+          "There is a toll fee along the way.",
+          "The walk will take all evening.",
+          "She knows of a place to buy some rolls."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L10C.WAV",
+        "questionAudio": "T3L10Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L10C.png",
+        "transcript": "MAN: Would you like to join me for a stroll along the river?<P@>WOMAN: What a pleasant way to spend a warm evening!",
+        "feedback": "By expressing her pleasure, the woman shows that she wants to go with him."
+      },
+      {
+        "id": "T3L11",
+        "number": 11,
+        "type": "LMC",
+        "text": "What does the woman say about Mary?",
+        "options": [
+          "She is playing music.",
+          "She is packing to go.",
+          "She is practicing moves.",
+          "She is studying Plato."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L11C.WAV",
+        "questionAudio": "T3L11Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L11C.png",
+        "transcript": "MAN: Is Mary around? We have our karate class tonight.\nWOMAN: She's practicing the piano.",
+        "feedback": "When one is practicing a musical instrument, one is playing music."
+      },
+      {
+        "id": "T3L12",
+        "number": 12,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She doesn't attend evening classes anymore.",
+          "She's accustomed to a lot of work.",
+          "She usually has too much studying to do.",
+          "She has to study part-time."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L12C.WAV",
+        "questionAudio": "T3L12Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L12C.png",
+        "transcript": "MAN: You were studying part-time for a master's degree, weren't you?\nWOMAN: Yeah, I used to take evening classes after work, but it got to be too much.",
+        "feedback": "\"Used to\" means \"doesn't anymore,\" and \"it got to be too much\" means that part-time studying and working full-time became more than she could do. This indicates that she no longer takes classes."
+      },
+      {
+        "id": "T3L13",
+        "number": 13,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She hasn't been to the infirmary yet.",
+          "She has already had the callus removed.",
+          "She saw a doctor four weeks ago.",
+          "She has been working in the infirmary for weeks."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L13C.WAV",
+        "questionAudio": "T3L13Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L13C.png",
+        "transcript": "MAN: You could go to the infirmary and have that callus removed.\nWOMAN: I guess I should. I've been putting it off for weeks.",
+        "feedback": "The woman says she has been putting off having the callus removed for weeks, meaning she has not yet gone to the infirmary.",
+        "correctAnswerIndices": [
+          0
+        ]
+      },
+      {
+        "id": "T3L14",
+        "number": 14,
+        "type": "LMC",
+        "text": "What does the woman mean?",
+        "options": [
+          "She has to revise the script.",
+          "She has to lengthen the communication.",
+          "She completed the assignment long ago.",
+          "She's already given the script to an editor."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L14C.WAV",
+        "questionAudio": "T3L14Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L14C.png",
+        "transcript": "MAN: Have you finished that assignment for your telecommunications class?\nWOMAN: The script is too long, so I'll have to edit it.",
+        "feedback": "The woman will be revising the script by editing it."
+      },
+      {
+        "id": "T3L15",
+        "number": 15,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "He regrets that he has annoyed the woman.",
+          "He's going to set up his own business.",
+          "He intends to pay attention to his own business.",
+          "He plans to help the woman with her business."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L15C.WAV",
+        "questionAudio": "T3L15Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L15C.png",
+        "transcript": "WOMAN: Would you mind your own business?\nMAN: I'm sorry, I didn't mean to upset you.",
+        "feedback": "The man apologizes to the woman for having annoyed her so much that she has told him to \"mind his own business"
+      },
+      {
+        "id": "T3L16",
+        "number": 16,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "They didn't make as much money as they had hoped.",
+          "He didn't have much fun selling T-shirts.",
+          "A lot of people sold more T-shirts than he did.",
+          "He didn't collect as much money as the woman."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L16C.WAV",
+        "questionAudio": "T3L16Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L16C.png",
+        "transcript": "WOMAN: There was a large crowd buying your Engineering Department T-shirts. You must have collected a lot of money for your fundraiser.\nMAN: Not as much as! we would have liked.",
+        "feedback": "The man is talking about the money they collected when he uses the words \"not as much\" and is comparing the realized quantity to how much they had hoped to collect."
+      },
+      {
+        "id": "T3L17",
+        "number": 17,
+        "type": "LMC",
+        "text": "What does the man mean?",
+        "options": [
+          "They must pay an extra charge for breakfast.",
+          "They forgot to charge their breakfast.",
+          "They aren't served breakfast at the hotel.",
+          "They don't have to pay for breakfast at the hotel."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L17C.WAV",
+        "questionAudio": "T3L17Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L17C.png",
+        "transcript": "WOMAN: Even with student discounts, this conference sure has been expensive.\nMAN: I know. Look at this bill.\nWOMAN: What's it for?\nMAN: The charge for the hotel room, and it doesn't even include our breakfast.",
+        "feedback": "The charge does not include breakfast. Therefore, guests must pay extra for breakfast."
+      },
+      {
+        "id": "T3L18",
+        "number": 18,
+        "type": "LMC",
+        "text": "Why was the man confused about the date for the midterm exam?",
+        "options": [
+          "He missed an announcement.",
+          "He wrote the date incorrectly.",
+          "He confused the date with his dentist appointment.",
+          "He changed to Professor Peters's class."
+        ],
+        "pictureOptions": [],
+        "correctAnswerIndex": 0,
+        "dialogueAudio": "T3L18C.WAV",
+        "questionAudio": "T3L18Q.WAV",
+        "sceneImage": "assets/images/cambridge/T3L18C.png",
+        "transcript": "MAN: The physics midterm exam is next week, isn't it?\nWOMAN: No, it's the following week.\nMAN: Are you sure? I have next week marked in my calendar.\nWOMAN: That was the original date it was set for, but Professor Peters announced the change in our last class meeting.\nMAN: Oh, I missed that day because I had to make an emergency trip to the dentist.",
+        "feedback": "The professor announced the change of dates during a class session that the man didn't attend because he had to go to the dentist."
+      }
+    ],
+    "lectureGroups": [
+      {
+        "groupId": "T3L19-21",
+        "startQuestion": 19,
+        "endQuestion": 21,
+        "fullAudio": "T3L19-21.WAV",
+        "audioClips": [
+          "T3L19-21.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L19-21C.png",
+        "transcript": "WOMAN: Aren't you too old to be reading comic books?\nMAN: This isn't just any comic book. It's a Walt Disney classic.\nWOMAN: Walt Disney classic or not, this is a university.\nMAN: Don't be such a snob! I'll have you know that this is required reading for my American popular culture course.\nWOMAN: I can't believe it. Here I am reading stacks of major works by important authors like Flaubert, Dickens, and Tolstoy for my survey of nineteenth-century literature course, and you're reading comic books.\nMAN: Hey, this isn't the only required reading material in the course. We have to read a lot about the historical events that affected the comic-book writers, and study contemporary art movements and how women and minorities are depicted in the comics. And that's only one aspect of the course.",
+        "questions": [
+          {
+            "id": "T3L19",
+            "number": 19,
+            "type": "LMC",
+            "text": "Why is the woman critical of the man's reading material?",
+            "questionAudio": "T3L19Q.WAV",
+            "options": [
+              "She doesn't think it is intellectually stimulating.",
+              "She wonders why he isn't reading classics by Walt Disney.",
+              "She believes he is acting superior.",
+              "She thinks that he is wasting the teacher's time."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman talks about her own reading of major works by important authors and criticizes the man for reading material he is too old for. This implies that she doesn't think he is reading intellectually stimulating books."
+          },
+          {
+            "id": "T3L20",
+            "number": 20,
+            "type": "LMC",
+            "text": "What does the man imply about his American popular culture course?",
+            "questionAudio": "T3L20Q.WAV",
+            "options": [
+              "It covers many different aspects of American culture.",
+              "It requires more studying than the woman's course.",
+              "It is one aspect of the women's studies course.",
+              "It is more important than studying famous American authors."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man disagrees with the woman's criticism and tells her more about the course. His description indicates that the course covers many aspects of American culture."
+          },
+          {
+            "id": "T3L21",
+            "number": 21,
+            "type": "LMC",
+            "text": "What is one of the assignments the man has to do in the course?",
+            "questionAudio": "T3L21Q.WAV",
+            "options": [
+              "Study the events that influenced comic-book writers",
+              "Write an analysis of important historical events",
+              "Do a survey of contemporary American literature",
+              "Read a large number of Walt Disney classics"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man states that he has to read a lot about the surrounding historical events that influenced the comic-book writers."
+          }
+        ]
+      },
+      {
+        "groupId": "T3L22-27",
+        "startQuestion": 22,
+        "endQuestion": 27,
+        "fullAudio": "T3L22-27.WAV",
+        "audioClips": [
+          "T3L22-27.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L22-27C.png",
+        "transcript": "WOMAN: I'm afraid your student-loan money won't be available for another two weeks because your application arrived a few days after the deadline.\nMAN: Two weeks! Oh, no! Does that mean I might not get a loan?\nWOMAN: No, but we had to wait until those applications that met the deadline were proc&u\t&VT3L28-32Today I'd like to focus on the Prairie School of Architecture, which developed the foremost architectural style ised before we knew if there was going to be enough money for late applicants.\nMAN: How will I complete my registration without my loan money? The registrar drops students if they don't pay their tuition fees by September 20.\nWOMAN: Students in your situation usually apply for an emergency loan. An emergency loan must be paid back within a month or a very high interest rate will be charged. As soon as you receive your student loan, you use it to pay back your emergency loan.\nMAN: So I need to take out an emergency loan to pay my tuition, and then when the student loan comes through, I pay back the emergency loan.\nWOMAN: That's right. Emergency loans are usually granted on the same day you apply for them, so you could get one and complete your registration today. Here's the form. Be sure to sign it here ... and here. When you have finished filling it out, take it to Mr. Schultz in the office next door. He'll tell you what to do after that.\nMAN: Thank you very much.",
+        "questions": [
+          {
+            "id": "T3L22",
+            "number": 22,
+            "type": "LMC",
+            "text": "What is the student's problem?",
+            "questionAudio": "T3L22Q.WAV",
+            "options": [
+              "He can't pay his university tuition fees.",
+              "He doesn't understand the application form.",
+              "His emergency loan will be late.",
+              "His registration has been canceled."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The man's concern about paying his fees can be understood from his question \"How will I complete my registration?\" and the statement \"The registrar drops students if they don't pay their tuition fees.\""
+          },
+          {
+            "id": "T3L23",
+            "number": 23,
+            "type": "LMC",
+            "text": "Why wasn't the student's loan ready?",
+            "questionAudio": "T3L23Q.WAV",
+            "options": [
+              "His application was late.",
+              "His loan was not approved.",
+              "The loan office was late in processing his loan.",
+              "He hadn't signed the form."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman states that the application arrived after the deadline."
+          },
+          {
+            "id": "T3L24",
+            "number": 24,
+            "type": "LTwo",
+            "text": "What can the student do in order to complete his registration?",
+            "questionAudio": "T3L24Q.WAV",
+            "options": [
+              "Take out an emergency loan",
+              "Pay his tuition with an emergency loan",
+              "Apply to pay late tuition fees",
+              "Cancel his student loan"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman tells the man that he could take out an emergency loan and use it to pay his tuition fees."
+          },
+          {
+            "id": "T3L25",
+            "number": 25,
+            "type": "LOrdering",
+            "text": "The woman briefly explains a process. Summarize the process by putting the events in order.",
+            "questionAudio": "T3L25Q.WAV",
+            "options": [
+              "He should complete an emergency loan application.",
+              "He should take the form to Mr. Schultz.",
+              "He should complete the registration procedures.",
+              "He should use the student loan to pay back the emergency loan."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman explains that the man should complete the emergency-loan application form and take it to Mr. Schultz. After the man gets the emergency loan, he can complete the registration procedures. He can pay back the emergency loan when he gets his student loan."
+          },
+          {
+            "id": "T3L26",
+            "number": 26,
+            "type": "LMC",
+            "text": "When will the student be able to complete his registration?",
+            "questionAudio": "T3L26Q.WAV",
+            "options": [
+              "The same day he's granted an emergency loan",
+              "After he gets his student loan",
+              "After he pays back his emergency loan",
+              "Before he returns the application on September 20"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The woman tells the man that he can get an emergency loan the same day he applies f"
+          },
+          {
+            "id": "T3L27",
+            "number": 27,
+            "type": "LMC",
+            "text": "What will the student probably do immediately?",
+            "questionAudio": "T3L27Q.WAV",
+            "options": [
+              "Take out an emergency loan",
+              "Pick up a part-time job",
+              "Take out a student loan",
+              "Drop out of the university"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since the student is worried about having the money to complete the registration procedures, he will probably take out an emergency loan."
+          }
+        ]
+      },
+      {
+        "groupId": "T3L28-32",
+        "startQuestion": 28,
+        "endQuestion": 32,
+        "fullAudio": "T3L28-32.WAV",
+        "audioClips": [
+          "T3L28-32.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L28-32C.png",
+        "transcript": "Today I'd like to focus on the Prairie School of Architecture, which developed the foremost architectural style ised before we knew if there was going to be enough money for late applicants.\nMAN: How will I complete my registration without my loan money? The registrar drops students if they don't pay their tuition fees by September 20.\nWOMAN: Students in your situation usually apply for an emergency loan. An emergency loan must be paid back within a month or a very high interest rate will be charged. As soon as you receive your student loan, you use it to pay back your emergency loan.\nMAN: So I need to take out an emergency loan to pay my tuition, and then when the student loan comes through, I pay back the emergency loan.\nWOMAN: That's right. Emergency loans are usually granted on the same day you apply for them, so you could get one and complete your registration today. Here's the form. Be sure to sign it here ... and here. When you have finished filling it out, take it to Mr. Schultz in the office next door. He'll tell you what to do after that.\nMAN: Thank you very much.",
+        "questions": [
+          {
+            "id": "T3L28",
+            "number": 28,
+            "type": "LMC",
+            "text": "What is the talk mainly about?",
+            "questionAudio": "T3L28Q.WAV",
+            "options": [
+              "The Prairie School of Architecture",
+              "The first skyscrapers in America",
+              "The English Arts and Crafts Movement's influence on American architects",
+              "Oriental motifs in American architecture"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor introduces the Prairie School of Architecture and talks about its formative influences and its guiding principles."
+          },
+          {
+            "id": "T3L29",
+            "number": 29,
+            "type": "LTwo",
+            "text": "What can be said about the nature of Prairie School architecture?",
+            "questionAudio": "T3L29Q.WAV",
+            "options": [
+              "It was mainly concerned with domestic living spaces.",
+              "It tried to harmonize with nature.",
+              "It was expressed mainly in large public buildings.",
+              "It was from midwestern America with no foreign influences."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that most of the effort of the Prairie School was devoted to domestic habitations and that the architects tried to relate the interiors to the surrounding landscape."
+          },
+          {
+            "id": "T3L30",
+            "number": 30,
+            "type": "LPictureClock",
+            "text": "Select the building that could be classified as an example of the Prairie School style.",
+            "questionAudio": "T3L30Q.WAV",
+            "options": [
+              "Drawing A",
+              "Drawing B",
+              "Drawing C",
+              "Drawing D"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T3L30Q1.png",
+              "assets/images/cambridge/T3L30Q2.png",
+              "assets/images/cambridge/T3L30Q3.png",
+              "assets/images/cambridge/T3L30Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Prairie School architecture includes horizontal lines with projecting roofs and projecting terraces with plant boxes."
+          },
+          {
+            "id": "T3L31",
+            "number": 31,
+            "type": "LTwo",
+            "text": "According to the professor, how did the Prairie School architect make living space more compatible with human needs?",
+            "questionAudio": "T3L31Q.WAV",
+            "options": [
+              "By decreasing the number of separate rooms",
+              "By abolishing closed interior corners",
+              "Through the use ^of elaborate ornamentation",
+              "Through the inclusion of vertical windows"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the number of rooms was reduced to open up living space and that closed interior corners were abolished to create a feeling of movement and freedom. This was an attempt to make living space more compatible with human living requirements."
+          },
+          {
+            "id": "T3L32",
+            "number": 32,
+            "type": "LMC",
+            "text": "Why does the professor mention traditional Japanese houses?",
+            "questionAudio": "T3L32Q.WAV",
+            "options": [
+              "To show how Oriental themes influenced Prairie School designs",
+              "To give an example of how turned-up roof edges don't blend in with the horizontal lines of the flat prairies",
+              "To contrast Japanese architectural design with the Prairie School design",
+              "To show the relationship between Japanese use of space and overall ornamentation"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor gives the turned-up roof edge of traditional Japanese houses as an example of the use of Oriental motifs."
+          }
+        ]
+      },
+      {
+        "groupId": "T3L33-37",
+        "startQuestion": 33,
+        "endQuestion": 37,
+        "fullAudio": "T3L33-37.WAV",
+        "audioClips": [
+          "T3L33-37.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L33-37C.png",
+        "transcript": "It is simply not feasible for every university library in the nation to contain all the books and journals that university students and faculty need for their research. To meet the needs of their users, libraries have made many innovations. While some money is used for the yearly purchasing of hardcover books and current journals that are recommended by professors, other funds are used to obtain materials that have been put on microfilm and microfiche. These techniques have proved extremely useful for adding informative materials to a library's collection at a low cost and without taking up much space. Most libraries now have computers that connect with other libraries. Professors and students can ask their librarian to use a computer search to fi¿nd a library that has the material they need. The material is then ordered and checked out through this interlibrary loan system, which costs the user only a nominal shipping fee.",
+        "questions": [
+          {
+            "id": "T3L33",
+            "number": 33,
+            "type": "LMC",
+            "text": "What is the main",
+            "questionAudio": "T3L33Q.WAV",
+            "options": [
+              "How libraries meet users' needs",
+              "How libraries use modern technology",
+              "How to use the library",
+              "How libraries purchase materials"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The talk discusses three ways libraries meet users' needs."
+          },
+          {
+            "id": "T3L34",
+            "number": 34,
+            "type": "LMC",
+            "text": "What can be inferred from the talk?",
+            "questionAudio": "T3L34Q.WAV",
+            "options": [
+              "Libraries have limited funds and space.",
+              "Libraries are no longer needed by students and professors.",
+              "Libraries contain everything the user needs.",
+              "Libraries must purchase more books."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "If libraries had sufficient funds and space, they would not need to use microfilm, microfiche, and computers because they could purchase and house all materials."
+          },
+          {
+            "id": "T3L35",
+            "number": 35,
+            "type": "LMC",
+            "text": "How do librarians decide what to purchase?",
+            "questionAudio": "T3L35Q.WAV",
+            "options": [
+              "Professors make suggestions.",
+              "They buy everything in print.",
+              "They contact other libraries.",
+              "They use the interlibrary loan system."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It is stated in the talk that professor"
+          },
+          {
+            "id": "T3L36",
+            "number": 36,
+            "type": "LMC",
+            "text": "According to the talk, what can students do if they can't find a book in the library?",
+            "questionAudio": "T3L36Q.WAV",
+            "options": [
+              "Have the librarian do a computer search",
+              "Purchase it at the bookstore",
+              "Borrow it from the professor",
+              "Contact the publisher"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "It is stated in the talk that students can ask their librarian to do a computer search."
+          },
+          {
+            "id": "T3L37",
+            "number": 37,
+            "type": "LOrdering",
+            "text": "The professor briefly explains the steps that a library user would follow to obtain materials. Put the steps in order.",
+            "questionAudio": "T3L37Q.WAV",
+            "options": [
+              "A user would check if the library has copies of the needed materials.",
+              "A user would search the computer system for other libraries that have the needed materials.",
+              "A user would use the interlibrary loan system to order the materials.",
+              "A user would return the materials to the library to be sent back to the original library."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": ""
+          }
+        ]
+      },
+      {
+        "groupId": "T3L38-44",
+        "startQuestion": 38,
+        "endQuestion": 44,
+        "fullAudio": "T3L38-44.WAV",
+        "audioClips": [
+          "T3L38-44.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L38-44C.png",
+        "transcript": "An enduring problem facing small-scale entrepreneurs in developing countries has been the difficulty in obtaining capital to start and run a business. A traditional route has been to borrow money from informal moneylenders who often attach exorbitant interest rates and thus reduce the net income of the borrower. This arrangement can trap a small-scale entrepreneur in a cycle of debt from which it is impossible to escape. An initiative pioneered in Bangladesh in 1983 by the Gr+¥xb&îT3L45-50WOMAN 1: The largest and strongest muscles in the body are in the hips, legs, and torso. These are the ones that give the most power-+y\"'ShowText$#uid#-25Cz:'bmodification-dateWed Nov 07 15:13:24 2001f history.",
+        "questions": [
+          {
+            "id": "T3L38",
+            "number": 38,
+            "type": "LMC",
+            "text": "What is the main topic of this lecture?",
+            "questionAudio": "T3L38Q.WAV",
+            "options": [
+              "A successful scheme for lending money to entrepreneurs",
+              "A policy that scrutinizes moneylenders who attach overly high interest rates to their loans",
+              "The problems faced by entrepreneurs in securing the money needed to set up a business",
+              "The reason banks do not lend money to small-scale entrepreneurs"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor talks about how the Grameen Bank successfully supported microenterprises by lending money to entrepreneurs."
+          },
+          {
+            "id": "T3L39",
+            "number": 39,
+            "type": "LOrdering",
+            "text": "The professor briefly explains a traditional cycle of borrowing. Put the steps of the cycl",
+            "questionAudio": "T3L39Q.WAV",
+            "options": [
+              "The small-scale entrepreneur has no money to start and run a business.",
+              "The entrepreneur borrows money with a high interest rate from a moneylender.",
+              "The entrepreneur must borrow more money in order to pay back the loan.",
+              "The entrepreneur gets caught in a cycle of borrowing money to pay back loans."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "First, the entrepreneur wants to start a business. Since he or she has no money, he or she borrows it from a moneylender at a high interest rate. Then when the entrepreneur cannot pay back the high interest, he or she borrows more. This becomes a cycle that keeps the entrepreneur in poverty."
+          },
+          {
+            "id": "T3L40",
+            "number": 40,
+            "type": "LMC",
+            "text": "According to the professor, why did Mohammed Yunus found the Grameen Bank?",
+            "questionAudio": "T3L40Q.WAV",
+            "options": [
+              "To help the poor work themselves out of poverty",
+              "To prove to traditional banks that poor people are good risks",
+              "To put informal moneylenders out of business",
+              "To show that people should have collateral before being given a lo"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "According to the professor, Mohammed Yunus founded the Grameen Bank with the goal of helping poor people escape from poverty by allowing them to borrow small amounts of money at reasonable interest rates."
+          },
+          {
+            "id": "T3L41",
+            "number": 41,
+            "type": "LMC",
+            "text": "What problem facing small-scale entrepreneurs does the professor discuss?",
+            "questionAudio": "T3L41Q.WAV",
+            "options": [
+              "A cycle of debt",
+              "A complicated loan repayment system",
+              "Loans that are too small",
+              "Low interest rates"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The small-scale entrepreneur gets into a cycle of borrowing money to pay back loans with high interest rates."
+          },
+          {
+            "id": "T3L42",
+            "number": 42,
+            "type": "LTwo",
+            "text": "How can the success of the microenterprise scheme be judged?",
+            "questionAudio": "T3L42Q.WAV",
+            "options": [
+              "By the high repayment rate",
+              "By the high percentage of borrowers who are running successful businesses",
+              "By the strength of the friendships within peer groups",
+              "By the loans that are short-term and small"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the success of such schemes can be judged by the high loan"
+          },
+          {
+            "id": "T3L43",
+            "number": 43,
+            "type": "LTwo",
+            "text": "According to the professor, how is the Grameen Bank different from traditional banks?",
+            "questionAudio": "T3L43Q.WAV",
+            "options": [
+              "It lends money to people who have nothing to use as a guarantee of repayment.",
+              "It trains groups of borrowers so they can manage businesses successfully.",
+              "It traps the borrower in a cycle of poverty from which there is no escape.",
+              "It attaches exorbitant interest rates to the loan."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that the Grameen Bank lends money to poor people who have no collateral (something used as a guarantee of repayment) and trains peer groups to manage business operations."
+          },
+          {
+            "id": "T3L44",
+            "number": 44,
+            "type": "LMC",
+            "text": "Who would be most likely to receive a loan from the Grameen Bank?",
+            "questionAudio": "T3L44Q.WAV",
+            "options": [
+              "A poor person wanting to run a small business",
+              "A moneylender wanting to loan money to the poor",
+              "A student",
+              "A person wanting to borrow large sums of money"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "According to the professor, Mohammed Yunus founded the Grameen Bank with the purpose of lending small amounts of money to poor entrepreneurs."
+          }
+        ]
+      },
+      {
+        "groupId": "T3L45-50",
+        "startQuestion": 45,
+        "endQuestion": 50,
+        "fullAudio": "T3L45-50.WAV",
+        "audioClips": [
+          "T3L45-50.WAV"
+        ],
+        "sceneImage": "assets/images/cambridge/T3L45-50C.png",
+        "transcript": "WOMAN 1: The largest and strongest muscles in the body are in the hips, legs, and torso. These are the ones that give the most power-+y\"'ShowText$#uid#-25Cz:'bmodification-dateWed Nov 07 15:13:24 2001f history.",
+        "questions": [
+          {
+            "id": "T3L45",
+            "number": 45,
+            "type": "LMC",
+            "text": "What is the class discussion mainly about?",
+            "questionAudio": "T3L45Q.WAV",
+            "options": [
+              "The importance of training and practice for sports that involve jumping",
+              "The reasons arms are important in sports that involve jumping",
+              "The largest and strongest muscles in the body",
+              "The sports that require different kinds of jumping skills"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The class is mainly discussing the importance of practicing jumping for different kinds of sports."
+          },
+          {
+            "id": "T3L46",
+            "number": 46,
+            "type": "LMC",
+            "text": "Why does the professor bring up the topic of arm muscles in a discussion about jumping?",
+            "questionAudio": "T3L46Q.WAV",
+            "options": [
+              "To focus on the importance of developing arm muscles when training for jumping skills",
+              "To compare large muscle movement with small muscle movemen\"t",
+              "To emphasize the fact that arm muscles are not specific muscles used in jumping",
+              "To criticize athletes for neglecting the development of their arm muscles"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Since some athletes neglect this part of training, the professor wants to focus on its importance."
+          },
+          {
+            "id": "T3L47",
+            "number": 47,
+            "type": "LMC",
+            "text": "The professor mentions volleyball as an example of which of the following?",
+            "questionAudio": "T3L47Q.WAV",
+            "options": [
+              "A sport having a variety of jumps",
+              "A sport that uses arm muscles",
+              "A team sport",
+              "A low-risk sport"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that a volleyball player may have to jump immediately after landing from a previous jump, depending on a variety of situations."
+          },
+          {
+            "id": "T3L48",
+            "number": 48,
+            "type": "LTwo",
+            "text": "According to the professor, what can an athlete do to improve efficiency of movement?",
+            "questionAudio": "T3L48Q.WAV",
+            "options": [
+              "Repeat the movement regularly",
+              "Ingrain the pattern of movement into the subconscious",
+              "Apply the pattern with greater speed",
+              "Perform the movement with less effort"
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor states that an athlete has to repeat the motion thousands of times to ingrain its pattern into the subconscious memory of movement."
+          },
+          {
+            "id": "T3L49",
+            "number": 49,
+            "type": "LMC",
+            "text": "What is probably true about training methods to improve jumping in different sports?",
+            "questionAudio": "T3L49Q.WAV",
+            "options": [
+              "Training methods are different depending on the types of jumping skills required.",
+              "Training for jumping should only concentrate on the body's largest and strongest muscles.",
+              "Athletes involved in sports requiring many kinds of jumps need to train longer.",
+              "Athletes involved in jump-specific sports need to perfect skills for all kinds of jumps."
+            ],
+            "pictureOptions": [],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "The professor talks about sports with a repertoire of jumps and those with a specific type of jump. It can be inferred that training methods vary according to the types of skills required."
+          },
+          {
+            "id": "T3L50",
+            "number": 50,
+            "type": "LMatchingPicturePhrase",
+            "text": "Based on the discussion, classify the training requirements for the sports thþat are illustrated.",
+            "questionAudio": "T3L50Q.WAV",
+            "options": [
+              "A sport that requires training for the same kind of jump",
+              "A sport in which arm muscle training cannot be neglected",
+              "A sport that requires training for a variety of jumps"
+            ],
+            "pictureOptions": [
+              "assets/images/cambridge/T3L50Q1.png",
+              "assets/images/cambridge/T3L50Q2.png",
+              "assets/images/cambridge/T3L50Q3.png",
+              "assets/images/cambridge/T3L50Q4.png"
+            ],
+            "correctAnswerIndex": 0,
+            "correctAnswerIndices": [
+              0,
+              1
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "feedback": "Jumping hurdles is a sport that requires the athlete to make the same kind of jump repeatedly. Pole vaulting is a sport that requires extensive use of arm muscles in the jump. Basketball is a sport that requires the player to make a variety of jumps."
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "topic": "Do you agree or disagree with the following statement?<P><I>The nation-state is an outmoded institution and should be replaced with a world government.</I><P>Use reasons and specific examples to support your opinion.",
+    "prompt": "Do you agree or disagree with the following statement?<P><I>The nation-state is an outmoded institution and should be replaced with a world government.</I><P>Use reasons and specific examples to support your opinion.",
+    "minWords": 150,
+    "timeLimitMinutes": 30
+  }
+}
