@@ -103,17 +103,17 @@
       "id": "T4S07",
       "number": 7,
       "type": "SComplete",
-      "text": "well-maintained campgrounds",
+      "text": "Yellowstone National Park's attractions include the famous Old Faithful geyser, vast forests, plentiful wildlife, and <_>.",
       "options": [
-        "S88-S90",
-        "S52-S53",
-        "<BR2>",
-        "<BR1>"
+        "well-maintained campgrounds",
+        "campgrounds are well maintained",
+        "campgrounds are maintained well",
+        "maintains campgrounds well"
       ],
       "correctAnswerIndex": 0,
       "rule": "campgrounds are well maintained",
       "correctedSentence": "well-maintained campgrounds",
-      "feedback": "campgrounds are maintained well"
+      "feedback": "The conjunction \"and\" connects elements in a series. Because the other items in the series are noun phrases (\"Old Faithful geyser,\" \"vast forests,\" \"plentiful wildlife\"), another noun phrase (\"well-maintained campgrounds\") is required."
     },
     {
       "id": "T4S08",
@@ -467,34 +467,34 @@
       {
         "id": "T4R08",
         "number": 8,
-        "type": "RMCSimple",
-        "text": "Look at the word <B>edifice</B> in the passage.",
+        "type": "RClickWordSynonymPhrase",
+        "text": "Look at the word edifice in paragraph 1. Click on another word or phrase in the bold text that is closest in meaning to the word edifice.",
         "paragraphNumber": 1,
         "options": [
-          "An \"edifice\" is a",
-          "RMCSimple",
-          "It can be inferred",
-          "It can be inferred01-11Plain"
+          "building",
+          "monument",
+          "temple",
+          "pyramid"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "It can be inferred usually large and impressive."
+        "feedback": "An \"edifice\" is a building, usually large and impressive."
       },
       {
         "id": "T4R09",
         "number": 9,
         "type": "RMCSimple",
-        "text": "It can be inferred",
+        "text": "It can be inferred from the passage that the function of the Pyramid of the Sun was",
         "paragraphNumber": 1,
         "options": [
-          "RMCSimple",
-          "It can be inferred usually large and impressive.",
-          "RMCSimple",
-          "It can be inferred01-11Plain"
+          "ceremonial",
+          "military",
+          "residential",
+          "administrative"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "The fact that the Pyramid of the Sun was at one time surmounted by a temple and had a cave underneath possibly used for ritual activities indicates that it probably had a ceremonial function."
+        "feedback": "The Pyramid of the Sun was a temple site used for religious and ceremonial practices."
       },
       {
         "id": "T4R10",
@@ -729,13 +729,13 @@
         "id": "T4R24",
         "number": 24,
         "type": "RMCSimple",
-        "text": "Which of the following is the main topic of paragraph 1?",
+        "text": "Which of the following is NOT mentioned as a reason that the fire was so devastating?",
         "paragraphNumber": 1,
         "options": [
           "A riotous populace",
-          "The finding of the <I>Mary Celeste</I>",
-          "The salvaging of the <I>Mary Celeste</I>",
-          "The abandonment of the <I>Mary Celeste</I>"
+          "The lack of rain",
+          "Fire-prone building materials",
+          "Too few firefighters"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -771,7 +771,7 @@
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "The first paragraph discusses the finding of the <I>Mary Celeste</I> and details about her condition when found."
+        "feedback": "The first paragraph discusses the finding of the Mary Celeste and its condition when found."
       },
       {
         "id": "T4R27",
@@ -867,7 +867,7 @@
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "Some are convinciart in the mystery."
+        "feedback": "All of the theories that the author discusses in paragraph 2 are flawed."
       },
       {
         "id": "T4R33",
@@ -2050,7 +2050,7 @@
             "questionAudio": "T4L37Q.WAV",
             "options": [
               "Realistic about the number of fossilized animals that can be found",
-              "Confident about the possibVility of finding fossils before they are exposed",
+              "Confident about the possibility of finding fossils before they are exposed",
               "Concerned about the number of fossils that are washed away",
               "Optimistic about finding the fossils needed to complete the fossil record"
             ],

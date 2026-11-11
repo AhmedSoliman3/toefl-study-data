@@ -712,13 +712,13 @@
         "paragraphNumber": 1,
         "options": [
           "Because they can be compared for reflective quality",
-          "Because they will have the same valu",
-          "RMCSimple",
-          "Because they can be compared for reflective quality"
+          "Because they will have the same value",
+          "Because they can be compared for weight",
+          "Because they will be equally brilliant"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "Why does the author suggest only comparing two diamonds of the same shape?"
+        "feedback": "It is stated that the reflective quality can only be compared between diamonds of the same shape."
       },
       {
         "id": "T3R24",
@@ -1173,9 +1173,9 @@
         "text": "What was Bob going to do?",
         "options": [
           "Get a form for financial aid",
-          "Pick up something f to do?",
-          "L13-L18",
-          "L13-L18"
+          "Pick up something for a student",
+          "Loan a student his truck",
+          "Borrow money in a hurry"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1183,7 +1183,7 @@
         "questionAudio": "T3L01Q.WAV",
         "sceneImage": "assets/images/cambridge/T3L01C.png",
         "transcript": "MAN: Where was Bob going in such a hurry?\nWOMAN: He was going to pick up an application for a student loan.",
-        "feedback": ""
+        "feedback": "He's getting an application form for a student loan (financial aid)."
       },
       {
         "id": "T3L02",
@@ -1343,7 +1343,7 @@
         "type": "LMC",
         "text": "What does the woman imply?",
         "options": [
-          "S",
+          "She'd like to go along.",
           "There is a toll fee along the way.",
           "The walk will take all evening.",
           "She knows of a place to buy some rolls."
@@ -1354,7 +1354,7 @@
         "questionAudio": "T3L10Q.WAV",
         "sceneImage": "assets/images/cambridge/T3L10C.png",
         "transcript": "MAN: Would you like to join me for a stroll along the river?<P@>WOMAN: What a pleasant way to spend a warm evening!",
-        "feedback": "By expressing her pleasure, the woman shows that she wants to go with him."
+        "feedback": "By exclaiming, \"What a pleasant way to spend a warm evening!\" the woman implies that she would like to join the man."
       },
       {
         "id": "T3L11",

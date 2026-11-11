@@ -262,18 +262,18 @@
     {
       "id": "T7S17",
       "number": 17,
-      "type": "SComplete",
+      "type": "SIdentify",
       "text": "<U1>As</U1> medical costs soar <U2>and get higher</U2>, the idea of a complete physical checkup has <U3>come under fire</U3> as a waste of both <U4>time and money</U4>.",
       "options": [
-        "2",
-        "As medical costs soar, the idea of a complete physical checkup has come under fire as a waste of both time and money.",
-        "",
-        ""
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correctAnswerIndex": 0,
+      "correctAnswerIndex": 1,
       "rule": "S95-S96",
-      "correctedSentence": "<U1>As</U1> medical costs soar <U2>and get higher</U2>, the idea of a complete physical checkup has <U3>come under fire</U3> as a waste of both <U4>time and money</U4>.",
-      "feedback": "As medical costs soar, the idea of a complete physical checkup has come under fire as a waste of both time and money."
+      "correctedSentence": "As medical costs soar, the idea of a complete physical checkup has come under fire as a waste of both time and money.",
+      "feedback": "The phrase \"get higher\" means the same as \"soar\" and therefore is redundant."
     },
     {
       "id": "T7S18",
@@ -505,17 +505,17 @@
         "id": "T7R10",
         "number": 10,
         "type": "RMCSynonymWord",
-        "text": "The word \"aggression\" in the passage is closest in meaning to",
+        "text": "The word aggression in paragraph 1 is closest in meaning to",
         "paragraphNumber": 1,
         "options": [
           "attack",
-          "agiion.",
-          "RMCSynonymWord",
-          "attack"
+          "agitation",
+          "conditions",
+          "surroundings"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "What is an example of an inorganic agent that may attack plants?"
+        "feedback": "\"Aggression\" means hostile or violent behavior or an \"attack.\""
       },
       {
         "id": "T7R11",
@@ -828,14 +828,14 @@
         "text": "In paragraph 3, the author states that the gel-like substance that promotes healing comes from",
         "paragraphNumber": 3,
         "options": [
-          "RMCOther",
-          "It produces glue.",
-          "It prohibits inflammation.",
-          "It fights bacteria."
+          "catfish bodies",
+          "catfish antibiotics",
+          "catfish coagulants",
+          "catfish venom"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "In paragraph 3, which of the following is NOT discussed as a quality of the catfish slime?"
+        "feedback": "It is stated that the \"catfish excretes a gel-like slime.\" Therefore, the substance comes from the body of the catfish."
       },
       {
         "id": "T7R31",
@@ -1017,17 +1017,17 @@
         "id": "T7R42",
         "number": 42,
         "type": "RMCSynonymWord",
-        "text": "The word \"vagrants\" in the passage is closest in meaning to",
+        "text": "The word vagrants in paragraph 2 is closest in meaning to",
         "paragraphNumber": 1,
         "options": [
-          "wander\"",
-          "FWP workers interviewed more than ten thousand \"people\" about their work histories.",
-          "RMCSynonymWord",
-          "wander"
+          "wanderers",
+          "laborers",
+          "personages",
+          "smugglers"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "In this passage, \"recollections\" refers to or is used as the key reference in the text."
+        "feedback": "A \"vagrant\" is a person who \"wanders\" or drifts from place to place and has no permanent home."
       },
       {
         "id": "T7R43",
@@ -1168,9 +1168,9 @@
         "text": "What does the woman mean?",
         "options": [
           "The man can choose whom to go with.",
-          "She can't tan mean?",
-          "L21-L24",
-          "L21-L24"
+          "She can't take the man to the game.",
+          "Patty is taking her to the game.",
+          "Patty might be leaving earlier than she is."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1178,7 +1178,7 @@
         "questionAudio": "T7L01Q.WAV",
         "sceneImage": "assets/images/cambridge/T7L01C.png",
         "transcript": "MAN: Could you give me a lift to the football game at the University Stadium tonight?\nWOMAN: Well, I have to be there by six o'clock to set up the concession stands. If that's too early for you, I think Patty might be going around 7:30.",
-        "feedback": ""
+        "feedback": "The woman must leave early. A mutual friend, Patty, may leave later. The man can decide to go with the woman or with Patty."
       },
       {
         "id": "T7L02",
@@ -1360,7 +1360,7 @@
           "The man is probably not studying effectively.",
           "The man should study geology more than calculus.",
           "The man shouldn't be having more difficulty with calculus than with geology.",
-          "T"
+          "The man is probably incapable of learning geology."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,

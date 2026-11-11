@@ -439,14 +439,14 @@
         "text": "According to the passage, which of the following is true of aphids?",
         "paragraphNumber": 1,
         "options": [
-          "Theyÿÿÿû",
-          "According to the passage, which of the following is true of aphids?",
-          "RMCSimple",
-          "They"
+          "They live in colonies.",
+          "They adapt easily to different plants.",
+          "They metabolize honeydew.",
+          "They are secretive."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "They adapt easily to different plants."
+        "feedback": "According to the passage, aphids live in crowded clusters. These clusters could be referred to as colonies."
       },
       {
         "id": "T5R07",
@@ -503,14 +503,14 @@
         "text": "According to the passage, what is the relationship that exists between ants and aphids?",
         "paragraphNumber": 1,
         "options": [
-          "Which of the following is NOT true of the symbiotic relationship between ants and aphids?",
-          "RMCSimple",
-          "Aphids suck honeydew out of plants for ants.",
-          "Ants eat aphid secretions."
+          "It is mutually beneficial.",
+          "It is reciprocally predatory.",
+          "It is a harmful alliance.",
+          "It is typically one-sided."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "It is mutually1], [1543, 1550], [1552, 1553]], #answer: 6], #QHash: [[18, 26], [132, 140]], #QText1: \"Look at the word <B>plausible</B> in the passage. Click on another word or phrase in the <B>bold</B> text that is closest in meaning to the word <B>plausible</B>.\"]"
+        "feedback": "The author states that the relationship between ants and aphids is mutually beneficial."
       },
       {
         "id": "T5R11",
@@ -548,17 +548,17 @@
         "id": "T5R13",
         "number": 13,
         "type": "RMCSimple",
-        "text": "Which of the follre dependent on ants.",
+        "text": "Which of the following would be an example of another symbiotic relationship that illustrates mutualism?",
         "paragraphNumber": 1,
         "options": [
-          "Which of the foll",
-          "The aphids do not suck honeydew out of plants for ants. The honeydew is a by-product that the aphids produce when sucking the sap from leaves.",
-          "RMCSimple",
-          "A fish that eats the harmful bacteria off the scales of another fish"
+          "A fish that eats the harmful bacteria off the scales of another fish",
+          "A moss that covers tree leaves in such a way that the leaves cannot get sunlight",
+          "A bat that sucks the blood out of a cow",
+          "A bird that pushes an egg out of another bird's nest in order to lay its own egg"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "A moss that covers tree leaves in such a way that the leaves cannot get sunlight"
+        "feedback": "Mutualism is a symbiotic relationship that is beneficial for both individuals. A fish that lives on bacteria that it cleans off another fish would be a relationship that is beneficial for both kinds of fish."
       },
       {
         "id": "T5R14",
@@ -568,13 +568,13 @@
         "paragraphNumber": 4,
         "options": [
           "To give an example of another case of mutualism",
-          "RMCOther",
           "To contrast symbiotic relationships",
-          "To show how humans protect cattle"
+          "To show how humans protect cattle",
+          "To compare how humans and ants get their food"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "To compare how humans and ants get their food"
+        "feedback": "The author uses the relationship between cattle and human beings as an analogy to show mutualism, where both species benefit."
       },
       {
         "id": "T5R15",
@@ -969,7 +969,7 @@
         "id": "T5R39",
         "number": 39,
         "type": "RClickParagraph",
-        "text": "#",
+        "text": "Click on the paragraph where the author describes the discovery of an animal that people did not believe existed.<P>Scroll the passage to see all of the paragraphs.",
         "paragraphNumber": 1,
         "options": [
           "Paragraph 1",
@@ -979,7 +979,7 @@
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "Which of the following is the main topic of the passage?"
+        "feedback": "The author describes the discovery of the giant squid in paragraph 1."
       },
       {
         "id": "T5R40",
@@ -1145,7 +1145,7 @@
         "id": "T5R50",
         "number": 50,
         "type": "RMCSimple",
-        "text": "",
+        "text": "It can be inferred from the passage that the author thinks the two psychological phenomena",
         "paragraphNumber": 1,
         "options": [
           "influence group decisions",
@@ -1155,7 +1155,7 @@
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "It can be inferred from the passage that the author thinks the two psychological phenomena"
+        "feedback": "The author states that the inclinations of group members to make irrational decisions are evident in all human endeavors. This implies that the author thinks the two phenomena influence group decisions."
       }
     ]
   },
@@ -1168,9 +1168,9 @@
         "text": "What does the woman mean?",
         "options": [
           "She doesn't plan to go to the concert.",
-          "She has an mean?",
-          "L21-L24",
-          "L21-L24"
+          "She has a report to write tomorrow.",
+          "She'll attend tomorrow's concert.",
+          "She'll come after she turns in her report."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1178,7 +1178,7 @@
         "questionAudio": "T5L01Q.WAV",
         "sceneImage": "assets/images/cambridge/T5L01C.png",
         "transcript": "MAN: You're going to the concert in the park this afternoon, aren't you?\nWOMAN: I have that science report to write up for tomorrow.",
-        "feedback": ""
+        "feedback": "The woman's stating that she has an assignment due the following day suggests that she doesn't intend to go to the afternoon concert."
       },
       {
         "id": "T5L02",
@@ -1474,7 +1474,7 @@
           "She can take up to eight tablets a day.",
           "She can take tablets up to eight times a day.",
           "She cannot take the tablets for more than one day.",
-          "S"
+          "She cannot take more than twenty-four tablets in eight days."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,

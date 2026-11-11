@@ -263,17 +263,17 @@
       "id": "T2S17",
       "number": 17,
       "type": "SComplete",
-      "text": "but only as a dethroned exile",
+      "text": "Napoleon III eventually landed in England <_>.",
       "options": [
-        "S91-S94",
-        "<BR1>",
-        "<BR1>",
-        "<BR1>"
+        "but only as a dethroned exile",
+        "not only as a dethroned exile",
+        "but a dethroned exile",
+        "but being only a dethroned exile"
       ],
       "correctAnswerIndex": 0,
       "rule": "not only as a dethroned exile",
       "correctedSentence": "but only as a dethroned exile",
-      "feedback": "but being only a dethroned exile"
+      "feedback": "The independent clause is complete. This indicates that a phrase that adds information is needed to complete the sentence. \"But only as a dethroned exile\" functions as an adverbial phrase modifying \"landed.\""
     },
     {
       "id": "T2S18",
@@ -724,17 +724,17 @@
         "id": "T2R24",
         "number": 24,
         "type": "RMCSynonymWord",
-        "text": "The word \"proposals\" in the passage is closest in meaning to",
+        "text": "The word proposals in paragraph 4 is closest in meaning to",
         "paragraphNumber": 1,
         "options": [
           "propositions",
           "invitations",
-          "ord",
-          "RMCSimple"
+          "assessments",
+          "endorsements"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "The passage discusses all of the following methods of dealing with this problem EXCEPT"
+        "feedback": "A \"proposal\" is a \"proposition\" or formal statement put forward for discussion."
       },
       {
         "id": "T2R25",
@@ -916,17 +916,17 @@
         "id": "T2R36",
         "number": 36,
         "type": "RMCSimple",
-        "text": "According to the passage, the anonymoferWord",
+        "text": "According to the passage, the anonymous subjects in the energy-consumption experiment",
         "paragraphNumber": 1,
         "options": [
-          "The \"group of strangers\" was asked to announce out loud or write down their intentions.",
-          "RMCSimple",
-          "According to the passage, the anonymo",
-          "used more gas than the other subjects"
+          "used more gas than the other subjects",
+          "did not cooperate",
+          "did not sign a form",
+          "did not own their own house"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "The subjects who did not make a public commitment (who remained anonymous) cooperated but did not conserve as much gas."
+        "feedback": "The subjects who did not make a public commitment (who remained anonymous) cooperated but used more gas than the other subjects."
       },
       {
         "id": "T2R37",
@@ -1168,9 +1168,9 @@
         "text": "What does the woman mean?",
         "options": [
           "Peter really didn't want to help.",
-          "Peter couldn't n mean?",
-          "L9-L11",
-          "L9-L11"
+          "Peter couldn't work because he injured his arm.",
+          "The woman hurt Peter.",
+          "The woman had to take Peter to the hospital."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1178,7 +1178,7 @@
         "questionAudio": "T2L01Q.WAV",
         "sceneImage": "assets/images/cambridge/T2L01C.png",
         "transcript": "MAN: How did you get Peter to help out at the Student Activities Center?\nWOMAN: It wasn't easy - I had to twist his arm.",
-        "feedback": ""
+        "feedback": "The woman uses the expression \"twist his arm\" to imply that she had to pressure Peter to help because he didn't want to. His not wanting to help can also be understood from her saying, \"It wasn't easy,\" in response to the man's question."
       },
       {
         "id": "T2L02",

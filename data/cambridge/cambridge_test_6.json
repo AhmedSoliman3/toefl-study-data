@@ -311,17 +311,17 @@
       "id": "T6S20",
       "number": 20,
       "type": "SComplete",
-      "text": "that have energy stored within them",
+      "text": "Cells get energy either directly from the sun or by consuming other organisms <_>.",
       "options": [
-        "S61-S66",
-        "<BR1>",
-        "<BR1>",
-        "<BR1>"
+        "that have energy stored within them",
+        "that within them have energy stored",
+        "within them that have energy stored",
+        "that they have energy stored within them"
       ],
       "correctAnswerIndex": 0,
       "rule": "that within them have energy stored",
       "correctedSentence": "that have energy stored within them",
-      "feedback": "within them that have energy stored"
+      "feedback": "The independent clause is complete. An adjective clause modifying \"organisms\" is needed. \"That have energy stored within them\" correctly uses the relative pronoun \"that\" as the subject of the clause."
     }
   ],
   "reading": {
@@ -388,17 +388,17 @@
         "id": "T6R03",
         "number": 3,
         "type": "RClickWordSynonymWord",
-        "text": "#Te",
+        "text": "Look at the word domestic in paragraph 1. Click on another word or phrase in the bold text that is closest in meaning to the word domestic.",
         "paragraphNumber": 1,
         "options": [
-          "parts",
-          "world",
-          "collection",
-          "available"
+          "household",
+          "native",
+          "internal",
+          "tame"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "Something that is for \"domestic\" use is for use in a \"ho for \"domestic\" use is for use in a \"ho"
+        "feedback": "Something that is for \"domestic\" use is for use in a \"household.\""
       },
       {
         "id": "T6R04",
@@ -1168,9 +1168,9 @@
         "text": "What is the man's difficulty?",
         "options": [
           "He has a conflict in his schedule.",
-          "He won't difficulty?",
-          "L13-L18",
-          "L13-L18"
+          "He won't be able to tour the state on Wednesday.",
+          "He'll have to reschedule the band workshop.",
+          "He was supposed to attend the ceramics class next week."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1178,7 +1178,7 @@
         "questionAudio": "T6L01Q.WAV",
         "sceneImage": "assets/images/cambridge/T6L01C.png",
         "transcript": "WOMAN: The workshop on ceramics that was supposed to be held this Wednesday has been rescheduled for next Wednesday.\nMAN: Oh, no! That's the week we're going on the state tour with the band.",
-        "feedback": ""
+        "feedback": "The rescheduling of the ceramics class on the following Wednesday has caused a conflict because that week the man plans to be out of town."
       },
       {
         "id": "T6L02",

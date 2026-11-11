@@ -537,12 +537,12 @@
         "options": [
           "The classic double-slit light experiment",
           "Thomas Young's various illustrations",
-          "The significance of phout these tests.",
-          "RMCSimple"
+          "The significance of photon interference",
+          "The double slit of light on a detecting screen"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "With what topic are the first two paragraphs mainly concerned?"
+        "feedback": "The paragraphs are mainly about Thomas Young's classic double-slit experiment to illustrate the nature of light."
       },
       {
         "id": "T1R13",
@@ -793,17 +793,17 @@
         "id": "T1R28",
         "number": 28,
         "type": "RMCSynonymWord",
-        "text": "The word \"\" in the passage is closest in meaning to",
+        "text": "The word crave in paragraph 2 is closest in meaning to",
         "paragraphNumber": 1,
         "options": [
-          "RMCSynonymWord",
-          "RMCOther",
-          "A variety of foods and strong flavors satisfy heavy people.",
-          "Thin people don't enjoy food as much as overweight people do."
+          "desire",
+          "devour",
+          "absorb",
+          "season"
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "Paragraph 2 supports which of the following conclusions?"
+        "correctAnswerIndex": 0,
+        "feedback": "If someone \"craves\" something, he or she has a strong desire for it."
       },
       {
         "id": "T1R29",
@@ -1102,8 +1102,8 @@
         "options": [
           "It was because of events at Gettysburg that the Union was eventually victorious.",
           "It was at Gettysburg that the Union troops forced the Confederates to flee to the South.",
-          "It was the battburg that the Union was eventually victorious.",
-          "It was at Gettysburg that the Union troops forced the Confederates to flee to the South."
+          "It was the battle in the American Civil War that turned the public opinion against supporting the war.",
+          "It was the place where the most devastating number of casualties on both sides occurred."
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
@@ -1848,9 +1848,9 @@
             "questionAudio": "T1L30Q.WAV",
             "options": [
               "A painting that thieves favor",
-              "A popularople discussing?",
-              "L26-L29",
-              "L26-L29"
+              "A popular painting among the public",
+              "The most valuable painting in the museum",
+              "A well-known painting"
             ],
             "pictureOptions": [],
             "correctAnswerIndex": 0,
@@ -1864,7 +1864,7 @@
               2,
               3
             ],
-            "feedback": ""
+            "feedback": "Although the painting is well known, the discussion is mainly about the problem of theft. The professor says the painting is favored by thieves and has been taken from the museum four times."
           },
           {
             "id": "T1L31",
