@@ -426,11 +426,11 @@
           "rivals",
           "allies",
           "civilians",
-          "atta"
+          "attackers"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "All of the following are mentioned as having been found in the Teotihuacan area EXCEPT"
+        "feedback": "\"Adversaries\" or \"rivals\" are the people that one is competing with or fighting against."
       },
       {
         "id": "T4R06",
@@ -601,17 +601,18 @@
         "id": "T4R16",
         "number": 16,
         "type": "RAddSentenceToParagraph",
-        "text": "The following sentence can be added to paragraph 1.<P><B>The fire was finally extinguished near midnight on the second day of devastation.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 1 is marked with an arrow (~).",
+        "text": "The following sentence can be added to paragraph 1:\n\n\"The fire was finally extinguished near midnight on the second day of devastation.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
         "paragraphNumber": 1,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...belonging to one Mrs. O'Leary.\"",
+          "[B] After \"...combustible materials stored there.\"",
+          "[C] After \"...three square miles of built-up area.\"",
+          "[D] After \"...an immense sum in those days.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "The fire was finally extinguished near midnight on the second day of devastation."
+        "feedback": "A sentence about the extinguishing of the fire would logically follow the destruction of the area and precede the discussion of resulting losses and property damage.",
+        "paragraphWithSquares": "Generations of American school children have been taught the story of how the Great Fire of Chicago of October 1871 was started by Daisy, a cow belonging to one Mrs. O'Leary. [■ A] The cow, stabled in a barn behind Mrs. O'Leary's house, apparently kicked over a kerosene lamp, which set fire to hay and other combustible materials stored there. [■ B] The blaze quickly spread, and fanned by a strong southwest wind and aided by intensely dry conditions, the conflagration engulfed and entirely destroyed more than three square miles of built-up area. [■ C] Almost one hundred thousand people were left homeless, and about three hundred lost their lives. Property damage was estimated at two hundred million dollars, an immense sum in those days. [■ D]"
       },
       {
         "id": "T4R17",
@@ -953,17 +954,18 @@
         "id": "T4R38",
         "number": 38,
         "type": "RAddSentenceToParagraph",
-        "text": "The following sentence can be added to paragraph 3.<P><B>The need to circulate air to prevent such a blast could explain why the crew left two hatches open.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 3 is marked with an arrow (~).",
+        "text": "The following sentence can be added to paragraph 3:\n\n\"The need to circulate air to prevent such a blast could explain why the crew left two hatches open.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
         "paragraphNumber": 3,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...fear for the safety of the ship.\"",
+          "[B] After \"...days before the ship's discovery.\"",
+          "[C] After \"...imminent destruction from an explosion of the combustible cargo.\"",
+          "[D] After \"...waiting for the crisis to pass.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 3,
-        "feedback": "The need to circulate air to prevent such a blast could explain why the crew left two hatches open."
+        "correctAnswerIndex": 2,
+        "feedback": "A sentence about leaving the hatches open to prevent a blast connects directly with the fear of an explosion of the combustible cargo.",
+        "paragraphWithSquares": "A possible explanation is that some event made the captain fear for the safety of the ship. [■ A] In fact, recently studied seismic records indicate that a violent earthquake, whose epicenter was on the seafloor in the region where the Mary Celeste was sailing, occurred some days before the ship's discovery. [■ B] If the ship had been subjected to intense shocks caused by the quake, all aboard may have hastily abandoned ship to avoid what they imagined might be its imminent destruction from an explosion of the combustible cargo. [■ C] A severed rope found dangling from the side of the Mary Celeste suggests that the evacuees trailed behind in the lifeboat, attached to the ship, waiting for the crisis to pass. [■ D] Great waves may then have snapped the rope and capsized the smaller boat, whose occupants would have disappeared without a trace."
       },
       {
         "id": "T4R39",
@@ -1113,17 +1115,18 @@
         "id": "T4R48",
         "number": 48,
         "type": "RAddSentenceToPassage",
-        "text": "In the summer, the heat also adversely affects the fissures.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 4:\n\n\"In the summer, the heat also adversely affects the fissures.\"\n\nWhere would it best fit in the passage? Click on the square to add the sentence to the passage.",
+        "paragraphNumber": 4,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] At the beginning of paragraph 4 (before \"Every winter...\")",
+          "[B] After \"...making the fissures bigger.\"",
+          "[C] After \"...done to refill the cracks.\"",
+          "[D] At the end of the passage (after \"...same mixture that Borglum used.\")"
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "In the summer, the heat also adversely affects the fissures."
+        "correctAnswerIndex": 1,
+        "feedback": "The sentence about summer heat also affecting the fissures would naturally follow the description of the effects of winter on the fissures.",
+        "paragraphWithSquares": "[■ A] Every winter, water from melting snow gets into the fissures and expands as it freezes, making the fissures bigger. [■ B] Consequently, every autumn maintenance work is done to refill the cracks. [■ C] To preserve this national monument for future generations, the repairers swing out in space over a 500-foot drop and fix the monument with the same mixture that Borglum used. [■ D]"
       },
       {
         "id": "T4R49",

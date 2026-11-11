@@ -330,7 +330,7 @@
         "groupId": "T2R01-14Plain",
         "startQuestion": 1,
         "endQuestion": 14,
-        "text": "One of the foremost American entertainers of the first part of the twentieth century was a part-Cherokee Native American named Will Rogers (1879-1935). Rogers was born in territory that would later become the state of Oklahoma and spent much of his youth riding horses and mastering the use of the lariat. These skills were refined into an entertainment act based on fancy rope tricks interspersed with humorous anecdotes and witty remarks. Traveling widely as a vaudeville entertainer, Rogers had become a star act by 1915 with the Ziegfeld Follies, a famous stage show. In 1918 his stage skills led to a new career as a movie actor both in silent films and later in the \"talkies.\"\n\nIn the early 1920s, Rogers embarked on another profession, this time as a journalist writing weekly newspaper columns that reached millions of people worldwide. Beginning in 1930 he also broadcast regular radio addresses.  What distinguished his journalistic approach was his firsthand experience of ordinary people and places and a wry sense of humor, often debunking establishment figures and institutions.  This poking fun at the serious side of life, combined with an optimistic homespun philosophy, gave him immense popular appeal. He became a national and international celebrity and acquired the unofficial status of a goodwill ambassador during his travels in Europe. He also had a strong philanthropic streak and devoted money and time to charitable causes. @\n\nRogers also had a keen interest in flying. He often wrote about the development of aviation and made friends with trailblazing fliers such as Charles Lindbergh. Another pioneering aviator, Wiley Post, invited Rogers to join him in testing the viability of a commercial route between the United States and Asia. Tragically, both Rogers and Post were killed when their plane crashed in northern Alaska. Rogers's death was felt deeply throughout the United States and the public displays of mourning were heartfelt and widespread. The epitaph by his tomb is taken from one of his numerous quotable remarks and reminds us of the essential dignity of the man. It reads, \"Never Met A Man I Didn't Like.\""
+        "text": "One of the foremost American entertainers of the first part of the twentieth century was a part-Cherokee Native American named Will Rogers (1879-1935). Rogers was born in territory that would later become the state of Oklahoma and spent much of his youth riding horses and mastering the use of the lariat. These skills were refined into an entertainment act based on fancy rope tricks interspersed with humorous anecdotes and witty remarks. Traveling widely as a vaudeville entertainer, Rogers had become a star act by 1915 with the Ziegfeld Follies, a famous stage show. In 1918 his stage skills led to a new career as a movie actor both in silent films and later in the \"talkies.\"\n\nIn the early 1920s, Rogers embarked on another profession, this time as a journalist writing weekly newspaper columns that reached millions of people worldwide. Beginning in 1930 he also broadcast regular radio addresses.  What distinguished his journalistic approach was his firsthand experience of ordinary people and places and a wry sense of humor, often debunking establishment figures and institutions.  This poking fun at the serious side of life, combined with an optimistic homespun philosophy, gave him immense popular appeal. He became a national and international celebrity and acquired the unofficial status of a goodwill ambassador during his travels in Europe. He also had a strong philanthropic streak and devoted money and time to charitable causes.\n\nRogers also had a keen interest in flying. He often wrote about the development of aviation and made friends with trailblazing fliers such as Charles Lindbergh. Another pioneering aviator, Wiley Post, invited Rogers to join him in testing the viability of a commercial route between the United States and Asia. Tragically, both Rogers and Post were killed when their plane crashed in northern Alaska. Rogers's death was felt deeply throughout the United States and the public displays of mourning were heartfelt and widespread. The epitaph by his tomb is taken from one of his numerous quotable remarks and reminds us of the essential dignity of the man. It reads, \"Never Met A Man I Didn't Like.\""
       },
       {
         "groupId": "T2R15-27Plain",
@@ -452,17 +452,18 @@
         "id": "T2R07",
         "number": 7,
         "type": "RAddSentenceToParagraph",
-        "text": "Among his preferred causes was alleviating the plight of Native Americans and the needy victims of the Great Depression.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 2:\n\n\"Among his preferred causes was alleviating the plight of Native Americans and the needy victims of the Great Depression.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...broadcast regular radio addresses.\"",
+          "[B] After \"...debunking establishment figures and institutions.\"",
+          "[C] After \"...gave him immense popular appeal.\"",
+          "[D] At the end of paragraph 2 (after \"...charitable causes.\")"
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "Among his preferred causes was alleviating the plight of Native Americans and the needy victims of the Great Depression."
+        "correctAnswerIndex": 3,
+        "feedback": "This sentence gives examples of Rogers's preferred causes and would follow the sentence that introduces his being devoted to charitable causes.",
+        "paragraphWithSquares": "In the early 1920s, Rogers embarked on another profession, this time as a journalist writing weekly newspaper columns that reached millions of people worldwide. Beginning in 1930 he also broadcast regular radio addresses. [■ A] What distinguished his journalistic approach was his firsthand experience of ordinary people and places and a wry sense of humor, often debunking establishment figures and institutions. [■ B] This poking fun at the serious side of life, combined with an optimistic homespun philosophy, gave him immense popular appeal. [■ C] He became a national and international celebrity and acquired the unofficial status of a goodwill ambassador during his travels in Europe. He also had a strong philanthropic streak and devoted money and time to charitable causes. [■ D]"
       },
       {
         "id": "T2R08",
@@ -644,17 +645,18 @@
         "id": "T2R19",
         "number": 19,
         "type": "RAddSentenceToParagraph",
-        "text": "The following sentence can be added to paragraph 2.<P><B>This is also a time when they can charge higher prices for the electricity generated by the moving water.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "text": "The following sentence can be added to paragraph 2:\n\n\"This is also a time when they can charge higher prices for the electricity generated by the moving water.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
         "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...construction of numerous dams.\"",
+          "[B] After \"...intentionally slow the current.\"",
+          "[C] After \"...when more electric power is needed.\"",
+          "[D] After \"...now sixty-day trip to the sea.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "This is also a time when they can charge higher prices ickWordReferWord"
+        "feedback": "\"This is also a time...\" refers to \"the winter, when more electric power is needed.\" The sentence explains an additional financial motive for storing water and delaying flow.",
+        "paragraphWithSquares": "Unfortunately, the current has become very slow due to the construction of numerous dams. [■ A] Companies operating the dams also intentionally slow the current. [■ B] They store the water from the melting snow until the winter, when more electric power is needed. [■ C] The net result is that many of the young fish do not survive the now sixty-day trip to the sea. [■ D] Consequently, there are fewer adult salmon to migrate back up the rivers for breeding. When it comes time for the salmon to return, they again face the problem of dams. As fewer adult salmon are able to get back to their cool upstream water, they fail to produce a sufficiently numerous new generation of salmon. This cycle could eventually lead to extinction of the fish."
       },
       {
         "id": "T2R20",
@@ -1145,17 +1147,18 @@
         "id": "T2R50",
         "number": 50,
         "type": "RAddSentenceToPassage",
-        "text": "The following sentence can be added to the passage.<P><B>These stages form an overall pattern of quiescent periods and active periods.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "text": "The following sentence can be added to paragraph 1:\n\n\"These stages form an overall pattern of quiescent periods and active periods.\"\n\nWhere would it best fit in the passage? Click on the square to add the sentence to the passage.",
         "paragraphNumber": 1,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...five distinct levels or stages of sleep.\"",
+          "[B] After \"...electroencephalograph (EEG) patterns.\"",
+          "[C] After \"...called an electroencephalograph.\"",
+          "[D] At the beginning of paragraph 2 (before \"The first stage is...\")"
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 0,
-        "feedback": "These stages form an overall pattern of quiescent periods and active periods."
+        "feedback": "This sentence helps to introduce the concept of stages and their general pattern. It would come before the detailed description of each stage.",
+        "paragraphWithSquares": "Research investigating what happens when people sleep has shown that they typically journey through five distinct levels or stages of sleep. [■ A] Each level corresponds to changes in body temperature, respiration and body movements, and electroencephalograph (EEG) patterns. [■ B] EEG patterns refer to the patterns of electrical activity in the brain as measured by a device called an electroencephalograph. [■ C]"
       }
     ]
   },

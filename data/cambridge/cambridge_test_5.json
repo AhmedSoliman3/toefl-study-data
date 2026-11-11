@@ -692,17 +692,18 @@
         "id": "T5R22",
         "number": 22,
         "type": "RAddSentenceToParagraph",
-        "text": "The walls tapered from a thickness of 8 feet at the top to only a few inches at the bottom edge, allowing the device to sink into the mud.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 2:\n\n\"The walls tapered from a thickness of 8 feet at the top to only a few inches at the bottom edge, allowing the device to sink into the mud.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...watertight chambers called caissons were used.\"",
+          "[B] After \"...open and rested on the riverbed.\"",
+          "[C] After \"...excavating the soil on the open bottom.\"",
+          "[D] After \"...rested securely on underlying rock.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "The walls tapered from a thickness of 8 feet at the top to only a few inches at the bottom edge, allowing the device to sink into the mud."
+        "correctAnswerIndex": 1,
+        "feedback": "A sentence describing how the caisson's bottom tapered to allow it to sink into the mud follows the introduction of the caissons and the mention of their bottom resting on the riverbed.",
+        "paragraphWithSquares": "Because work had to be performed below water level, enormous watertight chambers called caissons were used. [■ A] The bottom of the caissons was open and rested on the riverbed. [■ B] Well-like tubes extending above the water level allowed compressed air to be pumped in to prevent water from entering and to provide air for the workers excavating the soil on the open bottom. [■ C] The extracted debris was passed out of other vertical shafts. As the soil was removed, the caissons gradually sank into the riverbed until they rested securely on underlying rock. [■ D] On their upper sides the two granite towers from which the bridge was suspended were built up to an eventual height of 270 feet above water level."
       },
       {
         "id": "T5R23",
@@ -1097,17 +1098,18 @@
         "id": "T5R47",
         "number": 47,
         "type": "RAddSentenceToParagraph",
-        "text": "To speak out might incur the displeasure of colleagues.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 2:\n\n\"To speak out might incur the displeasure of colleagues.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...take on an attitude of excessive optimism.\"",
+          "[B] After \"...believe in their group's inherent righteousness.\"",
+          "[C] After \"...prevents individuals from giving voice to misgivings.\"",
+          "[D] After \"...realistic evaluations of the outcomes of their decisions.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "To speak out might incur the displeasure of colleagues."
+        "feedback": "\"To speak out might incur the displeasure of colleagues\" provides the motive for and follows the sentence that describes the process of self-censorship.",
+        "paragraphWithSquares": "Such risky behavior often goes hand in hand with the tendency of group members to become susceptible to \"groupthink,\" a notion developed by Irving Janis whereby each individual tries to conform to what they perceive is the disposition of the group as a whole. They may be overtaken by an illusion of group invulnerability and may take on an attitude of excessive optimism. [■ A] Furthermore, members may start to believe in their group's inherent righteousness. [■ B] The group conformity is further cemented by a process of self-censorship, which prevents individuals from giving voice to misgivings. [■ C] These biases can become so dominant that members fail to make realistic evaluations of the outcomes of their decisions. [■ D]"
       },
       {
         "id": "T5R48",

@@ -553,17 +553,18 @@
         "id": "T6R13",
         "number": 13,
         "type": "RAddSentenceToPassage",
-        "text": "The following sentence can be added to the passage.<P><B>Depletion of fuel sources can also lead to further problems such as flooding.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
+        "text": "The following sentence can be added to paragraph 1:\n\n\"Depletion of fuel sources can also lead to further problems such as flooding.\"\n\nWhere would it best fit in the passage? Click on the square to add the sentence to the passage.",
         "paragraphNumber": 1,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...take 200-300 person-days per year.\"",
+          "[B] After \"...deforestation, soil erosion, and ecological imbalances.\"",
+          "[C] After \"...fuel supplies for domestic consumption may not be.\"",
+          "[D] At the beginning of paragraph 2 (before \"In light of such considerations...\")"
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "Depletion of fuel sources can also lead to further problems such as flooding."
+        "correctAnswerIndex": 1,
+        "feedback": "In paragraph 1, the author states that fuel collection leads to deforestation, soil erosion, and ecological imbalances. A sentence discussing further problems such as flooding naturally follows that list.",
+        "paragraphWithSquares": "In parts of the world, the collection of available fuel such as firewood, dung cake, and agricultural waste for home use can take 200-300 person-days per year. [■ A] As well as being time-consuming, the typical patterns of collection lead to deforestation, soil erosion, and ecological imbalances. [■ B] In the future, experts predict that even if food supplies are adequate for rural populations, fuel supplies for domestic consumption may not be. [■ C]"
       },
       {
         "id": "T6R14",
@@ -729,17 +730,18 @@
         "id": "T6R24",
         "number": 24,
         "type": "RAddSentenceToParagraph",
-        "text": "Also, parents may want to obtain the drug for their children who are only marginally under average height.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 3:\n\n\"Also, parents may want to obtain the drug for their children who are only marginally under average height.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 3,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...an important medical advance.\"",
+          "[B] After \"...not medically in need of its benefits.\"",
+          "[C] After \"...because of its suggested anabolic properties.\"",
+          "[D] After \"...touted as an anti-aging formula.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "Also, parents may want to obtain the drug for their children who are only marginally under average height."
+        "feedback": "Sentence 3 gives an example of people not medically in need of Somatrem (athletes). This sentence provides another example of non-medical use and follows the first example.",
+        "paragraphWithSquares": "For children who are deficient in their own growth hormone, the development of Somatrem has been an important medical advance. [■ A] The problem is that the drug may be abused by people who produce an adequate output of the substance and are, therefore, not medically in need of its benefits. [■ B] For example, athletes may take the drug in the belief that it will improve their physique and physical performance because of its suggested anabolic properties. [■ C] Recently, other medical preparations incorporating the drug have been touted as an anti-aging formula. [■ D]"
       },
       {
         "id": "T6R25",
@@ -873,17 +875,18 @@
         "id": "T6R33",
         "number": 33,
         "type": "RAddSentenceToParagraph",
-        "text": "The following sentence can be added to paragraph 2.<P><B>In fact, skeptics claim that apes' language behavior is merely imitative.</B><P>Where would it best fit in the paragraph?<P>Click on the square ([) to add the sentence to the paragraph.<P>Paragraph 2 is marked with an arrow (~).",
+        "text": "The following sentence can be added to paragraph 2:\n\n\"In fact, skeptics claim that apes' language behavior is merely imitative.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
         "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...admit that their work has been severely criticized.\"",
+          "[B] After \"...must be able to use language creatively.\"",
+          "[C] After \"...comment on interesting phenomena.\"",
+          "[D] After \"...do not appear to be really communicating.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "In fact, skeptics claim that apes' language behavior is merely imitative."
+        "correctAnswerIndex": 0,
+        "feedback": "Skeptics are mentioned in this sentence as claiming that apes' language behavior is merely imitative. This introduces the skepticism right after the opening sentence noting that the work has been severely criticized.",
+        "paragraphWithSquares": "The investigators at the forefront of this research admit that their work has been severely criticized. [■ A] For behavior to be called \"language,\" it must be communicative; in other words, the signer must be able to use language creatively. [■ B] He or she should be able to take turns in conversation, sign spontaneously rather than as a response to drilling or coercion, and comment on interesting phenomena. [■ C] Based on these stringent criteria, according to the critics, the apes do not appear to be really communicating. [■ D]"
       },
       {
         "id": "T6R34",
@@ -1113,17 +1116,18 @@
         "id": "T6R48",
         "number": 48,
         "type": "RAddSentenceToParagraph",
-        "text": "These can range from a mild annoyance to excruciating pain.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 4:\n\n\"These can range from a mild annoyance to excruciating pain.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 4,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...someone who stays within the suggested limits can still get DCS.\"",
+          "[B] After \"...imperative that divers recognize the symptoms.\"",
+          "[C] After \"...or engaging in unaccustomed activity.\"",
+          "[D] After \"...see whether the symptoms abate.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "These can range from a mild annoyance to excruciating pain."
+        "correctAnswerIndex": 1,
+        "feedback": "\"These\" refers directly to the \"symptoms\" divers must recognize. The sentence describes the range of those symptoms before noting that they can mimic other illnesses.",
+        "paragraphWithSquares": "Diving tables set guidelines based on statistical probabilities of getting the bends. However, someone who stays within the suggested limits can still get DCS. [■ A] Since even a mild case can leave a diver permanently crippled, it is imperative that divers recognize the symptoms. [■ B] Unfortunately, such symptoms can be similar to those of the flu or a strained muscle, something that occurs frequently when divers are handling heavy equipment, using improperly fitted gear, or engaging in unaccustomed activity. [■ C] Because even professionals can have difficulty diagnosing DCS, the most reliable test is to recompress the patient and see whether the symptoms abate. [■ D]"
       },
       {
         "id": "T6R49",

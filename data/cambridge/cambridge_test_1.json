@@ -729,17 +729,18 @@
         "id": "T1R24",
         "number": 24,
         "type": "RAddSentenceToPassage",
-        "text": "This is fairly easy to replicate in a classroom setting.",
+        "text": "The following sentence can be added to paragraph 1:\n\n\"This is fairly easy to replicate in a classroom setting.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the passage.",
         "paragraphNumber": 1,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] Before \"A variety of experiments can be performed...\"",
+          "[B] After \"...first performed by Thomas Young in 1803.\"",
+          "[C] After \"...shows up on the detecting screen.\"",
+          "[D] After \"...when passing through the slit.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "This is fairly easy to replicate in a classroom setting."
+        "correctAnswerIndex": 1,
+        "feedback": "The word \"this\" refers to an \"experiment,\" since that is what could be replicated in a classroom setting. This sentence would probably follow the sentence introducing Thomas Young's classic double-slit experiment and would precede the sentences describing the experiment.",
+        "paragraphWithSquares": "[■ A] A variety of experiments can be performed to illustrate the nature of light, but perhaps the most well known is the classic \"double-slit experiment\" first performed by Thomas Young in 1803. [■ B] In the first part of this experiment, a light is shone through a tiny vertical slit in a screen and allowed to pass on to a second detecting screen. The light spreads out after passing through the hole, and a large illuminated area that fades into darkness at the edges shows up on the detecting screen. [■ C] To form this pattern, the light actually bends or diffracts when passing through the slit. [■ D]"
       },
       {
         "id": "T1R25",
@@ -1017,17 +1018,18 @@
         "id": "T1R42",
         "number": 42,
         "type": "RAddSentenceToParagraph",
-        "text": "Throughout the",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 2:\n\n\"Throughout the night the remainder of Meade's forces arrived in large numbers, strengthening these positions.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...west of the town at McPherson Ridge.\"",
+          "[B] After \"...driven back to the south of Gettysburg.\"",
+          "[C] After \"...just to the north and east of the ridge.\"",
+          "[D] After \"...in a larger arc from the west and north.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "\"The Union forces\" formed defensive positions along Cemetery Ridge."
+        "feedback": "The phrase \"these positions\" refers to the \"defensive positions\" mentioned in the sentence that should precede this one, and the \"remainder of Meade's forces\" refers to those who came later to join the ones who \"formed defensive positions.\"",
+        "paragraphWithSquares": "On the morning of July 1, the battle opened with Confederate troops attacking a Union cavalry division to the west of the town at McPherson Ridge. [■ A] Reinforcements came to both sides, but eventually the Union forces were overpowered and were driven back to the south of Gettysburg. [■ B] They formed defensive positions along Cemetery Ridge, a long rise of land running southwards from outside the town, and on two hills just to the north and east of the ridge. [■ C] The whole army formed a defensive arc resembling a fishhook. The Confederate forces, about a mile away, faced the Union positions in a larger arc from the west and north. [■ D]"
       },
       {
         "id": "T1R43",

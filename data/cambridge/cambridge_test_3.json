@@ -761,17 +761,18 @@
         "id": "T3R26",
         "number": 26,
         "type": "RAddSentenceToPassage",
-        "text": "The following sentence can be added to the passage.<P><B>In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 4:\n\n\"In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished.\"\n\nWhere would it best fit in the passage? Click on the square to add the sentence to the passage.",
+        "paragraphNumber": 4,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...The final characteristic is cut.\"",
+          "[B] After \"...and then reflected outward again.\"",
+          "[C] After \"...when the light is reflected.\"",
+          "[D] After \"...The round shape is the most reflective.\""
         ],
         "pictureOptions": [],
         "correctAnswerIndex": 2,
-        "feedback": "In contrast, a nearly flawless diamond that is not professionally cut will not acquire its full reflective potential, and thus, its value may be diminished."
+        "feedback": "A sentence that describes unprofessionally cut diamonds would contrast directly with and follow the sentence describing a well-cut diamond.",
+        "paragraphWithSquares": "The final characteristic is cut. [■ A] When shaped - whether round, oval, emerald, marquise, pear, or heart - the diamond should be faceted so that light is directed into the depths of the prism and then reflected outward again. [■ B] A well-cut diamond will separate the light into different colors when the light is reflected. [■ C] Only stones of similar shape should have their reflective qualities compared, as some shapes are more reflective than others. The round shape is the most reflective. [■ D]"
       },
       {
         "id": "T3R27",
@@ -905,17 +906,18 @@
         "id": "T3R35",
         "number": 35,
         "type": "RAddSentenceToParagraph",
-        "text": "Unfortunately, there is also little knowledge about the causes of this illness.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 2:\n\n\"Unfortunately, there is also little knowledge about the causes of this illness.\"\n\nWhere would it best fit in the paragraph? Click on the square to add the sentence to the paragraph.",
+        "paragraphNumber": 2,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...showing how many people have narcolepsy.\"",
+          "[B] After \"...in the United States alone.\"",
+          "[C] After \"...to the brain's chemical processes.\"",
+          "[D] After \"...based on genetics alone is not adequate.\""
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "Unfortunately, there is also little knowledge about the causes of this illness."
+        "correctAnswerIndex": 1,
+        "feedback": "There are several sentences in the middle of the paragraph that discuss some possible causes of narcolepsy. This sentence introduces this topic and would come before them.",
+        "paragraphWithSquares": "No reliable data exist showing how many people have narcolepsy. [■ A] Some estimates put the number as high as three hundred thousand in the United States alone. [■ B] Researchers suggest that the problem may stem from the immune system's reacting abnormally to the brain's chemical processes. [■ C] Further studies have shown a link between narcolepsy and a number of genes, although it is quite possible for an individual to have these genes and not develop the disease. There are also cases of twins where one member has narcolepsy but the other does not. Thus, an explanation based on genetics alone is not adequate. [■ D]"
       },
       {
         "id": "T3R36",

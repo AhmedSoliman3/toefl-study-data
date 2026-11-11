@@ -921,17 +921,18 @@
         "id": "T7R36",
         "number": 36,
         "type": "RAddSentenceToPassage",
-        "text": "The following sentence can be added to the passage.<P><B>In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas.</B><P>Where would it best fit in the passage?<P>Click on the square ([) to add the sentence to the passage.<P>Scroll the passage to see all of the choices.",
-        "paragraphNumber": 1,
+        "text": "The following sentence can be added to paragraph 4:\n\n\"In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas.\"\n\nWhere would it best fit in the passage? Click on the square to add the sentence to the passage.",
+        "paragraphNumber": 4,
         "options": [
-          "[A]",
-          "[B]",
-          "[C]",
-          "[D]"
+          "[A] After \"...making them ideal for use by local people.\"",
+          "[B] After \"...before those traditions are lost.\"",
+          "[C] After \"...for human consumption around the world.\"",
+          "[D] At the beginning of paragraph 4 (before \"Traditional herbal treatments...\")"
         ],
         "pictureOptions": [],
-        "correctAnswerIndex": 2,
-        "feedback": "In contrast, modern medicines can be expensive and may be difficult to deliver to the inhabitants of rural areas."
+        "correctAnswerIndex": 0,
+        "feedback": "A sentence contrasting modern medicines being expensive and difficult to deliver in rural areas follows the opening statement about traditional herbal treatments being locally available and inexpensive.",
+        "paragraphWithSquares": "Traditional herbal treatments are often locally available and inexpensive, making them ideal for use by local people. [■ A] Fieldwork into the documentation of traditional medicines worldwide needs to be undertaken before those traditions are lost. [■ B] If such documentation is made, the substances can then be analyzed, and synthetic substances can be developed for human consumption around the world. [■ C]"
       },
       {
         "id": "T7R37",
